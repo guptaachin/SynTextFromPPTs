@@ -1,0 +1,3 @@
+lang_ja
+lang_ko
+lang_es
