@@ -15,8 +15,8 @@ class Google_Api:
     def __init__(self):
         try:
             self.service = googleapiclient.discovery.build("customsearch", "v1", developerKey=apikey)
-        except:
-            print('Random Error')
+        except Exception as e:
+            print('exception Google_api, constructor - ',e)
 
     def get_rest_object(self, word, language):
         question = 'filetype:ppt '+word
@@ -27,8 +27,8 @@ class Google_Api:
               cx=search_eng_id,
               lr=language
             ).execute()
-        except:
-            print("ERROR OCCURRED for lang - ", language, 'word ',word)
+        except Exception as e:
+            print("ERROR OCCURRED for lang - ", language, 'word ',word,' error = ', e)
             return
 
         return self.get_links(res)
@@ -42,12 +42,13 @@ class Google_Api:
         return links_list
 
     def download(self, url, file_name):
-
         try:
             u = urlopen(url)
-        except:
+        except Exception as e:
             # do not download this ppt.
-            return
+            print('Not downloading = ', url)
+            print('error = ',e)
+            return url + '__SEP__' +str(e)
         f = open(file_name, 'wb')
         print(file_name)
         meta = u.getheaders()
@@ -75,3 +76,5 @@ class Google_Api:
 
         f.close()
         print("Done")
+
+        return None

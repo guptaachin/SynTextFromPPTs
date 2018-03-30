@@ -6,7 +6,9 @@ from web_interactions import *
 
 base_data_folder = os.path.join(os.getcwd(), 'data')
 keywords_file_path = os.path.join(base_data_folder, 'new_words.txt')
-links_file_path = os.path.join(base_data_folder, 'links.txt')
+
+links_not_down_path = os.path.join(base_data_folder, 'links_not_down.txt')
+links_down_path = os.path.join(base_data_folder, 'links_down.txt')
 lang_file_path = os.path.join(base_data_folder, 'lang.txt')
 
 lang_mapping = {'ja':'Japanese', 'ko':'Korean', 'es': 'Spanish'}
@@ -26,21 +28,27 @@ def main():
 
     lang_file = open(lang_file_path, 'r')
     words_file = open(keywords_file_path, 'r')
-    links_store = open(links_file_path, 'w')
+    links_d_store = open(links_down_path, 'a')
+    links_nd_store = open(links_not_down_path, 'a')
 
     l_lines = lang_file.readlines()
     w_lines = words_file.readlines()
+
+    n_calls = 0
+
 
     for lang in l_lines:
         count = 30000
         for word in w_lines:
             word = word.rstrip().strip()
             lang = lang.rstrip().strip()
+            # make a google api call
             links_list = gac.get_rest_object(word, lang)
             word = "+".join(word.split(' '))
             _ln = lang.split('_')[1]
+            n_calls += 1
 
-            print('lang ', lang, 'word - ', word, 'number of links - ', len(links_list))
+            print('calls so far = ',n_calls)
 
             for link in links_list:
                 if link not in unique:
@@ -50,21 +58,31 @@ def main():
                     # the link might be different
                     unique[link] = 1
                     # not doing anything with this for now
-                    links_store.write(link+'\n')
 
                     if file_name in files_present:
                         print('skipping,',file_name)
                         continue
-                    gac.download(link, file_path)
 
+                    url = gac.download(link, file_path)
+
+                    if url is not None:
+                        print('writing ***************************')
+                        print(url)
+                        links_nd_store.write(url+'\n')
+                        links_nd_store.flush()
+                        os.fsync(links_nd_store.fileno())
+
+                links_d_store.write(link+'\n')
+                links_d_store.flush()
+                os.fsync(links_d_store.fileno())
 
 
     lang_file.close()
     words_file.close()
-    links_store.close()
+    links_d_store.close()
+    links_nd_store.close()
 
 if __name__ == '__main__':
-
     # passing the values since i do not want to download
-    pass
-    # main()
+    # pass
+    main()
