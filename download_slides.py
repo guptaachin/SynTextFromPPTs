@@ -57,7 +57,8 @@ def main():
                     count += 1
                     # the link might be different
                     unique[link] = 1
-                    # not doing anything with this for now
+
+                    # assuming that the order in which the links are returned will always be the same
 
                     if file_name in files_present:
                         print('skipping,',file_name)
@@ -66,15 +67,14 @@ def main():
                     url = gac.download(link, file_path)
 
                     if url is not None:
-                        print('writing ***************************')
-                        print(url)
                         links_nd_store.write(url+'\n')
                         links_nd_store.flush()
                         os.fsync(links_nd_store.fileno())
+                    else:
+                        links_d_store.write(link + '\n')
+                        links_d_store.flush()
+                        os.fsync(links_d_store.fileno())
 
-                links_d_store.write(link+'\n')
-                links_d_store.flush()
-                os.fsync(links_d_store.fileno())
 
 
     lang_file.close()
