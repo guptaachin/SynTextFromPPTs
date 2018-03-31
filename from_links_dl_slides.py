@@ -34,7 +34,7 @@ def main():
         link_arr = lnk.rstrip().split(SEPARATOR)
         link = link_arr[2]
         curr_path = os.path.join(base_data_folder, link_arr[0])
-        file_path = os.path.join(curr_path, 'sl_') + link_arr[0]+'_'+link_arr[1] + '_' + count + '_'+'.ppt'
+        file_path = os.path.join(curr_path, 'sl_') + link_arr[0]+'_'+link_arr[1] + '_' + str(count) + '_'+'.ppt'
         url = web_interactions.Google_Api.download(link, file_path)
 
         if url is not None:
