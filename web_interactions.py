@@ -65,6 +65,7 @@ class Google_Api:
     def download(url, file_name):
         try:
             # u = urlopen(url)
+            print('trying to dl ',url)
             urllib.request.urlretrieve(url, file_name)
             print('Downloaded = ', file_name)
         except Exception as e:

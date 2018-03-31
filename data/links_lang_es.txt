@@ -1,0 +1,237 @@
+lang_es__SEPARATOR__program__SEPARATOR__http://www.ceci.ca/data/4obsica.ppt
+lang_es__SEPARATOR__program__SEPARATOR__http://www.pitt.edu/~super4/42011-43001/42651.ppt
+lang_es__SEPARATOR__program__SEPARATOR__https://www.oas.org/dsp/documentos/UDIS/FORO/4OBSICA.ppt
+lang_es__SEPARATOR__program__SEPARATOR__http://www.sc.ehu.es/acwarfra/arpar/PSP/CD.fitxategiak/PSP-omp.ppt
+lang_es__SEPARATOR__program__SEPARATOR__https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt
+lang_es__SEPARATOR__program__SEPARATOR__http://americanmushroom.org/wp-content/uploads/2014/09/MSDS_SDS_difference_spanish1.ppt
+lang_es__SEPARATOR__program__SEPARATOR__https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt
+lang_es__SEPARATOR__program__SEPARATOR__http://ficem.org/multimedia/2009/tecnico09/presentaciones-CT-2009/CEMENTOS-PROGRESO_Implementacion-de-rutinas-de-mantenimiento-preventivo.ppt
+lang_es__SEPARATOR__program__SEPARATOR__http://osha.oregon.gov/OSHAEdu/peso/modules-ppt/hazcom-ghs-w.ppt
+lang_es__SEPARATOR__program__SEPARATOR__https://www.osha.gov/dte/grant_materials/fy06/46c6-ht21/10_programas_de_seguridad_y_salud.ppt
+lang_es__SEPARATOR__depleted__SEPARATOR__http://www.geofisica.unam.mx/directorio/modulos/files/MetodosLu-Hf_y_Re-Os.pptx
+lang_es__SEPARATOR__depleted__SEPARATOR__https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt
+lang_es__SEPARATOR__depleted__SEPARATOR__http://www.ceare.org/materiales/arch3.ppt
+lang_es__SEPARATOR__depleted__SEPARATOR__http://www.ciaramc.org/ARCHIVOS/PRESENTACIONES/Armas%20radiactivashistoria2.pps
+lang_es__SEPARATOR__Australia__SEPARATOR__http://www.mclibre.org/otros/cristinasanfrancisco/general/geografia/meteorologia_caprichosa.pps
+lang_es__SEPARATOR__Australia__SEPARATOR__http://www.kaktusy-sukulenty.net/KVETY_AUSTRALIE.pps
+lang_es__SEPARATOR__Australia__SEPARATOR__http://portal.uned.es/pls/portal/url/ITEM/9D6F680A8AB288E2E040660A347049B9
+lang_es__SEPARATOR__Australia__SEPARATOR__http://www.aaep.org.ar/anales/download/2006/mesa_rezk2006.ppt
+lang_es__SEPARATOR__Australia__SEPARATOR__https://eiti.org/sites/default/files/presentation_by_alex_matute_cochilco_spanish.ppt
+lang_es__SEPARATOR__Australia__SEPARATOR__http://www.bibalex.org/supercourse/supercoursePPT/23011-24001/23761.ppt
+lang_es__SEPARATOR__Australia__SEPARATOR__http://www.uncuyo.edu.ar/centroasuntosglobales/upload/taller-de-trabajo-asia-pacifico-2.ppt
+lang_es__SEPARATOR__Australia__SEPARATOR__http://www.inavi.com.uy/uploads/archivos/file_6cb3e79c3e.ppt
+lang_es__SEPARATOR__Australia__SEPARATOR__http://www.cucs.udg.mx/serviciosacademicos/files/File/Promocion_salud.ppt
+lang_es__SEPARATOR__Australia__SEPARATOR__http://www.worldpsyche.org/download/cms/100700/WCP_Presentation_Espanol.ppt
+lang_es__SEPARATOR__binary__SEPARATOR__http://geointa.inta.gov.ar/publico/CursoSIG/QGIS/sig-con-qgis.ppt
+lang_es__SEPARATOR__binary__SEPARATOR__https://nsrc.org/workshops/2009/walc/presos/smokeping.ppt
+lang_es__SEPARATOR__binary__SEPARATOR__http://rammb.cira.colostate.edu/training/rmtc/docs/sessionc/TomWhittaker_McIDASV_Sp.ppt
+lang_es__SEPARATOR__binary__SEPARATOR__https://confluence.sakaiproject.org/download/attachments/67111992/David+Roldan+-+Moodle-vs-Sakai.ppt
+lang_es__SEPARATOR__binary__SEPARATOR__https://s3-eu-west-1.amazonaws.com/content.gresham.ac.uk/data/binary/901/genius_or_madness.ppt
+lang_es__SEPARATOR__binary__SEPARATOR__ftp://ftp.uady.mx/pub/windows/actualizaciones/winxp/sp2rec/PPT_23.ppt
+lang_es__SEPARATOR__binary__SEPARATOR__https://www.ele.uva.es/~sduenas/ELECTAV4/CAP2.ppt
+lang_es__SEPARATOR__binary__SEPARATOR__http://www.uam.es/personal_pdi/ciencias/mramos/Docencia_archivos/Tema6.ppt
+lang_es__SEPARATOR__binary__SEPARATOR__http://paginaspersonales.deusto.es/dipina/msnet/5-VB.NET.ppt
+lang_es__SEPARATOR__binary__SEPARATOR__http://www.cs.us.es/cursos/ai-2003/Transparencias/1.-Introduccion.ppt
+lang_es__SEPARATOR__Tropic of Capricorn__SEPARATOR__http://www.ub.edu/medame/Des_atacama.ppt
+lang_es__SEPARATOR__user interface__SEPARATOR__http://www.dsic.upv.es/asignaturas/facultad/lsi/doc/IntroduccionRUP.ppt
+lang_es__SEPARATOR__user interface__SEPARATOR__https://aipo.es/files/transpas/guias.ppt
+lang_es__SEPARATOR__user interface__SEPARATOR__http://www.dsic.upv.es/~letelier/pub/p16.ppt
+lang_es__SEPARATOR__user interface__SEPARATOR__http://www.sc.ehu.es/acwlaroa/SUB/SU-15.pps
+lang_es__SEPARATOR__user interface__SEPARATOR__https://aipo.es/files/transpas/metafora.ppt
+lang_es__SEPARATOR__user interface__SEPARATOR__http://ciberconta.unizar.es/leccion/bpm/pectra.pps
+lang_es__SEPARATOR__user interface__SEPARATOR__http://www.laccei.org/LACCEI2005-Cartagena/Presentations/Tutorial_JerezCamps2.ppt
+lang_es__SEPARATOR__user interface__SEPARATOR__http://www.grc.upv.es/docencia/tdm/slides/T1_tecnologias.ppt
+lang_es__SEPARATOR__user interface__SEPARATOR__https://www.rediris.es/jt/jt2005/archivo/ficheros/MetroEthernet-RedIris.ppt
+lang_es__SEPARATOR__user interface__SEPARATOR__http://profesores.elo.utfsm.cl/~agv/elo329/1s03/UML/CursoOOconUML.ppt
+lang_es__SEPARATOR__mouse__SEPARATOR__http://ww2.educarchile.cl/UserFiles/P0001/File/fracciones%20I.ppt
+lang_es__SEPARATOR__mouse__SEPARATOR__http://www.cs.us.es/cursos/ai-2003/Transparencias/5.-Entrada.ppt
+lang_es__SEPARATOR__mouse__SEPARATOR__https://previa.uclm.es/profesorado/ricardo/NNTT_EE/Primaria_2004.ppt
+lang_es__SEPARATOR__mouse__SEPARATOR__http://www.odon.uba.ar/uacad/anatomia/docs/trigem.ppt
+lang_es__SEPARATOR__mouse__SEPARATOR__http://sedici.unlp.edu.ar/bitstream/handle/10915/30086/Presentaci%C3%B3n.ppt?sequence=1
+lang_es__SEPARATOR__mouse__SEPARATOR__http://www.odon.uba.ar/uacad/anatomia/docs/viconcompleta.ppt
+lang_es__SEPARATOR__mouse__SEPARATOR__http://www.alv-logistica.org/docs/conf_tiuna_ii.ppt
+lang_es__SEPARATOR__mouse__SEPARATOR__https://factorhuma.org/attachments_secure/article/8208/juego_mental.pps
+lang_es__SEPARATOR__mouse__SEPARATOR__https://utip.lbj.utexas.edu/tools/Graphs_Excel_es.ppt
+lang_es__SEPARATOR__mouse__SEPARATOR__http://sitios.usac.edu.gt/wp_auditoria/wp-content/uploads/2014/10/asignaci%C3%B3n-de-fondo-fijo.pps
+lang_es__SEPARATOR__output__SEPARATOR__https://www.unirioja.es/facultades_escuelas/fce/jueves%20de%20la%20facultad/jueves16estadistica.pps
+lang_es__SEPARATOR__output__SEPARATOR__https://www.cepal.org/ilpes/noticias/paginas/0/21990/Taller_Ind_y_Eval.ppt
+lang_es__SEPARATOR__output__SEPARATOR__https://rua.ua.es/dspace/bitstream/10045/16551/2/TEMA2gr11.ppt
+lang_es__SEPARATOR__output__SEPARATOR__https://www.rediris.es/jt/jt2008/ponencias/05-ArchivosVideo.ppt
+lang_es__SEPARATOR__output__SEPARATOR__http://campus.usal.es/~ofeees/DOCUMENTOS_PONENCIAS/GUIAS_DOCENTES.ppt
+lang_es__SEPARATOR__output__SEPARATOR__http://www.tamps.cinvestav.mx/~adiaz/Vhdl/03-VHDL-ALuca.ppt
+lang_es__SEPARATOR__output__SEPARATOR__http://www.injuve.es/sites/default/files/Jovenesytrabajosocial_97.pps
+lang_es__SEPARATOR__output__SEPARATOR__https://www.dspace.espol.edu.ec/bitstream/123456789/16727/2/ultima%20presentacion-.ppt
+lang_es__SEPARATOR__output__SEPARATOR__https://previa.uclm.es/profesorado/ricardo/Convergencia/Docencia_miguelzabalza.ppt
+lang_es__SEPARATOR__output__SEPARATOR__http://www.robozes.com/presentaciones/CCS.ppt
+lang_es__SEPARATOR__separated__SEPARATOR__https://www.jewishcomunity.ro/download/Abril-April_1945-A.pps
+lang_es__SEPARATOR__separated__SEPARATOR__http://www.uco.es/informacion/webs/fundacioncastilla/documentos/archivos/simposium/presentaciones-viii-simposium/canto.ppt
+lang_es__SEPARATOR__separated__SEPARATOR__http://www.europarl.europa.eu/cmsdata/133761/Smart%20Border%202.0%20Presentation%20Lars%20Karlsson%20(002).ppt
+lang_es__SEPARATOR__separated__SEPARATOR__https://tf.nist.gov/sim/2008_Seminar/Maseres%20-%20p.ppt
+lang_es__SEPARATOR__separated__SEPARATOR__https://depts.washington.edu/papers/aquarius/Presentations/tuesday/11B_Madero-Raimondo_DCS.ppt
+lang_es__SEPARATOR__separated__SEPARATOR__http://www.mrsshirley.net/powerpoint/realidades/grammar/real3grammar/p132the-present-subjunctive.ppt
+lang_es__SEPARATOR__separated__SEPARATOR__http://www-optica.inaoep.mx/investigadores/carlost/pdfs/josenieves.pps
+lang_es__SEPARATOR__separated__SEPARATOR__http://www.ub.edu/medame/EL%20MAR%20EN%20EUROPA.ppt
+lang_es__SEPARATOR__runtime__SEPARATOR__http://paginaspersonales.deusto.es/dipina/msnet/2-EntornoEjecucionCLR.ppt
+lang_es__SEPARATOR__runtime__SEPARATOR__http://paginaspersonales.deusto.es/dipina/msnet/1-Introduccion.NET.ppt
+lang_es__SEPARATOR__runtime__SEPARATOR__http://users.dsic.upv.es/asignaturas/facultad/lsi/trabajos/322002.ppt
+lang_es__SEPARATOR__runtime__SEPARATOR__http://www.scj.cl/descargaarchivo/descarga/63620161003130529Presentacion_SIOC_Casinos_V2016.ppt
+lang_es__SEPARATOR__runtime__SEPARATOR__http://52.0.140.184/typo43/fileadmin/Base_de_Conocimiento/XXV_Salon_de_Informatica/LucasianLabs.ACIS.MNARANJO.DEF-ARQ.PARTE1.ver2.0.0.ppt
+lang_es__SEPARATOR__runtime__SEPARATOR__https://fi.ort.edu.uy/innovaportal/file/19788/1/proyecto-mono-gomez.ppt
+lang_es__SEPARATOR__runtime__SEPARATOR__https://www.rediris.es/jt/jt2007/presentaciones/P14B.ppt
+lang_es__SEPARATOR__runtime__SEPARATOR__http://www.sisbi.uba.ar/sites/default/files/sisbi/proyectos/greenstone.ppt
+lang_es__SEPARATOR__data__SEPARATOR__https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt
+lang_es__SEPARATOR__data__SEPARATOR__http://www.pitt.edu/~super4/33011-34001/33361.ppt
+lang_es__SEPARATOR__data__SEPARATOR__https://www.fing.edu.uy/inco/cursos/ioce/material/datamining.ppt
+lang_es__SEPARATOR__data__SEPARATOR__https://www.juntadeandalucia.es/institutodeestadisticaycartografia/jornadas/2016/bigdata/ponencias/FHerrera.ppt
+lang_es__SEPARATOR__data__SEPARATOR__http://seminarisempresa.fib.upc.edu/aulesempresa/2009/programes/POWERDATA/Llista-documents/0/document/1%20PWD_DWH_S1_FundamentosDWH.ppt
+lang_es__SEPARATOR__data__SEPARATOR__http://www.tomalosdatos.alboan.org/system/resources/BAhbBlsHOgZmSSI1MjAxMS8xMi8yMi8xMV8yN18xNV81NjdfUHJlc2V0bmFjaV9uX0FsYmVydG8ucHB0BjoGRVQ/Presetnaci%C3%B3n%20Alberto.ppt
+lang_es__SEPARATOR__data__SEPARATOR__http://www.redue-alcue.org/website/content/cursos/wilsonperes/UAM%202016%20Sesion%207.%20Big%20data%20editada%20(41+5).ppt
+lang_es__SEPARATOR__data__SEPARATOR__ftp://soest.hawaii.edu/coastal/presentations/casipresentation.ppt
+lang_es__SEPARATOR__data__SEPARATOR__http://sct.uab.cat/estadistica/sites/sct.uab.cat.estadistica/files/presentaci%C3%B3%20A.Drozdowskij%20.ppt
+lang_es__SEPARATOR__search engine__SEPARATOR__http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt
+lang_es__SEPARATOR__search engine__SEPARATOR__ftp://ftp.uady.mx/pub/bibliotecas/DHI%20EP/5-Sistema%20Bibliotecario.ppt
+lang_es__SEPARATOR__search engine__SEPARATOR__http://www.centroperiodismodigital.org/sitio/sites/default/files/Fuentes%20y%20recursos%20digitales%20II%2010_0.ppt
+lang_es__SEPARATOR__search engine__SEPARATOR__http://sisbib.unmsm.edu.pe/BibVirtual/Simposio2011/Tesis_PUCP.ppt
+lang_es__SEPARATOR__search engine__SEPARATOR__http://highered.mheducation.com/sites/dl/free/8448118952/540197/Web20_mayo_08_ucmurcia.ppt
+lang_es__SEPARATOR__search engine__SEPARATOR__https://www.researchgate.net/profile/Libio_Huaroto/publication/265162360_Lineamientos_para_implementar_repositorios_academicos/links/543dfe7e0cf2d6934ebd02bc/Lineamientos-para-implementar-repositorios-academicos
+lang_es__SEPARATOR__search engine__SEPARATOR__http://highered.mheducation.com/sites/dl/free/8448118952/540197/conferencia_NOV_07.ppt
+lang_es__SEPARATOR__search engine__SEPARATOR__https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt
+lang_es__SEPARATOR__profit__SEPARATOR__http://www.altillo.com/examenes/uba/cssociales/carrreltrabajo/adminperso2/U8_remvar_ALUMNOS_Rv2.ppt
+lang_es__SEPARATOR__profit__SEPARATOR__https://w3.ual.es/Congresos/econogres/docs/Tax_Evasion_and_the_Firm.ppt
+lang_es__SEPARATOR__profit__SEPARATOR__http://www.assalweb.org/documentos/asambleas/2006_XVII_asamblea_anual_lisboa_portugal/ponencias/Reaseguro_Finito_Print_Version.ppt
+lang_es__SEPARATOR__profit__SEPARATOR__http://www.wipo.int/edocs/mdocs/sme/en/wipo_smes_ver_09/wipo_smes_ver_09_theme09_2.ppt
+lang_es__SEPARATOR__profit__SEPARATOR__https://sistemasdeaguaysaneamientoparaeldesarrollo.files.wordpress.com/2013/11/smart-water-sol-exp-centro-am-africa-2013.ppt
+lang_es__SEPARATOR__profit__SEPARATOR__http://www.latindex.org/lat/documentos/Taller_Bolivia/La%20Paz-Carmen%20Vilches-distribucion.ppt
+lang_es__SEPARATOR__profit__SEPARATOR__http://anxosanchez.eu/wordpress/wp-content/uploads/2017/02/Complejidad2006.ppt
+lang_es__SEPARATOR__profit__SEPARATOR__http://www.uv.es/cursegsm/Cursoseconcult/TallerEcomuseo.ppt
+lang_es__SEPARATOR__profit__SEPARATOR__http://www.anda.cl/1.-%20Ideas%20Sustentabilidad%20final.ppt
+lang_es__SEPARATOR__profit__SEPARATOR__https://sri.ua.es/en/movilidad/documentos/historical/intercambios/2012-13/powerpoint-esn.pps
+lang_es__SEPARATOR__modem__SEPARATOR__http://www.fac.org.ar/fec/cursofac/cong04/ActCxTuc1.ppt
+lang_es__SEPARATOR__modem__SEPARATOR__http://www.hgy.es/internet/conex.ppt
+lang_es__SEPARATOR__modem__SEPARATOR__https://supportforums.cisco.com/kxiwq67737/attachments/kxiwq67737/5461-docs-colaboracion-voz-video/98/1/74073-CMTS%20Y%20DOCSIS.pps
+lang_es__SEPARATOR__modem__SEPARATOR__http://www.cs.us.es/cursos/ai-2003/Transparencias/9.-Comunicacion%20y%20Redes.ppt
+lang_es__SEPARATOR__modem__SEPARATOR__http://www.gobiernodigital.gob.pe/capacitaciones/Programas_docu/95/Programa_887.ppt
+lang_es__SEPARATOR__modem__SEPARATOR__http://www.editex.es/RecuperarFichero.aspx?Id=21816
+lang_es__SEPARATOR__modem__SEPARATOR__https://www.rediris.es/jt/jt2008/ponencias/jt2008-3_3.ppt
+lang_es__SEPARATOR__modem__SEPARATOR__http://www.laccei.org/LACCEI2005-Cartagena/Presentations/Tutorial_MolinerPena.ppt
+lang_es__SEPARATOR__modem__SEPARATOR__http://www.sis.gob.pe/ipresspublicas/capacitacion/talleres/2-DIFICULTADES-EN%20EL-ACCESO-DISA-V-LC-OK.ppt
+lang_es__SEPARATOR__text editor__SEPARATOR__http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt
+lang_es__SEPARATOR__text editor__SEPARATOR__http://www.observesport.com/desktop/images/texteditor/file/Lozano_Lopes_Camerino_Anguera_19julio.ppt
+lang_es__SEPARATOR__text editor__SEPARATOR__http://aprendeenlinea.udea.edu.co/lms/moodle/mod/resource/view.php?id=44556&redirect=1
+lang_es__SEPARATOR__text editor__SEPARATOR__http://www3.uji.es/~jpuig/Discapacidadvisual.pps
+lang_es__SEPARATOR__text editor__SEPARATOR__http://www.peri.net.ni/pdf/docLAMJOL2/DOI-LamJOL.ppt
+lang_es__SEPARATOR__text editor__SEPARATOR__https://www.um.es/ftp/Fundeweb/Cursos/2016/CursoBirt.ppt
+lang_es__SEPARATOR__text editor__SEPARATOR__http://www.uvg.edu.gt/comite-de-etica/doc/Dia-2/Pres-4.ppt
+lang_es__SEPARATOR__text editor__SEPARATOR__http://www.it.uc3m.es/gradient/Projects/Others/VisorSmil.ppt
+lang_es__SEPARATOR__text editor__SEPARATOR__https://www.researchgate.net/profile/Yeimer_Ortiz-Martinez2/publication/318649460_Redaccion_de_cartas_al_editor/links/597512f6a6fdcc83488e89b7/Redaccion-de-cartas-al-editor
+lang_es__SEPARATOR__literature__SEPARATOR__http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt
+lang_es__SEPARATOR__literature__SEPARATOR__http://maxinemccormick.com/wordpress/wp-content/uploads/2017/01/SUPERA-2.ppt
+lang_es__SEPARATOR__literature__SEPARATOR__http://www.fyl.uva.es/~wfilosof/webSixto/Arte%20y%20conocimiento.ppt
+lang_es__SEPARATOR__literature__SEPARATOR__http://www.spaj.org.pe/wp-content/uploads/2015/08/Soledad-en-adolescentes.ppt
+lang_es__SEPARATOR__literature__SEPARATOR__http://tft.com/Literature/library/files/EQUIPOS_TFT.ppt
+lang_es__SEPARATOR__literature__SEPARATOR__http://spanish4teachers.org/files/Spanish_Powerpoint_Imperfect___El_Imperfecto.ppt
+lang_es__SEPARATOR__literature__SEPARATOR__https://biblioteca.ucm.es/data/cont/media/www/pag-30800/vancouver%20colgado%20en%20web%20versi%C3%B3n%20definitiva.pps
+lang_es__SEPARATOR__literature__SEPARATOR__http://www.wipo.int/edocs/mdocs/mdocs/es/ompi_cati_pan_16/ompi_cati_pan_16_5.ppt
+lang_es__SEPARATOR__literature__SEPARATOR__https://www.researchgate.net/profile/Jose_Navarro12/publication/275043580_Attributional_Styles_as_moderators_between_events_and_affect_at_work/links/554f1fc108ae12808b366b9a/Attributional-Styles-as-moderators-between-events-and-affect-at-work
+lang_es__SEPARATOR__literature__SEPARATOR__https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt
+lang_es__SEPARATOR__Western Hemisphere__SEPARATOR__http://www.summit-americas.org/Panels/Payments_in_the_Americas/Abusada%20-%20Washington%20presentation.ppt
+lang_es__SEPARATOR__Western Hemisphere__SEPARATOR__http://www.contactopyme.gob.mx/estudios/docs/suministro_fibra_textil_confeccion.ppt
+lang_es__SEPARATOR__beaker__SEPARATOR__http://www.digemid.minsa.gob.pe/UpLoad%5CUpLoaded%5CPPT/A_H1N1_Descripcion_tratamiento_y_Suministro.ppt
+lang_es__SEPARATOR__assembly__SEPARATOR__http://gplsi.dlsi.ua.es/asignaturas/pi/pi-old/fitxers/expos/jaf/jsg.ppt
+lang_es__SEPARATOR__assembly__SEPARATOR__http://www.sase.com.ar/2013/files/2013/09/SASE2013-Tutorial-Robotica.ppt
+lang_es__SEPARATOR__assembly__SEPARATOR__https://oscarbonilla.com/courses/compilers/materials/02_Analisis_Lexico.ppt
+lang_es__SEPARATOR__assembly__SEPARATOR__https://www.uv.es/eees/archivos/Compet_eng
+lang_es__SEPARATOR__assembly__SEPARATOR__http://www-2.dc.uba.ar/materias/robotica/clases/introduccion.ppt
+lang_es__SEPARATOR__assembly__SEPARATOR__http://scm.oas.org/pdfs/2012/CP29199T.ppt
+lang_es__SEPARATOR__assembly__SEPARATOR__http://www.lcc.uma.es/~av/misConfs/CalidadComponentes-UCLM05.ppt
+lang_es__SEPARATOR__assembly__SEPARATOR__http://personales.unican.es/castie/Cornell/Part0.ppt
+lang_es__SEPARATOR__assembly__SEPARATOR__http://www.proyectodeenergiarenovable.com/Descargas/Manuales/HIBRIDOS/PRESENTA/PROYECT4.PPT
+lang_es__SEPARATOR__misleading__SEPARATOR__https://www.uv.mx/veracruz/cess/files/2012/10/VPH.pps
+lang_es__SEPARATOR__misleading__SEPARATOR__https://www.researchgate.net/profile/Ivo_De_Sousa/publication/279922548_A_Spanish_Perspective_on_16th_Century_China_Martin_de_Rada's_'Things_of_Taybin'_1575/links/559e451808ae04e365093038/A-Spanish-Perspective-on-16th-Century-China-Martin-de-Radas-Things-of-Taybin-1575
+lang_es__SEPARATOR__misleading__SEPARATOR__http://www.ucema.edu.ar/u/cvillegas/CemaGCClase1.ppt
+lang_es__SEPARATOR__exaggerated__SEPARATOR__http://www.cera.org.ar/new-site/descargarArchivo.php?idioma_code=es&contenido_id=110
+lang_es__SEPARATOR__exaggerated__SEPARATOR__http://www.deafed.net/publisheddocs/communicating%20with%20your%20child%20in%20sign.ppt
+lang_es__SEPARATOR__exaggerated__SEPARATOR__http://personales.unican.es/castie/Cornell/Part3.ppt
+lang_es__SEPARATOR__exaggerated__SEPARATOR__http://www.elcomprimido.com/INFORMED/PDC_HUSD_Curso10_AnalgesiaenpacientesconERC.ppt
+lang_es__SEPARATOR__exaggerated__SEPARATOR__http://ciaramc.org/ciar/boletines/siria_ateneo.pps
+lang_es__SEPARATOR__sovereignty__SEPARATOR__http://humbox.ac.uk/id/document/153
+lang_es__SEPARATOR__relief map__SEPARATOR__https://unfccc.int/files/national_reports/non-annex_i_natcom/cge/application/vnd.ms-powerpoint/theory_risk_assessment.ppt
+lang_es__SEPARATOR__username__SEPARATOR__http://52.0.140.184/typo43/memorias/SalonInformatica/XXIVSalonInformatica/05-Ldap.ppt
+lang_es__SEPARATOR__username__SEPARATOR__http://www.lsi.us.es/cursos/cursophp/apuntes/tema3.ppt
+lang_es__SEPARATOR__username__SEPARATOR__http://paginaspersonales.deusto.es/dipina/cursos/J2EECesine/Tema4-ApacheStruts.ppt
+lang_es__SEPARATOR__username__SEPARATOR__https://www.itu.int/dms_pub/itu-t/oth/06/0F/T060F00600C0051PPTS.ppt
+lang_es__SEPARATOR__username__SEPARATOR__http://www.campusbama.org.ar/pluginfile.php/5922/block_html/content/Gu%C3%ADa%20para%20los%20alumnos.pps
+lang_es__SEPARATOR__username__SEPARATOR__http://www.who.int/hinari/training/HINARI_Advanced_Course_Module_2_MY_NCBI_ES_2015_06.ppt
+lang_es__SEPARATOR__username__SEPARATOR__http://www.grc.upv.es/docencia/tdm/trabajos2007/Francisco%20Javier%20Hidalgo%20Pastor.ppt
+lang_es__SEPARATOR__username__SEPARATOR__http://52.1.175.72/portal/sites/all/themes/argo/assets/img/Pagina/conferencia9.ppt
+lang_es__SEPARATOR__username__SEPARATOR__http://ws.edu.isoc.org/data/2008/3097019549281200ae4f5/08.asterisk-configuracion.ppt
+lang_es__SEPARATOR__username__SEPARATOR__http://www.mhproject.org/media/blogs/mhpenlaces/Interno/Presentaciones/Recursos-Escasos/Recursos%20Escasos.ppt
+lang_es__SEPARATOR__web__SEPARATOR__https://www.sidar.org/acti/jorna/7jorna/ponencias/juan_carlos/websemanticasidar03.ppt
+lang_es__SEPARATOR__web__SEPARATOR__http://www.who.int/hinari/training/HINARI_Basic_Course_Module_2_Internet_Searching_Website_Evaluation_ES_2015_01.ppt
+lang_es__SEPARATOR__web__SEPARATOR__https://www.mecd.gob.es/dam/jcr:2f6166dd-646c-4594-ba85-12da95e4a578/miguelsantamaria-ppt.ppt
+lang_es__SEPARATOR__web__SEPARATOR__http://biblioteca.uclm.es/Archivos/EndNote_Presentacion.pps
+lang_es__SEPARATOR__web__SEPARATOR__http://www.revista.unam.mx/biblioteca/mastergabriela.pps
+lang_es__SEPARATOR__web__SEPARATOR__http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt
+lang_es__SEPARATOR__web__SEPARATOR__ftp://ftp.unsj.edu.ar/Aprender%20y%20ensenar%20aulas%20virtuales/web-20-presentation-17391.ppt
+lang_es__SEPARATOR__web__SEPARATOR__http://www.face.ubiobio.cl/~cgutierr/CursoBasicoHTML2.ppt
+lang_es__SEPARATOR__web__SEPARATOR__ftp://ftp.unsj.edu.ar/Aprender%20y%20ensenar%20aulas%20virtuales/la-web-20-y-sus-aplicaciones-didcticas-1195412696732430-3.ppt
+lang_es__SEPARATOR__web__SEPARATOR__http://personales.upv.es/acordero/ppt/diseny.ppt
+lang_es__SEPARATOR__establishment__SEPARATOR__http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt
+lang_es__SEPARATOR__establishment__SEPARATOR__http://www.paho.org/hq/index.php?option=com_docman&task=doc_download&gid=22921&Itemid=270&lang=es
+lang_es__SEPARATOR__establishment__SEPARATOR__http://gplsi.dlsi.ua.es/asignaturas/pi/pi-old/fitxers/expos/jaf/rmc2.ppt
+lang_es__SEPARATOR__establishment__SEPARATOR__https://www.tlu.ee/bcmath2009/Pehkonen_How_Finns_Learn.ppt
+lang_es__SEPARATOR__establishment__SEPARATOR__http://www.wipo.int/edocs/mdocs/sme/en/wipo_smes_ver_09/wipo_smes_ver_09_theme09_3.ppt
+lang_es__SEPARATOR__establishment__SEPARATOR__https://www1.nyc.gov/assets/doh/downloads/ppt/rii/letter_grading_workshop-sp.pps
+lang_es__SEPARATOR__establishment__SEPARATOR__http://www.elcomprimido.com/informed07/powerpoint/interacciones_conciliacion.ppt
+lang_es__SEPARATOR__establishment__SEPARATOR__http://www.aduana.cl/aduana/site/artic/20120528/asocfile/20120528094702/presentacion_japi_diego_farreras_lv_24_05_12.ppt
+lang_es__SEPARATOR__establishment__SEPARATOR__https://www.anmm.org.mx/actas2017/SO17MAY2017/HORACIO-ASTUDILLO.ppt
+lang_es__SEPARATOR__united__SEPARATOR__http://www.csa-stanislaus.com/other-services/imgs/united-samaritans-eng.pps
+lang_es__SEPARATOR__united__SEPARATOR__http://weib.caib.es/Programes/promocio_educativa/materials/regals_natura_mon.pps
+lang_es__SEPARATOR__united__SEPARATOR__http://www.pitt.edu/~super7/30011-31001/30141.ppt
+lang_es__SEPARATOR__united__SEPARATOR__http://www.sapuvetnet.org/antigo/Ppt%20Files/agresion.ppt
+lang_es__SEPARATOR__united__SEPARATOR__https://unstats.un.org/unsd/class/intercop/training/eclac03/eclac03-29.PPS
+lang_es__SEPARATOR__united__SEPARATOR__http://www.felaban.net/archivos_memorias/archivo20141121200935PM.ppt
+lang_es__SEPARATOR__united__SEPARATOR__http://masteres.ugr.es/gemma-es/pages/actividades/actividades-granada/20092010/pilar-folguera/%21
+lang_es__SEPARATOR__united__SEPARATOR__https://www.sne.es/images/stories/recursos/actividades/tecnica/2009/presentaciones/Grupo-I-C-UNESA.pps
+lang_es__SEPARATOR__united__SEPARATOR__https://treaties.un.org/doc/source/training/regional/2011/2011_Colombia_1-2-Sept_2011/Presentations/RegistrodetratadosCartagena.ppt
+lang_es__SEPARATOR__united__SEPARATOR__http://bvs.sld.cu/uats/articulos_files/taller/gestion%20de%20informacion.ppt
+lang_es__SEPARATOR__map-making__SEPARATOR__https://www.polk-fl.net/parents/spanish/documents/esol_FCATFamiliesEnglishSpanish.ppt
+lang_es__SEPARATOR__map-making__SEPARATOR__http://oregonreadingfirst.uoregon.edu/downloads/instruction/big_five/big5_lectura.ppt
+lang_es__SEPARATOR__map-making__SEPARATOR__http://www.rachelhawkes.com/RPP/MixedAge/NVQLevel2SpanishBooklet.ppt
+lang_es__SEPARATOR__map-making__SEPARATOR__http://www.geogra.uah.es/patxi/Cartografia%20y%20participacion.ppt
+lang_es__SEPARATOR__map-making__SEPARATOR__http://www.geology.wisc.edu/~johnf/g777/ppt/10_Historical_Development.ppt
+lang_es__SEPARATOR__map-making__SEPARATOR__http://www.capurro.de/seminario2012_cap3.ppt
+lang_es__SEPARATOR__map-making__SEPARATOR__http://highered.mheducation.com/sites/dl/free/8448118952/540197/Innovaciones_TIC_Web20_queretaro.ppt
+lang_es__SEPARATOR__map-making__SEPARATOR__http://www.capurro.de/seminario2012.ppt
+lang_es__SEPARATOR__map-making__SEPARATOR__http://highered.mheducation.com/sites/dl/free/8448118952/540197/Innovaciones_TIC_Web20_oct_08.ppt
+lang_es__SEPARATOR__map-making__SEPARATOR__http://www.grc.upv.es/docencia/tdm/slides/T3_protocolos.ppt
+lang_es__SEPARATOR__adverse__SEPARATOR__http://www.fisterra.com/guias2/fmc/errar_es_humano.pps
+lang_es__SEPARATOR__adverse__SEPARATOR__https://www.seguridaddelpaciente.es/formacion/tutoriales/MSC-CD1/ppts/1_Seg_clin_reto_desafio.ppt
+lang_es__SEPARATOR__adverse__SEPARATOR__https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt
+lang_es__SEPARATOR__adverse__SEPARATOR__https://www.seguridaddelpaciente.es/formacion/tutoriales/MSC-CD1/ppts/3_Estud_efectos_adv.ppt
+lang_es__SEPARATOR__adverse__SEPARATOR__http://www.who.int/patientsafety/research/Sesion4.ppt
+lang_es__SEPARATOR__adverse__SEPARATOR__https://www.anmm.org.mx/actas2016/SO15JUN2016/SARA_HUERTA.ppt
+lang_es__SEPARATOR__adverse__SEPARATOR__http://www.who.int/patientsafety/research/Sesion6.ppt
+lang_es__SEPARATOR__adverse__SEPARATOR__http://www.ucema.edu.ar/~marfer/MacroFinance4.ppt
+lang_es__SEPARATOR__adverse__SEPARATOR__http://www.oecd.org/education/skills-beyond-school/33866548.ppt
+lang_es__SEPARATOR__adverse__SEPARATOR__http://www.elcomprimido.com/INFORMED/PDC_HUSD18_AUTOINMUNES/PDC_HUSD18_Dr_%20Pallares_TTO_EAS_Severas_parte2.ppt
+lang_es__SEPARATOR__rose__SEPARATOR__http://users.dsic.upv.es/asignaturas/facultad/lsi/trabajos/272002.ppt
+lang_es__SEPARATOR__rose__SEPARATOR__http://www.saludpublica.fcm.unc.edu.ar/sites/default/files/Nuevos%20aspectos%20de%20la%20enf%20de%20chagas.ppt
+lang_es__SEPARATOR__rose__SEPARATOR__https://previa.uclm.es/profesorado/jmlemus/TEMA13.ppt
+lang_es__SEPARATOR__rose__SEPARATOR__http://www.oas.org/juridico/ppt/mesicic4_gtm_amador.ppt
+lang_es__SEPARATOR__rose__SEPARATOR__https://cursos.campusvirtualsp.org/mod/resource/view.php?id=7983
+lang_es__SEPARATOR__rose__SEPARATOR__http://www.bioeticanet.info/Definiciones.pps
+lang_es__SEPARATOR__rose__SEPARATOR__http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722
+lang_es__SEPARATOR__rose__SEPARATOR__http://ocw.upm.es/educacion-fisica-y-deportiva/kinantropometria/contenidos/Sesion_Somatotipo_1_y_2.ppt
+lang_es__SEPARATOR__rose__SEPARATOR__http://www.paho.org/els/index.php?option=com_docman&view=download&category_slug=presentationes&alias=935-5-roses-presentacion-d-5-julio-ppt&Itemid=364
+lang_es__SEPARATOR__rose__SEPARATOR__https://www.oas.org/es/mesecvi/docs/Seminar-AccesoJusticia-Madden.ppt
+lang_es__SEPARATOR__backup__SEPARATOR__http://www.fac.org.ar/fec/cursofac/cong04/SegurTuc3.ppt
+lang_es__SEPARATOR__backup__SEPARATOR__http://www.oas.org/juridico/ppt/mesicic4_col_pres.ppt
+lang_es__SEPARATOR__backup__SEPARATOR__http://www.aslan.es/n04/foros04/solucionesip/presentaciones/unitronics.ppt
+lang_es__SEPARATOR__backup__SEPARATOR__https://www.rediris.es/jt/jt2001/archivo/SAN.ppt
+lang_es__SEPARATOR__backup__SEPARATOR__http://www-2.dc.uba.ar/materias/tbd/Oracle.ppt
+lang_es__SEPARATOR__backup__SEPARATOR__http://m.isaca.org/chapters8/Montevideo/cigras/Documents/cigras-2012-04-virtualizando-en-forma-segura-julio-ardita.ppt
+lang_es__SEPARATOR__backup__SEPARATOR__https://www.upo.es/cms1/export/sites/upo/cic/documentos/calidad/evaluacion/autoevaluacion/autoevaluacion_cic.ppt
+lang_es__SEPARATOR__backup__SEPARATOR__http://www-2.dc.uba.ar/materias/tbd/Materiales/UBADB2.ppt
+lang_es__SEPARATOR__backup__SEPARATOR__https://www.osha.gov/dte/grant_materials/fy06/46d6-ht23/chainsaw-equipment.ppt
+lang_es__SEPARATOR__backup__SEPARATOR__http://www.abuc.org.ar/portal/archivos/ABCD-Introduccion-ES.ppt

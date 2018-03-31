@@ -1,0 +1,14 @@
+http://www.r.dl.itc.u-tokyo.ac.jp/~nakagawa/infoDB/rule-mining.ppt__SEPARATOR__<urlopen error [Errno -2] Name or service not known>
+https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/operating_systems/gen/slides/1-thread-process.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.keisoku.co.jp/pw/oyakudachi/guide/guide-system20110701.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/operating_systems/gen/slides/4-memory-management.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/operating_systems/gen/slides/7-vm-app.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.blackhat.com/presentations/bh-asia-04/bh-jp-04-seki.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/operating_systems/gen/slides/3-synchronization.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.mycoses.jp/actions_project/data/abc.ppt__SEPARATOR__<urlopen error [Errno -2] Name or service not known>
+https://www-amdis.iaea.org/CCN/Meetings2/Koike-CCN.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://sg2.phys.cst.nihon-u.ac.jp/frontier/x-ray_radiation.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+http://cse.fra.affrc.go.jp/ichimomo/fish/akamine1.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://unit.aist.go.jp/igg/igi2-rg/GIS_use/GIS_use.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://cse.fra.affrc.go.jp/ichimomo/fish/kensyu2015/ichinokawa1-2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.zenkyo.or.jp/it/pdf/report18_1/05_chapter_2.ppt__SEPARATOR__HTTP Error 403: Forbidden

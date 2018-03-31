@@ -2,44 +2,33 @@
 import web_interactions
 from web_interactions import *
 import os
+import argparse
 
 base_data_folder = os.path.join(os.getcwd(), 'data')
 keywords_file_path = os.path.join(base_data_folder, 'new_words.txt')
-lang_file_path = os.path.join(base_data_folder, 'lang.txt')
 
-links_path = os.path.join(base_data_folder, 'links_ko.txt')
-# links_path = os.path.join(base_data_folder, 'links_es.txt')
-# links_path = os.path.join(base_data_folder, 'links_ja.txt')
 SEPARATOR = '__SEPARATOR__'
 
 def main():
-    # Build a service object for interacting with the API. Visit
-    # the Google APIs Console <http://code.google.com/apis/console>
-    # to get an API key for your own application.
+    parser = argparse.ArgumentParser()
+    parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
+    args = parser.parse_args()
+    CURR_LANG = args.language
 
-    links_have, words_have = populate_links_have()
-
-    # last_google_api = get_last_apicall_l_w()
+    links_path = os.path.join(base_data_folder, 'links_'+CURR_LANG+'.txt')
+    links_have, words_have = populate_links_have(links_path)
 
     gac = web_interactions.Google_Api()
 
-    lang_file = open(lang_file_path, 'r')
+    # lang_file = open(lang_file_path, 'r')
     words_file = open(keywords_file_path, 'r')
     links_d_store = open(links_path, 'a')
 
-    # l_lines = lang_file.readlines()
-    l_lines = ['lang_ko']
+    l_lines = [CURR_LANG]
     w_lines = words_file.readlines()
 
-    _lan_index = 0
-    _wrd_index = 0
-    # if last_google_api is not None:
-    #     _lan_index = l_lines.index(last_google_api[0]+'\n')
-    #     _wrd_index = w_lines.index(last_google_api[1]+'\n')
-
-
-    for lang_index in range(_lan_index, len(l_lines)):
-        for word_index in range(_wrd_index, len(w_lines)):
+    for lang_index in range(0, len(l_lines)):
+        for word_index in range(0, len(w_lines)):
 
             if(w_lines[word_index] in words_have):
                 continue
@@ -47,35 +36,21 @@ def main():
             word = w_lines[word_index].rstrip().strip()
             lang = l_lines[lang_index].rstrip().strip()
 
+            print('new word encountered = ',word,' for lang = ',lang)
+
             # make a google api call
             links_list = gac.get_rest_object(word, lang)
 
-            # input('waiting')
-
             for link in links_list:
                 print(link)
-                print(link not in links_have)
                 if link not in links_have:
                     links_have.add(link)
                     string_to_store = lang+SEPARATOR+word+SEPARATOR+link
                     write_n_flush(links_d_store, string_to_store)
 
 
-    lang_file.close()
     words_file.close()
     links_d_store.close()
-
-
-def get_last_apicall_l_w():
-    lang_file = open(links_path, 'r')
-    present_lines = lang_file.readlines()
-    if(len(present_lines) > 0):
-        last_entry = present_lines[-1].rstrip()
-        last_sep = last_entry.split(SEPARATOR)
-        return last_sep[0:2]
-    else:
-        return None
-
 
 def write_n_flush(links_d_store, link):
     links_d_store.write(link + '\n')
@@ -83,7 +58,7 @@ def write_n_flush(links_d_store, link):
     os.fsync(links_d_store.fileno())
 
 
-def populate_links_have():
+def populate_links_have(links_path):
     s = set()
     w = set()
     lnk_file = open(links_path, 'r')

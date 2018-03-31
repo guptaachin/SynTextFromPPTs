@@ -1,0 +1,511 @@
+lang_ko__SEPARATOR__plug-in__SEPARATOR__http://cms.dankook.ac.kr/web/gict/-39?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_extFileId=22645
+lang_ko__SEPARATOR__plug-in__SEPARATOR__http://www.kipo.go.kr/kpo/download.tdf;jsessionid=9863ca6b30d673d557bec4b940429ea2e32c36e4f9f7.www2?f=/SRCDIR/WEB/KE/upload/kipo/new/20041018132206113717_1.ppt&fn=%C6%AF%C7%E3%B0%CB%BB%F6.ppt&table=gp_supp_board_file
+lang_ko__SEPARATOR__plug-in__SEPARATOR__https://www.dtaq.re.kr/_custom/dtaq/_common/board/download.jsp?attach_no=175186
+lang_ko__SEPARATOR__plug-in__SEPARATOR__http://vv1.co.kr:81/download.do?path=/board/2&dat_name=201612161055491481853349503.ppt
+lang_ko__SEPARATOR__plug-in__SEPARATOR__http://dasan.sejong.ac.kr/~oysong/mm09/05-sound.ppt
+lang_ko__SEPARATOR__plug-in__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE573/2004/IT%20Future%20Trend%20and%20Role%20of%20SoC%20VLSI.ppt
+lang_ko__SEPARATOR__plug-in__SEPARATOR__http://lef.gne.go.kr/download/%EC%98%A4%EB%A5%98%EB%B0%9C%EC%83%9D%20%EC%8B%9C%20%EC%A1%B0%EC%B9%98%20%EB%B0%A9%EB%B2%95.ppt
+lang_ko__SEPARATOR__plug-in__SEPARATOR__https://www.fsc.go.kr/downManager?bbsid=BBS0030&no=108535
+lang_ko__SEPARATOR__plug-in__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/soc-design/slides/M04-_SystemC-manual(195p).ppt
+lang_ko__SEPARATOR__plug-in__SEPARATOR__http://chep.knu.ac.kr/KILCWS/KILCWS2/WG2/2.ywson-ILC-2nd-PAL-SCCavity.ppt
+lang_ko__SEPARATOR__plausible__SEPARATOR__http://borame.cs.pusan.ac.kr/ai_home/lecture/AI2010/AI-2010-1-1-intro.ppt
+lang_ko__SEPARATOR__plausible__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=8213
+lang_ko__SEPARATOR__plausible__SEPARATOR__http://ce.kiu.ac.kr/~kykim/ai/2017/intro.ppt
+lang_ko__SEPARATOR__plausible__SEPARATOR__http://isoft.postech.ac.kr/Course/CS730b/2005/speech_lecture2.ppt
+lang_ko__SEPARATOR__describe__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/classic2.ppt
+lang_ko__SEPARATOR__describe__SEPARATOR__http://aecs.snu.ac.kr/tmpl/bbs/bbs_download.php?tb=c3ViNF8xMg==&wr_id=6&f_no=1
+lang_ko__SEPARATOR__describe__SEPARATOR__http://mmlab.snu.ac.kr/courses/2011_information_universe/presentation/1005/jhhan1.ppt
+lang_ko__SEPARATOR__describe__SEPARATOR__https://asia.nd.edu/assets/217048/hangeul_lecture_nd_youtube.ppt
+lang_ko__SEPARATOR__describe__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/comp-arch/SoC-arch/SoC%BC%B3%B0%E8%B1%E2%C3%CA-mobile-platform(71p).ppt
+lang_ko__SEPARATOR__describe__SEPARATOR__http://cms.dankook.ac.kr/web/chem/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_extFileId=18131
+lang_ko__SEPARATOR__describe__SEPARATOR__http://www.ssu.ac.kr/web/dblab/23?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=14688775&_EXT_BBS_extFileId=14680071
+lang_ko__SEPARATOR__describe__SEPARATOR__http://ce.kiu.ac.kr/~kykim/UNIX2016/ch05.ppt
+lang_ko__SEPARATOR__describe__SEPARATOR__http://www.ssu.ac.kr/web/dblab/23?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=14688772&_EXT_BBS_extFileId=14680062
+lang_ko__SEPARATOR__describe__SEPARATOR__http://borame.cs.pusan.ac.kr/ai_home/lecture/NLP2010/2-3%EC%A3%BC%EA%B0%95%EC%9D%98.ppt
+lang_ko__SEPARATOR__snapshot__SEPARATOR__http://www.rockplace.co.kr/newsletter/2009/04/download/Acronis_rockPLACE_2009.ppt
+lang_ko__SEPARATOR__snapshot__SEPARATOR__http://www2.yonsei.ac.kr/gspa/Down/Board/Bbs-Cfile958.ppt
+lang_ko__SEPARATOR__script__SEPARATOR__https://kldp.org/files/autotools.ppt
+lang_ko__SEPARATOR__script__SEPARATOR__http://www.oztn.net/ozguide/education/OZApplication_new/OZApplicationEducation_50new.ppt
+lang_ko__SEPARATOR__script__SEPARATOR__http://www.semyung.ac.kr/prog/vwBoard/filedown.do?filePath=/uloads_clone/coll/200710&fileName=200710231115120814_3.%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%808%EB%8C%80%EC%B7%A8%EC%95%BD%EC%A0%90%EC%84%A4%EB%AA%85%EB%B0%8F%EC%B7%A8%EC%95%BD%EC%A0%90%EC%9D%84%EC%9D%B4%EC%9A%A9%ED%95%9C%EA%B3%B5%EA%B2%A9%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-3.ppt
+lang_ko__SEPARATOR__script__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=9287
+lang_ko__SEPARATOR__script__SEPARATOR__http://dpnm.postech.ac.kr/security_2001/documents/securwork.ppt
+lang_ko__SEPARATOR__script__SEPARATOR__http://www.greenpolymer.co.kr/home/download.php?ps_db=qna&ps_boid=1&ps_file=1
+lang_ko__SEPARATOR__script__SEPARATOR__https://bi.snu.ac.kr/Courses/2unix98/chap10.ppt
+lang_ko__SEPARATOR__script__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do;jsessionid=g93lnxz9Prvx2vrQvUksxT23MGGSsavemKCKbllxL4z7egwoggBi4DAZHAfkK22T.homepage_servlet_engine1?atchFileId=FILE_000000000015944&fileSn=0
+lang_ko__SEPARATOR__word processor__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/ic/lowpower/L39-DCT%20IDCT%20processor%20design.ppt
+lang_ko__SEPARATOR__word processor__SEPARATOR__http://echosf.net/lecture/com06fall/03.Software.ppt
+lang_ko__SEPARATOR__word processor__SEPARATOR__http://web.skhu.ac.kr/~mckim1/Lecture/IR/info.ppt
+lang_ko__SEPARATOR__word processor__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE807/fall/%EC%9D%B4%EC%9C%A4%ED%83%9C%20%EC%83%81%EB%AC%B4%20%ED%8A%B9%EA%B0%95%20(Ver.1.0).ppt
+lang_ko__SEPARATOR__word processor__SEPARATOR__http://diamond.kist.re.kr/DLC/R&D_DB/yonsei-creativity.ppt
+lang_ko__SEPARATOR__word processor__SEPARATOR__http://isoft.postech.ac.kr/Course/CS730b/2005/speech_lecture1.ppt
+lang_ko__SEPARATOR__word processor__SEPARATOR__https://ita.kaist.ac.kr/data/board/IT_matters-2%2528%25ED%2595%259C%25ED%2599%2598%25EC%2588%2598%25EA%25B5%2590%25EC%2588%2598%25EC%259E%2590%25EB%25A3%258C%2529.ppt
+lang_ko__SEPARATOR__word processor__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE306/2007/7.lecture_lab.ppt
+lang_ko__SEPARATOR__river__SEPARATOR__http://training.cochrane.org/uploads/resources/downloadable_resources/Korean/4%20%20Searching%20for%20studies%20v1%201.ppt
+lang_ko__SEPARATOR__river__SEPARATOR__http://nsi.snu.ac.kr/php/download.php?board=board_news&idx=50
+lang_ko__SEPARATOR__river__SEPARATOR__http://civil.jbnu.ac.kr/?module=file&act=procFileDownload&file_srl=310905&sid=8ef42fc64446af976a336b1f23f837af&module_srl=138
+lang_ko__SEPARATOR__river__SEPARATOR__http://chanyi.tistory.com/attachment/cfile25.uf@163A652F4CF37F890858B5.ppt
+lang_ko__SEPARATOR__river__SEPARATOR__https://www.sejongculturalsociety.org/mediafiles/resources/sijo-structuresamples.ppt
+lang_ko__SEPARATOR__deceptive__SEPARATOR__http://www.wipo.int/edocs/mdocs/sme/en/wipo_kipo_kipa_ip_ge_08/wipo_kipo_kipa_ip_ge_08_www_109882.ppt
+lang_ko__SEPARATOR__deceptive__SEPARATOR__http://www.parkjonghyuk.net/lecture/ComSec/chap02.ppt
+lang_ko__SEPARATOR__logic__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000008348&fileSn=0
+lang_ko__SEPARATOR__logic__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE306/2007/2.lecture_lab.ppt
+lang_ko__SEPARATOR__logic__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/logicandsets1.ppt
+lang_ko__SEPARATOR__logic__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/ic/lowpower/L38-viterbi%20decoder%20design.ppt
+lang_ko__SEPARATOR__logic__SEPARATOR__http://sepri.snu.ac.kr/sites/default/files/14-1%20%ED%9A%8C%EB%A1%9C%EC%8B%9C%EC%8A%A4%ED%85%9C%20-%20%EC%A7%91%EC%A0%81%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%A0%95%EB%8D%95%EA%B7%A0%20%EA%B5%90%EC%88%98%EB%8B%98_0.ppt
+lang_ko__SEPARATOR__logic__SEPARATOR__http://busan2.thecube.kr/bbs/table/board/upload/Chapter4-1.ppt
+lang_ko__SEPARATOR__logic__SEPARATOR__http://www.dongbuhitek.co.kr/data/cyberpr/2.ppt
+lang_ko__SEPARATOR__logic__SEPARATOR__http://web.joongbu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000000772&fileSn=0
+lang_ko__SEPARATOR__kernel__SEPARATOR__http://dpnm.postech.ac.kr/emLinux/shlee.ppt
+lang_ko__SEPARATOR__kernel__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2009_09_Internet_Protocol_and_Programming/jhkim/7week/Lecture_Note_7.ppt
+lang_ko__SEPARATOR__kernel__SEPARATOR__http://dpnm.postech.ac.kr/cs600/survey/2006/DistributedFileSystems.ppt
+lang_ko__SEPARATOR__kernel__SEPARATOR__https://bi.snu.ac.kr/Courses/2unix98/chap1.ppt
+lang_ko__SEPARATOR__kernel__SEPARATOR__http://echosf.net/lecture/cs07/05.%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.ppt
+lang_ko__SEPARATOR__kernel__SEPARATOR__https://bi.snu.ac.kr/Courses/2unix98/chap14.ppt
+lang_ko__SEPARATOR__sea__SEPARATOR__http://global.oup.com/fdscontent/academic/ppt/onlineproducts/LRC/oedugk.ppt
+lang_ko__SEPARATOR__sea__SEPARATOR__http://www.morgancarbon.co.kr/images/carbon/data_Slipring_catalog.ppt
+lang_ko__SEPARATOR__sea__SEPARATOR__http://www.kukjewh.co.kr/new/down/kor_brochure.ppt?PHPSESSID=347a6e03318cc4ce754182a69274900b
+lang_ko__SEPARATOR__sea__SEPARATOR__http://www.soest.hawaii.edu/GG/FACULTY/aly/elkadi_climate_final.ppt
+lang_ko__SEPARATOR__sea__SEPARATOR__http://medicine.donga.ac.kr/bbs/medicine/508/3618/download.do
+lang_ko__SEPARATOR__sea__SEPARATOR__http://iacf.dongguk.ac.kr/common/file_download.html?article=/board/data/1172/5921
+lang_ko__SEPARATOR__sea__SEPARATOR__http://medicine.donga.ac.kr/bbs/medicine/508/3659/download.do
+lang_ko__SEPARATOR__sea__SEPARATOR__http://www.moe.go.kr/boardCnts/fileDown.do?m=030101&s=moe&fileSeq=5b085574cf813b5065f7af040d7fea29
+lang_ko__SEPARATOR__sound__SEPARATOR__http://ropas.snu.ac.kr/~kwang/talk/licomr04.ppt
+lang_ko__SEPARATOR__sound__SEPARATOR__http://medicine.donga.ac.kr/bbs/medicine/508/3630/download.do
+lang_ko__SEPARATOR__sound__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=unjang_pds&fileName=8593620140609110218.ppt&part=2&seq=24369
+lang_ko__SEPARATOR__sound__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/civilizations1.ppt
+lang_ko__SEPARATOR__sound__SEPARATOR__http://www.koreanlii.or.kr/w/images/8/82/KimYoungGap_Jeju_Island.ppt
+lang_ko__SEPARATOR__sound__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE001/2006/%EB%8C%80%ED%99%94%EC%9D%98%20%EA%B8%B0%EC%88%A0.ppt
+lang_ko__SEPARATOR__program__SEPARATOR__http://kostat.go.kr/inner/region/reg_03/6/index.board?bmode=download&bSeq=&aSeq=245549&ord=3
+lang_ko__SEPARATOR__program__SEPARATOR__http://humanities.u1.ac.kr/_prog/_board/common/download.php?code=human_0503&ntt_no=2149
+lang_ko__SEPARATOR__program__SEPARATOR__http://ce.kiu.ac.kr/~kykim/postfix.ppt
+lang_ko__SEPARATOR__program__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/algorithms.ppt
+lang_ko__SEPARATOR__program__SEPARATOR__http://pearl.cs.pusan.ac.kr/~wiki/images/d/d4/GenomicAlignment.ppt
+lang_ko__SEPARATOR__program__SEPARATOR__http://ehaksa.hanyang.ac.kr/documents/31813/35272/sanhak.ppt/01f7a6fd-8588-4661-908c-4b0c8ca15fd3
+lang_ko__SEPARATOR__program__SEPARATOR__http://epps.unist.ac.kr/wp-content/uploads/sites/195/2015/08/Running-Gaussian-03.ppt
+lang_ko__SEPARATOR__depleted__SEPARATOR__http://astro1.snu.ac.kr/home/kor/publicboard/downloadFile.asp?bulletin_file_id=389&filename=%C0%FC%C6%C4%C3%B5%B9%AE%C7%D0..%B1%E2%C3%CA%C0%FC%C0%DA.ppt
+lang_ko__SEPARATOR__Australia__SEPARATOR__http://www.solomonsearch.co.kr/company/jobnews_English.ppt
+lang_ko__SEPARATOR__Australia__SEPARATOR__http://m.kostat.go.kr/board/file_dn.jsp?aSeq=56664&ord=3
+lang_ko__SEPARATOR__Australia__SEPARATOR__http://www.solomonsearch.co.kr/company/jobnews_Korean.ppt
+lang_ko__SEPARATOR__Australia__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=6184
+lang_ko__SEPARATOR__Australia__SEPARATOR__http://www.mofa.go.kr/www/brd/m_3989/down.do?brd_id=95&seq=323183&data_tp=A&file_seq=1
+lang_ko__SEPARATOR__Australia__SEPARATOR__http://hotelacacia.co.kr/data/%EC%9E%85%EC%82%AC%EC%A7%80%EC%9B%90%EC%84%9C.ppt
+lang_ko__SEPARATOR__Australia__SEPARATOR__https://library.ks.ac.kr/contents/eresource/manual/79.ppt
+lang_ko__SEPARATOR__Australia__SEPARATOR__http://www.samil-sp.co.kr/UploadFiles/board/ds0001/1.26871001959E+13001.ppt
+lang_ko__SEPARATOR__Australia__SEPARATOR__http://www.customs.go.kr/kcshome/cmm/fms/FileDown.do;jsessionid=YLDnS1MbQyCv4XYl0lfc6GrtqkBXqkSS7JnRgkVCtQYbQSSZ2FG3!-765689757?atchFileId=FILE_000000000113816&fileSn=0
+lang_ko__SEPARATOR__Australia__SEPARATOR__http://www.mfa.gov.hu/NR/rdonlyres/7E1C418E-A74A-46C7-89CD-15914B566240/0/Study_in_Hungary.ppt
+lang_ko__SEPARATOR__stirred up__SEPARATOR__http://busan2.thecube.kr/bbs/table/board/upload/Chapter22.ppt
+lang_ko__SEPARATOR__binary__SEPARATOR__https://bi.snu.ac.kr/Courses/4ai00/SGA.ppt
+lang_ko__SEPARATOR__binary__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/numbers2.ppt
+lang_ko__SEPARATOR__binary__SEPARATOR__http://quanta.hanyang.ac.kr/Lecture/2016_2/Chapter%201.ppt
+lang_ko__SEPARATOR__binary__SEPARATOR__http://dpnm.postech.ac.kr/cs332/lecture/ERD.ppt
+lang_ko__SEPARATOR__binary__SEPARATOR__http://ce.kiu.ac.kr/~kykim/PL2016/chap08.ppt
+lang_ko__SEPARATOR__binary__SEPARATOR__http://elearning.kocw.net/document/region/2010/16/01/16_01_11_digital.ppt
+lang_ko__SEPARATOR__binary__SEPARATOR__http://metal.donga.ac.kr/bbs/metal/480/15052/download.do
+lang_ko__SEPARATOR__binary__SEPARATOR__http://cs.kangwon.ac.kr/~ysmoon/courses/2006_1/ds/Ttree-EJJ.ppt
+lang_ko__SEPARATOR__user interface__SEPARATOR__https://bi.snu.ac.kr/Courses/2unix98/chap6.ppt
+lang_ko__SEPARATOR__user interface__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/comp-arch/par-proc/CH09.ppt
+lang_ko__SEPARATOR__user interface__SEPARATOR__https://classic.csunplugged.org/wp-content/uploads/2014/12/stroopEnglishChineseSwedishJapaneseKorean.ppt
+lang_ko__SEPARATOR__user interface__SEPARATOR__http://www.oztn.net/ozguide/education/OZApplicationCourse/PPT/OZ%20Application%20Course.ppt
+lang_ko__SEPARATOR__user interface__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/w03t5.ppt
+lang_ko__SEPARATOR__user interface__SEPARATOR__http://ce.kiu.ac.kr/~kykim/JAVA2017/Chap8.ppt
+lang_ko__SEPARATOR__user interface__SEPARATOR__http://echosf.net/lecture/com06fall/04.OS.ppt
+lang_ko__SEPARATOR__user interface__SEPARATOR__http://me.khu.ac.kr/smclass/download.php?fno=2256
+lang_ko__SEPARATOR__user interface__SEPARATOR__http://echosf.net/lecture/com07spring/04.UI.ppt
+lang_ko__SEPARATOR__user interface__SEPARATOR__http://dasan.sejong.ac.kr/~oysong/mm09/02-mm.ppt
+lang_ko__SEPARATOR__mouse__SEPARATOR__http://www.khmsri.or.kr/common/file_download.jsp?filePath=/anilab/upload/board/anilab_data/upfile/&fileName=%EC%8B%A4%ED%97%98%EB%8F%99%EB%AC%BC%EC%9D%B4%EB%9E%80.ppt
+lang_ko__SEPARATOR__mouse__SEPARATOR__http://cri.snu.ac.kr/cri_seminar/semi_download.php?f_name=031014.ppt&r_name=
+lang_ko__SEPARATOR__mouse__SEPARATOR__http://cri.snu.ac.kr/cri_seminar/semi_download.php?f_name=030930%EC%A0%95%EC%9E%AC%EB%AF%BC.ppt&r_name=
+lang_ko__SEPARATOR__mouse__SEPARATOR__http://extension.uga.edu/publications/files/html/RB438/Korean.ppt
+lang_ko__SEPARATOR__mouse__SEPARATOR__http://echosf.net/lecture/com07fall/00.HWP.ppt
+lang_ko__SEPARATOR__mouse__SEPARATOR__http://home.sogang.ac.kr/sites/bsri/notice/Lists/b6/Attachments/3/%EB%8F%99%EB%AC%BC%EC%8B%A4%ED%97%98_%EC%9C%84%EC%9B%90%ED%9A%8C_%EA%B5%90%EC%9C%A1%EC%9A%A9-090203.ppt
+lang_ko__SEPARATOR__mouse__SEPARATOR__http://www.chemwide.co.kr/jsp/prod/pdf/kor07_C4raffinate1_MSDS.ppt
+lang_ko__SEPARATOR__mouse__SEPARATOR__https://hemos.postech.ac.kr/wp-content/uploads/2015/07/%EC%95%84%EC%9B%83%EB%A3%A9-%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4-%EB%A9%94%EC%9D%BC-%EB%B0%B1%EC%97%85-%EB%B0%8F-%EB%B3%B5%EC%9B%90-%EA%B0%80%EC%9D%B4%EB%93%9C.ppt
+lang_ko__SEPARATOR__output__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/ic/vhdl/lecture-notes/8-bitmicro.ppt
+lang_ko__SEPARATOR__output__SEPARATOR__http://soc.ajou.ac.kr/lecture/VLSI/VLSI_Project.ppt
+lang_ko__SEPARATOR__output__SEPARATOR__http://www.kumcim.org/bbs/skin/notice_popup/download.php?code=notice&number=5279
+lang_ko__SEPARATOR__output__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE306/2007/8.lecture_lab.ppt
+lang_ko__SEPARATOR__output__SEPARATOR__https://bi.snu.ac.kr/SEMINAR/ML/ML04.ppt
+lang_ko__SEPARATOR__separated__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE306/2007/6.lecture_lab.ppt
+lang_ko__SEPARATOR__separated__SEPARATOR__http://www.kunsan.ac.kr/chem/board/download.kunsan?boardId=BBS_0000237&menuCd=DOM_000006905003000000&startPage=2&dataSid=61627&command=update&fileSid=20608
+lang_ko__SEPARATOR__separated__SEPARATOR__http://www.theapex.org/images/uploads/1-3-3_AS_Korean_Market.ppt
+lang_ko__SEPARATOR__separated__SEPARATOR__http://vada.skku.ac.kr/ezboard/ezboard.cgi?/cdma.ppt&db=comm&action=down&dbf=200410200000&downfile=cdma.ppt
+lang_ko__SEPARATOR__separated__SEPARATOR__http://chemipia.jbnu.ac.kr/_prof/cjkim/course/HPages/objectives/high02.ppt
+lang_ko__SEPARATOR__runtime__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/system_level_design/Module11.ppt
+lang_ko__SEPARATOR__runtime__SEPARATOR__http://dpnm.postech.ac.kr/cs332/lecture/uml-lecture.ppt
+lang_ko__SEPARATOR__runtime__SEPARATOR__http://ce.kiu.ac.kr/~kykim/PL2014/chap05.ppt
+lang_ko__SEPARATOR__data__SEPARATOR__http://dpnm.postech.ac.kr/cs332/lecture/DFD.ppt
+lang_ko__SEPARATOR__data__SEPARATOR__ftp://ftp.iust.ac.ir/data_transmission/chap01[1].ppt
+lang_ko__SEPARATOR__data__SEPARATOR__http://arisu.seoul.go.kr/getFileDown.jsp?fileIdx=3900&contentIdx=793&tbIdx=BRD_BOARD
+lang_ko__SEPARATOR__data__SEPARATOR__http://www.parkjonghyuk.net/lecture/ComSec/chap03.ppt
+lang_ko__SEPARATOR__data__SEPARATOR__https://sociology.yonsei.ac.kr/?module=file&act=procFileDownload&file_srl=191&sid=ce1a394e811bf414de076634d1235cbd
+lang_ko__SEPARATOR__data__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000016069&fileSn=0
+lang_ko__SEPARATOR__data__SEPARATOR__https://bi.snu.ac.kr/Courses/g-slt99/2-4.ppt
+lang_ko__SEPARATOR__data__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000016068&fileSn=0
+lang_ko__SEPARATOR__data__SEPARATOR__http://dblab.ewha.ac.kr/hsyong/document/slide/dm.ppt
+lang_ko__SEPARATOR__hardened__SEPARATOR__http://metal.donga.ac.kr/bbs/metal/480/15035/download.do
+lang_ko__SEPARATOR__search engine__SEPARATOR__http://etl.snu.ac.kr/pluginfile.php/254935/mod_ubboard/attachment/2184/01.%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90_sea_%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A9%94%EB%89%B4%EC%96%BC_%EA%B5%90%EC%88%98.%EC%A1%B0%EA%B5%90%EC%9A%A9_v1.0_20110315.ppt?forcedownload=1
+lang_ko__SEPARATOR__search engine__SEPARATOR__http://kafil.or.kr/wp-content/uploads/2013/10/%EA%B2%80%EC%83%89%EC%A4%91%EB%A6%BD%EC%84%B1_%EC%A0%95%EB%B3%B4%EB%B2%95%ED%95%99%ED%9A%8C_v2_201310151.ppt
+lang_ko__SEPARATOR__search engine__SEPARATOR__http://nlp.sogang.ac.kr/data/Intro_NLP.ppt
+lang_ko__SEPARATOR__search engine__SEPARATOR__ftp://ftp.secuwide.co.kr/Proposal/%EC%B0%A8%EC%84%B8%EB%8C%80%EB%B0%A9%ED%99%94%EB%B2%BD%EC%A0%9C%EC%95%88%EC%84%9C.ppt
+lang_ko__SEPARATOR__search engine__SEPARATOR__http://borame.cs.pusan.ac.kr/ai_home/lecture/AI2008/AI-2008-1-1-intro.ppt
+lang_ko__SEPARATOR__search engine__SEPARATOR__https://bi.snu.ac.kr/People/agent-technique.ppt
+lang_ko__SEPARATOR__search engine__SEPARATOR__https://biz1.korea.ac.kr/sudang/sites/korea.ac.kr.sudang/files/downloads/SCOPUS%20_200911%20%ED%8A%B9%EA%B0%95.ppt
+lang_ko__SEPARATOR__profit__SEPARATOR__http://www.iksa.or.kr/bbs/down.php?code=news&number=9&seq=1&admin=
+lang_ko__SEPARATOR__profit__SEPARATOR__http://living.sehan.ac.kr/?module=file&act=procFileDownload&file_srl=580&sid=62a4c7e6e9fee38ed0867ef1972e2437&module_srl=176
+lang_ko__SEPARATOR__profit__SEPARATOR__http://www.kss.or.kr/data/file/schedule/%EB%B0%95%EC%84%B1%ED%98%84.ppt
+lang_ko__SEPARATOR__modem__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/dsp/sdr/Software%20RADIO%20%B9%DF%C7%A5%C0%DA%B7%E1%20v2.3.ppt
+lang_ko__SEPARATOR__modem__SEPARATOR__http://echosf.net/lecture/cs07/07.%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%86%B5%EC%8B%A0.ppt
+lang_ko__SEPARATOR__modem__SEPARATOR__https://www.kpx.or.kr/www/downloadBbsFile.do?atchmnflNo=8703
+lang_ko__SEPARATOR__modem__SEPARATOR__http://ihong.cau.ac.kr/Lectures/MIS_Lectures/Chapter7.ppt
+lang_ko__SEPARATOR__modem__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=9019
+lang_ko__SEPARATOR__modem__SEPARATOR__http://ihong.cau.ac.kr/Lectures/e-biz/Internetprotocols.ppt
+lang_ko__SEPARATOR__modem__SEPARATOR__http://cms.dankook.ac.kr/web/gict/-39?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_extFileId=28040
+lang_ko__SEPARATOR__modem__SEPARATOR__http://ihong.cau.ac.kr/Lectures/1MIS_Lectures/chap8.ppt
+lang_ko__SEPARATOR__text editor__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=EICE_STU133&fileName=5865620150518175304.ppt&part=1&seq=62583
+lang_ko__SEPARATOR__text editor__SEPARATOR__https://cms3.koreatech.ac.kr/bbs/mechatronics/241/7482/download.do
+lang_ko__SEPARATOR__text editor__SEPARATOR__http://echosf.net/lecture/programming/ch7.ppt
+lang_ko__SEPARATOR__text editor__SEPARATOR__https://cms3.koreatech.ac.kr/bbs/mechatronics/241/7483/download.do
+lang_ko__SEPARATOR__text editor__SEPARATOR__http://web.khu.ac.kr/~bil/lecture/ElectronicMedicalDevice/OrCAD.ppt
+lang_ko__SEPARATOR__text editor__SEPARATOR__http://hklee.konkuk.ac.kr/xe/?module=file&act=procFileDownload&file_srl=3490&sid=9a08b4852062b443e738909ce22df976
+lang_ko__SEPARATOR__text editor__SEPARATOR__http://www.schmc.ac.kr/seoul/kor/hospitalguide/download.do?FILE=Cochrane_User_Education_2011_1112.ppt
+lang_ko__SEPARATOR__literature__SEPARATOR__https://library.seoultech.ac.kr/assets/er_file/ACM_Potal.ppt
+lang_ko__SEPARATOR__literature__SEPARATOR__http://medlib.snu.ac.kr/file/733/download?token=PvhtqJ4E
+lang_ko__SEPARATOR__literature__SEPARATOR__http://home.sogang.ac.kr/sites/jaechun/courses/Lists/b10/Attachments/36/PPT%20on%20styles%20of%20academic%20papers.ppt
+lang_ko__SEPARATOR__literature__SEPARATOR__http://biomex.snu.ac.kr/NFUpload/nfupload_down.php?tmp_name=20150202110342.3090.4.0.ppt&name=random-120812165930-phpapp01.ppt
+lang_ko__SEPARATOR__literature__SEPARATOR__http://www.schmc.ac.kr/seoul/kor/hospitalguide/download.do?FILE=Education(2010.11.13)_-Systematic_Search_in_PubMed.ppt
+lang_ko__SEPARATOR__literature__SEPARATOR__http://www.mfds.go.kr/jsp/common/download.jsp?fileinfo=S*1*Health_Canada-2012-5-9.ppt*3b7cdbbe53d040df3eb6406139dc3714*ppt*/files/upload/1/TB_F_INFODATA/12832/3b7cdbbe53d040df3eb6406139dc3714*9055744*2012:05:09%2009:48:10
+lang_ko__SEPARATOR__literature__SEPARATOR__https://www.kocca.kr/cop/cmm/fms/FileDown.do?atchFileId=FILE_000000000171527&fileSn=2
+lang_ko__SEPARATOR__assembly__SEPARATOR__http://oxygen.korea.ac.kr/index.files/edu-research/nanochem/nanosemina.ppt
+lang_ko__SEPARATOR__assembly__SEPARATOR__http://borame.cs.pusan.ac.kr/ai_home/lecture/c_prgm/c_prgm_01.ppt
+lang_ko__SEPARATOR__assembly__SEPARATOR__http://haptics.or.kr/wp-content/uploads/2016/02/Haptic_App_2010.ppt
+lang_ko__SEPARATOR__assembly__SEPARATOR__http://kmis.or.kr/3_sig/smart_data/smart_120326.ppt
+lang_ko__SEPARATOR__assembly__SEPARATOR__http://echosf.net/lecture/ie03/Part1-4.ppt
+lang_ko__SEPARATOR__exaggerated__SEPARATOR__http://psychiatry.yonsei.ac.kr/htm/PERSONALITY%20DISORDER.ppt
+lang_ko__SEPARATOR__sovereignty__SEPARATOR__http://www.edugunsan.org/board/data/2016/09/21093832653.ppt
+lang_ko__SEPARATOR__username__SEPARATOR__https://kudos.knu.ac.kr/kor/download/Naxos_Music_Library.ppt
+lang_ko__SEPARATOR__username__SEPARATOR__http://www.crystalball.co.kr/crystal/download/downfiles/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88%EB%B3%BC%20%EC%84%A4%EC%B9%98%20%EA%B0%80%EC%9D%B4%EB%93%9C_11.1.ppt
+lang_ko__SEPARATOR__username__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2014_03_InformationSecurity/WLAN%20Security.ppt
+lang_ko__SEPARATOR__username__SEPARATOR__http://library.snu.ac.kr/sites/default/files/mathsci_0.ppt
+lang_ko__SEPARATOR__username__SEPARATOR__http://ce.kiu.ac.kr/~kykim/UNIX2016/ch08.ppt
+lang_ko__SEPARATOR__username__SEPARATOR__http://cs.kangwon.ac.kr/~jhkim/download/DatabaseProgramming/2%EC%A3%BC%20(11%EC%9E%A5%20SQL%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EB%B2%95).ppt
+lang_ko__SEPARATOR__web__SEPARATOR__http://kostat.go.kr/policy/nsc/nsc_bc/1/1/index.board?bmode=download&bSeq=&aSeq=272146&ord=4
+lang_ko__SEPARATOR__web__SEPARATOR__http://dpnm.postech.ac.kr/cs600/survey/2006/SemanticWeb.ppt
+lang_ko__SEPARATOR__web__SEPARATOR__https://www.cisco.com/c/dam/global/ko_kr/products/application-networking-services/ppt/Introduction.ppt
+lang_ko__SEPARATOR__web__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000016101&fileSn=0
+lang_ko__SEPARATOR__web__SEPARATOR__http://www.a-hana.co.kr/oh/weberp.ppt
+lang_ko__SEPARATOR__establishment__SEPARATOR__http://pr-rla.org/pdfs/2003/dlsnu.ppt
+lang_ko__SEPARATOR__establishment__SEPARATOR__http://borame.cs.pusan.ac.kr/ai_home/lecture/AI2014/AI-2014-overview.ppt
+lang_ko__SEPARATOR__establishment__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/Computer_Network_2004_01/Chapter16(ISDN).ppt
+lang_ko__SEPARATOR__establishment__SEPARATOR__http://cri.snu.ac.kr/cri_seminar/semi_download.php?f_name=9-26.ppt&r_name=
+lang_ko__SEPARATOR__united__SEPARATOR__http://www.bibalex.org/supercourse/supercoursePPT/10011-11001/10591.ppt
+lang_ko__SEPARATOR__united__SEPARATOR__http://www.jj.ac.kr/_custom/jj/_common/board/download.jsp?attach_no=16630
+lang_ko__SEPARATOR__united__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000006861&fileSn=0
+lang_ko__SEPARATOR__united__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=6660
+lang_ko__SEPARATOR__united__SEPARATOR__http://lawins.knu.ac.kr/board/index.php?status=file&db_name=bbs03&no=40&upid=0
+lang_ko__SEPARATOR__united__SEPARATOR__http://portal.changwon.ac.kr/homePost/download.do?postfileno=272376
+lang_ko__SEPARATOR__united__SEPARATOR__http://ihong.cau.ac.kr/Lectures/MIS_Lectures/Chapter11.ppt
+lang_ko__SEPARATOR__united__SEPARATOR__http://volunteeringculture.or.kr/wp-content/uploads/2005/07/100%EB%AA%85%EC%9D%98%EB%A7%88%EC%9D%84.ppt
+lang_ko__SEPARATOR__map-making__SEPARATOR__http://cms.dankook.ac.kr/web/gict/-39?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_extFileId=15660
+lang_ko__SEPARATOR__adverse__SEPARATOR__http://www.jj.ac.kr/_custom/jj/_common/board/download.jsp?attach_no=73985
+lang_ko__SEPARATOR__adverse__SEPARATOR__http://cmcuro.net/symposium/pdf/2009dongmun/Kimhyosin.ppt
+lang_ko__SEPARATOR__adverse__SEPARATOR__http://training.cochrane.org/uploads/resources/downloadable_resources/Korean/3.%20Defining%20a%20review%20question%20-%20Korean%20v1.1-font%20changed.ppt
+lang_ko__SEPARATOR__adverse__SEPARATOR__http://hompi.sogang.ac.kr/hahnlee/Lecture14_chap35.ppt
+lang_ko__SEPARATOR__adverse__SEPARATOR__http://www.addictionacademy.org/func/download.php?path=L2hvbWUvdmlydHVhbC9hZGRpY3Rpb24vaHRkb2NzL3VwbG9hZC9wZHMvMTEyMTkzMzk3Nr7LxNq/wyC51yC3ubrxvsYgseLDyiDA2rfhLnBwdA==&filename=MTEyMTkzMzk3Nr7LxNq/wyC51yC3ubrxvsYgseLDyiDA2rfhLnBwdA==
+lang_ko__SEPARATOR__adverse__SEPARATOR__http://finance.donga.ac.kr/bbs/finance/679/2485/download.do
+lang_ko__SEPARATOR__adverse__SEPARATOR__http://khwb.khu.ac.kr/download.php?tbl=in_bbs_lecture&fn=%EB%8C%80%ED%95%99%EC%9B%90_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_13%EC%9E%A5.ppt&fn_view=%EB%8C%80%ED%95%99%EC%9B%90_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_13%EC%9E%A5.ppt
+lang_ko__SEPARATOR__backup__SEPARATOR__http://cs.kangwon.ac.kr/~jhkim/download/DatabaseProgramming/14%EC%A3%BC%20(20%EC%9E%A5-OR%20SQL%EC%97%90%EC%84%9C%20%ED%9A%8C%EB%B3%B5%20%EB%B0%8F%20%EB%B0%B1%EC%97%85).ppt
+lang_ko__SEPARATOR__backup__SEPARATOR__http://www.jpij-med.co.jp/Framework_menual.zip?PHPSESSID=ecce1e7ab52977fbab1df93483c78e36
+lang_ko__SEPARATOR__backup__SEPARATOR__http://www.ktneterp.co.kr/download/KTNETERP%EC%A0%9C%EC%95%88%EC%84%9C.ppt
+lang_ko__SEPARATOR__backup__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=9289
+lang_ko__SEPARATOR__thermometer__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000006864&fileSn=0
+lang_ko__SEPARATOR__thermometer__SEPARATOR__http://web.khu.ac.kr/~bil/lecture/MedicalInstrumentation/HW2011/W04/W04T5.ppt
+lang_ko__SEPARATOR__thermometer__SEPARATOR__http://web.khu.ac.kr/~bil/lecture/MedicalInstrumentation/HW2011/W04/W04T2.ppt
+lang_ko__SEPARATOR__watch glass__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/lp_slides/%C0%FA%C0%FC%B7%C2%20MP-SoC-1.ppt
+lang_ko__SEPARATOR__decompress__SEPARATOR__http://dasan.sejong.ac.kr/~oysong/mm09/07-video.ppt
+lang_ko__SEPARATOR__application__SEPARATOR__http://him.phys.pusan.ac.kr/pds_him/HIM/2005-02/4_jschae.ppt
+lang_ko__SEPARATOR__application__SEPARATOR__http://www.ssu.ac.kr/web/dblab/23?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=14688782&_EXT_BBS_extFileId=14680104
+lang_ko__SEPARATOR__application__SEPARATOR__http://www.muhanbit.com/file/muhanbit.ppt
+lang_ko__SEPARATOR__home page__SEPARATOR__https://www.posco.co.kr/homepage/docs/kor5/dn/irinfo/irdata/2005_3Q_Presentation_kor_final.ppt
+lang_ko__SEPARATOR__home page__SEPARATOR__http://www.prism.go.kr/homepage/researchCommon/downloadResearchAttachFile.do;jsessionid=0641BFF25155F3C27C0BF2C7A83CA089.node02?work_key=001&file_type=CPR&seq_no=006&pdf_conv_yn=N&research_id=4930000-201400003
+lang_ko__SEPARATOR__home page__SEPARATOR__http://library.snu.ac.kr/sites/default/files/intra_file_upload/foreign-brill.ppt
+lang_ko__SEPARATOR__home page__SEPARATOR__http://webkata.org/at_info/KATAAT.ppt
+lang_ko__SEPARATOR__home page__SEPARATOR__http://image.campushomepage.com/users/knsweb/ssugi513/news_030624/0306_4.ppt
+lang_ko__SEPARATOR__parallel__SEPARATOR__http://steel.sejong.ac.kr/down/seminar/seminar-6.ppt
+lang_ko__SEPARATOR__parallel__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/comp-arch/par-proc/ch03.ppt
+lang_ko__SEPARATOR__parallel__SEPARATOR__http://medicine.donga.ac.kr/bbs/medicine/517/10907/download.do
+lang_ko__SEPARATOR__parallel__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/comp-arch/par-proc/ch02.ppt
+lang_ko__SEPARATOR__parallel__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/bec_note_ch5_mun.ppt
+lang_ko__SEPARATOR__parallel__SEPARATOR__http://medicine.donga.ac.kr/bbs/medicine/517/10908/download.do
+lang_ko__SEPARATOR__parallel__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/bec_note_ch2_song.ppt
+lang_ko__SEPARATOR__parallel__SEPARATOR__http://rfmwlab.kau.ac.kr/lecture/2017_2_EC/chap13.ppt
+lang_ko__SEPARATOR__global__SEPARATOR__https://www.unglobalcompact.org/system/attachments/19662/original/_UNGC_COP_.ppt?1356481452
+lang_ko__SEPARATOR__global__SEPARATOR__http://kofice.or.kr/z99_include/filedown6_1.asp?filename=%EC%9D%B4%EA%B0%95%EB%B3%B5-%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EC%A0%84%EB%9E%B5.ppt
+lang_ko__SEPARATOR__global__SEPARATOR__https://www.unglobalcompact.org/system/attachments/cop_2017/434551/original/%EB%B6%99%EC%9E%84._%ED%95%9C%EA%B5%AD%EC%A3%BC%ED%83%9D%EA%B8%88%EC%9C%B5%EA%B3%B5%EC%82%AC_%EA%B2%BD%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C%28COP%29.ppt?1509608856
+lang_ko__SEPARATOR__global__SEPARATOR__http://gsis.snu.ac.kr/webdata/syllabus/a509c82610c2c3251186fba321dfcaf5.ppt
+lang_ko__SEPARATOR__global__SEPARATOR__http://www.lsmtron.co.kr/pdf/%EC%9E%90%EB%8F%99%EC%B0%A8%EB%B6%80%ED%92%88.ppt
+lang_ko__SEPARATOR__global__SEPARATOR__http://www.jj.ac.kr/_custom/jj/_common/board/download.jsp?attach_no=16980
+lang_ko__SEPARATOR__global__SEPARATOR__http://gsis.snu.ac.kr/webdata/syllabus/9888c77e93c68fdcda8017b7d165506a.ppt
+lang_ko__SEPARATOR__global__SEPARATOR__http://metclub.kriss.re.kr/file_download.html?bf_mask=20161206000000200038206&club_idx=29
+lang_ko__SEPARATOR__global__SEPARATOR__http://www.kefplaza.com/labor/down.jsp?idx=3216&fileId=3024
+lang_ko__SEPARATOR__emoticon__SEPARATOR__http://metalunion.nodong.org/bbs/download.php?bo_table=ce_B11&wr_id=216697&no=1
+lang_ko__SEPARATOR__emoticon__SEPARATOR__http://cfile22.uf.tistory.com/attach/192DE20F49BDACAA84D37D
+lang_ko__SEPARATOR__flowchart__SEPARATOR__http://ce.kiu.ac.kr/~kykim/Sw/ch04.ppt
+lang_ko__SEPARATOR__flowchart__SEPARATOR__https://bi.snu.ac.kr/Courses/g-video12s/files/ML_2012.ppt
+lang_ko__SEPARATOR__finance__SEPARATOR__http://ehf.koreaexim.go.kr/File.down?file=/attach_file/bbs/BBS_2/2014%B3%E2_%BC%BC%B0%E8%C5%C2%BE%E7%B1%A4%BB%EA%BE%F7_%C0%FC%B8%C1_%BE%CF%C8%A3%C8%AD%C7%D8%C1%A6_%BE%CF%C8%A3%C8%AD%C7%D8%C1%A6.ppt
+lang_ko__SEPARATOR__finance__SEPARATOR__http://ehf.koreaexim.go.kr/File.down?file=/attach_file/bbs/BBS_2/1309_%BB%EA%C5%F5_%C5%C2%BE%E7%B1%A4%C7%C1%B7%CE%C1%A7%C6%AE%C6%C4%C0%CC%B3%BD%BD%CC_%C7%F6%C8%B2_%B9%D7_%B9%DF%C0%FC%B9%E6%C7%E2_%BE%CF%C8%A3%C8%AD%C7%D8%C1%A6.ppt
+lang_ko__SEPARATOR__finance__SEPARATOR__https://archives.kdischool.ac.kr/bitstream/11125/350/1/5%EA%B0%95%EC%9D%98_%EA%B9%80%EC%9A%B0%EC%B0%AC.ppt
+lang_ko__SEPARATOR__finance__SEPARATOR__http://finance.seoul.go.kr/files/2012/11/50ad778da64a87.54330376.ppt
+lang_ko__SEPARATOR__finance__SEPARATOR__http://kor.gasvalley.com/wp-content/uploads/2015/06/%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C%EC%84%9C%EB%8C%80%EB%8D%951.ppt
+lang_ko__SEPARATOR__finance__SEPARATOR__http://www.kiot.or.kr/member/file_down.asp?C_code=1074&File_Code=_PATH
+lang_ko__SEPARATOR__finance__SEPARATOR__http://www.yeseo.co.kr/%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C%EC%84%9C.ppt
+lang_ko__SEPARATOR__North America__SEPARATOR__http://www.ksie.or.kr/bbs/Act/download.php?fr_dir=./Data/board/linsix&fn=%B8%B0%BF%A3%C5%CD%C7%C1%B6%F3%C0%CC%C1%EE%B9%DF%C7%A5(%BF%AC%B1%B8%C8%B82%C2%F7%B8%F0%C0%D3).ppt
+lang_ko__SEPARATOR__North America__SEPARATOR__http://www.eastasiair.com/uploads/2/9/7/5/29758289/%EB%8F%99%EC%95%84%EC%8B%9C%EC%95%84%EC%95%88%EB%B3%B4%EC%9D%B4%EB%A1%A0_%EC%8B%A0%EC%9A%B1%ED%9D%AC_.ppt
+lang_ko__SEPARATOR__healing__SEPARATOR__http://www.disciplenations.org/media/3-%EA%B5%90%ED%9A%8C%EC%9D%98-%EC%82%AC%ED%9A%8C%EC%97%90%EC%84%9C%EC%9D%98-%EC%97%AD%ED%95%A0_Role-of-Church-in-Society.ppt
+lang_ko__SEPARATOR__healing__SEPARATOR__http://www.circulation.or.kr/workshop/2002spring/files/0419/%EC%9D%B4%EB%B3%91%EA%B6%8C.ppt
+lang_ko__SEPARATOR__healing__SEPARATOR__https://www.korea4-h.or.kr/service/downloadFile.aspx?dnGubun=board&srno=5692
+lang_ko__SEPARATOR__healing__SEPARATOR__http://www.prism.go.kr/homepage/researchCommon/downloadResearchAttachFile.do;jsessionid=896F577BF03DF6007F8E08145F2256C1.node02?work_key=001&file_type=CPR&seq_no=001&pdf_conv_yn=Y&research_id=4980000-201400001
+lang_ko__SEPARATOR__healing__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/Computer_Network_2004_01/Chapter12(Local%20Area%20Networks).ppt
+lang_ko__SEPARATOR__healing__SEPARATOR__http://ubf.kr/core/anyboard/download.php?boardID=www56&fileNum=1861
+lang_ko__SEPARATOR__healing__SEPARATOR__http://www.citylib.gwangju.kr/board_auto/default/file_down.php?bbs=gj_opendown&no=26&num=1
+lang_ko__SEPARATOR__healing__SEPARATOR__http://www.semyung.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000068693&fileSn=0
+lang_ko__SEPARATOR__introduction__SEPARATOR__http://training.cochrane.org/uploads/resources/downloadable_resources/Korean/1.%20Introduction%20-%20Korean%20v1.1-font%20changed.ppt
+lang_ko__SEPARATOR__introduction__SEPARATOR__https://www.osha.gov/dte/grant_materials/fy09/sh-19505-09/ergo_training_korean.ppt
+lang_ko__SEPARATOR__introduction__SEPARATOR__http://medicine.donga.ac.kr/bbs/medicine/517/3862/download.do
+lang_ko__SEPARATOR__introduction__SEPARATOR__http://skim.snu.ac.kr/wp-content/uploads/2017/03/2017-%EC%95%BD%ED%99%94%ED%95%99-Orientation.ppt
+lang_ko__SEPARATOR__introduction__SEPARATOR__http://quanta.hanyang.ac.kr/Lecture/2016_2/00.%20Introduction.ppt
+lang_ko__SEPARATOR__introduction__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/system_level_design/sdr_slides/lec1-sdr-intro.ppt
+lang_ko__SEPARATOR__introduction__SEPARATOR__http://www.af.ac.kr/planweb/board/download.9is?fileUid=0000000052e385d90152edf7cb1c3cc6&boardUid=816ac6da51a3db470151b3ea473e01d9
+lang_ko__SEPARATOR__introduction__SEPARATOR__http://astro1.snu.ac.kr/home/kor/publicboard/downloadFile.asp?bulletin_file_id=2262&filename=schroeder_4.ppt
+lang_ko__SEPARATOR__freeware__SEPARATOR__http://semanticweb.kaist.ac.kr/research/ksurimal/1st%20language%20meet/jyl.ppt
+lang_ko__SEPARATOR__laptop__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2011_03_NetworkSecurity/Wireless_Sniffering.ppt
+lang_ko__SEPARATOR__laptop__SEPARATOR__http://echosf.net/lecture/com06spring/01.Introduction.ppt
+lang_ko__SEPARATOR__data mining__SEPARATOR__http://cvlab.postech.ac.kr/lab/slides/150519v_donghun.ppt
+lang_ko__SEPARATOR__data mining__SEPARATOR__http://cs.kangwon.ac.kr/~ysmoon/courses/2006_1/ds/Multi-LDK2.ppt
+lang_ko__SEPARATOR__data mining__SEPARATOR__https://bi.snu.ac.kr/Courses/4ai14s/Agent1.ppt
+lang_ko__SEPARATOR__data mining__SEPARATOR__http://echosf.net/lecture/ie03/ML.ppt
+lang_ko__SEPARATOR__explain__SEPARATOR__http://cs.kangwon.ac.kr/~jhkim/download/DatabaseProgramming/7%EC%A3%BC%20(17%EC%9E%A5-OR%20%EC%A7%88%EC%9D%98%20%EC%B2%98%EB%A6%AC%EC%99%80%20%EC%B5%9C%EC%A0%81%ED%99%94).ppt
+lang_ko__SEPARATOR__explain__SEPARATOR__http://chanyi.tistory.com/attachment/cfile4.uf@112ADE584DBA1D7606642D.ppt
+lang_ko__SEPARATOR__explain__SEPARATOR__https://cmse.postech.ac.kr/html/lecture/file/thermo-intro.ppt
+lang_ko__SEPARATOR__explain__SEPARATOR__http://chanyi.tistory.com/attachment/cfile24.uf@170586404DBA045E3328D6.ppt
+lang_ko__SEPARATOR__explain__SEPARATOR__http://chanyi.tistory.com/attachment/cfile22.uf@170F0E404DBA045D300D2F.ppt
+lang_ko__SEPARATOR__process__SEPARATOR__http://www.nl.go.kr/app/nl/search/common/download.jsp?file_id=FILE-00007947370
+lang_ko__SEPARATOR__process__SEPARATOR__http://metal.donga.ac.kr/bbs/metal/480/15034/download.do
+lang_ko__SEPARATOR__process__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=9290
+lang_ko__SEPARATOR__process__SEPARATOR__http://www.kbade.kr/file.aspx/board/download/10725/1/%ED%95%99%EC%8A%B5%EB%B6%80%EC%A7%84%EC%95%84%20%EC%A7%80%EB%8F%84%EC%9D%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%9C(%EC%95%88%EB%8F%99%EA%B5%90%EC%9C%A1%EC%B2%AD).ppt
+lang_ko__SEPARATOR__process__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2012_09_Internet_Protocol_and_Programming/Lecture_Note_9.ppt
+lang_ko__SEPARATOR__process__SEPARATOR__http://pml.hanyang.ac.kr/NFUpload/nfupload_down.php?tmp_name=20140523144937.2600.3.0.ppt&name=Cleaning.ppt
+lang_ko__SEPARATOR__process__SEPARATOR__https://cmse.postech.ac.kr/html/lecture/file/thermo-laws.ppt
+lang_ko__SEPARATOR__host__SEPARATOR__http://echosf.net/lecture/com06fall/07.Internet.ppt
+lang_ko__SEPARATOR__host__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2008_03_NetworkSecurity/Sniffing(new).ppt
+lang_ko__SEPARATOR__host__SEPARATOR__http://www.incheonpilot.com/download/%EB%8F%84%EC%84%A0%EA%B4%80%EB%A6%AC%20%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.ppt
+lang_ko__SEPARATOR__host__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/system_level_design/Module10.ppt
+lang_ko__SEPARATOR__host__SEPARATOR__http://cmcuro.net/symposium/pdf/9th-sym-4.ppt
+lang_ko__SEPARATOR__contour line__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/soc-design/slides/M01-%B9%DD%B5%B5%C3%BCCAD(65p).ppt
+lang_ko__SEPARATOR__contour line__SEPARATOR__http://rwanda-embassy.or.kr/down/2012Investment_kr.ppt
+lang_ko__SEPARATOR__valid__SEPARATOR__https://evstupy.kia.sk/Handlers/FileHandler.ashx?fileName=BOZP%20skolenie.ppt
+lang_ko__SEPARATOR__valid__SEPARATOR__http://www.worldspan.co.kr/PDS_BOARD/download_01.asp?ID=68
+lang_ko__SEPARATOR__valid__SEPARATOR__http://ncc.re.kr/downloadByFileUrl.ncc?path=downloadFiles/library/Cochrane%20Library.ppt
+lang_ko__SEPARATOR__valid__SEPARATOR__http://dasan.sejong.ac.kr/~jano/compiler/Ch_03(v1).ppt
+lang_ko__SEPARATOR__virtual__SEPARATOR__http://ce.kiu.ac.kr/~kykim/WinApp2016/Chap9.ppt
+lang_ko__SEPARATOR__virtual__SEPARATOR__http://library.snu.ac.kr/sites/default/files/intra_file_upload/foreign-gvrl.ppt
+lang_ko__SEPARATOR__virtual__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/Computer_Network_2004_01/Chapter19(ATM).ppt
+lang_ko__SEPARATOR__virtual__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/Computer_Network_2004_01/Chapter17(X.25).ppt
+lang_ko__SEPARATOR__virtual__SEPARATOR__http://www.samboo.co.kr/images/productsheet/infiniband.ppt
+lang_ko__SEPARATOR__thread__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2013_09_Internet_Protocol_and_Programming/Lecture_Note_12.ppt
+lang_ko__SEPARATOR__thread__SEPARATOR__https://cms3.koreatech.ac.kr/bbs/mechatronics/242/8516/download.do
+lang_ko__SEPARATOR__thread__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2012_09_Internet_Protocol_and_Programming/Lecture_Note_8.ppt
+lang_ko__SEPARATOR__thread__SEPARATOR__http://www.ssu.ac.kr/web/dblab/23?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=14688737&_EXT_BBS_extFileId=14679935
+lang_ko__SEPARATOR__thread__SEPARATOR__http://kmis.or.kr/3_sig/info_data/int(dec)2.ppt
+lang_ko__SEPARATOR__thread__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=1701
+lang_ko__SEPARATOR__essential__SEPARATOR__http://www.ssu.ac.kr/web/dblab/23?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=14688782&_EXT_BBS_extFileId=14680103
+lang_ko__SEPARATOR__essential__SEPARATOR__http://www.disciplenations.org/media/58-%ED%95%98%EB%82%98%EB%8B%98%EC%9D%98-%EB%82%98%EB%9D%BC_Kingdom-of-God-Expanded.ppt
+lang_ko__SEPARATOR__essential__SEPARATOR__http://media.math.snu.ac.kr/admission_2007/freshman/lecture/04_con_ft.ppt
+lang_ko__SEPARATOR__essential__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/topology.ppt
+lang_ko__SEPARATOR__essential__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/gameth.ppt
+lang_ko__SEPARATOR__gigabyte__SEPARATOR__http://cs.sookmyung.ac.kr/~chang/lecture/c13/chap1.PPT
+lang_ko__SEPARATOR__legislature__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/system_level_design/lec-mat/%BB%FD%C3%BC%C0%CE%BD%C4%20%B1%E2%BC%FA%20%C7%F6%C8%B2%B9%D7%20%B9%DF%C0%FC%B9%E6%C7%E2(%B9%E8%BF%B5%B7%A1).PPT
+lang_ko__SEPARATOR__buffer__SEPARATOR__http://ce.kiu.ac.kr/~hskim/syst_08.ppt
+lang_ko__SEPARATOR__buffer__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/w15t7.ppt
+lang_ko__SEPARATOR__buffer__SEPARATOR__http://ce.kiu.ac.kr/~hskim/syst_09.ppt
+lang_ko__SEPARATOR__buffer__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/team7hw9.ppt
+lang_ko__SEPARATOR__buffer__SEPARATOR__http://hyomin.deu.ac.kr/~hskim/hskim-lec/ComputerGraphics/cg_08.ppt
+lang_ko__SEPARATOR__buffer__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=EICE_STU133&fileName=4537220120529102444.ppt&part=1&seq=14026
+lang_ko__SEPARATOR__buffer__SEPARATOR__http://cs.kangwon.ac.kr/~jhkim/download/DatabaseProgramming/9%EC%A3%BC%20(18%EC%9E%A5%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EA%B0%9C%EB%85%90).ppt
+lang_ko__SEPARATOR__buffer__SEPARATOR__http://chemipia.jbnu.ac.kr/_prof/cjkim/course/GPages/objectives/XCamp_5.ppt
+lang_ko__SEPARATOR__buffer__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000015943&fileSn=0
+lang_ko__SEPARATOR__buffer__SEPARATOR__http://cs.sookmyung.ac.kr/~chang/lecture/c13/chap4.PPT
+lang_ko__SEPARATOR__genetics__SEPARATOR__http://lchc.ucsd.edu/MCA/KelloggTapes/ppts/1Kim_Yongho.ppt
+lang_ko__SEPARATOR__genetics__SEPARATOR__http://www.primate.or.kr/pds/yjw/4_1_yjw.ppt
+lang_ko__SEPARATOR__genetics__SEPARATOR__https://bi.snu.ac.kr/SEMINAR/ML/ML09.ppt
+lang_ko__SEPARATOR__genetics__SEPARATOR__http://cmb.snu.ac.kr/bod1/pds/lectures/06_%EC%9B%85%EC%84%B1%EB%B6%88%EC%9E%84%EC%84%B1.ppt
+lang_ko__SEPARATOR__genetics__SEPARATOR__http://aging.pharm.pusan.ac.kr/lab/lecture/2011/L1%202011%20%EA%B0%95%EC%9D%98%20%EC%83%9D%ED%99%94%ED%95%99%20%EC%84%9C%EB%A1%A0(%EC%99%84%EC%84%B1).ppt
+lang_ko__SEPARATOR__genetics__SEPARATOR__http://www.snubi.org/~juhan/BGM/ppt/leeyungae.ppt
+lang_ko__SEPARATOR__shift__SEPARATOR__http://hp.kunsan.ac.kr/chem/board/download.kunsan?boardId=BBS_0000110&menuCd=DOM_000001505006000000&startPage=1&dataSid=109906&command=update&fileSid=45961
+lang_ko__SEPARATOR__shift__SEPARATOR__http://echosf.net/lecture/com07spring/00.HWP.ppt
+lang_ko__SEPARATOR__shift__SEPARATOR__http://echosf.net/lecture/com07fall/00.Powerpoint.ppt
+lang_ko__SEPARATOR__shift__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/digital-logic/logic-design-exp/%B3%ED%B8%AE%C8%B8%B7%CE%BD%C7%C7%E8.ppt
+lang_ko__SEPARATOR__shift__SEPARATOR__http://cs.kangwon.ac.kr/~ysmoon/courses/2006_1/ds/Hash-EMY.ppt
+lang_ko__SEPARATOR__algorithm__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/vlsicad/deep-layout/1.ppt
+lang_ko__SEPARATOR__algorithm__SEPARATOR__http://ccl.pku.edu.cn/doubtfire/nlp/Lexical_Analysis/Word_Sense_Disambiguation/Word%20Sense%20Disambiguation.ppt
+lang_ko__SEPARATOR__algorithm__SEPARATOR__http://www.snubi.org/~juhan/BGM/ppt/kimyoonkyung_2.ppt
+lang_ko__SEPARATOR__algorithm__SEPARATOR__http://borame.cs.pusan.ac.kr/ai_home/lecture/AI/Ai_6.ppt
+lang_ko__SEPARATOR__datum__SEPARATOR__http://civil.jbnu.ac.kr/?module=file&act=procFileDownload&file_srl=310815&sid=ffa30e6f501f807bf532afdccb1c5015&module_srl=138
+lang_ko__SEPARATOR__geophysics__SEPARATOR__http://chemipia.jbnu.ac.kr/_prof/cjkim/course/HPages/objectives/high04.ppt
+lang_ko__SEPARATOR__funnel__SEPARATOR__http://biochem.yonsei.ac.kr/board/lib/down.php?boardid=board_Etc&no=111&num=1
+lang_ko__SEPARATOR__funnel__SEPARATOR__http://www.tnsglobal.co.kr/files/InfoPulse_eValuate_1.ppt
+lang_ko__SEPARATOR__funnel__SEPARATOR__http://metal.donga.ac.kr/bbs/metal/480/15030/download.do
+lang_ko__SEPARATOR__funnel__SEPARATOR__http://edu.chungbuk.ac.kr/downloadBbsFile.do?atchmnflNo=5689
+lang_ko__SEPARATOR__syntax__SEPARATOR__http://ce.kiu.ac.kr/~kykim/PL2014/Chapter-2.ppt
+lang_ko__SEPARATOR__syntax__SEPARATOR__http://www.nas.go.kr/action/FileDownLoad.jsp?NP_DataCode=20000003&fileName=%C8%AB%C0%E7%BC%BA%C8%B8%BF%F8%B4%D4%20%B9%DF%C7%A5%C0%DA%B7%E1.ppt&fileSaveName=%C8%AB%C0%E7%BC%BA%C8%B8%BF%F8%B4%D4%20%B9%DF%C7%A5%C0%DA%B7%E1.ppt
+lang_ko__SEPARATOR__syntax__SEPARATOR__http://ce.kiu.ac.kr/~kykim/PL2016/Chapter-1.ppt
+lang_ko__SEPARATOR__syntax__SEPARATOR__https://cms3.koreatech.ac.kr/bbs/mechatronics/241/7475/download.do
+lang_ko__SEPARATOR__syntax__SEPARATOR__http://dasan.sejong.ac.kr/~jano/compiler/Ch_05(v1).ppt
+lang_ko__SEPARATOR__syntax__SEPARATOR__http://healthstat.snu.ac.kr/hokim/seminar/SPSS22.ppt
+lang_ko__SEPARATOR__syntax__SEPARATOR__http://web.skhu.ac.kr/~mckim1/Lecture/IR/indexing.ppt
+lang_ko__SEPARATOR__syntax__SEPARATOR__http://ropas.snu.ac.kr/~kwang/sigpl03.ppt
+lang_ko__SEPARATOR__utility__SEPARATOR__http://aces.snu.ac.kr/~jongyoung/lecture/linux_cmd.ppt
+lang_ko__SEPARATOR__utility__SEPARATOR__http://semanticweb.kaist.ac.kr/research/ksurimal/1st%20language%20meet/jbt.ppt
+lang_ko__SEPARATOR__XML__SEPARATOR__http://www.archives.go.kr/next/common/downloadBoardFile.do?board_seq=88233&board_file_seq=1
+lang_ko__SEPARATOR__XML__SEPARATOR__http://library.snu.ac.kr/sites/default/files/intra_file_upload/domestic-woori.ppt
+lang_ko__SEPARATOR__XML__SEPARATOR__http://borame.cs.pusan.ac.kr/ai_home/lecture/java2011/exper_syllabus_2011.ppt
+lang_ko__SEPARATOR__XML__SEPARATOR__https://fac.ksu.edu.sa/sites/default/files/chapter_9_2.ppt
+lang_ko__SEPARATOR__XML__SEPARATOR__http://www.contentwise.co.kr/support/rc/519_attachFile_5.ppt
+lang_ko__SEPARATOR__XML__SEPARATOR__http://www.prism.go.kr/homepage/researchCommon/downloadResearchAttachFile.do;jsessionid=AD7A31FC47907FF08B2B2AB2A719364E.node02?work_key=001&file_type=CPR&seq_no=004&pdf_conv_yn=N&research_id=4930000-201400003
+lang_ko__SEPARATOR__XML__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=7324
+lang_ko__SEPARATOR__virtual memory__SEPARATOR__http://ce.kiu.ac.kr/~hskim/syst_03_1.ppt
+lang_ko__SEPARATOR__virtual memory__SEPARATOR__http://diamond.kist.re.kr/DLC/R&D_DB/SNU-colloquium.ppt
+lang_ko__SEPARATOR__virtual memory__SEPARATOR__http://ids.snu.ac.kr/w/images/c/cc/Silseub.ppt
+lang_ko__SEPARATOR__virtual memory__SEPARATOR__http://hyomin.deu.ac.kr/~hskim/hskim-lec/ComputerGraphics/cg_01.ppt
+lang_ko__SEPARATOR__positive__SEPARATOR__http://cmcuro.net/symposium/pdf/2008dongmun/LeeSJ.ppt
+lang_ko__SEPARATOR__positive__SEPARATOR__http://home.sogang.ac.kr/sites/memslab/%EC%9E%90%EB%A3%8C%EC%8B%A4/Lists/b48/Attachments/25/%EC%A0%9C10%EC%9E%A5%20%EB%B8%94%EB%A1%9C%EC%9A%B0%EC%84%B1%ED%98%95_3.ppt
+lang_ko__SEPARATOR__positive__SEPARATOR__http://ssoc.cns.snu.ac.kr/bbs/down.php?file_no=2235
+lang_ko__SEPARATOR__positive__SEPARATOR__https://bi.snu.ac.kr/SEMINAR/ML/ML03.ppt
+lang_ko__SEPARATOR__positive__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=6801
+lang_ko__SEPARATOR__legend__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/team7hw4.ppt
+lang_ko__SEPARATOR__programmer__SEPARATOR__http://ropas.snu.ac.kr/~kwang/4190.210/08/8.ppt
+lang_ko__SEPARATOR__programmer__SEPARATOR__http://echosf.net/lecture/com06spring/02.Architecture.ppt
+lang_ko__SEPARATOR__programmer__SEPARATOR__http://cfile21.uf.tistory.com/attach/26488C3357E21B7F328065
+lang_ko__SEPARATOR__programmer__SEPARATOR__http://ce.kiu.ac.kr/~kykim/PL2014/Chapter-1.ppt
+lang_ko__SEPARATOR__programmer__SEPARATOR__http://ihong.cau.ac.kr/Lectures/MIS_Lectures/Chapter16.ppt
+lang_ko__SEPARATOR__climate__SEPARATOR__https://www.kangwon.ac.kr/www/downloadBbsFile.do?atchmnflNo=26840&bbsNo=40&nttNo=70708&&pageUnit=10&searchCtgry=%EC%82%BC%EC%B2%99&key=315&pageIndex=1
+lang_ko__SEPARATOR__climate__SEPARATOR__http://www.enet.or.kr/?module=file&act=procFileDownload&file_srl=42487&sid=90275eb48258948b4b1ac7826df6c1e8&module_srl=148
+lang_ko__SEPARATOR__climate__SEPARATOR__http://www.krihs.re.kr/fileViewer.do?fname=report_200709_1.ppt&path=13&oname=report_200709_1.ppt
+lang_ko__SEPARATOR__climate__SEPARATOR__http://www.kss.or.kr/data/file/schedule/%ED%95%99%ED%9A%8C%EC%9E%A5%EC%B4%88%EC%B2%AD%EA%B0%95%EC%97%B0(%ED%86%B5%EA%B3%84%EC%B2%AD%EC%9E%A5,2007%EC%B6%98%EA%B3%84).ppt
+lang_ko__SEPARATOR__climate__SEPARATOR__http://re.inochong.org/datamenu/upload/download.php?filename=0710_%B1%E2%C8%C4%BA%AF%C8%AD%C7%F9%BB%F3%20%B5%BF%C7%E2%B0%FA%BF%EC%B8%AE%C0%C7%B4%EB%C0%C0.ppt
+lang_ko__SEPARATOR__climate__SEPARATOR__http://teacher.gwangju.ac.kr/program/board/download.php3?code=gyojik_gongji&file=5%C0%E5_%C1%B6%C1%F7%B7%D0_1.ppt&boardid=39
+lang_ko__SEPARATOR__altitude__SEPARATOR__http://astro1.snu.ac.kr/home/kor/publicboard/downloadFile.asp?bulletin_file_id=2337&filename=0519%C3%B5%C3%BC%C3%F8%B1%A4%A3%AD1.ppt
+lang_ko__SEPARATOR__printer__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=5229
+lang_ko__SEPARATOR__printer__SEPARATOR__http://erp.arp.co.kr:8114/erp/work/pr_data/YJ8010/407055826/%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C(%EA%B5%AD%EB%AC%B8)-%EC%A0%84%EC%B2%B4.ppt
+lang_ko__SEPARATOR__printer__SEPARATOR__http://multi.iscu.ac.kr/down/3D.ppt
+lang_ko__SEPARATOR__printer__SEPARATOR__http://www.ssu.ac.kr/widget/web/usaint/notice_saint;jsessionid=HpeH49ELHDM1l2Dv6epln2e2a3NFzaW7bRHlyKhyV6wTPyyP2SjearkQH4zxvCOZ?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=14572768&_EXT_BBS_extFileId=14572961
+lang_ko__SEPARATOR__printer__SEPARATOR__http://www.rovertech.co.kr/dataroom/upload_file/preton.ppt
+lang_ko__SEPARATOR__printer__SEPARATOR__http://adamant.kaist.ac.kr/cs204_2013/tp/%ED%95%9C%EA%B8%80-%EA%B3%A0%EA%B5%90%EC%83%9D%EC%97%AC%EB%A6%84%EC%BA%A0%ED%94%84.ppt
+lang_ko__SEPARATOR__printer__SEPARATOR__http://mosf.go.kr/com/cmm/fms/FileDown.do?atchFileId=ATCH_OLD_00004095097&fileSn=464275
+lang_ko__SEPARATOR__printer__SEPARATOR__http://dasan.sejong.ac.kr/~oysong/mm09/03-hwsw.ppt
+lang_ko__SEPARATOR__printer__SEPARATOR__http://www.bizulsan.net/e-brochure/pdf/sbu_kor.ppt
+lang_ko__SEPARATOR__format__SEPARATOR__http://k2hyun.tistory.com/attachment/cfile26.uf@18478B4950AA3E1F21685C.ppt
+lang_ko__SEPARATOR__format__SEPARATOR__https://www.refworks.com/kr/documents/RefWorks_in_15_Minutes_Korean.ppt
+lang_ko__SEPARATOR__format__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE306/2007/12.lecture_lab.ppt
+lang_ko__SEPARATOR__chemistry__SEPARATOR__http://chem.khu.ac.kr/contents/common/popup/download.html?bbs_cls_cd=006002&cid=10090617125579&file_nm=%BD%C7%C7%E8%BD%C7%BE%C8%C0%FC1%B1%B3%BD%C3%BF%EB.ppt&home_id=
+lang_ko__SEPARATOR__chemistry__SEPARATOR__http://chemipia.jbnu.ac.kr/_prof/cjkim/course/GPages/objectives/chem01.ppt
+lang_ko__SEPARATOR__chemistry__SEPARATOR__http://oxygen.korea.ac.kr/index.files/edu-research/research/MDsemina.ppt
+lang_ko__SEPARATOR__chemistry__SEPARATOR__http://ebsco.co.kr/new/data/data_board/_96.ppt
+lang_ko__SEPARATOR__chemistry__SEPARATOR__http://biochem.yonsei.ac.kr/board/lib/down.php?boardid=board_Etc&no=110&num=1
+lang_ko__SEPARATOR__chemistry__SEPARATOR__http://www.jeonbuk.go.kr/board/download.jeonbuk?boardId=POLICY_SERVICE&dataSid=1597012&fileSid=1323444
+lang_ko__SEPARATOR__chemistry__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=8754
+lang_ko__SEPARATOR__blocked__SEPARATOR__ftp://ftp.secuwide.co.kr/Proposal/SonicWALL%20NGFW%20%EB%B9%84%EA%B5%90%EC%9E%90%EB%A3%8C.ppt
+lang_ko__SEPARATOR__blocked__SEPARATOR__https://spam.kisa.or.kr/filemanager/download.do?path=spam/customer/archive/&filename=%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.ppt
+lang_ko__SEPARATOR__virus__SEPARATOR__http://www.pitt.edu/~super7/52011-53001/52741.ppt
+lang_ko__SEPARATOR__virus__SEPARATOR__http://medicine.donga.ac.kr/bbs/medicine/517/3865/download.do
+lang_ko__SEPARATOR__virus__SEPARATOR__http://www.khmsri.or.kr/common/file_download.jsp?filePath=/anilab/upload/board/anilab_data/upfile/&fileName=%EC%8B%A4%ED%97%98%EB%8F%99%EB%AC%BC%EC%97%90%20%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0.ppt
+lang_ko__SEPARATOR__virus__SEPARATOR__https://rad.chonbuk.ac.kr/_ezaid/board/genBoardRecord.ez?method=download&pfkHomepageNo=58&fkBoardEntryPkNo=6&attacheFileChoice=1&pkNo=599
+lang_ko__SEPARATOR__virus__SEPARATOR__http://www.eltscience.com/N2uboard/Board/download.asp?bid=board0501&idx=5&fname=20130207_%C0%CC%B9%C2%B3%EB%B1%D7%B8%B0%20%C1%A6%C7%B0%C0%DA%B7%E1%C1%FD.ppt
+lang_ko__SEPARATOR__virus__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=OT_DATE001&fileName=6751320130430161531.ppt&part=3&seq=18735
+lang_ko__SEPARATOR__bite__SEPARATOR__http://www.sobang.kr/board/download.sko?boardId=sobang_adminData&boardSid=252&menuCd=AA06007000000&contentsSid=196&orderBy=&startPage=4&searchType=&keyword=&searchStartDt=&searchEndDt=&dataSid=1781&command=update&fileSid=976
+lang_ko__SEPARATOR__food__SEPARATOR__http://asiadhrra.org/activityblogs/3rdlsfmrtw/session3-seodonwoo-korean.ppt
+lang_ko__SEPARATOR__food__SEPARATOR__http://img.yonhapnews.co.kr/basic/svc/13_images/20130311_imazine_2013_1.ppt
+lang_ko__SEPARATOR__food__SEPARATOR__http://www.lakheir.org/korean/csg/csg.pps
+lang_ko__SEPARATOR__food__SEPARATOR__http://www.mass.gov/massworkforce/docs/resources/career-center-seminars/ccs-korean.ppt
+lang_ko__SEPARATOR__food__SEPARATOR__http://www.waste21.or.kr/include/download.asp?file=200512081407105029.ppt
+lang_ko__SEPARATOR__food__SEPARATOR__http://www.schoolhealth.kr/shnhome/glib/SHDataFileDownload.php?GbnCd=SHData&lstnum1=6&file_seq=1
+lang_ko__SEPARATOR__food__SEPARATOR__http://web.joongbu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000053204&fileSn=0
+lang_ko__SEPARATOR__working class__SEPARATOR__http://www.disciplenations.org/media/7A-%EC%98%88%EC%88%98%EB%8B%98%EC%9D%98-%EC%84%B1%EC%9E%A5_Growth-of-Jesus.ppt
+lang_ko__SEPARATOR__configure__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/Computer_Network_2004_01/Chapter15(PPP).ppt
+lang_ko__SEPARATOR__configure__SEPARATOR__http://www.afact.asia/Files/powerpoint/31stAFACTMid-termsession/31st%20AFACT%20Mid-term%20session%20%20DTI%20progress%201.3.ppt
+lang_ko__SEPARATOR__generated__SEPARATOR__http://www1.suwon.ac.kr/~jinhkim/conference/kss052607.ppt
+lang_ko__SEPARATOR__generated__SEPARATOR__http://quanta.hanyang.ac.kr/Lecture/2016_2/Chapter%208.ppt
+lang_ko__SEPARATOR__impossible__SEPARATOR__http://optics.hanyang.ac.kr/~choh/degree/natural_science/2nd-laser(choh).ppt
+lang_ko__SEPARATOR__impossible__SEPARATOR__http://www.kolsa.or.kr/neopress/admin/uploads/t_bulletin/kisa_200310231.ppt
+lang_ko__SEPARATOR__impossible__SEPARATOR__https://kto.visitkorea.or.kr/file/download/bd/1329358410715.ppt.kto
+lang_ko__SEPARATOR__issue__SEPARATOR__http://www.fsc.go.kr/downManager?bbsid=BBS0109&no=90403
+lang_ko__SEPARATOR__issue__SEPARATOR__http://www.esdc.go.kr/bbs/dataFile/fileDown.do;jsessionid=+9+9YGngPWqkD2nFvapAXj7g.node10?bbs_mst_idx=BM0000000257&data_idx=BD0000000005&attach_idx=BF0000000016
+lang_ko__SEPARATOR__issue__SEPARATOR__http://kmis.or.kr/3_sig/comm_data/comm(oct)1.ppt
+lang_ko__SEPARATOR__issue__SEPARATOR__http://nuclear.kaist.ac.kr/?module=file&act=procFileDownload&file_srl=10976&sid=5d85fc86b9019bd6df292052a63e8bf7&module_srl=278
+lang_ko__SEPARATOR__issue__SEPARATOR__https://cec.ssc.ac.kr/content/pds/down.asp?fileid=283
+lang_ko__SEPARATOR__dissolved__SEPARATOR__http://busan2.thecube.kr/bbs/table/board/upload/Chapter25%28%BC%F6%C1%A4%BA%BB%29.ppt
+lang_ko__SEPARATOR__folder__SEPARATOR__https://kudos.knu.ac.kr/kor/download/db/Write_n_Cite_MSWord.ppt
+lang_ko__SEPARATOR__folder__SEPARATOR__https://hemos.postech.ac.kr/wp-content/uploads/2015/07/MS-%EC%95%84%EC%9B%83%EB%A3%A9-%EB%A9%94%EC%9D%BC-%EB%B0%B1%EC%97%85-%EB%B0%8F-%EB%B3%B5%EC%9B%90-%EA%B0%80%EC%9D%B4%EB%93%9C.ppt
+lang_ko__SEPARATOR__folder__SEPARATOR__https://www.copyright.or.kr/fairuse/itsam/inspection/data/download.do?brdctsno=21&brdctsfileno=23
+lang_ko__SEPARATOR__limited__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/comp-arch/par-proc/ch04.ppt
+lang_ko__SEPARATOR__limited__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/team6hw4.ppt
+lang_ko__SEPARATOR__limited__SEPARATOR__https://ealc.wustl.edu/files/ealc/imce/AATK2010_MLEE_JSKim_Revised_C29.ppt
+lang_ko__SEPARATOR__limited__SEPARATOR__http://www.sigin.or.kr/scientific/sensor2007/Session11.ppt
+lang_ko__SEPARATOR__limited__SEPARATOR__http://borame.cs.pusan.ac.kr/ai_home/lecture/NLP2007/FSNLP-20070530%EC%88%98%EC%97%85.ppt
+lang_ko__SEPARATOR__inflated__SEPARATOR__http://kmis.or.kr/3_sig/info_data/mgt(jun)1.ppt
+lang_ko__SEPARATOR__time zone__SEPARATOR__http://www.esg.or.kr/fronts/download.asp?download=IBS%EC%A0%84%EB%AC%B8%EA%B0%95%EC%A2%8C%20%EA%B0%95%EC%9D%98.zip&downpath=file
+lang_ko__SEPARATOR__time zone__SEPARATOR__http://www.fureun.com/wp-content/uploads/2016/05/FUREUN_COMPANY_INTRODUCTION_2016.ppt
+lang_ko__SEPARATOR__widget__SEPARATOR__https://www.data.go.kr/comm/file/download.do?atchFileId=FILE_000000001219180&fileDetailSn=0
+lang_ko__SEPARATOR__review__SEPARATOR__http://training.cochrane.org/uploads/resources/downloadable_resources/Korean/2.%20Writing%20a%20protocol%20-%20Korean%20v1.1-font%20changed.ppt
+lang_ko__SEPARATOR__review__SEPARATOR__http://www.showbox.co.kr/FDS/SLib/2015%EB%85%84%203%EB%B6%84%EA%B8%B0%20%ED%95%9C%EA%B8%80%20%EB%B2%84%EC%A0%84%20V5(4).PPT
+lang_ko__SEPARATOR__review__SEPARATOR__http://dasan.sejong.ac.kr/~sipark/class2010/vc/VC06.ppt
+lang_ko__SEPARATOR__review__SEPARATOR__http://mrl.snu.ac.kr/workshop/Osteology2011/%EC%97%B0%EA%B5%AC%EC%9C%A4%EB%A6%AC2%20(%EB%B0%95%EB%AC%B8%EC%84%9D)2.ppt
+lang_ko__SEPARATOR__client__SEPARATOR__http://portal.hoseo.edu/download.jsp?fileName=MTQ5NjEwOTU2NjgwMzI4MjM5NTg0OA%3D%3D&realfileName=yKO8rbTrx9CxsyC%2B27Chu%2FPIrSC757%2FrwNogwaK80yCwocDMteUucHB0
+lang_ko__SEPARATOR__client__SEPARATOR__http://www.addictionacademy.org/func/download.php?path=L2hvbWUvdmlydHVhbC9hZGRpY3Rpb24vaHRkb2NzL3VwbG9hZC9hYnN0cmFjdC8xNDk3MjU1MzQyMy01wMzAr7nMLnBwdA==&filename=MTQ5NzI1NTM0MjMtNcDMwK+5zC5wcHQ=
+lang_ko__SEPARATOR__client__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2009_09_Internet_Protocol_and_Programming/jhkim/5week/Lecture_Note_5.ppt
+lang_ko__SEPARATOR__client__SEPARATOR__http://www.archives.go.kr/next/common/downloadBoardFile.do?board_seq=48169&board_file_seq=2
+lang_ko__SEPARATOR__client__SEPARATOR__https://www.hit.ac.kr/wl/cuvic.ppt
+lang_ko__SEPARATOR__client__SEPARATOR__http://pl.postech.ac.kr/~gla/cs101/slide/OpenAFS.ppt
+lang_ko__SEPARATOR__client__SEPARATOR__https://onlinead.or.kr/wp-content/themes/onlinead/down.php?file=uploads/bbs/landing/file/%EC%9D%B4%EB%8B%A4%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%EC%A6%88.ppt
+lang_ko__SEPARATOR__pivotal__SEPARATOR__http://physicsknu.org/bbs/kisboard.html?code=data_03&action=download&num=24&file_position=0
+lang_ko__SEPARATOR__maths__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/motions.ppt
+lang_ko__SEPARATOR__maths__SEPARATOR__http://math.ewha.ac.kr/~jylee/Finite/TextBook.hwp/Chap01.pps
+lang_ko__SEPARATOR__maths__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/knotsgauge.ppt
+lang_ko__SEPARATOR__maths__SEPARATOR__http://ropas.snu.ac.kr/~ta/010.142/06/4.ppt
+lang_ko__SEPARATOR__maths__SEPARATOR__http://matrix.skku.ac.kr/sglee/2002-math-skku/2002-math.ppt
+lang_ko__SEPARATOR__maths__SEPARATOR__https://www.researchgate.net/profile/Nogill_Park/publication/303968326_Method_of_Vibration_Suppresion/links/5760b8ac08ae227f4a3f2c8c/Method-of-Vibration-Suppresion
+lang_ko__SEPARATOR__maths__SEPARATOR__http://ce.kiu.ac.kr/~kykim/WinApp2016/Chap6.ppt
+lang_ko__SEPARATOR__maths__SEPARATOR__http://kostat.go.kr/inner/region/reg_03/6/index.board?bmode=download&bSeq=&aSeq=253194&ord=1
+lang_ko__SEPARATOR__ratio__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/team3hw4.ppt
+lang_ko__SEPARATOR__ratio__SEPARATOR__http://www.koreanhypertension.org/download/56th_4.ppt
+lang_ko__SEPARATOR__ratio__SEPARATOR__https://oshri.kosha.or.kr/cms/board/Download.jsp?fileId=10750
+lang_ko__SEPARATOR__ratio__SEPARATOR__http://ep.knou.ac.kr/comm/downloadFile.do?fileId=FLK00050100000813901
+lang_ko__SEPARATOR__ratio__SEPARATOR__http://biochem.yonsei.ac.kr/board/lib/down.php?boardid=board_Etc&no=108&num=1
+lang_ko__SEPARATOR__ratio__SEPARATOR__http://him.phys.pusan.ac.kr/pds_him/HIM/2008/2008-04/3_Chae_HIM.ppt
+lang_ko__SEPARATOR__ratio__SEPARATOR__http://www.snwcorp.com/IDATA/engine_history.ppt
+lang_ko__SEPARATOR__worm__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=OT_DATE001&fileName=4062720130430161530.ppt&part=2&seq=18735
+lang_ko__SEPARATOR__reading__SEPARATOR__http://ce.kiu.ac.kr/~kykim/ai/2017/Turing.ppt
+lang_ko__SEPARATOR__reading__SEPARATOR__https://web.stanford.edu/dept/korean/past-aatk2012/presentation/Paper_11.ppt
+lang_ko__SEPARATOR__reading__SEPARATOR__http://medlib.snu.ac.kr/file/6262/download?token=Zx2-3i58
+lang_ko__SEPARATOR__reading__SEPARATOR__http://www.a-hana.co.kr/oh/ed-ahana.ppt
+lang_ko__SEPARATOR__reading__SEPARATOR__http://chanyi.tistory.com/attachment/cfile7.uf@20272E2F4CF37F902786AB.ppt
+lang_ko__SEPARATOR__economic__SEPARATOR__http://lsep.snu.ac.kr/?module=file&act=procFileDownload&file_srl=135668&sid=bb60092177619bf583a67b378846f08d
+lang_ko__SEPARATOR__economic__SEPARATOR__http://sepri.snu.ac.kr/sites/default/files/09-1%20%EC%A0%84%EB%A0%A5%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20-%20%EC%A0%84%EB%A0%A5%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B0%8F%EA%B2%BD%EC%A0%9C%20%EB%B0%95%EC%A2%85%EA%B7%BC%20%EA%B5%90%EC%88%98%EB%8B%98_0.ppt
+lang_ko__SEPARATOR__economic__SEPARATOR__http://kostat.go.kr/inner/region/reg_03/6/index.board?bmode=download&bSeq=&aSeq=253012&ord=2
+lang_ko__SEPARATOR__economic__SEPARATOR__http://www.wipo.int/edocs/mdocs/sme/en/wipo_kipo_kipa_ip_ge_08/wipo_kipo_kipa_ip_ge_08_www_109884.ppt
+lang_ko__SEPARATOR__economic__SEPARATOR__http://bizok.incheon.go.kr/open_content/ofc/brochure/brochureDownload.do?bro_seq=147&file_no=1
+lang_ko__SEPARATOR__physical science__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE807/spring/%EC%96%91%EC%9E%90%EC%A0%95%EB%B3%B4%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C.ppt
+lang_ko__SEPARATOR__physical science__SEPARATOR__http://www.disciplenations.org/media/4-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98-%EB%8A%A5%EB%A0%A5_Power-of-Story.ppt
+lang_ko__SEPARATOR__media__SEPARATOR__http://www.kefplaza.com/labor/down.jsp?idx=6514&fileId=6142
+lang_ko__SEPARATOR__media__SEPARATOR__http://www.koreapr.org/common_new/down.php?down_file=329.ppt&file_name=PRProfessionalcourse.ppt&no=329&table=PDS
+lang_ko__SEPARATOR__media__SEPARATOR__http://dpnm.postech.ac.kr/eece702/kt/5_1.ppt
+lang_ko__SEPARATOR__media__SEPARATOR__http://www.lculture.net/_board/updata/collo/4-1.%EA%B4%91%EA%B3%A0_%EC%86%8D_%EC%97%AC%EA%B0%80%EB%AC%B8%ED%99%94_%EC%BD%98%ED%85%90%EC%B8%A0-%EC%98%A4%EC%9E%A5%EA%B7%BC.ppt
+lang_ko__SEPARATOR__media__SEPARATOR__https://thumb.ad.co.kr/article/54/0f/fe/7f/a/268927.ppt
+lang_ko__SEPARATOR__media__SEPARATOR__http://www.yuhs.or.kr/2013_common/include/board/download.asp?con_no=80528&obj_no=79755
+lang_ko__SEPARATOR__media__SEPARATOR__https://kmuedu.kookmin.ac.kr/site/data/course.htm?mode=download&num=8&pfname=1189564869_1
+lang_ko__SEPARATOR__Trojan horse__SEPARATOR__http://www2.yonsei.ac.kr/gspa/Down/Board/Bbs-Cfile964.ppt
+lang_ko__SEPARATOR__Trojan horse__SEPARATOR__http://ihong.cau.ac.kr/Lectures/MIS_Lectures/Chapter19.ppt
+lang_ko__SEPARATOR__Trojan horse__SEPARATOR__http://www.boan.com/news/download.php?subUploadDir=200912/&savefilename=1256_38.ppt&filename=%B0%B3%C0%CE%C1%A4%BA%B8%BA%B8%C8%A3%B8%A6%20%C5%EB%C7%D1%20%B1%DD%C0%B6%BD%C5%C8%B8%B5%B5%20%C7%E2%BB%F3_%BC%BC%B9%CC%B3%AA%20%B9%DF%C7%A5%C0%DA%B7%E1_%BC%D2%C7%C1%C6%AE%C4%B7%C7%C1.ppt
+lang_ko__SEPARATOR__triggered__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000016063&fileSn=0
+lang_ko__SEPARATOR__triggered__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/soc-design/slides/M05_SystemC-%BD%C7%BD%C0(73P).ppt
+lang_ko__SEPARATOR__trash__SEPARATOR__http://cri.snu.ac.kr/cri_seminar/semi_download.php?f_name=20031125%EC%9E%84%EC%88%98%EC%A0%95.ppt&r_name=
+lang_ko__SEPARATOR__trash__SEPARATOR__http://jw4.mju.ac.kr/common/downLoad.action?siteId=archives&fileSeq=20965293
