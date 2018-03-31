@@ -40,6 +40,7 @@ def main():
         file_path = os.path.join(curr_path, 'sl_') + link_arr[0]+'_'+link_arr[1] + '_' + str(count) + '_'+'.ppt'
 
         if(link in links_have):
+            print('skipping')
             continue
 
         # download the file from this link
