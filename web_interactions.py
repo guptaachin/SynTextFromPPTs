@@ -6,8 +6,15 @@ from pprint import pprint
 # imports
 store_location = os.getcwd()+'/data'
 
-apikey = "AIzaSyCcX5bGHUDcfus-VBu0x0TnUDaXB1SbEa8" # this is the apikey
-search_eng_id = '016135740530810151881:rfvtqvhszgm' #Please read README to get api key
+apikey = "AIzaSyDmR8JqGz2MzU-9XOqIdOzIU-ig6ScEELg" # this is the apikey
+search_eng_id = '009893106914731719450:so9uldhqkus' #Please read README to get api key#
+
+# apikey - AIzaSyCcX5bGHUDcfus-VBu0x0TnUDaXB1SbEa8
+# search_eng_id - 016135740530810151881:rfvtqvhszgm
+
+
+
+
 
 # is a singleton class
 class Google_Api:
@@ -28,8 +35,8 @@ class Google_Api:
               lr=language
             ).execute()
         except Exception as e:
-            print("ERROR OCCURRED for lang - ", language, 'word ',word,' error = ', e)
-            return
+            print("GPI Error for lang - ", language, 'word ',word,' error = ', e)
+            return []
 
         return self.get_links(res)
 
@@ -40,8 +47,8 @@ class Google_Api:
             links_list.append(item['link'])
 
         return links_list
-
-    def download(self, url, file_name):
+    @staticmethod
+    def download(url, file_name):
         try:
             u = urlopen(url)
         except Exception as e:

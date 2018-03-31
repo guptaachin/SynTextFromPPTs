@@ -2,23 +2,31 @@
 
 ######################### Arguments ##########################################
 # the transcription file, which is the output from extract_bounding_box.py
-transcription = r'C:\Users\ismailej\Desktop\slides\slide\manual_part9\unique\transcription_sample.txt'
+# transcription = r'C:\Users\ismailej\Desktop\slides\slide\manual_part9\unique\transcription_sample.txt'
 # the final transcriptions in csv format
-outfile = open(r'C:\Users\ismailej\Desktop\OCR\annotatation.csv', 'w')
+# outfile = open(r'C:\Users\ismailej\Desktop\OCR\annotatation.csv', 'w')
 # the images extracted by extract_bounding_box.py
-images_folder = r'C:\Users\ismailej\Desktop\OCR\images'
+# images_folder = r'C:\Users\ismailej\Desktop\OCR\images'
 # the annotated images will be stored in the following location
-images_annotated_folder = r'C:\Users\ismailej\Desktop\OCR\images_annotated'
+# images_annotated_folder = r'C:\Users\ismailej\Desktop\OCR\images_annotated'
 # the below is used for removing the duplicates, so before adding the image
+# annotated_folder = os.path.join(os.getcwd(), 'annotated_folder')
 # we will check if the image is already contained in the existing annotation list
-annotated_folder = r'C:\Users\ismailej\Desktop\Annotation'
 ###############################################################################
-
 
 import csv # write in csv format
 import os
 import hashlib
 from PIL import Image, ImageDraw
+
+
+annotated_folder = os.path.join(os.getcwd(), 'annotated_folder')
+data_folder = os.path.join(os.getcwd(), 'data')
+images_annotated_folder = os.path.join(os.getcwd(), 'images_annotated_folder')
+images_folder = os.path.join(os.getcwd(), 'images')
+transcription = os.path.join(data_folder, 'transcription.txt')
+outfile = open(os.path.join(data_folder, 'annotation.csv'), 'w')
+
 
 fields = ['file', 'x0','y0', 'width', 'height', 'trans', 'md5hash']
 writer = csv.DictWriter(outfile, delimiter=',', lineterminator='\n', fieldnames=fields)
@@ -35,7 +43,7 @@ if annotated_folder:
                     annotation[row['md5hash']] = row['file']
 
 def crop_image(image, rectangle):
-    cropped = image.crop([rectangle[0], rectangle[1], rectangle[0] + rectangle[2], rectangle[1] + rectangle[3] ]  )
+    cropped = image.crop([rectangle[0], rectangle[1], rectangle[0] + rectangle[2], rectangle[1] + rectangle[3]])
     bw = cropped.convert('1')
     width, height = bw.size
     pix = bw.load() # getting the pixel values
@@ -76,22 +84,27 @@ def crop_image(image, rectangle):
     
     return new_rect
     
-    
-    
+
 first = True
 first_below = True
 ppt = ''
 name = image = ''
 
+def pause_n_print(log):
+    print(log)
+    input('paused')
+
 with open(transcription) as fi:
     for lines in fi:
+        # pause_n_print('lines = '+lines)
         lines = lines.strip()
         if 'SlideName' in lines:
             elements = lines.split()
             ppt_name = elements[2]
             #outfile.write(lines + '\n')
-            if first == False:
-                image.save(os.path.join(images_annotated_folder, name))
+            # if first == False:
+            #     pause_n_print('ouiouiouiouiouiouiouiouiouiouiouioui')
+            #     image.save(os.path.join(images_annotated_folder, name))
             first = False
             first_below = True
         elif 'Slide' in lines:
@@ -114,11 +127,18 @@ with open(transcription) as fi:
             
             # Now we have to do the processing to make the bounding box
             # tight
-            new_rect = crop_image(image, rectangle)
+            # new_rect = crop_image(image, rectangle)
+            # new_rect[2] = new_rect[0] + new_rect[2]
+            # new_rect[3] = new_rect[1] + new_rect[3]
+            # new_rect[1], new_rect[3] = new_rect[3], new_rect[1]
+
+            # new_rect = crop_image(image, rectangle)
+            new_rect = rectangle
             new_rect[2] = new_rect[0] + new_rect[2]
             new_rect[3] = new_rect[1] + new_rect[3]
             new_rect[1], new_rect[3] = new_rect[3], new_rect[1]
-            drawable.rectangle(new_rect, outline=(255,0,0,255))
+
+            drawable.rectangle(new_rect, outline=(255, 0, 0, 255)) # red box
             trans = ' '.join(elements[4:])
             if dig not in annotation or name == annotation[dig]:
                 annotation[dig] = name
