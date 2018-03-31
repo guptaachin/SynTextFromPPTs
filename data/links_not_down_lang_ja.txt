@@ -12,3 +12,14 @@ http://cse.fra.affrc.go.jp/ichimomo/fish/akamine1.ppt__SEPARATOR__HTTP Error 403
 https://unit.aist.go.jp/igg/igi2-rg/GIS_use/GIS_use.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
 http://cse.fra.affrc.go.jp/ichimomo/fish/kensyu2015/ichinokawa1-2.ppt__SEPARATOR__HTTP Error 403: Forbidden
 https://www.zenkyo.or.jp/it/pdf/report18_1/05_chapter_2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.fukushihoken.metro.tokyo.jp/joho/soshiki/kourei/zaishien/oshirase/28thtp-boshuu.files/01.28thtp-gaiyou.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/operating_systems/gen/slides/5-memory-management.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.kosho.org/Publication/NI2002/NI2002.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.pref.tochigi.lg.jp/m04/education/gakkoukyouiku/seitoshidou/documents/ijimekounaikensyu.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www-he.scphys.kyoto-u.ac.jp/gakubu/P1/P1-08/DBD.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.solidworks.es/sw/images/content/Training/2010_Bridge_Instructor_Guide_JPN.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/operating_systems/gen/slides/6-filesystem.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/operating_systems/gen/slides/0-os-intro.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.solidworks.com.cn/sw/images/content/Training/Flow_Simulation_Instructor_Guide_2010_JPN.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.koryu.or.jp/kaohsiung/ez3_contents.nsf/15aef977a6d6761f49256de4002084ae/61bb2f916e7f9b934925741600269dc4/$FILE/ppt_sai.ppt__SEPARATOR__HTTP Error 404: Page Not Found
+https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/operating_systems/gen/slides/2-C-and-assembly.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
