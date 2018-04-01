@@ -47,7 +47,8 @@ def main():
         url = web_interactions.Google_Api.download(link, file_path)
 
         if url is not None:
-            write_n_flush(links_nd_store, url)
+            if(url is not 'None'):
+                write_n_flush(links_nd_store, url)
         else:
             write_n_flush(links_already_file, link)
 

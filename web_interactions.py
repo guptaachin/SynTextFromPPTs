@@ -18,16 +18,16 @@ SEPARATOR = '__SEPARATOR__'
 # search_eng_id = "000402284428032715281:9tf38txb44o"
 #
 # achingupta1757
-# apikey = "AIzaSyAB06oSYNb212mEvauGHkieqkXV_wxR3i0"
-# search_eng_id = "013024238142372970011:tcdycx5c9gy"
+apikey = "AIzaSyAB06oSYNb212mEvauGHkieqkXV_wxR3i0"
+search_eng_id = "013024238142372970011:tcdycx5c9gy"
 #
 # achingupta1758
 # apikey = "AIzaSyBmQ4govoQdiAdYFepvsLOgI8RQK7Df5zI"
 # search_eng_id = "003684733956413315411:4-am4d9jjty"
 #
 # achingupta1759
-apikey = "AIzaSyDmR8JqGz2MzU-9XOqIdOzIU-ig6ScEELg"
-search_eng_id = "013649291752998755986:nluep9yq7ks"
+# apikey = "AIzaSyDmR8JqGz2MzU-9XOqIdOzIU-ig6ScEELg"
+# search_eng_id = "013649291752998755986:nluep9yq7ks"
 
 
 class Google_Api:
@@ -49,10 +49,10 @@ class Google_Api:
               lr=language
             ).execute()
         except Exception as e:
-            print("GPI Error for lang - ", language, 'word ',word,' error = ', e)
-            return []
+            print("GPI Error = ", e)
+            return [], False
 
-        return self.get_links(res)
+        return self.get_links(res), True
 
     def get_links(self, res):
         items = res.get('items', [])

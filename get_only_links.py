@@ -30,24 +30,28 @@ def main():
     for lang_index in range(0, len(l_lines)):
         for word_index in range(0, len(w_lines)):
 
-            if(w_lines[word_index] in words_have):
-                continue
-
             word = w_lines[word_index].rstrip().strip()
             lang = l_lines[lang_index].rstrip().strip()
+
+            if (word in words_have):
+                continue
 
             print('new word encountered = ',word,' for lang = ',lang)
 
             # make a google api call
-            links_list = gac.get_rest_object(word, lang)
+            links_list, call_successful = gac.get_rest_object(word, lang)
+
+            # record all the cases when the words did not return any result.
+            if(call_successful and len(links_list) == 0):
+                print('writing for bogus word - ','None '+word)
+                links_list.append('None '+word) # will append 'None fallacious'
 
             for link in links_list:
-                print(link)
+                print('writing ',link)
                 if link not in links_have:
                     links_have.add(link)
                     string_to_store = lang+SEPARATOR+word+SEPARATOR+link
                     write_n_flush(links_d_store, string_to_store)
-
 
     words_file.close()
     links_d_store.close()
