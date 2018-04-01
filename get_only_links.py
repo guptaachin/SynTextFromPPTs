@@ -46,12 +46,23 @@ def main():
                 print('writing for bogus word - ','None '+word)
                 links_list.append('None '+word) # will append 'None fallacious'
 
+            # case when the results were all duplicates
+            n_written = 0
+
             for link in links_list:
-                print('writing ',link)
                 if link not in links_have:
+                    print('writing ', link)
                     links_have.add(link)
                     string_to_store = lang+SEPARATOR+word+SEPARATOR+link
                     write_n_flush(links_d_store, string_to_store)
+                    n_written+=1
+
+            if(n_written == 0 and call_successful):
+                print('results with repetition - ',word)
+                string_to_store = lang + SEPARATOR + word + SEPARATOR + 'None '+word
+                write_n_flush(links_d_store, string_to_store)
+
+            # input('wrote')
 
     words_file.close()
     links_d_store.close()

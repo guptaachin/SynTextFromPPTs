@@ -6,8 +6,8 @@ import urllib
 # imports
 SEPARATOR = '__SEPARATOR__'
 # guptaachin01
-# apikey = "AIzaSyCmyluZAx9OEqjwi2zKmBfvGnu4KrTEstQ"
-# search_eng_id = '009893106914731719450:so9uldhqkus'
+apikey = "AIzaSyCmyluZAx9OEqjwi2zKmBfvGnu4KrTEstQ"
+search_eng_id = '009893106914731719450:so9uldhqkus'
 
 # achingupta3000
 # apikey = "AIzaSyCcX5bGHUDcfus-VBu0x0TnUDaXB1SbEa8"
@@ -18,8 +18,8 @@ SEPARATOR = '__SEPARATOR__'
 # search_eng_id = "000402284428032715281:9tf38txb44o"
 #
 # achingupta1757
-apikey = "AIzaSyAB06oSYNb212mEvauGHkieqkXV_wxR3i0"
-search_eng_id = "013024238142372970011:tcdycx5c9gy"
+# apikey = "AIzaSyAB06oSYNb212mEvauGHkieqkXV_wxR3i0"
+# search_eng_id = "013024238142372970011:tcdycx5c9gy"
 #
 # achingupta1758
 # apikey = "AIzaSyBmQ4govoQdiAdYFepvsLOgI8RQK7Df5zI"
