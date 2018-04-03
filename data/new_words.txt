@@ -1,748 +1,1344 @@
-freeware
-laptop
-data mining
-explain
-deterred
-process
-agrarian
-host
-contour line
-valid
-disastrous
-virtual
-thread
-essential
-gigabyte
-fallacious
-legislature
-buffer
-quashed
-genetics
-shift
-joystick
-far reaching
-algorithm
-datum
-captcha
-botany
-geophysics
-funnel
-South Magnetic Pole
-syntax
-popularised
-utility
-roused
-XML
-strengthened
-virtual memory
-divine right
-positive
-legend
-programmer
-climate
-cartographer
-altitude
-printer
-format
-Southern Hemisphere
-disbanded
-Eastern Hemisphere
-Marxism
-chemistry
-blocked
-solicited
-virus
-imperialism
-radiology
-bite
-food
-working class
-configure
-generated
-heartened
-impossible
-issue
-persuasive
-restored
-dissolved
-artisans
-folder
-limited
-inflated
-time zone
-widget
-review
-client
-pivotal
-maths
-ratio
-worm
-Northern Hemisphere
-deteriorated
-reading
-economic
-catastrophic
-biased
-physical science
-media
-microbiology
-prime meridian
-climatologist
-Trojan horse
-triggered
-exabyte
-unrealistic
-inflamed
-concealed
-Petri dish
-DVD (digital versatile disc)
-trash
-weigh
-flawed
-compress
-divided
-road atlas
-medicine
-manufacturing
-pipette
-industry
-South America
-architecture
-industrial
-encrypt
-distorted
-north
-analemma
-long term
-pirate
-development
-blogger
-pacified
-laser printer
-awakened
-scientist
-composition
-modernising
-research
-transforming
-lakes
-protested
-stabilised
-ornithology
-land
-concept map
-honest
-calmed
-untenable
-transformed
-boosted
-router
-serious
-executive
-finder
-DNS (domain name system)
-intelligentsia
-world
-CPU (central processing unit)
-phishing
-imports
-elevation
-interface
-keyword
-lab
-queue
-iteration
-health
-laboratory
-theory
-trail blazing
-prompted
-destructive
-element
-books
-undo
-baseless
-herpetology
-aristocracy
-reboot
-useful
-motion
-astrophysics
-storage
-suppressed
-catalyst
-motherboard
-science
-social networking
-parliament
-control
-Asia
-northeast
-save
-clamped down
-society
-exacerbated
-terabyte
-Earth
-vivid
-popular sovereignty
-signpost
-censored
-labour
-master
-significant
-greenhouse
-dishonest
-elevated
-window
-array
-root
-atom
-urban
-capital city
-ruinous
-immunology
-promoted
-great circle
-weather map
-North Pole
-capital
-graphics
-expedient
-map
-paraphrase
-brainstorm
-equator
-academia
-vital
-emotive
-political
-topography
-IP address
-file
-annotate
-resolution
-ROM (read only memory)
-philosophes
-WWW
-contained
-middle class
-convincing
-teminal
-latitude
-democracy
-test tube
-drag
-app
-floppy disk
-dynamic
-North Magnetic Pole
-compass rose
-retort
-lepidoptery
-scale
-totalitarianism
-evolution
-region
-credible
-operating system
-state
-spammer
-monitor
-organism
-far fetched
-software
-upper class
-Antarctic Circle
-conclusion
-held back
-electrochemist
-career
-uplifted
-writing
-trade
-projection
-welfare state
-realistic
-language
-annotated bibliography
-privacy
-bitmap
-preposition
-regressed
-link
-gravity
-screen
-download
-bit
-typeface
-communism
-laws
-particle
-evaluate
-cyberspace
-integer
-scroll bar
-spurred
-IDL
-water
-biochemistry
-subtraction
-led to
-electricity
-spurious
-prospered
-junk mail
-mollified
-sapped
-conservative
-developed
-tumultuous
-historiographical activity
-argue
-physics
-stemmed
-encryption
-uprooting
-short term
-stimulated
-mobilised
-fruits
-prohibited
-exhausted
-clip art
-webmaster
-antipodes
-login
-set off
-bandwidth
-calamitous
-matter
-dispersed
-miles
-browser
-meteorology
-city
-tenses
-firmware
-stunted
-lurking
-profound
-border
-article
-propagandist
-verb
-cloud computing
-hacker
-negative
-scroll
-absolutism
-portal
-syndicalism
-template
-server
-representation
-kilometers
-atlas
-scanner
-globe
-upload
-critically analyse
-internet
-microbiologist
-territory
-quelled
-cybercrime
-inflation
-selective
-cartography
-pop-up
-RAM (random access memory)
-flash drive
-log out
-ground breaking
-military
-delete
-instigated
-supercomputer
-tropics
-blog
-revolutionary
-clergy
-meaningful
-experiment
-user
-weather
-nation
-balanced
-northwest
-taxation
-conservation
-compare
-enter
-print
-debug
-commercial
-socialism
-shareware
-seismology
-agitated
-volume
-firewall
-Unix
-ominous
-telescope
-drained
-map projection
-malware
-country
-theocracy
-spyware
-dashboard
-analyse
-justify
-hypertext
-geographic coordinates
-feudalism
-Antarctica
-URL
-ichthyology
-inspired
-bug
-participation
-fascism
-piracy
-smothered
-encouraged
-enriched
-email
-Arctic
-version
-command
-energy
-page
-map-maker
-oppressed
-forerunner
-exports
-repressed
-Java
-tissue
-entomology
-shattering
-topographic map
-urged
-aroused
-capitalist
-constitutional monarchy
-south
-bookmark
-curbed
-spam
-degree of latitude
-decimated
-words
-reformed
-CD
-mainframe
-wearied
-World Wide Web
-mountain
-platform
-island
-contrast
-microscope
-mountain range
-International Date Line
-fact
-caps lock
-village
-important
-chemical
-hospital
-resisted
-restricted
-cookie
-document
-restrained
-punished
-far sighted
-path
-burette
-mirror
-sparked
-digital
-neural network
-area
-radicalised
-meteorologist
-incited
+Gratuity
+Planning
 overpowered
-compile
-scale bar
-commerce
-Africa
-tag
-continent
-notebook computer
-proletariat
-keyboard
-hypothesis
-political map
-brought about
-sensationalist
-ocean
-provoked
-table
-inbox
-provincial
-Internet
-scattered
-security
-hemisphere
-doubtful
-memory
-html
-chart
-desktop
-landform
-web host
-mass
-production
-one sided
-clip board
-website
-strained
-motivated
-cite
-macro
-GPS
-restore
-mercantilism
-tributary
-scan
-alphabets
-database
-offline
-surf
-interpret
-government
-peasantry
-nobility
-phoney
-meridian
-geography
-computer program
-screenshot
-rocked
-ideology
-observe
-phase
-southwest
-froze
-southeast
-option
-multimedia
-net
-consolidated
-byte
-key
-fuelled
-wireless
 real-time
-subdued
-constitution
-innovative
-define
-unified
-frame
-cache
-debt
-boot
-copy
-dot
-timely
-street map
-password
-environment
-Bunsen burner
-magnetic pole
-wound back
-protocol
-CD-ROM
-dot matrix
-FAQ (frequently asked questions)
-reasonable
-emboldened
-wiki
-paste
-toolbar
-open source
-variable
-mineralogy
-flash
-molecule
-discuss
-flaming
-fatigued
-domain name
-fossil
-quantum mechanics
-shell
-online
-cuvette
-unreliable
-kindled
-halted
-dubious
-observatory
-magnetism
-upset
-revenue
-hyperlink
-bathymetric map
-shift key
-laissez-faire
-disk
-west
-hack
-global Warming
-pole
-QWERTY
-bus
-colonialism
-skewed
-icon
-volumetric flask
-Arctic Circle
+scroll
+fuelled
+contrast
 autocracy
-outline
-domain
-stretched
-spreadsheet
-workstation
-azimuth
-longitude
-measure
-improved
-sea level
+Tax
+commerce
+Fiscal
+Premature
+Process
+Strategy
+Money manager
+crash
+Collection
+RAM (random access memory)
 unsettled
-unsettling
-status bar
-nationalism
-addition
-east
-spear heading
-nautical chart
-title
+loss
+Inferior
+disbanded
+adverse
+Advertisement
+External
+Banking
 computer
-gender
-node
-shaking
-temperature
-capitalism
-hardware
-peak
-biology
-devastating
-bourgeoisie
-mineral
-deficit
-astronomy
-analog
-propagandised
-graduated cylinder
-zip
-geology
-animals
-imbalanced
-network
-elections
-Europe
-militarism
+wearied
 cell
-history
-disoriented
-degree of longitude
-flask
-broadband
-font
-plug-in
-plausible
-South Pole
-describe
-summarise
-paleontology
-glassware
-snapshot
-script
-word processor
+stemmed
+middle class
+GNP
+healing
+industry
+selective
 river
-virologist
-deceptive
-Mercator Projection
-crippled
-demoralised
-logic
-kernel
-sea
-sound
-program
-depleted
-Australia
-stirred up
+catastrophic
+media
+DNS (domain name system)
+element
+html
+pole
+nautical chart
+climatologist
+Funding
+Reparation
+bit
+continent
+Intangible
+Zeal
+North Pole
+signpost
+Consumer
+Perpetuity
+roused
+sparked
+notebook computer
+toolbar
 binary
-Tropic of Capricorn
-user interface
-mouse
-destabilising
-output
-separated
-runtime
-data
-hardened
-anarchism
-search engine
-profit
-modem
-text editor
-literature
-volcanology
-Western Hemisphere
+stock
+Income
+Nepotism
+world
+privacy
+tenses
+Indemnity
+Simplification
+biased
+Differentiation
+conservation
+Investment
+cloud computing
+executive
+North America
+format
+Selling
+Equilibrium
+Subsidy
+ROM (read only memory)
+scale
+Retail
+seismology
+Economics
+Restriction
+colonialism
+mineralogy
+Sustainability
+digital
+Arbitrary
+Invoice
+Remuneration
+meaningful
+time zone
+innovative
+Hawk
+halted
+Lend
+Transaction
+script
+baseless
+elevation
+Soybeans
+Diversification
+computer program
+Variable
+desktop
+froze
+hypertext
+Europe
+Calculation
+ground breaking
+Ultimate
+magnetism
+Tax-deferred
+impossible
+globe
+tropics
+Circulation
+Incentive
+Maintain
+Solvent
+Wealth
+Wisdom
+aristocracy
+Allocate
+unrealistic
+DVD (digital versatile disc)
+fateful
+weigh
+database
+wiki
+Ordinance
+Coupons
 overwrought
-beaker
+tax
+reformed
+burette
+mercantilism
+Graph
+data mining
+Merchandise
+Growth
+lab
+Ration
+Keogh Plan
+microbiologist
+spreadsheet
+surf
+Appropriate
+Socioeconomic
+lakes
+city
+volcanology
+Fix
+Discretionary income
+nation
+meteorology
+elevated
+Convince
+Free enterprise
+Portfolio
+Australia
+text editor
+electricity
+prohibited
+shell
+Stipend
+Advantage
+Indicator
+Reduce
+Buyers market
+Split
+Legality
+GPS
+radicalised
+balanced
+frame
+map-maker
+improved
+urged
+Accreditation
+Annuity
+Durable
+XML
+debt
+solicited
+academia
+latitude
+dire
+hospital
+Equity
+Establishment
+Prosperity
+Risk
+Theory
+Unanimous
+skewed
+bite
+calamitous
+Diversity
+integer
+awakened
+stabilised
+Consumption
+Dowry
+Segment
+cuvette
+Niche
+Removal
+Northern Hemisphere
+research
+ichthyology
+window
+master
+hacker
+set off
+telescope
+Claim
+Complexity
+paleontology
+boot
+path
+funnel
+critically analyse
+Approval
+unsettling
+Barter
+bandwidth
+worsened
+Levy
+Margin
+Amortize
+root
+Negotiate
+Questionnaire
+absolutism
+concept map
+host
+workstation
+currency
+Expansion
+capitalist
+longitude
+algorithm
+laws
+snapshot
+phoney
+food
+emotive
+verb
+Opinion
+online
+Sending
+World Wide Web
+captcha
+define
+Surplus
+agitated
+Amend
+Arithmetic
+Depreciation
+emoticon
+Build
+Owe
+clamped down
+disk
+shattering
+monarchy
+Quagmire
+ideology
+Information
+status bar
+worm
+Commodities
+regressed
+Unix
+Financing
+misleading
+limited
+forerunner
+Cheap
+constitution
+Facility
+Underwriting
+Requisition
+Clearance
+architecture
+prospered
+Receive
+WWW
+search engine
 assembly
 reactionary
-misleading
-exaggerated
-sovereignty
-relief map
-fateful
-Tropic of Cancer
-username
-web
-establishment
-united
-map-making
-adverse
-rose
-backup
-opportune
-monarchy
-thermometer
-watch glass
-decompress
-worsened
-whipped up
-dire
-application
-home page
-parallel
-global
-emoticon
-flowchart
+Glut
+Internet
+node
+Memorandum
+ratio
+untenable
+border
+Hierarchy
+Reaction
+microbiology
+Vendor
+interest
+Judgment
+state
+Performance
+destabilising
+Measure
+wound back
+landform
+Intense
+appreciate
+Pension
+Regulation
+chart
+Wage
+persuasive
+annotated bibliography
+server
+finder
+catalyst
+Spiral
+Expense
+stirred up
+biochemistry
+Industrial
+Complaint
+Monetary
+kilometers
+destructive
+scanner
+north
+molecule
+credible
+Operation
+region
+Encouragement
+Antarctica
+climate
+IDL
+Allegation
+Resource
+website
+quelled
+Competitor
+meteorologist
+screen
+military
+Marxism
+Organization
+led to
+Depressed
+theocracy
+Basis points
+Participation
+Revenue
+South Pole
+Reply
+Index
+blog
+Generate
+Consideration
+Monopoly
+deficit
+oppressed
+fascism
+Research
+Subsist
+icon
+Trim
 podcast
+Covenant
+Unrecoverable
+recession
+runtime
+Demand
+Exchange
+Cancellation
+watch glass
+Negligence
+Trade
+Unregulated
+network
+Adviser
+dishonest
+Autonomy
+Capitalism
+proletariat
+spyware
+herpetology
+sea
+Market
+subtraction
+modernising
+Curve
+drag
+career
+Arctic Circle
+Annex
+Accept
+Forecast
+Resignation
+Shortage
+Superior
+cite
+Refund
+Tycoon
+resisted
+Balanced budget
+Reduction
+document
+production
+enter
+suppressed
+Results
+gender
+particle
+Galloping
+urban
+Austerity
+sea level
+parallel
+mineral
+Decline
+freeware
+gigabyte
+Destitute
+Unique
+title
+Preempt
+Transfer
+country
+Trojan horse
+health
+home page
+Improvements
+whipped up
+Broker
+industrial
+Bankrupt
+Boilerplate
+history
+Eastern Hemisphere
+Explanation
+maths
+Unit
+conservative
+prime meridian
+Antarctic Circle
+bug
+Graft
+Restitution
+totalitarianism
+Accrual
+road atlas
+Notion
+program
+Defer
+Entrepreneur
+peasantry
+Level
+Fiduciary
+Penury
+version
+Sanction
+Warranty
+Deficit
+laissez-faire
+Hazard
+elections
+output
+Uncontrollable
+cookie
+dissolved
+encrypt
+widget
+Avoid
+Mercator Projection
+Elimination
+Balloon payment
+Reach
+Version
+Wary
+Amenity
+popular sovereignty
+contour line
+mass
+Accumulation
+Hoard
+blogger
+political
+lurking
+multimedia
+byte
+value
+Paycheck
+distorted
+North Magnetic Pole
+Statutory
+island
+Tariff
+long term
+dashboard
+united
+economics
+theory
+typeface
+dot
+separated
+Increase
+Activity
+Consortium
+Negotiable
+offline
+Develop
+east
+reading
+words
+Bargain
+Order
+Labor
+portal
+logic
+censored
+Rebate
+wireless
+discuss
+compress
+Bet
+Debut
+Ratio
+prompted
+Extravagance
+outline
+Response
+Schedule
+Structure
+Various
+hardware
+clergy
+weather
+phishing
+language
+reboot
+propagandised
+Rejection
+Present
+subdued
+useful
+ruinous
+promoted
+Account
+Censure
+spam
+Deregulate
+Inform
+Model
+Creditor
+article
+philosophes
+printer
+electrochemist
+doubtful
+FAQ (frequently asked questions)
+Statistic
+sapped
+Decrease
+strengthened
+addition
+street map
+Personal
+compass rose
+short term
+Budget
+peak
+interface
+agrarian
+net
+vital
+Aggregate
+Obsolescence
+uplifted
+cyberspace
+evolution
+establishment
+animals
+concealed
+interpret
+Private
+Choices
+fact
+Recovery
+economic
+essential
+laptop
+Designation
+Goods
+Resurgence
+trash
+Charges
+Assets
+savings
+Shrinkage
+Bonanza
+Stock
+calmed
+map projection
+political map
+nobility
+copy
+invest
+Debenture
+Preset
+preposition
+shift key
+Marketing
+Embargo
+Proprietary
+profit
+tributary
+Return
+punished
+held back
+Endowment
+pipette
+Breach
+rocked
+CPU (central processing unit)
+great circle
+application
+scale bar
+volumetric flask
+Confirmation
+Macroeconomics
+boosted
+physics
+Supply
+depression
+Hedge fund
+Promotion
+brought about
+fiscal
+Run-up
+Represent
+degree of longitude
+deteriorated
+software
+Elasticity
+Western Hemisphere
+credit
+cybercrime
+username
+Comparison
+issue
+alphabets
+Termination
+Fluctuation
+Lottery
+client
+Hassle
+Panic
+exaggerated
+capitalism
+restored
+trail blazing
+biology
+spending
+revenue
+vivid
+Maximum
+laboratory
+datum
 finance
-North America
-healing
+Count on
+word processor
+Distribution
+Standard
+stock market
+Southern Hemisphere
 introduction
+Schematic
+imports
+Finance
+flaming
+plausible
+Frugal
+realistic
+militarism
+hypothesis
+sensationalist
+investment
+Collateral
+teminal
+Currency
+Delivery
+password
+Financial
+Incorporate
+divine right
+encouraged
+Collapse
+operating system
+botany
+working class
+laser printer
+Discount
+resolution
+Acquisition
+Comptroller
+geophysics
+communism
+consumer
+Patronage
+Trough
+pacified
+Petri dish
+Sense
+Option
+Refusal
+exhausted
+Trust
+parliament
+process
+evaluate
+spurious
+Injunction
+Nominal
+cartography
+Alienate
+paste
+Share
+keyword
+projection
+fossil
+Minimal
+chemical
+flash drive
+Permit
+Stimulation
+Once-burned
+transformed
+Vest
+bankruptcy
+rose
+decimated
+global
+immunology
+restrained
+Competition
+Compliant
+Sector
+email
+macro
+restore
+Iteration
+Asia
+transforming
+devastating
+Guarantee
+upload
+test tube
+Relative
+clip art
+Addition
+Imbalance
+serious
+Production
+restricted
+Till
+topographic map
+Lengthen
+Professional
+popularised
+Insurance
+Conglomerate
+Affidavit
+atom
+Entitlement
+area
+Quitclaim
+disastrous
+pop-up
+revolutionary
+astronomy
+Amount
+Potential
+folder
+quantum mechanics
+graduated cylinder
+consumer goods
+Mutual fund
+Cycle
+neural network
+High tech
+Waste
+CD-ROM
+Disposable income
+topography
+democracy
+login
+memory
+tumultuous
+territory
+Beneficiary
+Wholesale
+virtual
+aroused
+clip board
+west
+Authorization
+Downsize
+Leverage
+Subsidiary
+intelligentsia
+deceptive
+graphics
+analemma
+commercial
+domain name
+pivotal
+argue
+buffer
+south
+mountain
+retort
+syndicalism
+bathymetric map
+Afford
+Apprentice
+Query
+Dissemination
+Oil
+Queue
+antipodes
+Increment
+village
+Insolvent
+scattered
+Deductible
+plug-in
+conclusion
+negative
+Decision
+iteration
+sound
+expedient
+Extreme
+kindled
+Objective
+Policy
+Inheritance
+Custodial
+Promise
+competition
+deposit
+curbed
+broadband
+backup
+Usury
+inbox
+internet
+shaking
+mountain range
+Earth
+unified
+Product
+weather map
+Penalty
+Indigent
+Percent
+Success
+Divide
+Opportunity
+Peak
+URL
+Gold
+Dismissal
+Responsibility
+emboldened
+cash
+participation
+security
+Freeze
+profound
+Java
+user
+shareware
+Ownership
+summarise
+Zero-coupon
+Oligopoly
+divided
+labour
+international
+books
+fruits
+control
+capital city
+Arctic
+contained
+Buying
+market
+Entity
+bourgeoisie
+inflation
+Demographics
+Mention
+Appraise
+monitor
+imbalanced
+Compensation
+Quid pro quo
+configure
+Installment
+geographic coordinates
+cost
+Bills
+explain
+crippled
+Sales
+Surge
+taxation
+annotate
+Consultation
+Default
+beaker
+review
+Inflation
+physical science
+delete
+Dividend
+cache
+triggered
+matter
+important
+Disclaimer
+instigated
+demoralised
+Subpoena
+Target
+Ombudsman
+System
+Tighten
+Instruct
+platform
+drained
+Enterprise
+Break even
+High
+bookmark
+web
+Consign
+Free trade
+radiology
+provoked
+Welfare
+hemisphere
+Commerce
+queue
+QWERTY
+Withdraw
+syntax
+tissue
+fatigued
+Quotation
+Quasi
+Available
+brainstorm
+energy
+Tropic of Cancer
+webmaster
+Assistance
+inspired
+Purchasing power
+society
+debug
+Periodic
+Worthless
+browser
+Assessment
+entomology
+Justification
+Supplemental
+Diminish
+template
+Quota
+Factor
+heartened
+mouse
+Africa
+economy
+Bellwether
+thread
+flask
+Commission
+Packaging
+Franchise
+Obtain
+mainframe
+Curb
+Expenditure
+Borrowing
+Protection
+exacerbated
+dispersed
+astrophysics
+Easement
+hyperlink
+Worth
+mobilised
+Outsource
+web host
+Material goods
+Pork bellies
+stretched
+Principle
+data
+Affiliate
+gravity
+Prevention
+Annual
+Basis
+generated
+zip
+Revocable
+bus
+Extend
+Laissez-faire
+cartographer
+compare
+Gain
+Indenture
+app
+Mercantile
+Compulsory
+inflated
+Pyramiding
+malware
+Obligation
+Divestiture
+writing
+stimulated
+Balance
+Analysis
+repressed
+motivated
+spear heading
+budget
+Consolidation
+medicine
+depleted
+Contingency
+Itemization
+exabyte
+social networking
+Services
+utility
+Estimation
+Suggestion
+Training
+opportune
+smothered
+Lower
+justify
+significant
+science
+scan
+motherboard
+incited
+decompress
+Averaging
+Specialize
+Successful
+Proprietorship
+scientist
+honest
+thermometer
+Arrears
+artisans
+floppy disk
+scroll bar
+undo
+analog
+terabyte
+spammer
+open source
+Advice
+Edge
+Syndicate
+key
+Journeyman
+Advise
+log out
+Deadline
+mollified
+virus
+valid
+ornithology
+historiographical activity
+northwest
+one sided
+IP address
+paraphrase
+trade
+phase
+global Warming
+kernel
+Barrier
+government
+Dependence
+Straddle
+enriched
+northeast
+Stagflation
+Company
+Tropic of Capricorn
+link
+Concession
+hack
+anarchism
+map-making
+Debt
+screenshot
+Retirement
+Zoning
+Inventory
+shift
+unreliable
+save
+measure
+protested
+ocean
+geology
+compile
+Swing
+Inquiry
+Rise
+Slump
+propagandist
+miles
+lepidoptery
+International Date Line
+literature
+reasonable
+describe
+capital
+magnetic pole
+equator
+page
+Bequest
+Dot-com
+convincing
+Arbitrator
+Remittance
+Abundant
+Salary
+Employment
+bitmap
+blocked
+Dispatch
+hardened
+Benefit
+atlas
+analyse
+Equitable
+South America
+Extension
+Management
+caps lock
+consolidated
+Interest
+Value
+environment
+geography
+table
+welfare state
+representation
+download
+degree of latitude
+Cipher
+Controls
+Proxy
+glassware
+Joint
+Redemption
+Premium
+keyboard
+composition
+storage
+modem
+observatory
+Accounting
+Knowledge
+far fetched
+development
+Restrictive
+encryption
+land
+Program
+Severance
+Compound
+Lien
+Output
+Replacement
+microscope
+user interface
+volume
+flash
+Futures
+tag
+Mortgage
+Solidity
+Low cost
+array
+timely
+Join
+Prediction
+print
+command
+imperialism
+southwest
+inflamed
+Earning power
+Contractual
+legislature
+sovereignty
+Essential
+strained
+Variation
+dubious
+loan
+virtual memory
+constitutional monarchy
+Ban
+Shelter
+domain
+Voucher
+pirate
+Completion
+dynamic
+protocol
+Equality
+organism
+file
+upper class
+upset
+altitude
+manufacturing
+legend
+mirror
+Leading
+Vocation
+junk mail
+Arbitrage
+Harassment
+programmer
+Liability
+Amalgamation
+far sighted
+developed
+Raise
+Speculation
+Trend
+Turnover
+temperature
+dot matrix
+variable
+Save
+spurred
+relief map
+Agenda
+firewall
+South Magnetic Pole
+Junk bond
+Spending
+font
+Internal
+supercomputer
+nationalism
+Venture
+bankrupt
+Reminder
+feudalism
+southeast
+stunted
+Bunsen burner
+uprooting
+Orientation
+firmware
+meridian
+Abolish
+positive
+option
+flowchart
+Expert
+Up-swing
+water
+Price
+Magnate
+quashed
+ominous
+Profit
+Recruit
+greenhouse
+genetics
+Charge
+Per capita
+Quality control
+Yield
+Innovate
+chemistry
+Sum
+flawed
+Capital
+Signature
+map
+exports
+azimuth
+disoriented
+provincial
+Affluent
+Auction
+joystick
+Provide
+Input
+Semi-conductor
+experiment
+piracy
+socialism
+Cost of living
+Change
+Actual
+CD
+observe
+router
+Check
+motion
+Corporate
+virologist
+Investigation
+Separate
+Squander
