@@ -1299,3 +1299,1134 @@ lang_ja__SEPARATOR__global__SEPARATOR__http://m-sk.sakura.ne.jp/murakou/dual.ppt
 lang_ja__SEPARATOR__flowchart__SEPARATOR__http://www.mibel.cs.tsukuba.ac.jp/~koshikawa/cs_seminar/08/200820634_cs_seminar08.ppt
 lang_ja__SEPARATOR__healing__SEPARATOR__http://physics.coe21.kyoto-u.ac.jp/public/051120_ShiminKouza3_Mizusaki/mizusaki.ppt
 lang_ja__SEPARATOR__introduction__SEPARATOR__http://www-cr.scphys.kyoto-u.ac.jp/research/cangaroo/workshop/2003/takata.ppt
+lang_ja__SEPARATOR__Gratuity__SEPARATOR__None Gratuity
+lang_ja__SEPARATOR__Planning__SEPARATOR__http://www.ecm-portal.jp/down/ppt/ecm-slide3s.ppt
+lang_ja__SEPARATOR__Planning__SEPARATOR__http://sea.jp/Events/symposium/ss2010/talks/hiranabe.ppt
+lang_ja__SEPARATOR__overpowered__SEPARATOR__None overpowered
+lang_ja__SEPARATOR__scroll__SEPARATOR__None scroll
+lang_ja__SEPARATOR__fuelled__SEPARATOR__None fuelled
+lang_ja__SEPARATOR__autocracy__SEPARATOR__None autocracy
+lang_ja__SEPARATOR__Tax__SEPARATOR__https://www.jfpi.or.jp/files/user/tpc166_221.ppt
+lang_ja__SEPARATOR__Tax__SEPARATOR__http://www.chusho.meti.go.jp/koukai/kenkyukai/kenkyu/2005/zaimukanri/050620keieizyogen.slide.ppt
+lang_ja__SEPARATOR__Tax__SEPARATOR__http://web.sfc.keio.ac.jp/~kenj/rg-anatomy/ppt/8.ppt
+lang_ja__SEPARATOR__Fiscal__SEPARATOR__None Fiscal
+lang_ja__SEPARATOR__Premature__SEPARATOR__None Premature
+lang_ja__SEPARATOR__Process__SEPARATOR__http://www.ssc.pe.titech.ac.jp/lectures/advlsi/shizuoka_AVLSI_matsu_061222.ppt
+lang_ja__SEPARATOR__Strategy__SEPARATOR__http://rdarc.itakura.toyo.ac.jp/webdav/hisamatsu/public/Microeconomics/16oligopoly_j.ppt
+lang_ja__SEPARATOR__Strategy__SEPARATOR__https://ganjoho.jp/data/professional/training_seminar/training/2007/record/odjrh3000000ojjn-att/ohba.ppt
+lang_ja__SEPARATOR__Money manager__SEPARATOR__None Money manager
+lang_ja__SEPARATOR__crash__SEPARATOR__http://cog.inf.kyushu-u.ac.jp/~shidoji/japanese/accident_prevention/H26.ppt
+lang_ja__SEPARATOR__Collection__SEPARATOR__http://yokota-www.cs.titech.ac.jp/ptt/arc/346/PTT346.ppt
+lang_ja__SEPARATOR__Collection__SEPARATOR__http://sites.cjcu.edu.tw/wSiteFile/File/C0200/1603181453362.%E6%87%89%E6%97%A5%E7%B3%BB%E5%96%AC%E6%9B%89%E7%AD%A0%E5%8A%A9%E7%90%86%E6%95%99%E6%8E%88.ppt
+lang_ja__SEPARATOR__Collection__SEPARATOR__http://nikka.3.pro.tok2.com/dokkyo/rekishi2.ppt
+lang_ja__SEPARATOR__RAM (random access memory)__SEPARATOR__None RAM (random access memory)
+lang_ja__SEPARATOR__unsettled__SEPARATOR__None unsettled
+lang_ja__SEPARATOR__loss__SEPARATOR__http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML01_2.ppt
+lang_ja__SEPARATOR__loss__SEPARATOR__http://www.rs.kagu.tus.ac.jp/hamada/achieve/file/Presentation/POWER.ppt
+lang_ja__SEPARATOR__loss__SEPARATOR__http://www.suiri.civil.yamaguchi-u.ac.jp/lecture/kasen/river5.ppt
+lang_ja__SEPARATOR__Inferior__SEPARATOR__None Inferior
+lang_ja__SEPARATOR__disbanded__SEPARATOR__None disbanded
+lang_ja__SEPARATOR__Advertisement__SEPARATOR__None Advertisement
+lang_ja__SEPARATOR__External__SEPARATOR__https://www.antenna.co.jp/XML/xmllist/MathML/XSL-FO+MathML-ja.ppt
+lang_ja__SEPARATOR__External__SEPARATOR__http://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/archive/569/569.ppt
+lang_ja__SEPARATOR__External__SEPARATOR__http://www2.kanazawa-it.ac.jp/moriken/seisansystem/OHP_PPT/(3)X20ncprogram.ppt
+lang_ja__SEPARATOR__External__SEPARATOR__https://www.city.sakai.lg.jp/kurashi/bosai/shobo/koshukai/fukyuin.files/AED.ppt
+lang_ja__SEPARATOR__Banking__SEPARATOR__http://ibisml.org/ibis2009/pdf-invited/yamashita.ppt
+lang_ja__SEPARATOR__wearied__SEPARATOR__None wearied
+lang_ja__SEPARATOR__stemmed__SEPARATOR__None stemmed
+lang_ja__SEPARATOR__GNP__SEPARATOR__http://ds.cc.yamaguchi-u.ac.jp/~nishiguc/down_load/text/economy.ppt
+lang_ja__SEPARATOR__GNP__SEPARATOR__http://www.ritsumei.ac.jp/~zheng/regional-policy.ppt
+lang_ja__SEPARATOR__GNP__SEPARATOR__http://www.nuis.ac.jp/~komiyama/joho2006_3.ppt
+lang_ja__SEPARATOR__catastrophic__SEPARATOR__None catastrophic
+lang_ja__SEPARATOR__DNS (domain name system)__SEPARATOR__None DNS (domain name system)
+lang_ja__SEPARATOR__nautical chart__SEPARATOR__None nautical chart
+lang_ja__SEPARATOR__climatologist__SEPARATOR__None climatologist
+lang_ja__SEPARATOR__Funding__SEPARATOR__None Funding
+lang_ja__SEPARATOR__Reparation__SEPARATOR__None Reparation
+lang_ja__SEPARATOR__continent__SEPARATOR__None continent
+lang_ja__SEPARATOR__Intangible__SEPARATOR__None Intangible
+lang_ja__SEPARATOR__Zeal__SEPARATOR__None Zeal
+lang_ja__SEPARATOR__signpost__SEPARATOR__None signpost
+lang_ja__SEPARATOR__Consumer__SEPARATOR__http://sc02cd11f54a710c7.jimcontent.com/download/version/1360216370/module/6265845079/name/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%80%80%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%80%80%E5%9F%BA%E7%A4%8E%E3%82%B3%E3%83%BC%E3%82%B9%E3%80%802012-12-04.ppt.pps
+lang_ja__SEPARATOR__Consumer__SEPARATOR__https://www.ec.kagawa-u.ac.jp/~hori/data/ppt/012.ppt
+lang_ja__SEPARATOR__Perpetuity__SEPARATOR__None Perpetuity
+lang_ja__SEPARATOR__roused__SEPARATOR__None roused
+lang_ja__SEPARATOR__sparked__SEPARATOR__None sparked
+lang_ja__SEPARATOR__notebook computer__SEPARATOR__None notebook computer
+lang_ja__SEPARATOR__toolbar__SEPARATOR__None toolbar
+lang_ja__SEPARATOR__stock__SEPARATOR__http://lebenbaum.art.coocan.jp/PPT/0402Dev_Sus_Japanese.PPT
+lang_ja__SEPARATOR__stock__SEPARATOR__http://www.bio.mie-u.ac.jp/~tachi/kogi/fluid2009-www4.ppt
+lang_ja__SEPARATOR__stock__SEPARATOR__http://www.ai.soc.i.kyoto-u.ac.jp/field/textbook/files/data/chapter3/chapter3_slide.ppt
+lang_ja__SEPARATOR__Income__SEPARATOR__http://www.econ.hokudai.ac.jp/~itaya/ppt/shohi3.ppt
+lang_ja__SEPARATOR__Income__SEPARATOR__http://www.geocities.jp/kqsmr859/teigen/toshima.ppt
+lang_ja__SEPARATOR__Nepotism__SEPARATOR__None Nepotism
+lang_ja__SEPARATOR__tenses__SEPARATOR__None tenses
+lang_ja__SEPARATOR__Indemnity__SEPARATOR__None Indemnity
+lang_ja__SEPARATOR__Simplification__SEPARATOR__https://sprg.isas.jaxa.jp/seminar_old/seminar_resume_2009/20091111_nakamura.ppt
+lang_ja__SEPARATOR__biased__SEPARATOR__None biased
+lang_ja__SEPARATOR__Differentiation__SEPARATOR__http://rdarc.itakura.toyo.ac.jp/webdav/hisamatsu/public/Microeconomics/17monopolistic_competition_j.ppt
+lang_ja__SEPARATOR__Differentiation__SEPARATOR__http://www.tmd.ac.jp/artsci/biol/textbook/cellbiol8.ppt
+lang_ja__SEPARATOR__Differentiation__SEPARATOR__http://logos.ls.toyaku.ac.jp/~takasu/class/phys1/r01.ppt
+lang_ja__SEPARATOR__Investment__SEPARATOR__http://ocw.u-tokyo.ac.jp/lecture_files/lp_04/5/notes/ja/2008-11-11.ppt
+lang_ja__SEPARATOR__Investment__SEPARATOR__http://www.rikkyo.ne.jp/grp/kitahara/Korekin0417Miki.ppt
+lang_ja__SEPARATOR__cloud computing__SEPARATOR__None cloud computing
+lang_ja__SEPARATOR__North America__SEPARATOR__None North America
+lang_ja__SEPARATOR__Selling__SEPARATOR__None Selling
+lang_ja__SEPARATOR__Equilibrium__SEPARATOR__None Equilibrium
+lang_ja__SEPARATOR__Subsidy__SEPARATOR__None Subsidy
+lang_ja__SEPARATOR__ROM (read only memory)__SEPARATOR__None ROM (read only memory)
+lang_ja__SEPARATOR__Retail__SEPARATOR__None Retail
+lang_ja__SEPARATOR__seismology__SEPARATOR__None seismology
+lang_ja__SEPARATOR__Economics__SEPARATOR__http://www2.mmc.atomi.ac.jp/web13/economicsofdisney.ppt
+lang_ja__SEPARATOR__Restriction__SEPARATOR__None Restriction
+lang_ja__SEPARATOR__colonialism__SEPARATOR__None colonialism
+lang_ja__SEPARATOR__mineralogy__SEPARATOR__None mineralogy
+lang_ja__SEPARATOR__Sustainability__SEPARATOR__http://lebenbaum.art.coocan.jp/PPT/0529EnvStrategyCSR.PPT
+lang_ja__SEPARATOR__Arbitrary__SEPARATOR__http://www.smapip.is.tohoku.ac.jp/~kazu/meeting-presentation/JPS-meeting-20040914.ppt
+lang_ja__SEPARATOR__Arbitrary__SEPARATOR__http://watanabe-www.math.dis.titech.ac.jp/users/nishiyudesu/NC_1_powerpoint.ppt
+lang_ja__SEPARATOR__Arbitrary__SEPARATOR__http://www.den.t.u-tokyo.ac.jp/nagai/class/4/surfaces.ppt
+lang_ja__SEPARATOR__Arbitrary__SEPARATOR__http://web.tuat.ac.jp/~sameken/lecture/zairyo2015-2.ppt
+lang_ja__SEPARATOR__Invoice__SEPARATOR__http://www.jcci.or.jp/gensanchi/siryou201101fukui-2.ppt
+lang_ja__SEPARATOR__Remuneration__SEPARATOR__None Remuneration
+lang_ja__SEPARATOR__innovative__SEPARATOR__None innovative
+lang_ja__SEPARATOR__Hawk__SEPARATOR__None Hawk
+lang_ja__SEPARATOR__halted__SEPARATOR__None halted
+lang_ja__SEPARATOR__Lend__SEPARATOR__None Lend
+lang_ja__SEPARATOR__Transaction__SEPARATOR__http://sel.ist.osaka-u.ac.jp/lab-db/Dthesis/archive/22/22.ppt
+lang_ja__SEPARATOR__baseless__SEPARATOR__None baseless
+lang_ja__SEPARATOR__Soybeans__SEPARATOR__None Soybeans
+lang_ja__SEPARATOR__Diversification__SEPARATOR__None Diversification
+lang_ja__SEPARATOR__computer program__SEPARATOR__None computer program
+lang_ja__SEPARATOR__Variable__SEPARATOR__http://www2.rikkyo.ac.jp/web/kyamagu/j/lec/ma2009/ana_missing.ppt
+lang_ja__SEPARATOR__Variable__SEPARATOR__http://www.ioa.s.u-tokyo.ac.jp/kisohp/STAFF/nakada/Jugyo/G=IR_Spectrum.ppt
+lang_ja__SEPARATOR__desktop__SEPARATOR__https://garoon.cybozu.co.jp/images/support/whatsnew/package/141208/Garoon4_whatsnew141211.pptx.ppt
+lang_ja__SEPARATOR__froze__SEPARATOR__None froze
+lang_ja__SEPARATOR__Calculation__SEPARATOR__http://ruby2.scphys.kyoto-u.ac.jp/summer-school2010-nuclear-part/transparency/dote/Summer2010_Dote_part4.ppt
+lang_ja__SEPARATOR__ground breaking__SEPARATOR__None ground breaking
+lang_ja__SEPARATOR__Ultimate__SEPARATOR__https://products.cybozu.co.jp/dezie/ver8/product/presentation/data/dezie8_siryo.ppt
+lang_ja__SEPARATOR__Tax-deferred__SEPARATOR__None Tax-deferred
+lang_ja__SEPARATOR__tropics__SEPARATOR__None tropics
+lang_ja__SEPARATOR__Circulation__SEPARATOR__http://www.wpanet.org/uploads/Education/Educational_Programs/Depression_and_Heart_Disease_Slides_JAP.ppt
+lang_ja__SEPARATOR__Circulation__SEPARATOR__http://spacebornedopplerlidar.nict.go.jp/20110930/1_iwasakitoshiki.ppt
+lang_ja__SEPARATOR__Circulation__SEPARATOR__http://rdecw.nifs.ac.jp/frontier/2008/2008files/okazaki2008.ppt
+lang_ja__SEPARATOR__Circulation__SEPARATOR__http://tokutei-kensyu.tsushitahan.jp/manage/wp-content/uploads/2016/06/26de1a04323d7a5844a95925902ed052.ppt
+lang_ja__SEPARATOR__Incentive__SEPARATOR__http://www.econ.hokudai.ac.jp/~itaya/ppt/money-demand1.ppt
+lang_ja__SEPARATOR__Incentive__SEPARATOR__https://lynx.let.hokudai.ac.jp/COE21/presentation/6thopenworkshop/powerpoint/mori.ppt
+lang_ja__SEPARATOR__Maintain__SEPARATOR__https://www.rcnp.osaka-u.ac.jp/Divisions/plan/kokusai/ws_files/hohnishi.ppt
+lang_ja__SEPARATOR__Solvent__SEPARATOR__http://www.ee-net.ne.jp/ms/e-01/HT8-PCB-021111.ppt
+lang_ja__SEPARATOR__Wealth__SEPARATOR__None Wealth
+lang_ja__SEPARATOR__Wisdom__SEPARATOR__None Wisdom
+lang_ja__SEPARATOR__aristocracy__SEPARATOR__None aristocracy
+lang_ja__SEPARATOR__Allocate__SEPARATOR__None Allocate
+lang_ja__SEPARATOR__DVD (digital versatile disc)__SEPARATOR__None DVD (digital versatile disc)
+lang_ja__SEPARATOR__fateful__SEPARATOR__None fateful
+lang_ja__SEPARATOR__weigh__SEPARATOR__None weigh
+lang_ja__SEPARATOR__Ordinance__SEPARATOR__None Ordinance
+lang_ja__SEPARATOR__Coupons__SEPARATOR__None Coupons
+lang_ja__SEPARATOR__overwrought__SEPARATOR__None overwrought
+lang_ja__SEPARATOR__tax__SEPARATOR__None tax
+lang_ja__SEPARATOR__reformed__SEPARATOR__None reformed
+lang_ja__SEPARATOR__burette__SEPARATOR__None burette
+lang_ja__SEPARATOR__mercantilism__SEPARATOR__None mercantilism
+lang_ja__SEPARATOR__Graph__SEPARATOR__http://kussharo.complex.eng.hokudai.ac.jp/~kurihara/classes/AI/csp.ppt
+lang_ja__SEPARATOR__Graph__SEPARATOR__http://ibisml.org/ibis2008/slides-invited/okamoto.ppt
+lang_ja__SEPARATOR__Graph__SEPARATOR__http://www.lab2.kuis.kyoto-u.ac.jp/fswikiout/wiki.cgi?action=ATTACH&page=Probabilistic+Method+%CE%D8%B9%D6&file=chap5%2E5%2Eppt
+lang_ja__SEPARATOR__Merchandise__SEPARATOR__https://library.u-gakugei.ac.jp/edu-rp/sympo2008/kuriyama.pps
+lang_ja__SEPARATOR__Growth__SEPARATOR__http://wwwoa.ees.hokudai.ac.jp/people/yamazaki/Lecture/Mizu-2012-5.ppt
+lang_ja__SEPARATOR__Ration__SEPARATOR__None Ration
+lang_ja__SEPARATOR__Keogh Plan__SEPARATOR__None Keogh Plan
+lang_ja__SEPARATOR__microbiologist__SEPARATOR__None microbiologist
+lang_ja__SEPARATOR__spreadsheet__SEPARATOR__None spreadsheet
+lang_ja__SEPARATOR__Appropriate__SEPARATOR__None Appropriate
+lang_ja__SEPARATOR__Socioeconomic__SEPARATOR__None Socioeconomic
+lang_ja__SEPARATOR__volcanology__SEPARATOR__None volcanology
+lang_ja__SEPARATOR__Fix__SEPARATOR__http://www-conf.kek.jp/rd-photon2006/presantations/Kataoka_061208_proc.ppt
+lang_ja__SEPARATOR__Fix__SEPARATOR__http://wwwxray.ess.sci.osaka-u.ac.jp/~nakajima/M1M2seminar/M2series_nagai_20070612.ppt
+lang_ja__SEPARATOR__Discretionary income__SEPARATOR__None Discretionary income
+lang_ja__SEPARATOR__elevated__SEPARATOR__None elevated
+lang_ja__SEPARATOR__Convince__SEPARATOR__None Convince
+lang_ja__SEPARATOR__Free enterprise__SEPARATOR__None Free enterprise
+lang_ja__SEPARATOR__Portfolio__SEPARATOR__None Portfolio
+lang_ja__SEPARATOR__text editor__SEPARATOR__None text editor
+lang_ja__SEPARATOR__prohibited__SEPARATOR__None prohibited
+lang_ja__SEPARATOR__Stipend__SEPARATOR__None Stipend
+lang_ja__SEPARATOR__Advantage__SEPARATOR__http://www.seyangmechatronics.com/down/fujilatex.ppt
+lang_ja__SEPARATOR__Advantage__SEPARATOR__http://www.soumu.go.jp/main_content/000020663.ppt
+lang_ja__SEPARATOR__Indicator__SEPARATOR__http://www.seirei.or.jp/optim/seminar/ppt/04web_sem.ppt
+lang_ja__SEPARATOR__Indicator__SEPARATOR__https://www.enri.go.jp/~sakai/pub/ieices12_b2-5.ppt
+lang_ja__SEPARATOR__Indicator__SEPARATOR__http://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/archive/258/258.ppt
+lang_ja__SEPARATOR__Reduce__SEPARATOR__http://www.citizens-i.org/reuse/kasei_net/gomi_0.ppt
+lang_ja__SEPARATOR__Reduce__SEPARATOR__http://www.cec.or.jp/e2a/sangyou/h15/garasu/files/garasu-kyouzai01.ppt
+lang_ja__SEPARATOR__Buyers market__SEPARATOR__None Buyers market
+lang_ja__SEPARATOR__Split__SEPARATOR__http://research.nii.ac.jp/~uno/papers/0807coss.ppt
+lang_ja__SEPARATOR__Legality__SEPARATOR__None Legality
+lang_ja__SEPARATOR__radicalised__SEPARATOR__None radicalised
+lang_ja__SEPARATOR__map-maker__SEPARATOR__None map-maker
+lang_ja__SEPARATOR__urged__SEPARATOR__None urged
+lang_ja__SEPARATOR__Accreditation__SEPARATOR__None Accreditation
+lang_ja__SEPARATOR__Annuity__SEPARATOR__None Annuity
+lang_ja__SEPARATOR__Durable__SEPARATOR__None Durable
+lang_ja__SEPARATOR__solicited__SEPARATOR__None solicited
+lang_ja__SEPARATOR__academia__SEPARATOR__None academia
+lang_ja__SEPARATOR__dire__SEPARATOR__None dire
+lang_ja__SEPARATOR__Equity__SEPARATOR__http://www.chubu.meti.go.jp/a51chosa/data/point-tokai-2014.ppt
+lang_ja__SEPARATOR__Equity__SEPARATOR__http://www.pref.osaka.lg.jp/attach/19411/00137378/01_siryo1.ppt
+lang_ja__SEPARATOR__Establishment__SEPARATOR__None Establishment
+lang_ja__SEPARATOR__Prosperity__SEPARATOR__None Prosperity
+lang_ja__SEPARATOR__Risk__SEPARATOR__http://www.pref.osaka.lg.jp/attach/5743/00021448/Risk%20Management%20Case%20of%20IVD%2020110317.ppt
+lang_ja__SEPARATOR__Risk__SEPARATOR__http://www.geocities.jp/pms_forum/naiyo/rmp.ppt
+lang_ja__SEPARATOR__Theory__SEPARATOR__http://www.suiri.civil.yamaguchi-u.ac.jp/lecture/kaigan/coast8.ppt
+lang_ja__SEPARATOR__Unanimous__SEPARATOR__None Unanimous
+lang_ja__SEPARATOR__skewed__SEPARATOR__None skewed
+lang_ja__SEPARATOR__bite__SEPARATOR__None bite
+lang_ja__SEPARATOR__calamitous__SEPARATOR__None calamitous
+lang_ja__SEPARATOR__Diversity__SEPARATOR__http://gwweb.jica.go.jp/km/FSubject1301.nsf/03a114c1448e2ca449256f2b003e6f57/edc4172f082e78c6492577d5002213e9/$FILE/%E6%81%90%E7%AB%9C%E7%B5%B6%E6%BB%85%E3%81%AE%E9%9C%87%E6%BA%90%E5%9C%B0%E3%83%BB%E3%83%A6%E3%82%AB%E3%82%BF%E3%83%B3%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A7%98%E6%80%A7%20(NXPowerLite).ppt
+lang_ja__SEPARATOR__awakened__SEPARATOR__None awakened
+lang_ja__SEPARATOR__stabilised__SEPARATOR__None stabilised
+lang_ja__SEPARATOR__Consumption__SEPARATOR__http://www1.tcue.ac.jp/home1/ymiyatagbt/tankaiki_R.ppt
+lang_ja__SEPARATOR__Dowry__SEPARATOR__None Dowry
+lang_ja__SEPARATOR__Segment__SEPARATOR__None Segment
+lang_ja__SEPARATOR__cuvette__SEPARATOR__None cuvette
+lang_ja__SEPARATOR__Niche__SEPARATOR__None Niche
+lang_ja__SEPARATOR__Removal__SEPARATOR__None Removal
+lang_ja__SEPARATOR__Northern Hemisphere__SEPARATOR__None Northern Hemisphere
+lang_ja__SEPARATOR__ichthyology__SEPARATOR__None ichthyology
+lang_ja__SEPARATOR__Claim__SEPARATOR__None Claim
+lang_ja__SEPARATOR__Complexity__SEPARATOR__http://www.bic.kyoto-u.ac.jp/takutsu/members/takutsu/utcb13.ppt
+lang_ja__SEPARATOR__paleontology__SEPARATOR__None paleontology
+lang_ja__SEPARATOR__critically analyse__SEPARATOR__None critically analyse
+lang_ja__SEPARATOR__Approval__SEPARATOR__http://www.jpma.or.jp/information/ich/explanation/ppt/06_ich100715.ppt
+lang_ja__SEPARATOR__unsettling__SEPARATOR__None unsettling
+lang_ja__SEPARATOR__Barter__SEPARATOR__None Barter
+lang_ja__SEPARATOR__worsened__SEPARATOR__None worsened
+lang_ja__SEPARATOR__Levy__SEPARATOR__https://www.nishitetsu.ne.jp/nis/service/levy2A/download/4.ppt
+lang_ja__SEPARATOR__Levy__SEPARATOR__http://www.astro.phys.s.chiba-u.ac.jp/netlab/summer-school/intro_shibata.ppt
+lang_ja__SEPARATOR__Levy__SEPARATOR__http://pmt.sakura.ne.jp/wiki/images/LectureOsakaU2010.ppt
+lang_ja__SEPARATOR__Margin__SEPARATOR__http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML07.ppt
+lang_ja__SEPARATOR__Amortize__SEPARATOR__None Amortize
+lang_ja__SEPARATOR__Negotiate__SEPARATOR__None Negotiate
+lang_ja__SEPARATOR__Questionnaire__SEPARATOR__http://plaza.umin.ac.jp/phnet/intro.ppt
+lang_ja__SEPARATOR__absolutism__SEPARATOR__None absolutism
+lang_ja__SEPARATOR__concept map__SEPARATOR__None concept map
+lang_ja__SEPARATOR__workstation__SEPARATOR__None workstation
+lang_ja__SEPARATOR__currency__SEPARATOR__None currency
+lang_ja__SEPARATOR__Expansion__SEPARATOR__https://phits.jaea.go.jp/lec/phits-lec-MultipleBeamIrradiation-jp.ppt
+lang_ja__SEPARATOR__Expansion__SEPARATOR__http://rcwww.kek.jp/egsconf/2007-abst/16-sasada.ppt
+lang_ja__SEPARATOR__Expansion__SEPARATOR__http://www.th.phys.titech.ac.jp/de07/presentation/29/suyama.ppt
+lang_ja__SEPARATOR__capitalist__SEPARATOR__None capitalist
+lang_ja__SEPARATOR__longitude__SEPARATOR__None longitude
+lang_ja__SEPARATOR__snapshot__SEPARATOR__None snapshot
+lang_ja__SEPARATOR__phoney__SEPARATOR__None phoney
+lang_ja__SEPARATOR__emotive__SEPARATOR__None emotive
+lang_ja__SEPARATOR__Opinion__SEPARATOR__http://ppwww.phys.sci.kobe-u.ac.jp/~miuchi/work/seminor/miuchi_20040506_KEIO.ppt
+lang_ja__SEPARATOR__Opinion__SEPARATOR__https://www.ec.kagawa-u.ac.jp/~hori/data/ppt/14.ppt
+lang_ja__SEPARATOR__Opinion__SEPARATOR__http://www.nichiza.com/sunen.ppt
+lang_ja__SEPARATOR__Sending__SEPARATOR__None Sending
+lang_ja__SEPARATOR__captcha__SEPARATOR__None captcha
+lang_ja__SEPARATOR__Surplus__SEPARATOR__http://www.tku.ac.jp/~kuroda/infoecon/2011%E6%83%85%E5%A0%B1%E7%B5%8C%E6%B8%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96_3.ppt
+lang_ja__SEPARATOR__agitated__SEPARATOR__None agitated
+lang_ja__SEPARATOR__Amend__SEPARATOR__None Amend
+lang_ja__SEPARATOR__Arithmetic__SEPARATOR__http://www.bic.kyoto-u.ac.jp/takutsu/members/takutsu/bioinfo27c.ppt
+lang_ja__SEPARATOR__Arithmetic__SEPARATOR__http://www.bic.kyoto-u.ac.jp/takutsu/members/takutsu/nara-wu-5.ppt
+lang_ja__SEPARATOR__Arithmetic__SEPARATOR__http://dopal.cs.uec.ac.jp/okamotoy/lect/H2/H2guidance.ppt
+lang_ja__SEPARATOR__Depreciation__SEPARATOR__None Depreciation
+lang_ja__SEPARATOR__emoticon__SEPARATOR__None emoticon
+lang_ja__SEPARATOR__Build__SEPARATOR__http://www.ae.keio.ac.jp/lab/ie/sou/caodb/scm/11procurement.ppt
+lang_ja__SEPARATOR__Owe__SEPARATOR__None Owe
+lang_ja__SEPARATOR__clamped down__SEPARATOR__None clamped down
+lang_ja__SEPARATOR__shattering__SEPARATOR__None shattering
+lang_ja__SEPARATOR__monarchy__SEPARATOR__None monarchy
+lang_ja__SEPARATOR__Quagmire__SEPARATOR__None Quagmire
+lang_ja__SEPARATOR__ideology__SEPARATOR__None ideology
+lang_ja__SEPARATOR__Information__SEPARATOR__None Information
+lang_ja__SEPARATOR__Commodities__SEPARATOR__None Commodities
+lang_ja__SEPARATOR__regressed__SEPARATOR__None regressed
+lang_ja__SEPARATOR__Financing__SEPARATOR__None Financing
+lang_ja__SEPARATOR__misleading__SEPARATOR__None misleading
+lang_ja__SEPARATOR__forerunner__SEPARATOR__None forerunner
+lang_ja__SEPARATOR__Cheap__SEPARATOR__None Cheap
+lang_ja__SEPARATOR__constitution__SEPARATOR__None constitution
+lang_ja__SEPARATOR__Facility__SEPARATOR__None Facility
+lang_ja__SEPARATOR__Underwriting__SEPARATOR__None Underwriting
+lang_ja__SEPARATOR__Requisition__SEPARATOR__None Requisition
+lang_ja__SEPARATOR__Clearance__SEPARATOR__None Clearance
+lang_ja__SEPARATOR__prospered__SEPARATOR__None prospered
+lang_ja__SEPARATOR__Receive__SEPARATOR__None Receive
+lang_ja__SEPARATOR__reactionary__SEPARATOR__None reactionary
+lang_ja__SEPARATOR__Glut__SEPARATOR__None Glut
+lang_ja__SEPARATOR__Internet__SEPARATOR__None Internet
+lang_ja__SEPARATOR__Memorandum__SEPARATOR__None Memorandum
+lang_ja__SEPARATOR__untenable__SEPARATOR__None untenable
+lang_ja__SEPARATOR__border__SEPARATOR__None border
+lang_ja__SEPARATOR__Hierarchy__SEPARATOR__None Hierarchy
+lang_ja__SEPARATOR__Reaction__SEPARATOR__https://ribf.riken.jp/~seminar/Lecture/shimoura/lecture2007-0731.ppt
+lang_ja__SEPARATOR__Reaction__SEPARATOR__http://www.ocw.titech.ac.jp/index.php?module=General&action=DownLoad&file=2008-71031-.ppt&JWC=20081224711031
+lang_ja__SEPARATOR__Reaction__SEPARATOR__http://home.hiroshima-u.ac.jp/yuketsu/education/23.ppt
+lang_ja__SEPARATOR__Reaction__SEPARATOR__http://web.sapmed.ac.jp/bme/view/PAM.ppt
+lang_ja__SEPARATOR__Vendor__SEPARATOR__https://www.ihe-j.org/file/vendor/VWS_HL7.ppt
+lang_ja__SEPARATOR__interest__SEPARATOR__https://www.stroke-ncvc.jp/brain2017/images/coi_slide.ppt
+lang_ja__SEPARATOR__interest__SEPARATOR__https://www.naist.jp/sankan/conflict_of_interest/setsumei.ppt
+lang_ja__SEPARATOR__interest__SEPARATOR__http://www.jsicm.org/pdf/coi_happyou_teisei1508.ppt
+lang_ja__SEPARATOR__Judgment__SEPARATOR__None Judgment
+lang_ja__SEPARATOR__Performance__SEPARATOR__http://m-sk.sakura.ne.jp/murakou/agt.ppt
+lang_ja__SEPARATOR__destabilising__SEPARATOR__None destabilising
+lang_ja__SEPARATOR__Measure__SEPARATOR__http://nlp.dse.ibaraki.ac.jp/~shinnou/zemi1ppt/fujii5.ppt
+lang_ja__SEPARATOR__wound back__SEPARATOR__None wound back
+lang_ja__SEPARATOR__landform__SEPARATOR__None landform
+lang_ja__SEPARATOR__Intense__SEPARATOR__None Intense
+lang_ja__SEPARATOR__appreciate__SEPARATOR__None appreciate
+lang_ja__SEPARATOR__Pension__SEPARATOR__http://www.rikkyo.ne.jp/grp/kitahara/1210_shyouken.ppt
+lang_ja__SEPARATOR__Regulation__SEPARATOR__http://www.med.kyushu-u.ac.jp/neurophy/nk/img/mar.ppt
+lang_ja__SEPARATOR__Regulation__SEPARATOR__http://hikumano.umin.ac.jp/BTworkshop.ppt
+lang_ja__SEPARATOR__Regulation__SEPARATOR__http://m-sk.sakura.ne.jp/murakou/avoidance.ppt
+lang_ja__SEPARATOR__Regulation__SEPARATOR__http://web2.chubu-gu.ac.jp/blog/web_labo/miyajima/images/o-256miyajima20131116.ppt
+lang_ja__SEPARATOR__Wage__SEPARATOR__None Wage
+lang_ja__SEPARATOR__persuasive__SEPARATOR__None persuasive
+lang_ja__SEPARATOR__annotated bibliography__SEPARATOR__None annotated bibliography
+lang_ja__SEPARATOR__Spiral__SEPARATOR__http://www.ioa.s.u-tokyo.ac.jp/~sonodera/gshop-alma/high-z/susa040723.ppt
+lang_ja__SEPARATOR__Expense__SEPARATOR__None Expense
+lang_ja__SEPARATOR__stirred up__SEPARATOR__None stirred up
+lang_ja__SEPARATOR__Industrial__SEPARATOR__None Industrial
+lang_ja__SEPARATOR__Complaint__SEPARATOR__None Complaint
+lang_ja__SEPARATOR__Monetary__SEPARATOR__None Monetary
+lang_ja__SEPARATOR__kilometers__SEPARATOR__None kilometers
+lang_ja__SEPARATOR__credible__SEPARATOR__None credible
+lang_ja__SEPARATOR__Operation__SEPARATOR__http://www.ecei.tohoku.ac.jp/alg/nishizeki/sub/e/secure_secret_key.ppt
+lang_ja__SEPARATOR__Operation__SEPARATOR__http://www.psy.ritsumei.ac.jp/~mochi/11ABA06ppt.ppt
+lang_ja__SEPARATOR__Operation__SEPARATOR__http://www.pecj.or.jp/japanese/safer/operation/ppt/no-311.ppt
+lang_ja__SEPARATOR__Encouragement__SEPARATOR__None Encouragement
+lang_ja__SEPARATOR__Antarctica__SEPARATOR__None Antarctica
+lang_ja__SEPARATOR__Allegation__SEPARATOR__None Allegation
+lang_ja__SEPARATOR__Resource__SEPARATOR__http://www.jcpra.or.jp/Portals/0/resource/manufacture/pamph/presentation/08_method.ppt
+lang_ja__SEPARATOR__Resource__SEPARATOR__https://www.jisa.or.jp/Portals/0/resource/it-education/download/text_nttdata_ubiquitous.ppt
+lang_ja__SEPARATOR__Resource__SEPARATOR__http://www.econ.kyoto-u.ac.jp/~shioji/resource/gendainihon1.ppt
+lang_ja__SEPARATOR__quelled__SEPARATOR__None quelled
+lang_ja__SEPARATOR__Competitor__SEPARATOR__None Competitor
+lang_ja__SEPARATOR__meteorologist__SEPARATOR__None meteorologist
+lang_ja__SEPARATOR__military__SEPARATOR__None military
+lang_ja__SEPARATOR__Marxism__SEPARATOR__None Marxism
+lang_ja__SEPARATOR__Organization__SEPARATOR__None Organization
+lang_ja__SEPARATOR__Depressed__SEPARATOR__None Depressed
+lang_ja__SEPARATOR__theocracy__SEPARATOR__None theocracy
+lang_ja__SEPARATOR__Basis points__SEPARATOR__http://www.cvl.iis.u-tokyo.ac.jp/class2016/2016w/2016_10_26.ppt
+lang_ja__SEPARATOR__Basis points__SEPARATOR__http://chiron.mtk.nao.ac.jp/~toshio/education/numerical2006.ppt
+lang_ja__SEPARATOR__Participation__SEPARATOR__None Participation
+lang_ja__SEPARATOR__Revenue__SEPARATOR__None Revenue
+lang_ja__SEPARATOR__South Pole__SEPARATOR__None South Pole
+lang_ja__SEPARATOR__Reply__SEPARATOR__None Reply
+lang_ja__SEPARATOR__Index__SEPARATOR__https://jp.cybozu.help/ja/g40/product/ppt/guide_gr4_prod_management_ja1.ppt
+lang_ja__SEPARATOR__Index__SEPARATOR__http://www.jumonji-u.ac.jp/shokuei/stanaka/data/%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9.ppt
+lang_ja__SEPARATOR__Index__SEPARATOR__http://www.b-side.jp/image/B2F0B8EEBBD9B1E7A5B5A1BCA5D3A5B9C4EAC3E5CAD4.ppt
+lang_ja__SEPARATOR__Index__SEPARATOR__http://www.esj.ne.jp/careersupport/2010Takamura.ppt
+lang_ja__SEPARATOR__Generate__SEPARATOR__http://www.ie.u-ryukyu.ac.jp/~wada/digsys08/Noise5.ppt
+lang_ja__SEPARATOR__Generate__SEPARATOR__http://www.tmd.ac.jp/artsci/biol/textbook/cellbiol7.ppt
+lang_ja__SEPARATOR__Consideration__SEPARATOR__None Consideration
+lang_ja__SEPARATOR__Monopoly__SEPARATOR__None Monopoly
+lang_ja__SEPARATOR__oppressed__SEPARATOR__None oppressed
+lang_ja__SEPARATOR__fascism__SEPARATOR__None fascism
+lang_ja__SEPARATOR__Research__SEPARATOR__http://ide-research.net/papers/2004_JSAI_Ide.ppt
+lang_ja__SEPARATOR__Research__SEPARATOR__https://www.binds.jp/pdis/items/docs/Acknowledgement2015.ppt
+lang_ja__SEPARATOR__Subsist__SEPARATOR__None Subsist
+lang_ja__SEPARATOR__Trim__SEPARATOR__http://www.rs.kagu.tus.ac.jp/hamada/achieve/file/Presentation/SUGIJ2004meta.ppt
+lang_ja__SEPARATOR__podcast__SEPARATOR__None podcast
+lang_ja__SEPARATOR__Covenant__SEPARATOR__None Covenant
+lang_ja__SEPARATOR__Unrecoverable__SEPARATOR__None Unrecoverable
+lang_ja__SEPARATOR__recession__SEPARATOR__None recession
+lang_ja__SEPARATOR__Demand__SEPARATOR__https://ossaj.org/seminar/060223/ossaj_20060223_1.ppt
+lang_ja__SEPARATOR__Exchange__SEPARATOR__http://clinchem.aaccjnls.org/highwire/filestream/3398/field_highwire_adjunct_files/0/August_2014_FINAL_Journal_Club_JP.ppt
+lang_ja__SEPARATOR__Cancellation__SEPARATOR__http://www.econ.kyoto-u.ac.jp/~ida/3Kenkyuu/2Benkyoukai/jisyubensiryou/microanalysis2.ppt
+lang_ja__SEPARATOR__watch glass__SEPARATOR__None watch glass
+lang_ja__SEPARATOR__Negligence__SEPARATOR__None Negligence
+lang_ja__SEPARATOR__Trade__SEPARATOR__None Trade
+lang_ja__SEPARATOR__Unregulated__SEPARATOR__None Unregulated
+lang_ja__SEPARATOR__Adviser__SEPARATOR__https://www.pref.saitama.lg.jp/f2211/documents/53140.ppt
+lang_ja__SEPARATOR__dishonest__SEPARATOR__None dishonest
+lang_ja__SEPARATOR__Autonomy__SEPARATOR__None Autonomy
+lang_ja__SEPARATOR__Capitalism__SEPARATOR__None Capitalism
+lang_ja__SEPARATOR__proletariat__SEPARATOR__None proletariat
+lang_ja__SEPARATOR__spyware__SEPARATOR__None spyware
+lang_ja__SEPARATOR__herpetology__SEPARATOR__None herpetology
+lang_ja__SEPARATOR__Market__SEPARATOR__http://www.econ.hit-u.ac.jp/~kan/class/2009expeconA/expecon20090414.ppt
+lang_ja__SEPARATOR__Market__SEPARATOR__http://bin.t.u-tokyo.ac.jp/model07/lecture/yaginuma.ppt
+lang_ja__SEPARATOR__subtraction__SEPARATOR__None subtraction
+lang_ja__SEPARATOR__modernising__SEPARATOR__None modernising
+lang_ja__SEPARATOR__Curve__SEPARATOR__http://plaza.umin.ac.jp/phnet/shokyu.ppt
+lang_ja__SEPARATOR__drag__SEPARATOR__None drag
+lang_ja__SEPARATOR__Arctic Circle__SEPARATOR__None Arctic Circle
+lang_ja__SEPARATOR__Annex__SEPARATOR__None Annex
+lang_ja__SEPARATOR__Accept__SEPARATOR__http://www.naha-sanpo.jp/material1.ppt
+lang_ja__SEPARATOR__Accept__SEPARATOR__http://kurosawa.cis.ibaraki.ac.jp/IS-M/6th.ppt
+lang_ja__SEPARATOR__Forecast__SEPARATOR__http://wind.gp.tohoku.ac.jp/yamase/reports/data02/Iwasaki_100915.ppt
+lang_ja__SEPARATOR__Resignation__SEPARATOR__None Resignation
+lang_ja__SEPARATOR__Shortage__SEPARATOR__None Shortage
+lang_ja__SEPARATOR__Superior__SEPARATOR__https://square.umin.ac.jp/massie-tmd/dtrdema.ppt
+lang_ja__SEPARATOR__Refund__SEPARATOR__None Refund
+lang_ja__SEPARATOR__Tycoon__SEPARATOR__None Tycoon
+lang_ja__SEPARATOR__resisted__SEPARATOR__None resisted
+lang_ja__SEPARATOR__Balanced budget__SEPARATOR__None Balanced budget
+lang_ja__SEPARATOR__Reduction__SEPARATOR__http://www.bic.kyoto-u.ac.jp/takutsu/members/takutsu/ex_pssm.ppt
+lang_ja__SEPARATOR__Reduction__SEPARATOR__http://gpspp.sakura.ne.jp/tutorial/rtksemi2006/rtksemi07.ppt
+lang_ja__SEPARATOR__Reduction__SEPARATOR__http://nlp.dse.ibaraki.ac.jp/~shinnou/zemi1ppt/fujii3.ppt
+lang_ja__SEPARATOR__suppressed__SEPARATOR__None suppressed
+lang_ja__SEPARATOR__Results__SEPARATOR__http://www.dumbo.ai.kyutech.ac.jp/nomura/nlmppt/CUG.ppt
+lang_ja__SEPARATOR__Galloping__SEPARATOR__None Galloping
+lang_ja__SEPARATOR__Austerity__SEPARATOR__None Austerity
+lang_ja__SEPARATOR__sea level__SEPARATOR__None sea level
+lang_ja__SEPARATOR__Decline__SEPARATOR__None Decline
+lang_ja__SEPARATOR__freeware__SEPARATOR__None freeware
+lang_ja__SEPARATOR__gigabyte__SEPARATOR__None gigabyte
+lang_ja__SEPARATOR__Destitute__SEPARATOR__None Destitute
+lang_ja__SEPARATOR__Unique__SEPARATOR__http://gpspp.sakura.ne.jp/tutorial/rtksemi2007/semi2007_01.ppt
+lang_ja__SEPARATOR__Preempt__SEPARATOR__None Preempt
+lang_ja__SEPARATOR__Transfer__SEPARATOR__None Transfer
+lang_ja__SEPARATOR__Trojan horse__SEPARATOR__None Trojan horse
+lang_ja__SEPARATOR__Improvements__SEPARATOR__http://kussharo.complex.eng.hokudai.ac.jp/~kurihara/WINGS/SoftConstraintWS/csp.ppt
+lang_ja__SEPARATOR__Improvements__SEPARATOR__https://www.enri.go.jp/~sakai/pub/sane0701.ppt
+lang_ja__SEPARATOR__Improvements__SEPARATOR__http://www.suiri.civil.yamaguchi-u.ac.jp/lecture/kasen/river6.ppt
+lang_ja__SEPARATOR__whipped up__SEPARATOR__None whipped up
+lang_ja__SEPARATOR__Broker__SEPARATOR__None Broker
+lang_ja__SEPARATOR__Bankrupt__SEPARATOR__None Bankrupt
+lang_ja__SEPARATOR__Boilerplate__SEPARATOR__None Boilerplate
+lang_ja__SEPARATOR__history__SEPARATOR__None history
+lang_ja__SEPARATOR__Eastern Hemisphere__SEPARATOR__None Eastern Hemisphere
+lang_ja__SEPARATOR__Explanation__SEPARATOR__http://www.jpma.or.jp/information/ich/explanation/ppt/10_ich100715.ppt
+lang_ja__SEPARATOR__Unit__SEPARATOR__https://www.ntt-east.co.jp/info-st/constip/cons4/h130918.ppt
+lang_ja__SEPARATOR__prime meridian__SEPARATOR__None prime meridian
+lang_ja__SEPARATOR__Antarctic Circle__SEPARATOR__None Antarctic Circle
+lang_ja__SEPARATOR__Graft__SEPARATOR__None Graft
+lang_ja__SEPARATOR__Restitution__SEPARATOR__None Restitution
+lang_ja__SEPARATOR__totalitarianism__SEPARATOR__None totalitarianism
+lang_ja__SEPARATOR__Accrual__SEPARATOR__None Accrual
+lang_ja__SEPARATOR__road atlas__SEPARATOR__None road atlas
+lang_ja__SEPARATOR__Notion__SEPARATOR__None Notion
+lang_ja__SEPARATOR__program__SEPARATOR__None program
+lang_ja__SEPARATOR__Defer__SEPARATOR__None Defer
+lang_ja__SEPARATOR__Entrepreneur__SEPARATOR__None Entrepreneur
+lang_ja__SEPARATOR__peasantry__SEPARATOR__None peasantry
+lang_ja__SEPARATOR__Level__SEPARATOR__http://www.econ.hit-u.ac.jp/~kan/class/2009expeconA/expecon20090407.ppt
+lang_ja__SEPARATOR__Level__SEPARATOR__http://www010.upp.so-net.ne.jp/koken/multilevel.ppt
+lang_ja__SEPARATOR__Level__SEPARATOR__http://www.na.scitec.kobe-u.ac.jp/~yamamoto/work/CompMath2006.ppt
+lang_ja__SEPARATOR__Fiduciary__SEPARATOR__http://ocw.u-tokyo.ac.jp/lecture_files/lp_04/2/notes/ja/2008-10-21.ppt
+lang_ja__SEPARATOR__Fiduciary__SEPARATOR__http://ocw.u-tokyo.ac.jp/lecture_files/lp_04/1/notes/ja/2008-10-07.ppt
+lang_ja__SEPARATOR__Penury__SEPARATOR__None Penury
+lang_ja__SEPARATOR__Sanction__SEPARATOR__None Sanction
+lang_ja__SEPARATOR__Warranty__SEPARATOR__https://www.ep.sci.hokudai.ac.jp/~epnetfan/zagaku/2006/0630/pub/zagaku2006_make_ver5.ppt
+lang_ja__SEPARATOR__Deficit__SEPARATOR__None Deficit
+lang_ja__SEPARATOR__laissez-faire__SEPARATOR__None laissez-faire
+lang_ja__SEPARATOR__Hazard__SEPARATOR__http://www.iss.u-tokyo.ac.jp/~matsumur/Yamashita.ppt
+lang_ja__SEPARATOR__Hazard__SEPARATOR__http://tokutei-kensyu.tsushitahan.jp/manage/wp-content/uploads/2015/04/790243513af240fcb9b283f5cb96a273.ppt
+lang_ja__SEPARATOR__elections__SEPARATOR__None elections
+lang_ja__SEPARATOR__Uncontrollable__SEPARATOR__None Uncontrollable
+lang_ja__SEPARATOR__widget__SEPARATOR__http://tasharen.com/unity/unite.ppt
+lang_ja__SEPARATOR__Avoid__SEPARATOR__http://www.naha-sanpo.jp/material2.ppt
+lang_ja__SEPARATOR__Mercator Projection__SEPARATOR__None Mercator Projection
+lang_ja__SEPARATOR__Elimination__SEPARATOR__https://www.ec.kagawa-u.ac.jp/~hori/data/ppt/04.ppt
+lang_ja__SEPARATOR__Elimination__SEPARATOR__http://www.wakayama-u.ac.jp/~kawahara/signalproc/lecture2002f/presen20020711.ppt
+lang_ja__SEPARATOR__Balloon payment__SEPARATOR__None Balloon payment
+lang_ja__SEPARATOR__Reach__SEPARATOR__None Reach
+lang_ja__SEPARATOR__Version__SEPARATOR__None Version
+lang_ja__SEPARATOR__Wary__SEPARATOR__None Wary
+lang_ja__SEPARATOR__Amenity__SEPARATOR__None Amenity
+lang_ja__SEPARATOR__popular sovereignty__SEPARATOR__None popular sovereignty
+lang_ja__SEPARATOR__Accumulation__SEPARATOR__None Accumulation
+lang_ja__SEPARATOR__Hoard__SEPARATOR__None Hoard
+lang_ja__SEPARATOR__blogger__SEPARATOR__None blogger
+lang_ja__SEPARATOR__lurking__SEPARATOR__None lurking
+lang_ja__SEPARATOR__multimedia__SEPARATOR__None multimedia
+lang_ja__SEPARATOR__value__SEPARATOR__http://kussharo.complex.eng.hokudai.ac.jp/~kurihara/WINGS/wings8/Wings8hashimoto.ppt
+lang_ja__SEPARATOR__Paycheck__SEPARATOR__None Paycheck
+lang_ja__SEPARATOR__North Magnetic Pole__SEPARATOR__None North Magnetic Pole
+lang_ja__SEPARATOR__Statutory__SEPARATOR__None Statutory
+lang_ja__SEPARATOR__Tariff__SEPARATOR__http://research.kek.jp/people/ikeda/patentLaw_ppt/day_14.ppt
+lang_ja__SEPARATOR__dashboard__SEPARATOR__None dashboard
+lang_ja__SEPARATOR__united__SEPARATOR__https://indico.in2p3.fr/event/1704/contributions/21258/attachments/17318/21238/Bando-jp.ppt
+lang_ja__SEPARATOR__economics__SEPARATOR__None economics
+lang_ja__SEPARATOR__typeface__SEPARATOR__None typeface
+lang_ja__SEPARATOR__separated__SEPARATOR__None separated
+lang_ja__SEPARATOR__Increase__SEPARATOR__http://plaza.umin.ac.jp/phnet/lungca.ppt
+lang_ja__SEPARATOR__Activity__SEPARATOR__http://www.obihiro.ac.jp/~rhythms/LifeRh/04Bio04.ppt
+lang_ja__SEPARATOR__Activity__SEPARATOR__http://www.cns.atr.jp/wp-content/uploads/2010/10/PressReleaseATR_sato1020.ppt
+lang_ja__SEPARATOR__Activity__SEPARATOR__https://www.vcci.jp/activity/doc/anime/SIM.ppt
+lang_ja__SEPARATOR__Activity__SEPARATOR__http://dicc.kais.kyoto-u.ac.jp/KGRAP/activity/history/resume/2011.6.24.ppt
+lang_ja__SEPARATOR__Consortium__SEPARATOR__http://josoken.digick.jp/meeting/2003/nittoken02.ppt
+lang_ja__SEPARATOR__Consortium__SEPARATOR__http://www.wankuma.com/seminar/20090404tokyo31/3.ppt
+lang_ja__SEPARATOR__Negotiable__SEPARATOR__None Negotiable
+lang_ja__SEPARATOR__Develop__SEPARATOR__http://web.sapmed.ac.jp/bme/view/HE.ppt
+lang_ja__SEPARATOR__Bargain__SEPARATOR__None Bargain
+lang_ja__SEPARATOR__Order__SEPARATOR__https://www.ihe-j.org/file/vendor/VWS2_Connectathon.ppt
+lang_ja__SEPARATOR__Order__SEPARATOR__http://www.phys.s.u-tokyo.ac.jp/entrance/documents/miyashita_000.ppt
+lang_ja__SEPARATOR__Labor__SEPARATOR__https://www.johas.go.jp/Portals/0/data0/sanpo/material/download/eiseiiinkai_20091007.ppt
+lang_ja__SEPARATOR__Rebate__SEPARATOR__None Rebate
+lang_ja__SEPARATOR__discuss__SEPARATOR__None discuss
+lang_ja__SEPARATOR__Bet__SEPARATOR__http://www.gsjal.jp/toda/dat/kenkyuukai0502.pps
+lang_ja__SEPARATOR__Debut__SEPARATOR__None Debut
+lang_ja__SEPARATOR__Ratio__SEPARATOR__None Ratio
+lang_ja__SEPARATOR__prompted__SEPARATOR__None prompted
+lang_ja__SEPARATOR__Extravagance__SEPARATOR__None Extravagance
+lang_ja__SEPARATOR__Response__SEPARATOR__http://www.jpma.or.jp/medicine/shinyaku/tiken/allotment/pdf/medical_training_48.ppt
+lang_ja__SEPARATOR__Response__SEPARATOR__http://rcwww.kek.jp/egsconf/2007-abst/15-koshida.ppt
+lang_ja__SEPARATOR__Response__SEPARATOR__http://www.ee.aoyama.ac.jp/Labs/yoneyama-www/cntrl1/freq-response.ppt
+lang_ja__SEPARATOR__Schedule__SEPARATOR__http://home.hiroshima-u.ac.jp/yuketsu/education/15.ppt
+lang_ja__SEPARATOR__Schedule__SEPARATOR__http://kussharo.complex.eng.hokudai.ac.jp/~kurihara/classes/AI/local.ppt
+lang_ja__SEPARATOR__Schedule__SEPARATOR__http://www.kambara-kisen.co.jp/files/liner/pamphlet.ppt
+lang_ja__SEPARATOR__Schedule__SEPARATOR__http://www.ipss.go.jp/seminar/j/seminar9/ikegami.ppt
+lang_ja__SEPARATOR__Structure__SEPARATOR__None Structure
+lang_ja__SEPARATOR__Various__SEPARATOR__http://www.ai.soc.i.kyoto-u.ac.jp/field/textbook/files/data/chapter7/chapter7_slide.ppt
+lang_ja__SEPARATOR__clergy__SEPARATOR__None clergy
+lang_ja__SEPARATOR__phishing__SEPARATOR__None phishing
+lang_ja__SEPARATOR__reboot__SEPARATOR__None reboot
+lang_ja__SEPARATOR__propagandised__SEPARATOR__None propagandised
+lang_ja__SEPARATOR__Rejection__SEPARATOR__http://www.sanyu-group.com/techno/userbox/data/denshi_text3.ppt
+lang_ja__SEPARATOR__Present__SEPARATOR__http://www-conf.kek.jp/rd-photon/presantations/2/KEK051226.ppt
+lang_ja__SEPARATOR__subdued__SEPARATOR__None subdued
+lang_ja__SEPARATOR__ruinous__SEPARATOR__None ruinous
+lang_ja__SEPARATOR__promoted__SEPARATOR__None promoted
+lang_ja__SEPARATOR__Account__SEPARATOR__None Account
+lang_ja__SEPARATOR__Censure__SEPARATOR__None Censure
+lang_ja__SEPARATOR__Deregulate__SEPARATOR__None Deregulate
+lang_ja__SEPARATOR__Inform__SEPARATOR__http://infoshako.sk.tsukuba.ac.jp/jcca/Conf/Comb-IS-RIMS06/rims0915_final.ppt
+lang_ja__SEPARATOR__Model__SEPARATOR__None Model
+lang_ja__SEPARATOR__Creditor__SEPARATOR__None Creditor
+lang_ja__SEPARATOR__philosophes__SEPARATOR__None philosophes
+lang_ja__SEPARATOR__electrochemist__SEPARATOR__None electrochemist
+lang_ja__SEPARATOR__doubtful__SEPARATOR__None doubtful
+lang_ja__SEPARATOR__FAQ (frequently asked questions)__SEPARATOR__None FAQ (frequently asked questions)
+lang_ja__SEPARATOR__Statistic__SEPARATOR__http://naoya.dyndns.org/~naoya/iir/ppt/iir_08.ppt
+lang_ja__SEPARATOR__Statistic__SEPARATOR__http://ishiken.free.fr/lectures/toukeisuuri6.ppt
+lang_ja__SEPARATOR__Statistic__SEPARATOR__https://www.ec.kagawa-u.ac.jp/~hori/yomimono/nfac.ppt
+lang_ja__SEPARATOR__sapped__SEPARATOR__None sapped
+lang_ja__SEPARATOR__Decrease__SEPARATOR__http://wwwoa.ees.hokudai.ac.jp/people/yamazaki/Lecture/Mizu-2012-4.ppt
+lang_ja__SEPARATOR__addition__SEPARATOR__None addition
+lang_ja__SEPARATOR__street map__SEPARATOR__None street map
+lang_ja__SEPARATOR__Personal__SEPARATOR__http://www.tsukuba-tech.ac.jp/ce/personal/shirasawa/images/yomitori.ppt
+lang_ja__SEPARATOR__compass rose__SEPARATOR__None compass rose
+lang_ja__SEPARATOR__Budget__SEPARATOR__None Budget
+lang_ja__SEPARATOR__peak__SEPARATOR__None peak
+lang_ja__SEPARATOR__agrarian__SEPARATOR__None agrarian
+lang_ja__SEPARATOR__Aggregate__SEPARATOR__None Aggregate
+lang_ja__SEPARATOR__Obsolescence__SEPARATOR__None Obsolescence
+lang_ja__SEPARATOR__uplifted__SEPARATOR__None uplifted
+lang_ja__SEPARATOR__cyberspace__SEPARATOR__None cyberspace
+lang_ja__SEPARATOR__establishment__SEPARATOR__None establishment
+lang_ja__SEPARATOR__interpret__SEPARATOR__None interpret
+lang_ja__SEPARATOR__Private__SEPARATOR__http://home.hiroshima-u.ac.jp/yuketsu/education/11.ppt
+lang_ja__SEPARATOR__Private__SEPARATOR__https://www.ibm.com/developerworks/community/wikis/form/anonymous/api/wiki/a5284a6c-ab5d-437b-b569-b8eb337a1a42/page/176a7994-9338-42da-a370-1c08917f8136/attachment/c8c0fade-62d4-489b-8595-cad1c23c6bb9/media/SoftLayer_Solution_Pattern_%E3%83%87%E3%83%BC%E3%82%BF%E9%AB%98%E9%80%9F%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9.ppt
+lang_ja__SEPARATOR__Choices__SEPARATOR__None Choices
+lang_ja__SEPARATOR__Recovery__SEPARATOR__http://www.ee-net.ne.jp/ms/sympo03/2-yamauchi.ppt
+lang_ja__SEPARATOR__Recovery__SEPARATOR__http://www.hide-fujino.com/pdf/2007/aug/18wrap.ppt
+lang_ja__SEPARATOR__Designation__SEPARATOR__None Designation
+lang_ja__SEPARATOR__Goods__SEPARATOR__http://fukuyama-matsuri.jp/relays/download/?file=/files/libs/798/201803131500348855.ppt
+lang_ja__SEPARATOR__Resurgence__SEPARATOR__None Resurgence
+lang_ja__SEPARATOR__Charges__SEPARATOR__http://www.arsvi.com/2000/031013ok.ppt
+lang_ja__SEPARATOR__Charges__SEPARATOR__http://www-cr.scphys.kyoto-u.ac.jp/research/mu-PIC/workshop/2004_ppt/tamagawa_MPGD2004.ppt
+lang_ja__SEPARATOR__Assets__SEPARATOR__http://www.denshi.e.kaiyodai.ac.jp/jp/assets/files/pdf/investigation/20071013.ppt
+lang_ja__SEPARATOR__Assets__SEPARATOR__https://framework.nilim.go.jp/assets/seminar/070913_presentation.ppt
+lang_ja__SEPARATOR__Assets__SEPARATOR__http://ars.gcoe.kyoto-u.ac.jp/assets/files/2012-03-22_career_seminar/2012-03-22_Ooi.ppt
+lang_ja__SEPARATOR__Assets__SEPARATOR__http://www.congre.co.jp/jaid90/assets/doc/COI_JAID.ppt
+lang_ja__SEPARATOR__savings__SEPARATOR__http://www.enecho.meti.go.jp/category/saving_and_new/saving/002/ppt/060203c.ppt
+lang_ja__SEPARATOR__savings__SEPARATOR__http://matsuo-tadasu.ptu.jp/Macro02.ppt
+lang_ja__SEPARATOR__Shrinkage__SEPARATOR__None Shrinkage
+lang_ja__SEPARATOR__Bonanza__SEPARATOR__http://www.yss-aya.com/jisa2009.ppt
+lang_ja__SEPARATOR__Bonanza__SEPARATOR__http://www.yss-aya.com/20141107gpw_meijin.ppt
+lang_ja__SEPARATOR__Stock__SEPARATOR__None Stock
+lang_ja__SEPARATOR__calmed__SEPARATOR__None calmed
+lang_ja__SEPARATOR__political map__SEPARATOR__None political map
+lang_ja__SEPARATOR__nobility__SEPARATOR__None nobility
+lang_ja__SEPARATOR__invest__SEPARATOR__None invest
+lang_ja__SEPARATOR__Debenture__SEPARATOR__None Debenture
+lang_ja__SEPARATOR__Preset__SEPARATOR__None Preset
+lang_ja__SEPARATOR__shift key__SEPARATOR__None shift key
+lang_ja__SEPARATOR__Marketing__SEPARATOR__https://www.j-ba.or.jp/rabj/marketing/download/norm-seminar.ppt
+lang_ja__SEPARATOR__Marketing__SEPARATOR__https://www.ec.kagawa-u.ac.jp/~hori/data/ppt/09a.ppt
+lang_ja__SEPARATOR__Marketing__SEPARATOR__http://www.jpwa.or.jp/kinyaku/member/01/oshirase/data/2011/20111107.ppt
+lang_ja__SEPARATOR__Embargo__SEPARATOR__None Embargo
+lang_ja__SEPARATOR__Proprietary__SEPARATOR__http://www.vled.or.jp/committee/7a614260b90d28c871ba3630f2050260338c1325.ppt
+lang_ja__SEPARATOR__Return__SEPARATOR__http://www.mech.kumamoto-u.ac.jp/Info/lab/ape/mori/dark/others-j.files/others.files/07.ppt
+lang_ja__SEPARATOR__punished__SEPARATOR__None punished
+lang_ja__SEPARATOR__held back__SEPARATOR__None held back
+lang_ja__SEPARATOR__Endowment__SEPARATOR__None Endowment
+lang_ja__SEPARATOR__pipette__SEPARATOR__None pipette
+lang_ja__SEPARATOR__Breach__SEPARATOR__None Breach
+lang_ja__SEPARATOR__rocked__SEPARATOR__None rocked
+lang_ja__SEPARATOR__great circle__SEPARATOR__None great circle
+lang_ja__SEPARATOR__scale bar__SEPARATOR__None scale bar
+lang_ja__SEPARATOR__volumetric flask__SEPARATOR__None volumetric flask
+lang_ja__SEPARATOR__Confirmation__SEPARATOR__None Confirmation
+lang_ja__SEPARATOR__Macroeconomics__SEPARATOR__None Macroeconomics
+lang_ja__SEPARATOR__boosted__SEPARATOR__None boosted
+lang_ja__SEPARATOR__Supply__SEPARATOR__http://www.tokai-rika.co.jp/company/supply/doc/sds.ppt
+lang_ja__SEPARATOR__depression__SEPARATOR__None depression
+lang_ja__SEPARATOR__Hedge fund__SEPARATOR__None Hedge fund
+lang_ja__SEPARATOR__Promotion__SEPARATOR__http://www.smrj.go.jp/doc/tool/keieireport_marketing_format.ppt
+lang_ja__SEPARATOR__Promotion__SEPARATOR__https://www.ipa.go.jp/files/000004569.ppt
+lang_ja__SEPARATOR__Promotion__SEPARATOR__http://www.nda.ac.jp/~nama/SSR/ref/TrendOfServiceScience.ppt
+lang_ja__SEPARATOR__brought about__SEPARATOR__None brought about
+lang_ja__SEPARATOR__fiscal__SEPARATOR__None fiscal
+lang_ja__SEPARATOR__Run-up__SEPARATOR__None Run-up
+lang_ja__SEPARATOR__Represent__SEPARATOR__None Represent
+lang_ja__SEPARATOR__degree of longitude__SEPARATOR__None degree of longitude
+lang_ja__SEPARATOR__deteriorated__SEPARATOR__None deteriorated
+lang_ja__SEPARATOR__Elasticity__SEPARATOR__None Elasticity
+lang_ja__SEPARATOR__Western Hemisphere__SEPARATOR__None Western Hemisphere
+lang_ja__SEPARATOR__credit__SEPARATOR__http://www.geocities.jp/kqsmr859/teigen/bi.ppt
+lang_ja__SEPARATOR__cybercrime__SEPARATOR__None cybercrime
+lang_ja__SEPARATOR__username__SEPARATOR__None username
+lang_ja__SEPARATOR__Comparison__SEPARATOR__http://rcwww.kek.jp/egsconf/2010-abst/hirayama-comparison.ppt
+lang_ja__SEPARATOR__Termination__SEPARATOR__None Termination
+lang_ja__SEPARATOR__Fluctuation__SEPARATOR__None Fluctuation
+lang_ja__SEPARATOR__Lottery__SEPARATOR__None Lottery
+lang_ja__SEPARATOR__Hassle__SEPARATOR__None Hassle
+lang_ja__SEPARATOR__Panic__SEPARATOR__None Panic
+lang_ja__SEPARATOR__exaggerated__SEPARATOR__None exaggerated
+lang_ja__SEPARATOR__capitalism__SEPARATOR__None capitalism
+lang_ja__SEPARATOR__trail blazing__SEPARATOR__None trail blazing
+lang_ja__SEPARATOR__spending__SEPARATOR__None spending
+lang_ja__SEPARATOR__vivid__SEPARATOR__None vivid
+lang_ja__SEPARATOR__Maximum__SEPARATOR__http://www.smapip.is.tohoku.ac.jp/~kazu/PhysicalFluctuomatics/2010/main2010-04.ppt
+lang_ja__SEPARATOR__Maximum__SEPARATOR__http://www.kmonos.net/pub/Presen/ACM-ICPC-Algorithm.ppt
+lang_ja__SEPARATOR__finance__SEPARATOR__None finance
+lang_ja__SEPARATOR__Count on__SEPARATOR__http://www-sdc.med.nagasaki-u.ac.jp/nuric/docs/nashim.ppt
+lang_ja__SEPARATOR__Distribution__SEPARATOR__http://www.suiri.civil.yamaguchi-u.ac.jp/lecture/kasen/river9.ppt
+lang_ja__SEPARATOR__Standard__SEPARATOR__http://www.aichi-c.ed.jp/digitalcontents/Web_koug/zenpan/anzen/4-kyt-standard-a.ppt
+lang_ja__SEPARATOR__Standard__SEPARATOR__http://www.th.phys.titech.ac.jp/de07/presentation/28/nishimichi.ppt
+lang_ja__SEPARATOR__stock market__SEPARATOR__None stock market
+lang_ja__SEPARATOR__Southern Hemisphere__SEPARATOR__None Southern Hemisphere
+lang_ja__SEPARATOR__Schematic__SEPARATOR__http://gwdoc.icrr.u-tokyo.ac.jp/DocDB/0005/G1100559/001/LCGTf2f-susa.ppt
+lang_ja__SEPARATOR__Schematic__SEPARATOR__http://www-conf.kek.jp/thlec/ppt/5day/kawanaka.ppt
+lang_ja__SEPARATOR__Finance__SEPARATOR__None Finance
+lang_ja__SEPARATOR__flaming__SEPARATOR__None flaming
+lang_ja__SEPARATOR__plausible__SEPARATOR__None plausible
+lang_ja__SEPARATOR__Frugal__SEPARATOR__None Frugal
+lang_ja__SEPARATOR__militarism__SEPARATOR__None militarism
+lang_ja__SEPARATOR__sensationalist__SEPARATOR__None sensationalist
+lang_ja__SEPARATOR__investment__SEPARATOR__None investment
+lang_ja__SEPARATOR__Collateral__SEPARATOR__None Collateral
+lang_ja__SEPARATOR__teminal__SEPARATOR__None teminal
+lang_ja__SEPARATOR__Currency__SEPARATOR__None Currency
+lang_ja__SEPARATOR__Delivery__SEPARATOR__http://www.is.kyusan-u.ac.jp/~abe/trans7.ppt
+lang_ja__SEPARATOR__Delivery__SEPARATOR__https://www.issj.net/konwa/2012/130227_konwakai_shiryou.ppt
+lang_ja__SEPARATOR__password__SEPARATOR__None password
+lang_ja__SEPARATOR__Financial__SEPARATOR__None Financial
+lang_ja__SEPARATOR__Incorporate__SEPARATOR__None Incorporate
+lang_ja__SEPARATOR__divine right__SEPARATOR__None divine right
+lang_ja__SEPARATOR__encouraged__SEPARATOR__None encouraged
+lang_ja__SEPARATOR__Collapse__SEPARATOR__http://rironkon.jp/sympo2004/ppt/rironkon_kitayama.ppt
+lang_ja__SEPARATOR__operating system__SEPARATOR__None operating system
+lang_ja__SEPARATOR__botany__SEPARATOR__None botany
+lang_ja__SEPARATOR__working class__SEPARATOR__None working class
+lang_ja__SEPARATOR__laser printer__SEPARATOR__None laser printer
+lang_ja__SEPARATOR__Discount__SEPARATOR__None Discount
+lang_ja__SEPARATOR__Acquisition__SEPARATOR__http://rd.kek.jp/slides/20051004/2Ddosimetry.ppt
+lang_ja__SEPARATOR__Acquisition__SEPARATOR__http://www.psy.ritsumei.ac.jp/~mochi/11ABA05ppt.ppt
+lang_ja__SEPARATOR__Comptroller__SEPARATOR__None Comptroller
+lang_ja__SEPARATOR__geophysics__SEPARATOR__None geophysics
+lang_ja__SEPARATOR__communism__SEPARATOR__None communism
+lang_ja__SEPARATOR__consumer__SEPARATOR__None consumer
+lang_ja__SEPARATOR__Patronage__SEPARATOR__None Patronage
+lang_ja__SEPARATOR__Trough__SEPARATOR__http://www.suiri.civil.yamaguchi-u.ac.jp/lecture/kaigan/coast13.ppt
+lang_ja__SEPARATOR__pacified__SEPARATOR__None pacified
+lang_ja__SEPARATOR__Petri dish__SEPARATOR__None Petri dish
+lang_ja__SEPARATOR__Sense__SEPARATOR__http://web.sapmed.ac.jp/bme/view/rnai.ppt
+lang_ja__SEPARATOR__Sense__SEPARATOR__http://www.tmd.ac.jp/artsci/biol/textintroppt/09Dai6kai.ppt
+lang_ja__SEPARATOR__Option__SEPARATOR__None Option
+lang_ja__SEPARATOR__Refusal__SEPARATOR__None Refusal
+lang_ja__SEPARATOR__exhausted__SEPARATOR__None exhausted
+lang_ja__SEPARATOR__Trust__SEPARATOR__None Trust
+lang_ja__SEPARATOR__parliament__SEPARATOR__None parliament
+lang_ja__SEPARATOR__evaluate__SEPARATOR__None evaluate
+lang_ja__SEPARATOR__Injunction__SEPARATOR__None Injunction
+lang_ja__SEPARATOR__Nominal__SEPARATOR__None Nominal
+lang_ja__SEPARATOR__cartography__SEPARATOR__None cartography
+lang_ja__SEPARATOR__Alienate__SEPARATOR__None Alienate
+lang_ja__SEPARATOR__Share__SEPARATOR__http://www.tokyo-med.ac.jp/mededu/news/doc/who/who_mc_topic-2%20master%20slides_J.ppt
+lang_ja__SEPARATOR__Share__SEPARATOR__http://jsme.umin.ac.jp/com/uge/20170818sympo/1-kobasyashi%20.ppt
+lang_ja__SEPARATOR__Minimal__SEPARATOR__http://www.bic.kyoto-u.ac.jp/takutsu/members/takutsu/utcb10.ppt
+lang_ja__SEPARATOR__flash drive__SEPARATOR__None flash drive
+lang_ja__SEPARATOR__Permit__SEPARATOR__None Permit
+lang_ja__SEPARATOR__Stimulation__SEPARATOR__None Stimulation
+lang_ja__SEPARATOR__Once-burned__SEPARATOR__None Once-burned
+lang_ja__SEPARATOR__Vest__SEPARATOR__None Vest
+lang_ja__SEPARATOR__bankruptcy__SEPARATOR__None bankruptcy
+lang_ja__SEPARATOR__decimated__SEPARATOR__None decimated
+lang_ja__SEPARATOR__restrained__SEPARATOR__None restrained
+lang_ja__SEPARATOR__Competition__SEPARATOR__None Competition
+lang_ja__SEPARATOR__Compliant__SEPARATOR__None Compliant
+lang_ja__SEPARATOR__Sector__SEPARATOR__None Sector
+lang_ja__SEPARATOR__restore__SEPARATOR__None restore
+lang_ja__SEPARATOR__Iteration__SEPARATOR__http://www.ph.sophia.ac.jp/~tomi/kougi_note/simulation_physics4.ppt
+lang_ja__SEPARATOR__Iteration__SEPARATOR__http://gpu-computing.gsic.titech.ac.jp/sites/default/files/prometech..ppt
+lang_ja__SEPARATOR__devastating__SEPARATOR__None devastating
+lang_ja__SEPARATOR__Guarantee__SEPARATOR__None Guarantee
+lang_ja__SEPARATOR__test tube__SEPARATOR__None test tube
+lang_ja__SEPARATOR__Relative__SEPARATOR__http://ee-net.ne.jp/ppt/010329a.ppt
+lang_ja__SEPARATOR__clip art__SEPARATOR__None clip art
+lang_ja__SEPARATOR__Addition__SEPARATOR__None Addition
+lang_ja__SEPARATOR__Imbalance__SEPARATOR__None Imbalance
+lang_ja__SEPARATOR__Production__SEPARATOR__None Production
+lang_ja__SEPARATOR__Till__SEPARATOR__None Till
+lang_ja__SEPARATOR__topographic map__SEPARATOR__None topographic map
+lang_ja__SEPARATOR__Lengthen__SEPARATOR__None Lengthen
+lang_ja__SEPARATOR__Professional__SEPARATOR__https://ganjoho.jp/data/professional/training_seminar/training/2007/record/odjrh3000000ojjn-att/uchitomi.ppt
+lang_ja__SEPARATOR__Professional__SEPARATOR__http://tiseda.sakura.ne.jp/works/profession_movement.ppt
+lang_ja__SEPARATOR__Professional__SEPARATOR__http://www.mellow-club.org/e-govsympo/takaji.ppt
+lang_ja__SEPARATOR__Professional__SEPARATOR__http://buna.arts.yorku.ca/japanese/tjfl/tjfl_communicative_pdgm.ppt
+lang_ja__SEPARATOR__Professional__SEPARATOR__http://www.nuis.ac.jp/~komiyama/murakami_sakuragaoka.ppt
+lang_ja__SEPARATOR__popularised__SEPARATOR__None popularised
+lang_ja__SEPARATOR__Insurance__SEPARATOR__None Insurance
+lang_ja__SEPARATOR__Conglomerate__SEPARATOR__None Conglomerate
+lang_ja__SEPARATOR__Affidavit__SEPARATOR__None Affidavit
+lang_ja__SEPARATOR__Entitlement__SEPARATOR__None Entitlement
+lang_ja__SEPARATOR__Quitclaim__SEPARATOR__None Quitclaim
+lang_ja__SEPARATOR__disastrous__SEPARATOR__None disastrous
+lang_ja__SEPARATOR__revolutionary__SEPARATOR__None revolutionary
+lang_ja__SEPARATOR__astronomy__SEPARATOR__None astronomy
+lang_ja__SEPARATOR__Amount__SEPARATOR__None Amount
+lang_ja__SEPARATOR__Potential__SEPARATOR__http://www.fml.t.u-tokyo.ac.jp/~izumi/sotsuron/030117.ppt
+lang_ja__SEPARATOR__Potential__SEPARATOR__http://www.bio.mie-u.ac.jp/~tachi/kogi/taiki1-5.2015-public.ppt
+lang_ja__SEPARATOR__graduated cylinder__SEPARATOR__None graduated cylinder
+lang_ja__SEPARATOR__consumer goods__SEPARATOR__None consumer goods
+lang_ja__SEPARATOR__Mutual fund__SEPARATOR__None Mutual fund
+lang_ja__SEPARATOR__Cycle__SEPARATOR__http://www.jpma.or.jp/information/ich/explanation/ppt/02_ich100715.ppt
+lang_ja__SEPARATOR__High tech__SEPARATOR__None High tech
+lang_ja__SEPARATOR__Waste__SEPARATOR__http://www.npo-eco.org/H27zentosei.ppt
+lang_ja__SEPARATOR__Disposable income__SEPARATOR__None Disposable income
+lang_ja__SEPARATOR__memory__SEPARATOR__None memory
+lang_ja__SEPARATOR__tumultuous__SEPARATOR__None tumultuous
+lang_ja__SEPARATOR__territory__SEPARATOR__None territory
+lang_ja__SEPARATOR__Beneficiary__SEPARATOR__None Beneficiary
+lang_ja__SEPARATOR__Wholesale__SEPARATOR__None Wholesale
+lang_ja__SEPARATOR__aroused__SEPARATOR__None aroused
+lang_ja__SEPARATOR__clip board__SEPARATOR__None clip board
+lang_ja__SEPARATOR__Authorization__SEPARATOR__None Authorization
+lang_ja__SEPARATOR__Downsize__SEPARATOR__None Downsize
+lang_ja__SEPARATOR__Leverage__SEPARATOR__None Leverage
+lang_ja__SEPARATOR__Subsidiary__SEPARATOR__None Subsidiary
+lang_ja__SEPARATOR__intelligentsia__SEPARATOR__None intelligentsia
+lang_ja__SEPARATOR__deceptive__SEPARATOR__None deceptive
+lang_ja__SEPARATOR__analemma__SEPARATOR__None analemma
+lang_ja__SEPARATOR__domain name__SEPARATOR__None domain name
+lang_ja__SEPARATOR__argue__SEPARATOR__None argue
+lang_ja__SEPARATOR__retort__SEPARATOR__None retort
+lang_ja__SEPARATOR__syndicalism__SEPARATOR__None syndicalism
+lang_ja__SEPARATOR__bathymetric map__SEPARATOR__None bathymetric map
+lang_ja__SEPARATOR__Afford__SEPARATOR__None Afford
+lang_ja__SEPARATOR__Apprentice__SEPARATOR__None Apprentice
+lang_ja__SEPARATOR__Query__SEPARATOR__https://researchmap.jp/sada/succinct/?action=cabinet_action_main_download&block_id=59178&room_id=1197&cabinet_id=5698&file_id=3120&upload_id=16235
+lang_ja__SEPARATOR__Dissemination__SEPARATOR__None Dissemination
+lang_ja__SEPARATOR__Oil__SEPARATOR__http://www.fortune.com.tw/jp/data/factory_info/wuhan.ppt
+lang_ja__SEPARATOR__Oil__SEPARATOR__http://www.pref.osaka.lg.jp/attach/15149/00000000/02gdp.ppt
+lang_ja__SEPARATOR__Oil__SEPARATOR__http://kouzou.cc.kogakuin.ac.jp/Open/%E5%BC%BE%E5%A1%91%E6%80%A7%E5%9C%B0%E9%9C%87%E5%BF%9C%E7%AD%94%E8%A7%A3%E6%9E%90/%E7%99%BA%E8%A1%A8%E7%94%A8/%E7%99%BA%E8%A1%A8.ppt
+lang_ja__SEPARATOR__Oil__SEPARATOR__http://www.meti.go.jp/policy/economy/gijutsu_kakushin/kenkyu_kaihatu/str2009/2_4_r1.ppt
+lang_ja__SEPARATOR__Oil__SEPARATOR__http://www.aesj.or.jp/~snw/kouen_shiryou/document/kaneuji_shigen091126.ppt
+lang_ja__SEPARATOR__Queue__SEPARATOR__None Queue
+lang_ja__SEPARATOR__antipodes__SEPARATOR__None antipodes
+lang_ja__SEPARATOR__Increment__SEPARATOR__http://home.hiroshima-u.ac.jp/yuketsu/education/16.ppt
+lang_ja__SEPARATOR__Increment__SEPARATOR__http://home.hiroshima-u.ac.jp/yuketsu/education/25.ppt
+lang_ja__SEPARATOR__village__SEPARATOR__None village
+lang_ja__SEPARATOR__Insolvent__SEPARATOR__None Insolvent
+lang_ja__SEPARATOR__Deductible__SEPARATOR__None Deductible
+lang_ja__SEPARATOR__Decision__SEPARATOR__None Decision
+lang_ja__SEPARATOR__expedient__SEPARATOR__None expedient
+lang_ja__SEPARATOR__Extreme__SEPARATOR__http://www.phyas.aichi-edu.ac.jp/~takahasi/GR_BH/2010-3_JPS_short.ppt
+lang_ja__SEPARATOR__kindled__SEPARATOR__None kindled
+lang_ja__SEPARATOR__Objective__SEPARATOR__http://www.umin.ac.jp/mincs/2003/KyouyouShiken.ppt
+lang_ja__SEPARATOR__Objective__SEPARATOR__http://gakuen.gifu-net.ed.jp/~contents/kou_seibutu/ppt/micrometer.ppt
+lang_ja__SEPARATOR__Policy__SEPARATOR__None Policy
+lang_ja__SEPARATOR__Inheritance__SEPARATOR__None Inheritance
+lang_ja__SEPARATOR__Custodial__SEPARATOR__None Custodial
+lang_ja__SEPARATOR__Promise__SEPARATOR__http://www.jaog.or.jp/wp/wp-content/uploads/2017/01/ppt_201606_31.ppt
+lang_ja__SEPARATOR__competition__SEPARATOR__None competition
+lang_ja__SEPARATOR__deposit__SEPARATOR__None deposit
+lang_ja__SEPARATOR__curbed__SEPARATOR__None curbed
+lang_ja__SEPARATOR__Usury__SEPARATOR__None Usury
+lang_ja__SEPARATOR__inbox__SEPARATOR__None inbox
+lang_ja__SEPARATOR__shaking__SEPARATOR__None shaking
+lang_ja__SEPARATOR__mountain range__SEPARATOR__None mountain range
+lang_ja__SEPARATOR__Product__SEPARATOR__None Product
+lang_ja__SEPARATOR__weather map__SEPARATOR__None weather map
+lang_ja__SEPARATOR__Penalty__SEPARATOR__http://www.bic.kyoto-u.ac.jp/takutsu/members/takutsu/nara-wu-2.ppt
+lang_ja__SEPARATOR__Indigent__SEPARATOR__None Indigent
+lang_ja__SEPARATOR__Percent__SEPARATOR__None Percent
+lang_ja__SEPARATOR__Success__SEPARATOR__http://www.yamagata-u.ac.jp/kenkyu/project/files/080809.ppt
+lang_ja__SEPARATOR__Success__SEPARATOR__http://www.saga-ed.jp/kenkyu/kenkyu_chousa/h17/syougyou/bisinesskiso/powerpoint/gurico.ppt
+lang_ja__SEPARATOR__Success__SEPARATOR__http://www.yamagata-u.ac.jp/kenkyu/project/files/081023.ppt
+lang_ja__SEPARATOR__Success__SEPARATOR__http://www.chusho.meti.go.jp/koukai/kenkyukai/kenkyu/2005/zaimukanri/050620keieizyogen.ppt
+lang_ja__SEPARATOR__Divide__SEPARATOR__http://lebenbaum.art.coocan.jp/PPT/0721FoodBSEwMedia.ppt
+lang_ja__SEPARATOR__Opportunity__SEPARATOR__http://www.econ.kyoto-u.ac.jp/~shanghai/100712%20simpo/100712%20takahashi.ppt
+lang_ja__SEPARATOR__Peak__SEPARATOR__None Peak
+lang_ja__SEPARATOR__Gold__SEPARATOR__http://www.bic.kyoto-u.ac.jp/takutsu/members/takutsu/utchem5.ppt
+lang_ja__SEPARATOR__Gold__SEPARATOR__https://square.umin.ac.jp/massie-tmd/consui.ppt
+lang_ja__SEPARATOR__Gold__SEPARATOR__https://phits.jaea.go.jp/lec/phits-lec-Linac-jp.ppt
+lang_ja__SEPARATOR__Dismissal__SEPARATOR__None Dismissal
+lang_ja__SEPARATOR__Responsibility__SEPARATOR__http://www.jcpra.or.jp/Portals/0/resource/manufacture/pamph/presentation/01_law.ppt
+lang_ja__SEPARATOR__Responsibility__SEPARATOR__http://objectclub.jp/technicaldoc/object-orientation/object-design/ood.ppt
+lang_ja__SEPARATOR__Responsibility__SEPARATOR__http://nanotsu.ait.kyushu-u.ac.jp/wp-content/uploads/2003/04/2003%E5%B9%B4%E5%BA%A6%E8%BC%AA%E8%AC%9B_chapter6.ppt
+lang_ja__SEPARATOR__emboldened__SEPARATOR__None emboldened
+lang_ja__SEPARATOR__cash__SEPARATOR__http://kinyu-navi.jp/gakusyuGame/Guidance.ppt
+lang_ja__SEPARATOR__cash__SEPARATOR__https://cdn.advertimes.com/wp-content/uploads/2017/01/201502-ntt-card.ppt
+lang_ja__SEPARATOR__Freeze__SEPARATOR__None Freeze
+lang_ja__SEPARATOR__shareware__SEPARATOR__None shareware
+lang_ja__SEPARATOR__Ownership__SEPARATOR__None Ownership
+lang_ja__SEPARATOR__summarise__SEPARATOR__None summarise
+lang_ja__SEPARATOR__Zero-coupon__SEPARATOR__None Zero-coupon
+lang_ja__SEPARATOR__Oligopoly__SEPARATOR__None Oligopoly
+lang_ja__SEPARATOR__international__SEPARATOR__http://www.jpma.or.jp/information/ich/explanation/ppt/09_ich100715.ppt
+lang_ja__SEPARATOR__fruits__SEPARATOR__None fruits
+lang_ja__SEPARATOR__capital city__SEPARATOR__None capital city
+lang_ja__SEPARATOR__Arctic__SEPARATOR__None Arctic
+lang_ja__SEPARATOR__contained__SEPARATOR__None contained
+lang_ja__SEPARATOR__Buying__SEPARATOR__None Buying
+lang_ja__SEPARATOR__market__SEPARATOR__None market
+lang_ja__SEPARATOR__Entity__SEPARATOR__http://www.ssc.pe.titech.ac.jp/lectures/icNiigata/Niigata_IC_02_0905.ppt
+lang_ja__SEPARATOR__Demographics__SEPARATOR__None Demographics
+lang_ja__SEPARATOR__Mention__SEPARATOR__None Mention
+lang_ja__SEPARATOR__Appraise__SEPARATOR__None Appraise
+lang_ja__SEPARATOR__imbalanced__SEPARATOR__None imbalanced
+lang_ja__SEPARATOR__Compensation__SEPARATOR__http://www.katto.comm.waseda.ac.jp/~katto/Class/01/GazoTokuron/ppt/gazotokuron-Friendly.ppt
+lang_ja__SEPARATOR__Quid pro quo__SEPARATOR__None Quid pro quo
+lang_ja__SEPARATOR__Installment__SEPARATOR__None Installment
+lang_ja__SEPARATOR__geographic coordinates__SEPARATOR__None geographic coordinates
+lang_ja__SEPARATOR__cost__SEPARATOR__http://www.alg.cei.uec.ac.jp/itohiro/Games/070316/070316-07.ppt
+lang_ja__SEPARATOR__Bills__SEPARATOR__http://www.tokyo-med.ac.jp/mededu/news/doc/who/who_mc_topic-5%20master%20slides_J.ppt
+lang_ja__SEPARATOR__Bills__SEPARATOR__http://www.edu.yamaguchi-u.ac.jp/~mis/www-page/mis/kaisetu/sotsuron2007/i-nm-presen.ppt
+lang_ja__SEPARATOR__crippled__SEPARATOR__None crippled
+lang_ja__SEPARATOR__Sales__SEPARATOR__https://products.cybozu.co.jp/dotsales/support/ppt/cyds_siryo.ppt
+lang_ja__SEPARATOR__Surge__SEPARATOR__http://www.suiri.civil.yamaguchi-u.ac.jp/lecture/kaigan/coast11.ppt
+lang_ja__SEPARATOR__annotate__SEPARATOR__None annotate
+lang_ja__SEPARATOR__Consultation__SEPARATOR__None Consultation
+lang_ja__SEPARATOR__Default__SEPARATOR__https://www.an.shimadzu.co.jp/sites/default/files/ckeditor/test/support/faq/safe/servo_safe.ppt
+lang_ja__SEPARATOR__Default__SEPARATOR__https://www.avaldata.co.jp/sites/default/files/whatsnew.00322.00000001.pps
+lang_ja__SEPARATOR__Default__SEPARATOR__http://www.ole.tsukuba.ac.jp/sites/default/files/setsumon%20ppt_0.ppt
+lang_ja__SEPARATOR__beaker__SEPARATOR__None beaker
+lang_ja__SEPARATOR__Inflation__SEPARATOR__None Inflation
+lang_ja__SEPARATOR__Dividend__SEPARATOR__None Dividend
+lang_ja__SEPARATOR__triggered__SEPARATOR__None triggered
+lang_ja__SEPARATOR__important__SEPARATOR__None important
+lang_ja__SEPARATOR__Disclaimer__SEPARATOR__None Disclaimer
+lang_ja__SEPARATOR__instigated__SEPARATOR__None instigated
+lang_ja__SEPARATOR__demoralised__SEPARATOR__None demoralised
+lang_ja__SEPARATOR__Subpoena__SEPARATOR__None Subpoena
+lang_ja__SEPARATOR__Target__SEPARATOR__https://www.naoj.org/Projects/newdev/ws11b/proc/001ono_201109oosaka.ppt
+lang_ja__SEPARATOR__Ombudsman__SEPARATOR__http://www.nagoya.ombudsman.jp/data/PPT140921.ppt
+lang_ja__SEPARATOR__System__SEPARATOR__None System
+lang_ja__SEPARATOR__Tighten__SEPARATOR__None Tighten
+lang_ja__SEPARATOR__Instruct__SEPARATOR__None Instruct
+lang_ja__SEPARATOR__drained__SEPARATOR__None drained
+lang_ja__SEPARATOR__Enterprise__SEPARATOR__https://www.ibm.com/developerworks/community/wikis/form/anonymous/api/wiki/a5284a6c-ab5d-437b-b569-b8eb337a1a42/page/34467a1b-f9be-4d6a-bfd1-9ccc3f171009/attachment/12ea30ea-fe82-4e30-ae66-ec99ce6251f8/media/SoftLayer_Solution_Pattern_%E7%A7%BB%E8%A1%8C.ppt
+lang_ja__SEPARATOR__Break even__SEPARATOR__None Break even
+lang_ja__SEPARATOR__High__SEPARATOR__https://www.astr.tohoku.ac.jp/~akiyama/Lecture/ISP/Lecture1.ppt
+lang_ja__SEPARATOR__High__SEPARATOR__https://www.phenix.bnl.gov/WWW/publish/akiba/PR/PRbook.ppt
+lang_ja__SEPARATOR__Consign__SEPARATOR__None Consign
+lang_ja__SEPARATOR__Free trade__SEPARATOR__None Free trade
+lang_ja__SEPARATOR__radiology__SEPARATOR__http://www.somadyne.com/image/2012C7AF5B7EEA1A1A5EFA1BCA5AFA5B7A5E7A5C3A5D7A1CACCBEB8C5B2B0A1CBB0F5BAFECDD1.ppt
+lang_ja__SEPARATOR__provoked__SEPARATOR__None provoked
+lang_ja__SEPARATOR__Welfare__SEPARATOR__http://www.pref.tochigi.lg.jp/e04/welfare/kenkoudukuri/kenkoudukuri/documents/1217922881853.ppt
+lang_ja__SEPARATOR__hemisphere__SEPARATOR__None hemisphere
+lang_ja__SEPARATOR__Commerce__SEPARATOR__None Commerce
+lang_ja__SEPARATOR__Withdraw__SEPARATOR__None Withdraw
+lang_ja__SEPARATOR__fatigued__SEPARATOR__None fatigued
+lang_ja__SEPARATOR__Quotation__SEPARATOR__None Quotation
+lang_ja__SEPARATOR__Quasi__SEPARATOR__https://www.gw.hep.osaka-cu.ac.jp/TAMAsympo4/viewgraphs/217-am-sago.ppt
+lang_ja__SEPARATOR__Quasi__SEPARATOR__http://www.resceu.s.u-tokyo.ac.jp/symposium/daigaku&kagaku/yoshii.ppt
+lang_ja__SEPARATOR__Quasi__SEPARATOR__http://www.kh.phys.waseda.ac.jp/thesis/yanai.ppt
+lang_ja__SEPARATOR__Available__SEPARATOR__None Available
+lang_ja__SEPARATOR__brainstorm__SEPARATOR__None brainstorm
+lang_ja__SEPARATOR__Tropic of Cancer__SEPARATOR__None Tropic of Cancer
+lang_ja__SEPARATOR__webmaster__SEPARATOR__http://www.ebug.jp/pub/docs/20040306/Outline_of_UUCP.ppt
+lang_ja__SEPARATOR__Assistance__SEPARATOR__None Assistance
+lang_ja__SEPARATOR__inspired__SEPARATOR__None inspired
+lang_ja__SEPARATOR__Purchasing power__SEPARATOR__None Purchasing power
+lang_ja__SEPARATOR__Periodic__SEPARATOR__http://gwdoc.icrr.u-tokyo.ac.jp/DocDB/0002/G1000265/002/takayama_GWkouryuu.ppt
+lang_ja__SEPARATOR__Worthless__SEPARATOR__None Worthless
+lang_ja__SEPARATOR__Assessment__SEPARATOR__https://www.fasid.or.jp/_files/library/kaigou/present34.ppt
+lang_ja__SEPARATOR__Assessment__SEPARATOR__http://www.muroran-it.ac.jp/gp/tokushoku/report/nisimura.ppt
+lang_ja__SEPARATOR__entomology__SEPARATOR__None entomology
+lang_ja__SEPARATOR__Justification__SEPARATOR__http://www-sdc.med.nagasaki-u.ac.jp/nuric/docs/resident.ppt
+lang_ja__SEPARATOR__Supplemental__SEPARATOR__None Supplemental
+lang_ja__SEPARATOR__Diminish__SEPARATOR__None Diminish
+lang_ja__SEPARATOR__Quota__SEPARATOR__None Quota
+lang_ja__SEPARATOR__Factor__SEPARATOR__http://www.ssc.pe.titech.ac.jp/publications/2010/RFmeeting/asdh_20100218RF.ppt
+lang_ja__SEPARATOR__heartened__SEPARATOR__None heartened
+lang_ja__SEPARATOR__economy__SEPARATOR__http://www.meti.go.jp/policy/economy/gijutsu_kakushin/kenkyu_kaihatu/str2009/7_1_r.ppt
+lang_ja__SEPARATOR__Bellwether__SEPARATOR__None Bellwether
+lang_ja__SEPARATOR__flask__SEPARATOR__None flask
+lang_ja__SEPARATOR__Commission__SEPARATOR__http://gopira.jp/sym2015b/304_gouda.ppt
+lang_ja__SEPARATOR__Commission__SEPARATOR__http://lawschool.jp/kagayama/material/civi_law/contract/obligation/presentation/05-perfor.ppt
+lang_ja__SEPARATOR__Commission__SEPARATOR__http://www.econ.kyoto-u.ac.jp/~ida/2Kyouiku/2Digakuinn/Workshop/Koukyoukoukaisemi/kanden010620.ppt
+lang_ja__SEPARATOR__Packaging__SEPARATOR__https://www.ec.kagawa-u.ac.jp/~hori/data/ppt/06.ppt
+lang_ja__SEPARATOR__Franchise__SEPARATOR__None Franchise
+lang_ja__SEPARATOR__Obtain__SEPARATOR__None Obtain
+lang_ja__SEPARATOR__mainframe__SEPARATOR__None mainframe
+lang_ja__SEPARATOR__Curb__SEPARATOR__None Curb
+lang_ja__SEPARATOR__Expenditure__SEPARATOR__None Expenditure
+lang_ja__SEPARATOR__Borrowing__SEPARATOR__None Borrowing
+lang_ja__SEPARATOR__Protection__SEPARATOR__http://www.suiri.civil.yamaguchi-u.ac.jp/lecture/kaigan/coast3.ppt
+lang_ja__SEPARATOR__Protection__SEPARATOR__http://www.aesj.or.jp/~hobkan/2014_autumn_comment(2).ppt
+lang_ja__SEPARATOR__exacerbated__SEPARATOR__None exacerbated
+lang_ja__SEPARATOR__dispersed__SEPARATOR__None dispersed
+lang_ja__SEPARATOR__Easement__SEPARATOR__None Easement
+lang_ja__SEPARATOR__hyperlink__SEPARATOR__None hyperlink
+lang_ja__SEPARATOR__Worth__SEPARATOR__None Worth
+lang_ja__SEPARATOR__mobilised__SEPARATOR__None mobilised
+lang_ja__SEPARATOR__Outsource__SEPARATOR__None Outsource
+lang_ja__SEPARATOR__web host__SEPARATOR__None web host
+lang_ja__SEPARATOR__Material goods__SEPARATOR__None Material goods
+lang_ja__SEPARATOR__Pork bellies__SEPARATOR__None Pork bellies
+lang_ja__SEPARATOR__stretched__SEPARATOR__None stretched
+lang_ja__SEPARATOR__Principle__SEPARATOR__https://www.afrasia.ryukoku.ac.jp/eng/activity/pop_win.php?type=download&id=80&imgid=1
+lang_ja__SEPARATOR__Principle__SEPARATOR__http://ishiken.free.fr/lectures/toukeisuuri4.ppt
+lang_ja__SEPARATOR__Affiliate__SEPARATOR__None Affiliate
+lang_ja__SEPARATOR__Prevention__SEPARATOR__http://imdr.dpri.kyoto-u.ac.jp/NetCommons/htdocs/?action=common_download_main&upload_id=347
+lang_ja__SEPARATOR__Prevention__SEPARATOR__http://m-sk.sakura.ne.jp/murakou/apav.ppt
+lang_ja__SEPARATOR__Annual__SEPARATOR__http://www.geocities.jp/pms_forum/naiyo/teikidsur.ppt
+lang_ja__SEPARATOR__Basis__SEPARATOR__http://bin.t.u-tokyo.ac.jp/prml2009/ppt/PRML06.ppt
+lang_ja__SEPARATOR__Revocable__SEPARATOR__None Revocable
+lang_ja__SEPARATOR__Extend__SEPARATOR__None Extend
+lang_ja__SEPARATOR__Laissez-faire__SEPARATOR__None Laissez-faire
+lang_ja__SEPARATOR__cartographer__SEPARATOR__None cartographer
+lang_ja__SEPARATOR__Gain__SEPARATOR__http://hep.px.tsukuba.ac.jp/tokutei-wkshp/2005/talks/a01-yoshida-yoshida.ppt
+lang_ja__SEPARATOR__Indenture__SEPARATOR__None Indenture
+lang_ja__SEPARATOR__Mercantile__SEPARATOR__None Mercantile
+lang_ja__SEPARATOR__Compulsory__SEPARATOR__None Compulsory
+lang_ja__SEPARATOR__Pyramiding__SEPARATOR__None Pyramiding
+lang_ja__SEPARATOR__Obligation__SEPARATOR__http://lawschool.jp/kagayama/material/civi_law/contract/obligation/presentation/01-orientation.ppt
+lang_ja__SEPARATOR__Divestiture__SEPARATOR__None Divestiture
+lang_ja__SEPARATOR__Balance__SEPARATOR__None Balance
+lang_ja__SEPARATOR__Analysis__SEPARATOR__http://www.nakanihon.co.jp/img/tech/minne004.ppt
+lang_ja__SEPARATOR__Analysis__SEPARATOR__http://ide-research.net/papers/2005_IBIS_Ide.ppt
+lang_ja__SEPARATOR__Analysis__SEPARATOR__https://phits.jaea.go.jp/lec/phits-lec-ElectronTherapy-jp.ppt
+lang_ja__SEPARATOR__repressed__SEPARATOR__None repressed
+lang_ja__SEPARATOR__motivated__SEPARATOR__None motivated
+lang_ja__SEPARATOR__spear heading__SEPARATOR__None spear heading
+lang_ja__SEPARATOR__budget__SEPARATOR__None budget
+lang_ja__SEPARATOR__Consolidation__SEPARATOR__http://m-sk.sakura.ne.jp/murakou/nichijo.ppt
+lang_ja__SEPARATOR__depleted__SEPARATOR__None depleted
+lang_ja__SEPARATOR__Contingency__SEPARATOR__http://www.tokyo-med.ac.jp/mededu/news/doc/who/who_mc_topic-4%20master%20slides_J.ppt
+lang_ja__SEPARATOR__Itemization__SEPARATOR__None Itemization
+lang_ja__SEPARATOR__exabyte__SEPARATOR__None exabyte
+lang_ja__SEPARATOR__Services__SEPARATOR__None Services
+lang_ja__SEPARATOR__Estimation__SEPARATOR__http://gpspp.sakura.ne.jp/tutorial/gps_tec_2006.ppt
+lang_ja__SEPARATOR__Suggestion__SEPARATOR__None Suggestion
+lang_ja__SEPARATOR__Training__SEPARATOR__None Training
+lang_ja__SEPARATOR__opportune__SEPARATOR__None opportune
+lang_ja__SEPARATOR__smothered__SEPARATOR__None smothered
+lang_ja__SEPARATOR__Lower__SEPARATOR__http://nlp.dse.ibaraki.ac.jp/~shinnou/zemi2006/BN/BN-iwasaki3.ppt
+lang_ja__SEPARATOR__justify__SEPARATOR__None justify
+lang_ja__SEPARATOR__motherboard__SEPARATOR__None motherboard
+lang_ja__SEPARATOR__incited__SEPARATOR__None incited
+lang_ja__SEPARATOR__decompress__SEPARATOR__None decompress
+lang_ja__SEPARATOR__Averaging__SEPARATOR__None Averaging
+lang_ja__SEPARATOR__Specialize__SEPARATOR__None Specialize
+lang_ja__SEPARATOR__Successful__SEPARATOR__https://www.naoj.org/Observing/DataReduction/mtk/subaru_red/winter06/s06w_izumiura.ppt
+lang_ja__SEPARATOR__Proprietorship__SEPARATOR__None Proprietorship
+lang_ja__SEPARATOR__thermometer__SEPARATOR__None thermometer
+lang_ja__SEPARATOR__Arrears__SEPARATOR__None Arrears
+lang_ja__SEPARATOR__floppy disk__SEPARATOR__None floppy disk
+lang_ja__SEPARATOR__scroll bar__SEPARATOR__None scroll bar
+lang_ja__SEPARATOR__terabyte__SEPARATOR__None terabyte
+lang_ja__SEPARATOR__spammer__SEPARATOR__None spammer
+lang_ja__SEPARATOR__Advice__SEPARATOR__None Advice
+lang_ja__SEPARATOR__Edge__SEPARATOR__http://www.comp.tmu.ac.jp/masanori/Lecture/05sotsuken/saiki2.pps
+lang_ja__SEPARATOR__Syndicate__SEPARATOR__None Syndicate
+lang_ja__SEPARATOR__Journeyman__SEPARATOR__None Journeyman
+lang_ja__SEPARATOR__Advise__SEPARATOR__None Advise
+lang_ja__SEPARATOR__Deadline__SEPARATOR__None Deadline
+lang_ja__SEPARATOR__mollified__SEPARATOR__None mollified
+lang_ja__SEPARATOR__ornithology__SEPARATOR__None ornithology
+lang_ja__SEPARATOR__historiographical activity__SEPARATOR__None historiographical activity
+lang_ja__SEPARATOR__one sided__SEPARATOR__None one sided
+lang_ja__SEPARATOR__paraphrase__SEPARATOR__None paraphrase
+lang_ja__SEPARATOR__global Warming__SEPARATOR__None global Warming
+lang_ja__SEPARATOR__Barrier__SEPARATOR__http://www.rease.e.u-tokyo.ac.jp/act/handout/130928/Kawashima.ppt
+lang_ja__SEPARATOR__Dependence__SEPARATOR__http://kincha.kek.jp/kincha017_itakura.ppt
+lang_ja__SEPARATOR__Straddle__SEPARATOR__None Straddle
+lang_ja__SEPARATOR__enriched__SEPARATOR__None enriched
+lang_ja__SEPARATOR__northeast__SEPARATOR__None northeast
+lang_ja__SEPARATOR__Stagflation__SEPARATOR__None Stagflation
+lang_ja__SEPARATOR__Company__SEPARATOR__http://kurarite.com/sample/powerpoint_sample.ppt
+lang_ja__SEPARATOR__Tropic of Capricorn__SEPARATOR__None Tropic of Capricorn
+lang_ja__SEPARATOR__Concession__SEPARATOR__None Concession
+lang_ja__SEPARATOR__anarchism__SEPARATOR__None anarchism
+lang_ja__SEPARATOR__map-making__SEPARATOR__None map-making
+lang_ja__SEPARATOR__Debt__SEPARATOR__None Debt
+lang_ja__SEPARATOR__screenshot__SEPARATOR__None screenshot
+lang_ja__SEPARATOR__Retirement__SEPARATOR__None Retirement
+lang_ja__SEPARATOR__Zoning__SEPARATOR__http://www.fukushihoken.metro.tokyo.jp/shokuhin/hyouka/files/20hyouka3-shiryo5-3.ppt
+lang_ja__SEPARATOR__Zoning__SEPARATOR__http://www.econ.kyoto-u.ac.jp/~mun/semi/matidukuri.ppt
+lang_ja__SEPARATOR__Zoning__SEPARATOR__http://www.pref.osaka.lg.jp/attach/22949/00211811/140210%2004%20gaiyou.ppt
+lang_ja__SEPARATOR__Inventory__SEPARATOR__http://www.sigmath.es.osaka-u.ac.jp/~kano/research/application/others/kakeiken00.ppt
+lang_ja__SEPARATOR__Inventory__SEPARATOR__http://plaza.umin.ac.jp/~pcpkg/educationfornurse/edufornr_pain.ppt
+lang_ja__SEPARATOR__protested__SEPARATOR__None protested
+lang_ja__SEPARATOR__compile__SEPARATOR__None compile
+lang_ja__SEPARATOR__Swing__SEPARATOR__http://butchi.jp/documents/Chaotic_Dynamics_and_Its_Applications.ppt
+lang_ja__SEPARATOR__Inquiry__SEPARATOR__https://www.nagasaki-tabinet.com/houjin/excursion/download/ppt/international/sasebo_international.ppt
+lang_ja__SEPARATOR__Rise__SEPARATOR__http://www-conf.kek.jp/rd-photon/presantations/2/TOP.ppt
+lang_ja__SEPARATOR__Slump__SEPARATOR__None Slump
+lang_ja__SEPARATOR__propagandist__SEPARATOR__None propagandist
+lang_ja__SEPARATOR__lepidoptery__SEPARATOR__None lepidoptery
+lang_ja__SEPARATOR__International Date Line__SEPARATOR__None International Date Line
+lang_ja__SEPARATOR__describe__SEPARATOR__None describe
+lang_ja__SEPARATOR__magnetic pole__SEPARATOR__None magnetic pole
+lang_ja__SEPARATOR__Bequest__SEPARATOR__None Bequest
+lang_ja__SEPARATOR__Dot-com__SEPARATOR__None Dot-com
+lang_ja__SEPARATOR__Arbitrator__SEPARATOR__None Arbitrator
+lang_ja__SEPARATOR__Remittance__SEPARATOR__None Remittance
+lang_ja__SEPARATOR__Abundant__SEPARATOR__None Abundant
+lang_ja__SEPARATOR__Salary__SEPARATOR__None Salary
+lang_ja__SEPARATOR__Employment__SEPARATOR__https://www.pref.fukushima.lg.jp/uploaded/attachment/2705.ppt
+lang_ja__SEPARATOR__Employment__SEPARATOR__http://ds.cc.yamaguchi-u.ac.jp/~nishiguc/down_load/text/employment_type.ppt
+lang_ja__SEPARATOR__Dispatch__SEPARATOR__None Dispatch
+lang_ja__SEPARATOR__hardened__SEPARATOR__None hardened
+lang_ja__SEPARATOR__Benefit__SEPARATOR__https://square.umin.ac.jp/massie-tmd/kagirenmw040116.ppt
+lang_ja__SEPARATOR__Equitable__SEPARATOR__None Equitable
+lang_ja__SEPARATOR__Extension__SEPARATOR__https://www.kindaikagaku.co.jp/support/0356/10_2.ppt
+lang_ja__SEPARATOR__Extension__SEPARATOR__http://web.sapmed.ac.jp/bme/view/dnasequence1.ppt
+lang_ja__SEPARATOR__Extension__SEPARATOR__http://cluster.sci.yokohama-cu.ac.jp/extension.ppt
+lang_ja__SEPARATOR__Management__SEPARATOR__None Management
+lang_ja__SEPARATOR__caps lock__SEPARATOR__None caps lock
+lang_ja__SEPARATOR__consolidated__SEPARATOR__None consolidated
+lang_ja__SEPARATOR__Interest__SEPARATOR__None Interest
+lang_ja__SEPARATOR__Value__SEPARATOR__None Value
+lang_ja__SEPARATOR__welfare state__SEPARATOR__None welfare state
+lang_ja__SEPARATOR__degree of latitude__SEPARATOR__None degree of latitude
+lang_ja__SEPARATOR__Cipher__SEPARATOR__None Cipher
+lang_ja__SEPARATOR__Controls__SEPARATOR__http://www.psy.ritsumei.ac.jp/~mochi/13ABA02.ppt
+lang_ja__SEPARATOR__Proxy__SEPARATOR__http://haselab.net/files/paperDB_uploads/ppt-vmn6c72r.ppt
+lang_ja__SEPARATOR__Proxy__SEPARATOR__http://www.maizuru-ct.ac.jp/files/03facility-info/gl_stdnt.ppt
+lang_ja__SEPARATOR__Proxy__SEPARATOR__http://izumi-math.jp/sanae/report/GP/GP.ppt
+lang_ja__SEPARATOR__glassware__SEPARATOR__None glassware
+lang_ja__SEPARATOR__Joint__SEPARATOR__https://www.nmij.jp/~nmijclub/joint/docimgs/sakuma_joint060118.ppt
+lang_ja__SEPARATOR__Joint__SEPARATOR__http://www.ie.u-ryukyu.ac.jp/~wada/moral08/EngineeringEthics2.ppt
+lang_ja__SEPARATOR__Joint__SEPARATOR__http://www.smapip.is.tohoku.ac.jp/~kazu/PhysicalFluctuomatics/2010/main2010-03.ppt
+lang_ja__SEPARATOR__Redemption__SEPARATOR__None Redemption
+lang_ja__SEPARATOR__Premium__SEPARATOR__None Premium
+lang_ja__SEPARATOR__Accounting__SEPARATOR__None Accounting
+lang_ja__SEPARATOR__Knowledge__SEPARATOR__http://www.pecj.or.jp/japanese/safer/knowledge/ppt/no-126.ppt
+lang_ja__SEPARATOR__far fetched__SEPARATOR__None far fetched
+lang_ja__SEPARATOR__Restrictive__SEPARATOR__None Restrictive
+lang_ja__SEPARATOR__Program__SEPARATOR__None Program
+lang_ja__SEPARATOR__Severance__SEPARATOR__None Severance
+lang_ja__SEPARATOR__Compound__SEPARATOR__http://www.tobacco-control.jp/documents/1206-Thirdhand-smoke.ppt
+lang_ja__SEPARATOR__Compound__SEPARATOR__http://bussei-group.org/wp-content/uploads/2006/12/shiba.ppt
+lang_ja__SEPARATOR__Lien__SEPARATOR__None Lien
+lang_ja__SEPARATOR__Output__SEPARATOR__None Output
+lang_ja__SEPARATOR__Replacement__SEPARATOR__http://www.yss-aya.com/5x5-cgf.ppt
+lang_ja__SEPARATOR__microscope__SEPARATOR__None microscope
+lang_ja__SEPARATOR__Futures__SEPARATOR__http://web.yl.is.s.u-tokyo.ac.jp/~koyu/sotsuron/progress4.ppt
+lang_ja__SEPARATOR__Futures__SEPARATOR__http://ll.jus.or.jp/2008/slides/6/y_sawa.ppt
+lang_ja__SEPARATOR__Mortgage__SEPARATOR__None Mortgage
+lang_ja__SEPARATOR__Solidity__SEPARATOR__None Solidity
+lang_ja__SEPARATOR__Low cost__SEPARATOR__None Low cost
+lang_ja__SEPARATOR__Join__SEPARATOR__http://heartland.geocities.jp/shiikawas/center/supportjin22.ppt
+lang_ja__SEPARATOR__Prediction__SEPARATOR__http://www.katto.comm.waseda.ac.jp/~katto/Class/01/GazoTokuron/ppt/gazotokuron-Audio.ppt
+lang_ja__SEPARATOR__Prediction__SEPARATOR__https://www.riam.kyushu-u.ac.jp/windeng/img/aboutus_detail_image/model.ppt
+lang_ja__SEPARATOR__southwest__SEPARATOR__None southwest
+lang_ja__SEPARATOR__inflamed__SEPARATOR__None inflamed
+lang_ja__SEPARATOR__Earning power__SEPARATOR__None Earning power
+lang_ja__SEPARATOR__Contractual__SEPARATOR__None Contractual
+lang_ja__SEPARATOR__legislature__SEPARATOR__None legislature
+lang_ja__SEPARATOR__sovereignty__SEPARATOR__None sovereignty
+lang_ja__SEPARATOR__Essential__SEPARATOR__None Essential
+lang_ja__SEPARATOR__strained__SEPARATOR__None strained
+lang_ja__SEPARATOR__Variation__SEPARATOR__http://www.phyas.aichi-edu.ac.jp/~takahasi/BHmag2010/Prezen/hanawa.ppt
+lang_ja__SEPARATOR__dubious__SEPARATOR__None dubious
+lang_ja__SEPARATOR__loan__SEPARATOR__None loan
+lang_ja__SEPARATOR__virtual memory__SEPARATOR__None virtual memory
+lang_ja__SEPARATOR__constitutional monarchy__SEPARATOR__None constitutional monarchy
+lang_ja__SEPARATOR__Ban__SEPARATOR__None Ban
+lang_ja__SEPARATOR__Shelter__SEPARATOR__https://www.city.sakata.lg.jp/shisei/shisakukeikaku/kikaku/shinkansen/tetsudo290215.files/presen0221.ppt
+lang_ja__SEPARATOR__Shelter__SEPARATOR__http://kyozai.tokushima-ec.ed.jp/%E4%BA%BA%E6%A8%A9%E6%95%99%E8%82%B2/?action=multidatabase_action_main_filedownload&download_flag=1&upload_id=290&metadata_id=77
+lang_ja__SEPARATOR__Shelter__SEPARATOR__http://www.edu-ctr.pref.okayama.jp/ganbarudb/H27/18toyonosho/siryo.ppt
+lang_ja__SEPARATOR__Shelter__SEPARATOR__http://www.geocities.jp/kqsmr859/teigen/h-20-2-7.ppt
+lang_ja__SEPARATOR__Voucher__SEPARATOR__None Voucher
+lang_ja__SEPARATOR__pirate__SEPARATOR__None pirate
+lang_ja__SEPARATOR__Completion__SEPARATOR__None Completion
+lang_ja__SEPARATOR__Equality__SEPARATOR__None Equality
+lang_ja__SEPARATOR__upper class__SEPARATOR__None upper class
+lang_ja__SEPARATOR__Leading__SEPARATOR__http://yukimura.hep.osaka-cu.ac.jp/TAMAsympo4/viewgraphs/217-pm-haruyama.ppt
+lang_ja__SEPARATOR__Vocation__SEPARATOR__None Vocation
+lang_ja__SEPARATOR__junk mail__SEPARATOR__None junk mail
+lang_ja__SEPARATOR__Arbitrage__SEPARATOR__None Arbitrage
+lang_ja__SEPARATOR__Harassment__SEPARATOR__http://jiten.cside3.jp/%E3%80%8E%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC%E8%8B%B1%E5%92%8C%E7%AC%AC%EF%BC%95%E7%89%88%E3%80%8F%E6%94%B9%E8%A8%82%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88.ppt
+lang_ja__SEPARATOR__Liability__SEPARATOR__None Liability
+lang_ja__SEPARATOR__Amalgamation__SEPARATOR__None Amalgamation
+lang_ja__SEPARATOR__far sighted__SEPARATOR__None far sighted
+lang_ja__SEPARATOR__Raise__SEPARATOR__None Raise
+lang_ja__SEPARATOR__Speculation__SEPARATOR__None Speculation
+lang_ja__SEPARATOR__Trend__SEPARATOR__None Trend
+lang_ja__SEPARATOR__Turnover__SEPARATOR__None Turnover
+lang_ja__SEPARATOR__dot matrix__SEPARATOR__None dot matrix
+lang_ja__SEPARATOR__Save__SEPARATOR__None Save
+lang_ja__SEPARATOR__spurred__SEPARATOR__None spurred
+lang_ja__SEPARATOR__relief map__SEPARATOR__None relief map
+lang_ja__SEPARATOR__Agenda__SEPARATOR__http://www.kantei.go.jp/jp/singi/it2/densi/goudou/wg6_rwg5/siryou10.ppt
+lang_ja__SEPARATOR__Agenda__SEPARATOR__http://www.sigmath.es.osaka-u.ac.jp/~kano/research/application/others/sigma40.ppt
+lang_ja__SEPARATOR__South Magnetic Pole__SEPARATOR__None South Magnetic Pole
+lang_ja__SEPARATOR__Junk bond__SEPARATOR__None Junk bond
+lang_ja__SEPARATOR__Spending__SEPARATOR__None Spending
+lang_ja__SEPARATOR__font__SEPARATOR__None font
+lang_ja__SEPARATOR__Internal__SEPARATOR__http://supportoffice.jp/outreach/2012/indonesia/22_mr_goshima_jp.ppt
+lang_ja__SEPARATOR__supercomputer__SEPARATOR__None supercomputer
+lang_ja__SEPARATOR__nationalism__SEPARATOR__None nationalism
+lang_ja__SEPARATOR__Venture__SEPARATOR__http://www.s-nakahara.com/venture/v0706/v070608matsuda.ppt
+lang_ja__SEPARATOR__bankrupt__SEPARATOR__None bankrupt
+lang_ja__SEPARATOR__Reminder__SEPARATOR__None Reminder
+lang_ja__SEPARATOR__feudalism__SEPARATOR__None feudalism
+lang_ja__SEPARATOR__stunted__SEPARATOR__None stunted
+lang_ja__SEPARATOR__Bunsen burner__SEPARATOR__None Bunsen burner
+lang_ja__SEPARATOR__uprooting__SEPARATOR__None uprooting
+lang_ja__SEPARATOR__Orientation__SEPARATOR__http://researchmap.jp/?action=cv_download_main&upload_id=14706
+lang_ja__SEPARATOR__firmware__SEPARATOR__None firmware
+lang_ja__SEPARATOR__meridian__SEPARATOR__None meridian
+lang_ja__SEPARATOR__Abolish__SEPARATOR__None Abolish
+lang_ja__SEPARATOR__Expert__SEPARATOR__http://www.nursessoul.info/healthsociology.ppt
+lang_ja__SEPARATOR__Up-swing__SEPARATOR__None Up-swing
+lang_ja__SEPARATOR__Price__SEPARATOR__http://www.econ.kyoto-u.ac.jp/~shioji/resource/2012.11.24%20AU%20Indonesia.ppt
+lang_ja__SEPARATOR__Magnate__SEPARATOR__None Magnate
+lang_ja__SEPARATOR__quashed__SEPARATOR__None quashed
+lang_ja__SEPARATOR__ominous__SEPARATOR__None ominous
+lang_ja__SEPARATOR__Profit__SEPARATOR__None Profit
+lang_ja__SEPARATOR__Recruit__SEPARATOR__None Recruit
+lang_ja__SEPARATOR__Charge__SEPARATOR__None Charge
+lang_ja__SEPARATOR__Per capita__SEPARATOR__None Per capita
+lang_ja__SEPARATOR__Quality control__SEPARATOR__http://www.tobacco-control.jp/documents/1002MHLW-presen5.ppt
+lang_ja__SEPARATOR__Quality control__SEPARATOR__http://ansin39.com/CD21.120618.ppt
+lang_ja__SEPARATOR__Yield__SEPARATOR__https://phits.jaea.go.jp/lec/phits-lec-XrayTherapy-jp.ppt
+lang_ja__SEPARATOR__Innovate__SEPARATOR__None Innovate
+lang_ja__SEPARATOR__Sum__SEPARATOR__http://www.mech.kumamoto-u.ac.jp/Info/lab/ape/mori/dark/others-j.files/others.files/06.ppt
+lang_ja__SEPARATOR__Sum__SEPARATOR__http://www.dais.is.tohoku.ac.jp/~jinhee/kiso07_7.ppt
+lang_ja__SEPARATOR__Sum__SEPARATOR__http://www.bic.kyoto-u.ac.jp/takutsu/members/takutsu/kobe2.ppt
+lang_ja__SEPARATOR__Sum__SEPARATOR__https://phits.jaea.go.jp/lec/phits-range-jp.ppt
+lang_ja__SEPARATOR__Sum__SEPARATOR__http://www.lab2.kuis.kyoto-u.ac.jp/fswikiout/wiki.cgi?action=ATTACH&page=Additive+Combinatorics%CE%D8%B9%D6&file=AC03%5F3%5Fjkawahara%2Eppt
+lang_ja__SEPARATOR__Sum__SEPARATOR__http://tech.nagaokaut.ac.jp/works/works_new/H23open_house/OpenHouse_tanabe.ppt
+lang_ja__SEPARATOR__flawed__SEPARATOR__None flawed
+lang_ja__SEPARATOR__Capital__SEPARATOR__None Capital
+lang_ja__SEPARATOR__Signature__SEPARATOR__http://www.jpma.or.jp/medicine/shinyaku/tiken/allotment/pdf/medical_training_12.ppt
+lang_ja__SEPARATOR__exports__SEPARATOR__None exports
+lang_ja__SEPARATOR__disoriented__SEPARATOR__None disoriented
+lang_ja__SEPARATOR__provincial__SEPARATOR__None provincial
+lang_ja__SEPARATOR__Affluent__SEPARATOR__None Affluent
+lang_ja__SEPARATOR__Auction__SEPARATOR__http://www.rikkyo.ne.jp/grp/kitahara/Korekin0515Irie.ppt
+lang_ja__SEPARATOR__Auction__SEPARATOR__http://www.econ.kyoto-u.ac.jp/~shioji/resource/2013.02.23%20Shioji.ppt
+lang_ja__SEPARATOR__Auction__SEPARATOR__http://www.okamon.jp/a/a1415.ppt
+lang_ja__SEPARATOR__joystick__SEPARATOR__None joystick
+lang_ja__SEPARATOR__Provide__SEPARATOR__http://www.seirei.or.jp/optim/seminar/ppt/09_3web_sem.ppt
+lang_ja__SEPARATOR__Input__SEPARATOR__http://www.el.gunma-u.ac.jp/~yamalab/ahdl/class07/lesson3.ppt
+lang_ja__SEPARATOR__Semi-conductor__SEPARATOR__http://n-lab.p2.bindsite.jp/_src/sc1278/201396b38b408dde97bf89bb8aw93c198_i81i91e682q819582r89f181j.ppt
+lang_ja__SEPARATOR__Semi-conductor__SEPARATOR__http://www.gifu-nct.ac.jp/elec/inaba/jyugyou/electronics4-1.ppt
+lang_ja__SEPARATOR__Semi-conductor__SEPARATOR__http://www.ph.sophia.ac.jp/~tomi/kougi_note/butsuri_sogo05.ppt
+lang_ja__SEPARATOR__Semi-conductor__SEPARATOR__http://www.nucl.phys.titech.ac.jp/presen/data/colloquium/2nd/2002_nakano/2002_nakano.ppt
+lang_ja__SEPARATOR__piracy__SEPARATOR__None piracy
+lang_ja__SEPARATOR__socialism__SEPARATOR__None socialism
+lang_ja__SEPARATOR__Cost of living__SEPARATOR__None Cost of living
+lang_ja__SEPARATOR__Change__SEPARATOR__None Change
+lang_ja__SEPARATOR__Actual__SEPARATOR__http://milkyway.sci.kagoshima-u.ac.jp/mwgws/presentations/13OmodakaToshihiro.ppt
+lang_ja__SEPARATOR__Check__SEPARATOR__http://www.office-ohtani.com/ISO9001.ppt
+lang_ja__SEPARATOR__Check__SEPARATOR__https://www.ipa.go.jp/files/000015330.ppt
+lang_ja__SEPARATOR__Check__SEPARATOR__http://www.mlit.go.jp/common/001045463.ppt
+lang_ja__SEPARATOR__Check__SEPARATOR__http://www.pref.osaka.lg.jp/attach/2920/00142757/1-1.ppt
+lang_ja__SEPARATOR__Corporate__SEPARATOR__None Corporate
+lang_ja__SEPARATOR__virologist__SEPARATOR__None virologist
+lang_ja__SEPARATOR__Investigation__SEPARATOR__http://plaza.umin.ac.jp/phnet/taiou.ppt
+lang_ja__SEPARATOR__Separate__SEPARATOR__http://masashi.issp.u-tokyo.ac.jp/notes/nmrnote3.ppt
+lang_ja__SEPARATOR__Squander__SEPARATOR__None Squander

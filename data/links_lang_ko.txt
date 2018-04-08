@@ -991,3 +991,1300 @@ lang_ko__SEPARATOR__miles__SEPARATOR__http://ntam.org/board_data/qna/1287324993_
 lang_ko__SEPARATOR__divine right__SEPARATOR__None divine right
 lang_ko__SEPARATOR__radiology__SEPARATOR__None radiology
 lang_ko__SEPARATOR__restored__SEPARATOR__None restored
+lang_ko__SEPARATOR__catastrophic__SEPARATOR__None catastrophic
+lang_ko__SEPARATOR__biased__SEPARATOR__None biased
+lang_ko__SEPARATOR__unrealistic__SEPARATOR__None unrealistic
+lang_ko__SEPARATOR__DVD (digital versatile disc)__SEPARATOR__None DVD (digital versatile disc)
+lang_ko__SEPARATOR__weigh__SEPARATOR__None weigh
+lang_ko__SEPARATOR__South America__SEPARATOR__None South America
+lang_ko__SEPARATOR__scientist__SEPARATOR__None scientist
+lang_ko__SEPARATOR__lakes__SEPARATOR__None lakes
+lang_ko__SEPARATOR__motherboard__SEPARATOR__None motherboard
+lang_ko__SEPARATOR__social networking__SEPARATOR__None social networking
+lang_ko__SEPARATOR__terabyte__SEPARATOR__None terabyte
+lang_ko__SEPARATOR__labour__SEPARATOR__None labour
+lang_ko__SEPARATOR__greenhouse__SEPARATOR__None greenhouse
+lang_ko__SEPARATOR__weather map__SEPARATOR__None weather map
+lang_ko__SEPARATOR__equator__SEPARATOR__None equator
+lang_ko__SEPARATOR__academia__SEPARATOR__None academia
+lang_ko__SEPARATOR__topography__SEPARATOR__None topography
+lang_ko__SEPARATOR__annotate__SEPARATOR__None annotate
+lang_ko__SEPARATOR__ROM (read only memory)__SEPARATOR__None ROM (read only memory)
+lang_ko__SEPARATOR__held back__SEPARATOR__None held back
+lang_ko__SEPARATOR__preposition__SEPARATOR__None preposition
+lang_ko__SEPARATOR__cyberspace__SEPARATOR__None cyberspace
+lang_ko__SEPARATOR__scroll bar__SEPARATOR__None scroll bar
+lang_ko__SEPARATOR__IDL__SEPARATOR__None IDL
+lang_ko__SEPARATOR__spurious__SEPARATOR__None spurious
+lang_ko__SEPARATOR__junk mail__SEPARATOR__None junk mail
+lang_ko__SEPARATOR__short term__SEPARATOR__None short term
+lang_ko__SEPARATOR__stimulated__SEPARATOR__None stimulated
+lang_ko__SEPARATOR__prohibited__SEPARATOR__None prohibited
+lang_ko__SEPARATOR__exhausted__SEPARATOR__None exhausted
+lang_ko__SEPARATOR__set off__SEPARATOR__None set off
+lang_ko__SEPARATOR__dispersed__SEPARATOR__None dispersed
+lang_ko__SEPARATOR__browser__SEPARATOR__https://www.nhi.go.kr/cmm/fms/asaproFileDown.do;jsessionid=qwRSn7mxd0XgS450hub1IezM.node01?atchFileId=FILE_000000000124034&fileSn=2&browser=Opera&gubum=
+lang_ko__SEPARATOR__browser__SEPARATOR__http://cleaninsa.gen.go.kr/xboard/board.php?mode=downpost&number=1505&tbnum=10&sCat=0&page=3&keyset=&searchword=
+lang_ko__SEPARATOR__browser__SEPARATOR__http://www.cufs.ac.kr/CUFScontentGuide.ppt
+lang_ko__SEPARATOR__meteorology__SEPARATOR__None meteorology
+lang_ko__SEPARATOR__city__SEPARATOR__http://www.siheung.go.kr/city/wp-content/uploads/sites/4/2017/12/%ED%98%84%ED%99%A9%ED%8C%90%ED%91%9C%EC%A7%80.ppt
+lang_ko__SEPARATOR__city__SEPARATOR__https://www.aircanada.co.kr/new_down/%EC%97%90%EC%96%B4%EB%A1%9C%ED%94%8C%EB%9E%9C%EA%B0%80%EC%9E%85%ED%95%98%EA%B8%B0.ppt
+lang_ko__SEPARATOR__city__SEPARATOR__http://cfile2.uf.tistory.com/attach/2272A23C518398EE1974FE
+lang_ko__SEPARATOR__city__SEPARATOR__http://www.haemcom.com/n_site/publicity/introduction.ppt
+lang_ko__SEPARATOR__tenses__SEPARATOR__None tenses
+lang_ko__SEPARATOR__firmware__SEPARATOR__http://www.daejeonbus.or.kr/bbs/download.php?board_id=bbs81&no=94&file=1479790476_0.923016.ppt&o_file=04.%BE%C8%B3%BB%B9%E6%BC%DB%20%BD%C3%BD%BA%C5%DB%20%BC%B3%C4%A1%20%B0%B3%BF%E4.ppt&PHPSESSID=94c871112d192514ed18347d0a6b1cec
+lang_ko__SEPARATOR__stunted__SEPARATOR__None stunted
+lang_ko__SEPARATOR__lurking__SEPARATOR__None lurking
+lang_ko__SEPARATOR__profound__SEPARATOR__None profound
+lang_ko__SEPARATOR__border__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=CP_COM001&fileName=22720101122103917.ppt&part=1&seq=4615
+lang_ko__SEPARATOR__article__SEPARATOR__http://jpkc.fudan.edu.cn/picture/article/8/06/8a/afb0ea8a410db66bf3127c1bcfe7/88f1a5ab-2510-4397-afb0-e3f674c85bef.ppt
+lang_ko__SEPARATOR__propagandist__SEPARATOR__None propagandist
+lang_ko__SEPARATOR__verb__SEPARATOR__https://bi.snu.ac.kr/Courses/nlp01/morphology.ppt
+lang_ko__SEPARATOR__verb__SEPARATOR__http://chanyi.tistory.com/attachment/cfile30.uf@2032AA2F4CF37F862533C0.ppt
+lang_ko__SEPARATOR__cloud computing__SEPARATOR__https://professor.inha.ac.kr/board_data/View.aspx?Mode=download&BoardID=&Seq=10526&FileSeq=4499
+lang_ko__SEPARATOR__hacker__SEPARATOR__https://www.kofac.re.kr/upload/bbs/BbsController/2013/10/21/13823191062180.ppt
+lang_ko__SEPARATOR__hacker__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/TuringMachines.ppt
+lang_ko__SEPARATOR__hacker__SEPARATOR__http://ailab.kaist.ac.kr/users/kekim/courses/2007/cs496/resources/elee-ppt
+lang_ko__SEPARATOR__negative__SEPARATOR__None negative
+lang_ko__SEPARATOR__scroll__SEPARATOR__https://www.gndc.co.kr/common/download.do?fileVirtualPath=/privatefiles/OldBoardFiles/10/%EA%B3%B5%EA%B8%B0%EC%97%94%EC%A7%84-%ED%88%AC%EC%9E%90%EC%A0%9C%EC%95%88-%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C.ppt&fileOrgName=%EA%B3%B5%EA%B8%B0%EC%97%94%EC%A7%84-%ED%88%AC%EC%9E%90%EC%A0%9C%EC%95%88-%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C.ppt
+lang_ko__SEPARATOR__absolutism__SEPARATOR__None absolutism
+lang_ko__SEPARATOR__portal__SEPARATOR__http://www.prism.go.kr/homepage/researchCommon/downloadResearchAttachFile.do;jsessionid=53471ABD67F1FE07A10BEC5D12701668.node02?work_key=001&file_type=CPR&seq_no=001&pdf_conv_yn=Y&research_id=5140000-201300004
+lang_ko__SEPARATOR__portal__SEPARATOR__http://www.yuhs.or.kr/2013_common/include/board/downloadResearch.asp?name=1%5F1%2E+2014%EC%97%B0%EB%A7%90%EC%A0%95%EC%82%B0%EC%95%88%EB%82%B4%28%EC%9D%98%EB%A3%8C%EC%9B%90+%EC%82%B0%ED%95%99%EB%8B%A8%29%2Eppt
+lang_ko__SEPARATOR__portal__SEPARATOR__http://www.moe.go.kr/boardCnts/fileDown.do?m=030501&s=moe&fileSeq=e535d22d9fd99a058d4f14c7d7a7c222
+lang_ko__SEPARATOR__portal__SEPARATOR__http://www.mpss.go.kr/board/file/bbs_0000000000000041/8595/FILE_000000000004637/20160802162359564.ppt
+lang_ko__SEPARATOR__portal__SEPARATOR__http://www.kaia.re.kr/portal/cmm/fms/FileDown.do?atchFileId=FILE_000000000008730&fileSn=2
+lang_ko__SEPARATOR__portal__SEPARATOR__http://www.nongsaro.go.kr/portal/bsFileDownload.do?atchmnflGroupEsntlCode=MG000000004860&atchmnflSn=2
+lang_ko__SEPARATOR__portal__SEPARATOR__http://rra.go.kr/data/popup/download3.ppt
+lang_ko__SEPARATOR__syndicalism__SEPARATOR__None syndicalism
+lang_ko__SEPARATOR__template__SEPARATOR__http://kostat.go.kr/policy/quality/qt_dl/4/index.board?bmode=download&bSeq=&aSeq=151486&ord=1
+lang_ko__SEPARATOR__template__SEPARATOR__https://playauto.freebill.co.kr/e/a/views/web3/freebill_menual.ppt
+lang_ko__SEPARATOR__server__SEPARATOR__http://ihong.cau.ac.kr/Courses/e-biz/kerberos.ppt
+lang_ko__SEPARATOR__representation__SEPARATOR__None representation
+lang_ko__SEPARATOR__kilometers__SEPARATOR__http://rmisys.kriss.re.kr/file_download.html?bf_mask=20081124000001100000303&club_idx=0
+lang_ko__SEPARATOR__atlas__SEPARATOR__None atlas
+lang_ko__SEPARATOR__scanner__SEPARATOR__https://qfc.hrdkorea.or.kr/util/fileDown?filePath=/files/board/pds/&realFileName=201110100920250.ppt&downFileName=Hi-ds%BD%BA%C4%B3%B3%CA%BB%E7%BF%EB%B9%FD%20.ppt
+lang_ko__SEPARATOR__scanner__SEPARATOR__http://www.sdcnet.co.kr/business/solution1.ppt
+lang_ko__SEPARATOR__globe__SEPARATOR__https://www.kangwon.ac.kr/www/downloadBbsFile.do?atchmnflNo=16999&bbsNo=40&nttNo=23002&&pageUnit=10&searchCtgry=%EC%B6%98%EC%B2%9C&key=282&pageIndex=2
+lang_ko__SEPARATOR__globe__SEPARATOR__http://hohopat.com/jboard/download.php?file_name=%B9%EB%BA%EA%B1%B9%C1%A6%C7%A5%C1%D8%C8%AD%C8%B0%B5%BF.ppt&file_size=132608&code=download
+lang_ko__SEPARATOR__globe__SEPARATOR__http://www.kangwon.ac.kr/www/downloadBbsFile.do?atchmnflNo=17010&bbsNo=40&nttNo=23012&&pageUnit=10&searchCtgry=%EC%B6%98%EC%B2%9C&key=282&pageIndex=1
+lang_ko__SEPARATOR__globe__SEPARATOR__http://www.chpa.or.kr/commonHTM/download.php?dir=pdsedu/attach1&fname=1_20150508452945762.ppt
+lang_ko__SEPARATOR__upload__SEPARATOR__http://www.mfds.go.kr/jsp/common/download.jsp?fileinfo=S*3*%BA%D9%C0%D3%203.%20%C5%EB%C7%D5%B8%B2%BD%BA%20%C0%CC%BF%EB%B9%E6%B9%FD.ppt*362e8439f136411924b229314d3625a6*ppt*/files/upload/1/TB_O_NOTIFY/40974/362e8439f136411924b229314d3625a6*15193088*2018:03:14%2014:39:29&filenames=%BA%D9%C0%D3%203.%20%C5%EB%C7%D5%B8%B2%BD%BA%20%C0%CC%BF%EB%B9%E6%B9%FD.ppt
+lang_ko__SEPARATOR__upload__SEPARATOR__https://www.lusem.com/upload/board/2017_%EB%A7%A4%EC%A0%90_%EB%B0%8F_%EC%9E%90%ED%8C%90%EA%B8%B0_%EC%8B%A0%EA%B7%9C%EA%B3%B5%EB%AA%A8(%EC%8B%A0%EC%B2%AD%EC%84%9C).ppt
+lang_ko__SEPARATOR__upload__SEPARATOR__http://snuac.snu.ac.kr/request/wp-content/uploads/2015/10/%EB%8C%80%EB%9F%89%EB%A9%94%EC%9D%BC%EB%B0%98%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A7%A4%EB%89%B4%EC%96%BC.ppt
+lang_ko__SEPARATOR__upload__SEPARATOR__http://www.lbest.com/upload/pptx/lbest_submit.ppt
+lang_ko__SEPARATOR__upload__SEPARATOR__http://www.kipo.go.kr/kpo/download.tdf;jsessionid=9863ca6b30d5e40285bfdf8f4dd499b8c495747b715a.www?f=/SRCDIR/WEB/KE/upload/kipo/new/21237.ppt&fn=%C1%A6232%C8%B8_%C0%D3%BD%C3%B1%B9%C8%B8%C0%DA%B7%E1.ppt&table=gp_silguk_board_file
+lang_ko__SEPARATOR__upload__SEPARATOR__http://www.mcst.go.kr/servlets/eduport/front/upload/UplDownloadFile?pFileName=%EC%9B%90%EC%A3%BC%EC%8A%A4%EC%BF%BC%EC%8B%9C%EA%B2%BD%EA%B8%B0%EC%9E%A5+%EC%A0%9C%EC%95%88%EC%84%9C.ppt&pRealName=1509449678226.ppt&pPath=0805010000&pFlag=
+lang_ko__SEPARATOR__upload__SEPARATOR__http://www.nfsa.go.kr/data/Upload/freedata/%B1%E4%B1%DE%B4%EB%C0%C0%B1%B3%C0%B03(unit2).ppt
+lang_ko__SEPARATOR__upload__SEPARATOR__http://www.stdeng.com/notice/upload/s1712_IEC%2060335-1.ppt
+lang_ko__SEPARATOR__critically analyse__SEPARATOR__None critically analyse
+lang_ko__SEPARATOR__internet__SEPARATOR__http://epro.poscocnc.com:8080/iecheck.ppt
+lang_ko__SEPARATOR__internet__SEPARATOR__http://www.schoolhealth.kr/shnhome/glib/SHDataFileDownload.php?GbnCd=SHData&lstnum1=127&file_seq=1
+lang_ko__SEPARATOR__internet__SEPARATOR__http://cs.kangwon.ac.kr/~ysmoon/courses/2006_1/ds/Multi-LDK1.ppt
+lang_ko__SEPARATOR__internet__SEPARATOR__http://www.wecotech.co.kr/T-1Internet%20Card.ppt?PHPSESSID=cf6be821b1bb5f1efe83c17286b3585f
+lang_ko__SEPARATOR__microbiologist__SEPARATOR__None microbiologist
+lang_ko__SEPARATOR__territory__SEPARATOR__None territory
+lang_ko__SEPARATOR__quelled__SEPARATOR__None quelled
+lang_ko__SEPARATOR__cybercrime__SEPARATOR__None cybercrime
+lang_ko__SEPARATOR__inflation__SEPARATOR__http://old.apctp.org/conferences/2011/NRG2011/0730pdf/cosmo_-_korean(park%20myung%20gu).ppt
+lang_ko__SEPARATOR__inflation__SEPARATOR__http://hompi.sogang.ac.kr/hahnlee/Lecture9_chap30.ppt
+lang_ko__SEPARATOR__inflation__SEPARATOR__https://www.pps.go.kr/bbs/boardAtchFileDownload.dom?boardId=BICHUK007&boardSeqNo=59&seqNo=2
+lang_ko__SEPARATOR__inflation__SEPARATOR__http://humanities.u1.ac.kr/_prog/_board/common/download.php?code=human_0503&ntt_no=207
+lang_ko__SEPARATOR__inflation__SEPARATOR__http://ocw.sogang.ac.kr/include/html/file_download.jsp?filepath=c%3A%2Fapp%2Focw%2Frfile%2F2013%2Fcourse09-france&filename=TjdDdHg4RzIrNzI2eC9XNDdjREh3ZmpINExENndhUW93T2U4OXNHa0tWOHlNREV6TURjd01qRXdOREV6Tmk1d2NIUT0%3D
+lang_ko__SEPARATOR__selective__SEPARATOR__http://www.ikora.or.kr/html/upload/%EB%B0%9C%ED%91%9C%EC%9B%90%EA%B3%A0_%EB%B0%95%EC%A7%84%EC%9A%B0.ppt
+lang_ko__SEPARATOR__selective__SEPARATOR__http://www.fsc.go.kr/downManager?bbsid=BBS0109&no=90408
+lang_ko__SEPARATOR__cartography__SEPARATOR__None cartography
+lang_ko__SEPARATOR__pop-up__SEPARATOR__https://www.lgmma.com/res/files/pdfs/_LGM_CRM_1.5.6._eSales_UserManual_d0.1.ppt
+lang_ko__SEPARATOR__pop-up__SEPARATOR__https://avendor.lghausys.com:452/images/aVendorSystem.ppt
+lang_ko__SEPARATOR__pop-up__SEPARATOR__http://phome.postech.ac.kr/user/cse/format18.ppt
+lang_ko__SEPARATOR__pop-up__SEPARATOR__http://img.g2b.go.kr:7070/Resource/CataAttach/NSHOP/POPUP/15081701/1508_objectionManual.ppt
+lang_ko__SEPARATOR__RAM (random access memory)__SEPARATOR__None RAM (random access memory)
+lang_ko__SEPARATOR__flash drive__SEPARATOR__http://cs.kangwon.ac.kr/~ysmoon/courses/2006_1/ds/FlashSSD-CKJ.ppt
+lang_ko__SEPARATOR__log out__SEPARATOR__None log out
+lang_ko__SEPARATOR__ground breaking__SEPARATOR__None ground breaking
+lang_ko__SEPARATOR__military__SEPARATOR__None military
+lang_ko__SEPARATOR__delete__SEPARATOR__https://www.dge.go.kr/board/boardFile/download/176/770951/2371.do
+lang_ko__SEPARATOR__instigated__SEPARATOR__None instigated
+lang_ko__SEPARATOR__supercomputer__SEPARATOR__None supercomputer
+lang_ko__SEPARATOR__tropics__SEPARATOR__None tropics
+lang_ko__SEPARATOR__blog__SEPARATOR__https://www.idblife.com/files/consult/201802/%EC%A7%80%EC%9B%90%EC%84%9C(%EB%B3%B8%EC%9D%B8%EC%9D%B4%EB%A6%84).ppt
+lang_ko__SEPARATOR__blog__SEPARATOR__http://forum.kosenv.or.kr/fileGather/real/BOARD/AU1422505686.ppt
+lang_ko__SEPARATOR__revolutionary__SEPARATOR__http://college.kangwon.ac.kr/include/jsp_h/download.jsp?filePath=/upload_files/board/SP_STU007_1/&fileName=2118820110310143343.ppt
+lang_ko__SEPARATOR__revolutionary__SEPARATOR__http://ihong.cau.ac.kr/Lectures/MIS_Lectures/Chapter18.ppt
+lang_ko__SEPARATOR__revolutionary__SEPARATOR__http://ihong.cau.ac.kr/Lectures/1MIS_Lectures/chap12.ppt
+lang_ko__SEPARATOR__clergy__SEPARATOR__None clergy
+lang_ko__SEPARATOR__meaningful__SEPARATOR__http://cri.snu.ac.kr/cri_seminar/semi_download.php?f_name=%EA%B5%AD%EA%B0%80%EC%95%94%EA%B2%80%EC%A7%84%20%EA%B7%BC%EA%B1%B0%20%EC%97%B0%EA%B5%AC%20%EB%B0%8F%207%EB%8C%80%EC%95%94%EA%B2%80%EC%A7%84%20%EA%B6%8C%EA%B3%A0%EC%95%88_%EC%84%9C%EC%9A%B8%EC%9D%98%EB%8C%80.ppt&r_name=eef0d7758849eb08df3c69e3c2bbc33f.ppt
+lang_ko__SEPARATOR__experiment__SEPARATOR__None experiment
+lang_ko__SEPARATOR__user__SEPARATOR__https://www.chakaopay.org/data/getFiledownload.aspx?path=/data/user/&filename=2018%EC%A7%80%EB%B0%A9%EC%84%A0%EA%B1%B0%EB%8C%80%EB%B9%84%EC%A0%95%EC%B9%98%EC%9E%90%EA%B8%88%EB%B2%95%EC%9D%98%EC%9D%B4%ED%95%B4.ppt
+lang_ko__SEPARATOR__weather__SEPARATOR__http://eflclassroom.com/pptsps/nicetomeet.ppt
+lang_ko__SEPARATOR__nation__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=4337
+lang_ko__SEPARATOR__nation__SEPARATOR__http://home.sogang.ac.kr/sites/iias/iias02/Lists/b6/Attachments/45/3.11-1.ppt
+lang_ko__SEPARATOR__balanced__SEPARATOR__http://cs.kangwon.ac.kr/~ysmoon/courses/2006_1/ds/Multi-EEJ.ppt
+lang_ko__SEPARATOR__northwest__SEPARATOR__http://ihong.cau.ac.kr/Lectures/MIS_Lectures/Chapter14.ppt
+lang_ko__SEPARATOR__taxation__SEPARATOR__http://www.solomonsearch.co.kr/company/JobNews-Francais.ppt
+lang_ko__SEPARATOR__conservation__SEPARATOR__None conservation
+lang_ko__SEPARATOR__compare__SEPARATOR__http://pml.hanyang.ac.kr/NFUpload/nfupload_down.php?tmp_name=20140523145033.3860.9.0.ppt&name=%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+CVD-f+-%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F.ppt
+lang_ko__SEPARATOR__enter__SEPARATOR__http://pl.postech.ac.kr/~gla/cs101/slide/lab1.ppt
+lang_ko__SEPARATOR__enter__SEPARATOR__http://ce.kiu.ac.kr/~kykim/WinApp2016/Chap2.ppt
+lang_ko__SEPARATOR__print__SEPARATOR__http://ce.kiu.ac.kr/~kykim/C++2016/chap07.ppt
+lang_ko__SEPARATOR__print__SEPARATOR__http://ce.kiu.ac.kr/~kykim/OOP2013/ch06.ppt
+lang_ko__SEPARATOR__debug__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=EICE_STU53&fileName=6614120120312104845.ppt&part=1&seq=12495
+lang_ko__SEPARATOR__debug__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2010_09_Internet_Protocol_and_Programming/ejcho/Lecture_Note_11.ppt
+lang_ko__SEPARATOR__debug__SEPARATOR__http://kucg.korea.ac.kr/new/seminar/2006/tr/PA-06-18.ppt
+lang_ko__SEPARATOR__commercial__SEPARATOR__http://www.zsfy.org/uploadfile/20110315093351723.ppt
+lang_ko__SEPARATOR__commercial__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=5097
+lang_ko__SEPARATOR__commercial__SEPARATOR__http://www.afaqkorea.com/AFAQ-EAQA_Korea_Ltd.ppt
+lang_ko__SEPARATOR__socialism__SEPARATOR__None socialism
+lang_ko__SEPARATOR__shareware__SEPARATOR__None shareware
+lang_ko__SEPARATOR__seismology__SEPARATOR__None seismology
+lang_ko__SEPARATOR__agitated__SEPARATOR__None agitated
+lang_ko__SEPARATOR__volume__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/w08t7.ppt
+lang_ko__SEPARATOR__volume__SEPARATOR__http://web.khu.ac.kr/~bil/lecture/MedicalInstrumentation/HW2011/W08/W08T5.ppt
+lang_ko__SEPARATOR__volume__SEPARATOR__http://3map.snu.ac.kr/courses/2004/cg/Transformation.ppt
+lang_ko__SEPARATOR__firewall__SEPARATOR__https://info.seoul.go.kr/wp-content/themes/bizinfo/biz_download.php?f=NTB8YmNwYXJrQG9wZW5tYXRlLmNvLmty
+lang_ko__SEPARATOR__firewall__SEPARATOR__http://www.gen.go.kr/community/department8/board.php?mode=downpost&number=3100&tbnum=70&sCat=0&page=3&keyset=&searchword=
+lang_ko__SEPARATOR__firewall__SEPARATOR__http://cms3.minitab.co.kr/board/minitab_data/Minitab%2016%20%EC%8B%B1%EA%B8%80%EC%9C%A0%EC%A0%80%20%EC%84%A4%EC%B9%98%20%EA%B0%80%EC%9D%B4%EB%93%9C(2).ppt
+lang_ko__SEPARATOR__Unix__SEPARATOR__None Unix
+lang_ko__SEPARATOR__ominous__SEPARATOR__None ominous
+lang_ko__SEPARATOR__telescope__SEPARATOR__http://ocw.sogang.ac.kr/include/html/file_download.jsp?filepath=c%3A%2Fapp%2Focw%2Frfile%2Fsmarteducation%2F2012%2F2semester%2Fpsycholinguistics&filename=S0RJd01UTXdNVEl6S2JmT016TXdPSEJ6ZVdOb2IyeHBibWQxYVhOMGFXTnp2Tkt3czE4eU1ERXpNREl4T1RFeE16VTFNQzV3Y0hRPQ%3D%3D
+lang_ko__SEPARATOR__telescope__SEPARATOR__http://rfmwlab.kau.ac.kr/lecture/2017_2_EC/chap10.ppt
+lang_ko__SEPARATOR__drained__SEPARATOR__None drained
+lang_ko__SEPARATOR__map projection__SEPARATOR__None map projection
+lang_ko__SEPARATOR__malware__SEPARATOR__None malware
+lang_ko__SEPARATOR__country__SEPARATOR__None country
+lang_ko__SEPARATOR__theocracy__SEPARATOR__None theocracy
+lang_ko__SEPARATOR__spyware__SEPARATOR__None spyware
+lang_ko__SEPARATOR__dashboard__SEPARATOR__http://www.boan.com/news/download.php?subUploadDir=201203/&savefilename=6467_382.ppt&filename=%B1%B8%B1%DB%20%B0%B3%C0%CE%C1%A4%BA%B8%20%C5%EB%C7%D5%B0%FC%B8%AE%20%C1%A4%C3%A5%20%B0%B3%BF%E4%20%B9%D7%20%C0%EF%C1%A1%BB%E7%C7%D7-%BC%F8%C3%B5%C7%E2%B4%EB%20%BF%B0%C8%EF%BF%AD.ppt
+lang_ko__SEPARATOR__dashboard__SEPARATOR__http://www.knom.or.kr/conf/knom2007/vendor/IBM_SQM_for_KNOM_Apr_26_07.ppt
+lang_ko__SEPARATOR__analyse__SEPARATOR__None analyse
+lang_ko__SEPARATOR__justify__SEPARATOR__None justify
+lang_ko__SEPARATOR__hypertext__SEPARATOR__None hypertext
+lang_ko__SEPARATOR__geographic coordinates__SEPARATOR__None geographic coordinates
+lang_ko__SEPARATOR__feudalism__SEPARATOR__None feudalism
+lang_ko__SEPARATOR__Antarctica__SEPARATOR__None Antarctica
+lang_ko__SEPARATOR__URL__SEPARATOR__http://www.kopo.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000079461&fileSn=1
+lang_ko__SEPARATOR__URL__SEPARATOR__http://wiki.javajigi.net/download/attachments/5242882/7.+MVC+Patten+N+Spring.ppt?version=1
+lang_ko__SEPARATOR__ichthyology__SEPARATOR__None ichthyology
+lang_ko__SEPARATOR__inspired__SEPARATOR__None inspired
+lang_ko__SEPARATOR__bug__SEPARATOR__http://cfile29.uf.tistory.com/attach/186305054BF4A3A113BBE0
+lang_ko__SEPARATOR__bug__SEPARATOR__http://railroad.songwon.ac.kr/sb/SE_Board.asp?action=downLoad&boardID=H0401&SEQ=86&fileDownSEQ=1&pgKey=0
+lang_ko__SEPARATOR__bug__SEPARATOR__http://www.scimall.co.kr/tacademy/download-filet?tacademy_sn=7&sn=23
+lang_ko__SEPARATOR__participation__SEPARATOR__None participation
+lang_ko__SEPARATOR__fascism__SEPARATOR__None fascism
+lang_ko__SEPARATOR__piracy__SEPARATOR__None piracy
+lang_ko__SEPARATOR__smothered__SEPARATOR__None smothered
+lang_ko__SEPARATOR__encouraged__SEPARATOR__None encouraged
+lang_ko__SEPARATOR__enriched__SEPARATOR__None enriched
+lang_ko__SEPARATOR__email__SEPARATOR__None email
+lang_ko__SEPARATOR__Arctic__SEPARATOR__None Arctic
+lang_ko__SEPARATOR__version__SEPARATOR__https://evstupy.kia.sk/Handlers/FileHandler.ashx?fileName=Safety%20education%20korean%20version.ppt
+lang_ko__SEPARATOR__command__SEPARATOR__https://www.gyeongnam.go.kr/gnnature/board/download.gyeong?boardId=BBS_0000318&menuCd=DOM_000001307003002000&startPage=1&dataSid=5110848&command=update&fileSid=2248145
+lang_ko__SEPARATOR__command__SEPARATOR__https://www.jne.go.kr/board/download.jne?boardId=BBS_0000304&menuCd=DOM_000000103007003000&orderBy=REGISTER_DATE%20DESC&startPage=1&dataSid=1708092&command=update&fileSid=1014954
+lang_ko__SEPARATOR__command__SEPARATOR__https://www.acrc.go.kr/acrc/file/file.do?command=downFile&encodedKey=MjczMTZfMg%3D%3D
+lang_ko__SEPARATOR__command__SEPARATOR__http://cs.sookmyung.ac.kr/~chang/lecture/c13/chap11.PPT
+lang_ko__SEPARATOR__command__SEPARATOR__https://www.yeoncheon.go.kr/board/download.yeoncheon?boardId=BBS_0000043&menuCd=DOM_000000101007003000&startPage=1&dataSid=3417&command=update&fileSid=1625
+lang_ko__SEPARATOR__energy__SEPARATOR__http://epps.unist.ac.kr/wp-content/uploads/sites/195/2015/08/Ch4-.BandStructure.ppt
+lang_ko__SEPARATOR__energy__SEPARATOR__http://eep.energy.or.kr/report/%ED%95%9C%EA%B5%AD%EC%97%90%EB%84%88%EC%A7%80%EA%B3%B5%EB%8B%A8%EC%8B%A0%EA%B3%A0_%EC%95%88%EB%82%B4%EC%9E%90%EB%A3%8C_%EC%97%85%EC%B2%B4%EC%95%88%EB%82%B4%EC%9A%A9.ppt
+lang_ko__SEPARATOR__energy__SEPARATOR__http://www.bukong.hs.kr/bksubject6.brd/_5.9.614a97/b73ddddb_%ED%8C%8C%EB%8F%99_%EC%97%90%EB%84%88%EC%A7%80.ppt
+lang_ko__SEPARATOR__page__SEPARATOR__http://www.iksm.co.kr/board/down.php?db=news&id=80332&anum=0
+lang_ko__SEPARATOR__page__SEPARATOR__https://kto.visitkorea.or.kr/file/download/bd/1330329679691.PPT.kto
+lang_ko__SEPARATOR__page__SEPARATOR__http://www.riss.kr/foreign/guide/CiNii.ppt
+lang_ko__SEPARATOR__page__SEPARATOR__http://site.hanyang.ac.kr/documents/135650/0/SEOUL2018.ppt
+lang_ko__SEPARATOR__map-maker__SEPARATOR__None map-maker
+lang_ko__SEPARATOR__oppressed__SEPARATOR__None oppressed
+lang_ko__SEPARATOR__forerunner__SEPARATOR__None forerunner
+lang_ko__SEPARATOR__exports__SEPARATOR__None exports
+lang_ko__SEPARATOR__repressed__SEPARATOR__None repressed
+lang_ko__SEPARATOR__Java__SEPARATOR__None Java
+lang_ko__SEPARATOR__tissue__SEPARATOR__http://medicine.donga.ac.kr/bbs/medicine/508/3660/download.do
+lang_ko__SEPARATOR__tissue__SEPARATOR__http://www.bioin.or.kr/fileDown.do?seq=27919
+lang_ko__SEPARATOR__tissue__SEPARATOR__http://www.cmcuro.net/symposium/pdf/2006dongmun/2.ppt
+lang_ko__SEPARATOR__tissue__SEPARATOR__https://bi.snu.ac.kr/Research/MEC/2002/2002-02-01(jypark).ppt
+lang_ko__SEPARATOR__entomology__SEPARATOR__None entomology
+lang_ko__SEPARATOR__shattering__SEPARATOR__None shattering
+lang_ko__SEPARATOR__topographic map__SEPARATOR__None topographic map
+lang_ko__SEPARATOR__urged__SEPARATOR__None urged
+lang_ko__SEPARATOR__aroused__SEPARATOR__None aroused
+lang_ko__SEPARATOR__capitalist__SEPARATOR__None capitalist
+lang_ko__SEPARATOR__constitutional monarchy__SEPARATOR__None constitutional monarchy
+lang_ko__SEPARATOR__south__SEPARATOR__http://www.nceaom.com/presentation.ppt
+lang_ko__SEPARATOR__south__SEPARATOR__http://vckorea.prizma.co.kr/wp-content/uploads/2005/07/100%EB%AA%85%EC%9D%98%EB%A7%88%EC%9D%84.ppt
+lang_ko__SEPARATOR__bookmark__SEPARATOR__http://east.skku.edu/DATA/sago.ppt
+lang_ko__SEPARATOR__bookmark__SEPARATOR__http://hmtalk.com/download/DaOffice_%EC%82%AC%EC%97%85%EC%A0%9C%EC%95%88%EC%84%9C.ppt
+lang_ko__SEPARATOR__bookmark__SEPARATOR__https://kmuedu.kookmin.ac.kr/site/data/course.htm?mode=download&num=1&pfname=1189564102_1
+lang_ko__SEPARATOR__curbed__SEPARATOR__None curbed
+lang_ko__SEPARATOR__spam__SEPARATOR__None spam
+lang_ko__SEPARATOR__degree of latitude__SEPARATOR__None degree of latitude
+lang_ko__SEPARATOR__decimated__SEPARATOR__None decimated
+lang_ko__SEPARATOR__words__SEPARATOR__None words
+lang_ko__SEPARATOR__reformed__SEPARATOR__None reformed
+lang_ko__SEPARATOR__CD__SEPARATOR__http://www.moe.go.kr/boardCnts/fileDown.do?m=030101&s=moe&fileSeq=cc1d8e572a9553041b0e53426da0cbc9
+lang_ko__SEPARATOR__CD__SEPARATOR__http://ce.kiu.ac.kr/~kykim/UNIX2016/ch06.ppt
+lang_ko__SEPARATOR__CD__SEPARATOR__https://www.nl.go.kr/downLoadServlet?fid=nl_offEducationNumber&num_key=349
+lang_ko__SEPARATOR__CD__SEPARATOR__http://www.tipa.or.kr/0406/download/page/10/id/3080/bid/12/fid/2385/fsname/bd09a3a304fd27fd07a577ff78671231
+lang_ko__SEPARATOR__mainframe__SEPARATOR__None mainframe
+lang_ko__SEPARATOR__wearied__SEPARATOR__None wearied
+lang_ko__SEPARATOR__World Wide Web__SEPARATOR__http://ihong.cau.ac.kr/Lectures/MIS_Lectures/Chapter8.ppt
+lang_ko__SEPARATOR__mountain__SEPARATOR__http://chanyi.tistory.com/attachment/cfile1.uf@17378E2F4CF37FA30BCE7B.ppt
+lang_ko__SEPARATOR__platform__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/comp-arch/SoC-arch/%C5%EB%BD%C5%BD%C3%BD%BA%C5%DB%20SoC%20%C7%C3%B7%A7%C6%FB_1999312714_%B9%DA%B5%BF%C0%CF.ppt
+lang_ko__SEPARATOR__platform__SEPARATOR__https://www.jeonju.go.kr/planweb/upload/munhwa/SharingEconomy2nd.ppt
+lang_ko__SEPARATOR__island__SEPARATOR__http://kostat.go.kr/inner/region/reg_03/3/index.board?bmode=download&bSeq=&aSeq=160370&ord=1
+lang_ko__SEPARATOR__island__SEPARATOR__http://ctp.snu.ac.kr/SONG/presentation/tylee.ppt
+lang_ko__SEPARATOR__island__SEPARATOR__http://cfile208.uf.daum.net/attach/160353254C9B44900FBB75
+lang_ko__SEPARATOR__island__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=2463
+lang_ko__SEPARATOR__contrast__SEPARATOR__http://www.schoolhealth.kr/shnhome/glib/SHDataFileDownload.php?GbnCd=SHData&lstnum1=970&file_seq=2
+lang_ko__SEPARATOR__contrast__SEPARATOR__http://taecho.org/ClassPPT-2015.ppt
+lang_ko__SEPARATOR__microscope__SEPARATOR__http://www.kofses.or.kr/data/down.php?&fsname=/usr/www/kofses/board/upload/6.167.0&frname=%BF%AC%B1%B8%BA%B8%B0%ED%BC%AD-%C0%FC%C0%DA%C7%F6%B9%CC%B0%E6.ppt&bnum=6&num=167&downnum=0
+lang_ko__SEPARATOR__microscope__SEPARATOR__http://quanta.hanyang.ac.kr/Lecture/2016_2/Chapter%202.ppt
+lang_ko__SEPARATOR__mountain range__SEPARATOR__None mountain range
+lang_ko__SEPARATOR__International Date Line__SEPARATOR__None International Date Line
+lang_ko__SEPARATOR__fact__SEPARATOR__http://www.schoolhealth.kr/shnhome/glib/SHDataFileDownload.php?GbnCd=SHData&lstnum1=99&file_seq=1
+lang_ko__SEPARATOR__fact__SEPARATOR__http://www.tokos.ed.jp/msub1.brd/_59.66.1592f0fd/%EC%84%A4%EB%AA%85%EB%AC%B8%EA%B0%88%EB%9E%98%ED%95%99%EC%8A%B51.ppt
+lang_ko__SEPARATOR__fact__SEPARATOR__http://www.moe.go.kr/boardCnts/fileDown.do?m=0301&s=moe&fileSeq=c6e2f3489a4be00a8668c91853cd0703
+lang_ko__SEPARATOR__fact__SEPARATOR__http://sports.uc.ac.kr/Common/NFUpload/FILELOAD.jsp?Docid=171019094301043&pdn=&Num=58282
+lang_ko__SEPARATOR__fact__SEPARATOR__http://social.gch.ac.kr/bbs/bbs_config/file_down.jsp?file_name=%C1%A61%C0%E5_%B0%FA%C7%D0%C0%FB_%BF%AC%B1%B8%B9%E6%B9%FD.ppt&board_id=24_06
+lang_ko__SEPARATOR__fact__SEPARATOR__http://ocw.wsu.ac.kr/contents/2016/20160115150012/ppt20160115150012(1).ppt
+lang_ko__SEPARATOR__caps lock__SEPARATOR__https://rnd.ncc.re.kr/downManager?a=DATABBS&b=1306482242828&c=1&d=sub06
+lang_ko__SEPARATOR__village__SEPARATOR__https://emti.or.kr/log_capture/down_log.jsp?fileName=tnc.ppt&Path=data-room&menu_cd=Z042
+lang_ko__SEPARATOR__important__SEPARATOR__None important
+lang_ko__SEPARATOR__chemical__SEPARATOR__http://www.chemlocus.co.kr/content/data/etc/consulting/Overview_OpticalFilm.ppt
+lang_ko__SEPARATOR__chemical__SEPARATOR__http://chemipia.jbnu.ac.kr/_prof/cjkim/course/Pages/objectives/Ch02.ppt
+lang_ko__SEPARATOR__hospital__SEPARATOR__http://www.addictionacademy.org/func/download.php?path=L2hvbWUvdmlydHVhbC9hZGRpY3Rpb24vaHRkb2NzL3VwbG9hZC9wZHMvMTE2MTk0NDM3MrHovLqw7y0yMDA2urvH0Mi4vcnG98H2v/Itwd+1ti5wcHQ=&filename=MTE2MTk0NDM3MrHovLqw7y0yMDA2urvH0Mi4vcnG98H2v/Itwd+1ti5wcHQ=
+lang_ko__SEPARATOR__hospital__SEPARATOR__http://ctc.gilhospital.com/bbs/downloads2.php?wonfile=%B1%A4%B0%ED_NVP_12051.ppt
+lang_ko__SEPARATOR__resisted__SEPARATOR__None resisted
+lang_ko__SEPARATOR__restricted__SEPARATOR__None restricted
+lang_ko__SEPARATOR__cookie__SEPARATOR__None cookie
+lang_ko__SEPARATOR__document__SEPARATOR__http://dasan.sejong.ac.kr/~sipark/class2010/vc/VC23.ppt
+lang_ko__SEPARATOR__document__SEPARATOR__http://dasan.sejong.ac.kr/~sipark/class2008/vc/VC20.ppt
+lang_ko__SEPARATOR__restrained__SEPARATOR__None restrained
+lang_ko__SEPARATOR__punished__SEPARATOR__None punished
+lang_ko__SEPARATOR__far sighted__SEPARATOR__None far sighted
+lang_ko__SEPARATOR__path__SEPARATOR__http://ce.kiu.ac.kr/~hskim/stru8.ppt
+lang_ko__SEPARATOR__path__SEPARATOR__http://biz.seohan.com/B2B/Resources/Attach/FileDownload.aspx?filepath=/APD_MST/2016/APD_MST%5E2016%5E7f9b7dfd-ef58-4c43-aa14-3877c1e993d6%5E%uC804%uC0B0_NCR_%uB9E4%uB274%uC5BC_%uD611%uB825%uC5C5%uCCB4%uC6A9_Rev1.ppt&filename=%uC804%uC0B0_NCR_%uB9E4%uB274%uC5BC_%uD611%uB825%uC5C5%uCCB4%uC6A9_Rev1.ppt&MENU_NO=L00
+lang_ko__SEPARATOR__path__SEPARATOR__http://mediscience.gu.ac.kr/boardnew/lib/down.php?fname=15%EC%9E%A5%20%EC%8B%A0%EA%B2%BD%EA%B3%84%20%EC%A7%88%ED%99%98.ppt&db=board1&number=3362
+lang_ko__SEPARATOR__burette__SEPARATOR__None burette
+lang_ko__SEPARATOR__mirror__SEPARATOR__http://www.gaok.or.kr/gaok/cmm/fms/FileDown.do?atchFileId=FILE_000000000121669&fileSn=1&bbsId=
+lang_ko__SEPARATOR__mirror__SEPARATOR__http://elearning.kocw.net/document/region/2010/16/01/16_01_08_digital.ppt
+lang_ko__SEPARATOR__mirror__SEPARATOR__https://cms3.koreatech.ac.kr/bbs/mechatronics/236/7855/download.do
+lang_ko__SEPARATOR__sparked__SEPARATOR__None sparked
+lang_ko__SEPARATOR__digital__SEPARATOR__None digital
+lang_ko__SEPARATOR__neural network__SEPARATOR__http://www.snubi.org/~juhan/BGM/ppt/jungyongjin_2.ppt
+lang_ko__SEPARATOR__area__SEPARATOR__http://tourgrad.sejong.ac.kr/Download?pkid=1867&index=1&fileName=%EA%B0%81%EC%A2%85%EC%96%91%EC%8B%9D-%EC%9E%85%ED%95%99-%EC%8B%A0%EC%9E%85%EC%83%9D%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%20%EC%95%88%EB%82%B4%EC%9E%90%EB%A3%8C.ppt&filePath=2/274&gubun=board
+lang_ko__SEPARATOR__radicalised__SEPARATOR__None radicalised
+lang_ko__SEPARATOR__meteorologist__SEPARATOR__None meteorologist
+lang_ko__SEPARATOR__incited__SEPARATOR__None incited
+lang_ko__SEPARATOR__overpowered__SEPARATOR__None overpowered
+lang_ko__SEPARATOR__compile__SEPARATOR__http://ropas.snu.ac.kr/~ta/010.142/06/c-guide.ppt
+lang_ko__SEPARATOR__scale bar__SEPARATOR__http://quanta.hanyang.ac.kr/Lecture/2016_2/Chapter%203.ppt
+lang_ko__SEPARATOR__commerce__SEPARATOR__http://newclass.hanbat.ac.kr/ctnt/manage/download.php?code=academic_information&ntt_no=6820&depth=&SESS_GROUP_CODE=&SESS_USERID=
+lang_ko__SEPARATOR__commerce__SEPARATOR__http://ihong.cau.ac.kr/Lectures/e-biz/B2B_trend.ppt
+lang_ko__SEPARATOR__commerce__SEPARATOR__http://www.kiot.or.kr/eng_1/include/file_down.asp?C_code=708&File_Code=_PATH
+lang_ko__SEPARATOR__Africa__SEPARATOR__http://www.nosmoke.or.kr/bbs/download.php?num=57&tmp=1321838937
+lang_ko__SEPARATOR__tag__SEPARATOR__http://antrf.hanyang.ac.kr/adm/bbs/down.php?code=lectures3&idx=6169&no=1
+lang_ko__SEPARATOR__tag__SEPARATOR__http://ep.knou.ac.kr/comm/downloadFile.do?fileId=FLK00050100000813902
+lang_ko__SEPARATOR__tag__SEPARATOR__http://www.bonghwa-ed.go.kr/file.aspx/board/download/795/2/%EC%B2%A8%EB%B6%802_google%EB%93%B1%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%EB%85%B8%EC%B6%9C%EC%98%88%EB%B0%A9%EC%A1%B0%EC%B9%98%EB%B0%A9%EC%95%88.ppt
+lang_ko__SEPARATOR__tag__SEPARATOR__http://overseas.mofa.go.kr/au-sydney-ko/brd/m_2472/down.do?brd_id=ausyE1&seq=11098&data_tp=A&file_seq=5
+lang_ko__SEPARATOR__continent__SEPARATOR__http://www.prism.go.kr/homepage/researchCommon/downloadResearchAttachFile.do;jsessionid=6D9BDB5B2912A688434914483252DF33.node02?work_key=001&file_type=CPR&seq_no=016&pdf_conv_yn=N&research_id=1312000-201400001
+lang_ko__SEPARATOR__notebook computer__SEPARATOR__http://uc.eulji.ac.kr/down/%EC%9D%84%EC%A7%80%EB%8C%80%ED%95%99%EA%B5%90%EB%AC%B4%EC%84%A0%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95.ppt
+lang_ko__SEPARATOR__notebook computer__SEPARATOR__http://cms6.cku.ac.kr/common/downLoad.do?siteId=bme&fileSeq=99981
+lang_ko__SEPARATOR__notebook computer__SEPARATOR__http://seoul.koshba.or.kr/upload/member/%EC%83%81%EC%8B%A0%EB%A3%A8%EB%B8%8C_%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C%EC%84%9C.ppt
+lang_ko__SEPARATOR__proletariat__SEPARATOR__None proletariat
+lang_ko__SEPARATOR__keyboard__SEPARATOR__http://ep.knou.ac.kr/comm/downloadFile.do?fileId=FLK00050100000814001
+lang_ko__SEPARATOR__hypothesis__SEPARATOR__http://social.gch.ac.kr/bbs/bbs_config/file_down.jsp?file_name=%C1%A62%C0%E5_%C1%B6%BB%E7%BF%AC%B1%B8%C0%C7_%C1%D6%BF%E4%B0%B3%B3%E4.ppt&board_id=24_06
+lang_ko__SEPARATOR__hypothesis__SEPARATOR__http://college.kangwon.ac.kr/include/jsp_h/download.jsp?filePath=/upload_files/board/SP_STU004_3/&fileName=6317520130903093641.ppt
+lang_ko__SEPARATOR__hypothesis__SEPARATOR__http://www2.yonsei.ac.kr/gspa/Down/Board/Bbs-Cfile966.ppt
+lang_ko__SEPARATOR__political map__SEPARATOR__None political map
+lang_ko__SEPARATOR__brought about__SEPARATOR__None brought about
+lang_ko__SEPARATOR__sensationalist__SEPARATOR__None sensationalist
+lang_ko__SEPARATOR__ocean__SEPARATOR__http://bizok.incheon.go.kr/open_content/ofc/pr/prDownload.do?ofc_key=9999&file_no=1
+lang_ko__SEPARATOR__provoked__SEPARATOR__None provoked
+lang_ko__SEPARATOR__table__SEPARATOR__None table
+lang_ko__SEPARATOR__inbox__SEPARATOR__None inbox
+lang_ko__SEPARATOR__provincial__SEPARATOR__None provincial
+lang_ko__SEPARATOR__Internet__SEPARATOR__None Internet
+lang_ko__SEPARATOR__scattered__SEPARATOR__None scattered
+lang_ko__SEPARATOR__security__SEPARATOR__None security
+lang_ko__SEPARATOR__hemisphere__SEPARATOR__None hemisphere
+lang_ko__SEPARATOR__doubtful__SEPARATOR__None doubtful
+lang_ko__SEPARATOR__memory__SEPARATOR__http://echosf.net/lecture/programming/ch4.ppt
+lang_ko__SEPARATOR__html__SEPARATOR__None html
+lang_ko__SEPARATOR__chart__SEPARATOR__http://www.mtk119.com/kor/MTK%20Introduction.ppt
+lang_ko__SEPARATOR__desktop__SEPARATOR__http://www.kita.net/markany/MA_ImageSaferManual.ppt
+lang_ko__SEPARATOR__landform__SEPARATOR__None landform
+lang_ko__SEPARATOR__web host__SEPARATOR__http://www2.yonsei.ac.kr/gspa/Down/Board/Bbs-Cfile1131.ppt
+lang_ko__SEPARATOR__mass__SEPARATOR__http://diamond.kist.re.kr/DLC/R&D_DB/%EC%A7%84%EA%B3%B5%EA%B2%8C%EC%9D%B4%EC%A7%80-%EA%B9%80%EB%AA%85%EA%B7%BC.ppt
+lang_ko__SEPARATOR__mass__SEPARATOR__http://hotel.gu.ac.kr/boardnew/lib/down.php?fname=%EC%A0%9C2%EC%9E%A5%20%EA%B4%80%EA%B4%91%EC%9D%98%20%EB%B0%9C%EC%A0%84.ppt&db=board1&number=1199
+lang_ko__SEPARATOR__mass__SEPARATOR__http://elearning.kocw.net/document/region/2010/18/01/18_01_12_blade.ppt
+lang_ko__SEPARATOR__production__SEPARATOR__http://khwb.khu.ac.kr/download.php?tbl=in_bbs_lecture&fn=%EB%8C%80%ED%95%99%EC%9B%90-%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_9%EC%9E%A5.ppt&fn_view=%EB%8C%80%ED%95%99%EC%9B%90-%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_9%EC%9E%A5.ppt
+lang_ko__SEPARATOR__production__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=266344
+lang_ko__SEPARATOR__one sided__SEPARATOR__http://aecs.snu.ac.kr/tmpl/bbs/bbs_download.php?tb=c3ViNF8xMg==&wr_id=4&f_no=1
+lang_ko__SEPARATOR__clip board__SEPARATOR__None clip board
+lang_ko__SEPARATOR__website__SEPARATOR__http://aiees.snu.ac.kr/greenleadership/website/contents/download.php?u=MjAxNjAyMjMtMTkwNDQ1LTQwLnBwdHxwcHR8aW5fbmV3cy9maWxlcw%3D%3D%257C%25EC%259D%25B8%25ED%2584%25B4%25EC%258B%25AD%25ED%2598%2591%25EB%25A0%25A5%25EA%25B8%25B0%25EA%25B4%2580%25EC%2595%2588%25EB%2582%25B4%25ED%259D%2599%25EC%2582%25B4%25EB%25A6%25BC%25EC%2597%25B0%25EA%25B5%25AC%25EC%2586%258C
+lang_ko__SEPARATOR__website__SEPARATOR__http://www.kapsm.or.kr/website/in_pds/files/200407121105_11.ppt
+lang_ko__SEPARATOR__website__SEPARATOR__http://ihong.cau.ac.kr/Courses/e-biz/eBizLecture.ppt
+lang_ko__SEPARATOR__strained__SEPARATOR__None strained
+lang_ko__SEPARATOR__motivated__SEPARATOR__None motivated
+lang_ko__SEPARATOR__cite__SEPARATOR__None cite
+lang_ko__SEPARATOR__macro__SEPARATOR__http://www.mnd.go.kr/common/downLoad.action?siteId=mnd&fileSeq=o_1140000000286
+lang_ko__SEPARATOR__macro__SEPARATOR__http://semanticweb.kaist.ac.kr/research/ksurimal/1st%20language%20meet/IRe.ppt
+lang_ko__SEPARATOR__GPS__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=2771
+lang_ko__SEPARATOR__restore__SEPARATOR__None restore
+lang_ko__SEPARATOR__mercantilism__SEPARATOR__https://law.sc.ac.kr/servlet/FileDownLoad?groupNo=10449&fileName=%C7%E0%C1%A4%C7%D0%20pt.ppt
+lang_ko__SEPARATOR__tributary__SEPARATOR__None tributary
+lang_ko__SEPARATOR__scan__SEPARATOR__http://mrl.snu.ac.kr/workshop/Osteology2011/20121020_OLT.ppt
+lang_ko__SEPARATOR__scan__SEPARATOR__http://epps.unist.ac.kr/wp-content/uploads/sites/195/2015/08/Ch1-Lattice.ppt
+lang_ko__SEPARATOR__scan__SEPARATOR__http://portal.changwon.ac.kr/homePost/download.do?postfileno=156830
+lang_ko__SEPARATOR__alphabets__SEPARATOR__None alphabets
+lang_ko__SEPARATOR__database__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000016095&fileSn=0
+lang_ko__SEPARATOR__offline__SEPARATOR__https://www.kdata.or.kr/info/info_01_download.html?dbnum=84
+lang_ko__SEPARATOR__offline__SEPARATOR__http://overseas.mofa.go.kr/hk-ko/brd/m_1521/down.do?brd_id=14573&seq=1177607&data_tp=A&file_seq=1
+lang_ko__SEPARATOR__offline__SEPARATOR__https://www.bonghwa-ed.go.kr/file.aspx/board/download/8674/2/%EB%B6%99%EC%9E%842.%20%ED%95%99%EA%B5%90%ED%9A%8C%EA%B3%84%202017%20%EC%98%88%EC%82%B0%EA%B2%B0%EC%82%B0(%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C).ppt
+lang_ko__SEPARATOR__surf__SEPARATOR__http://unit.mokwon.ac.kr/board/loadFile.ht?fileNm=2016%2F201611221247371627398123015319.ppt
+lang_ko__SEPARATOR__interpret__SEPARATOR__None interpret
+lang_ko__SEPARATOR__government__SEPARATOR__http://www.schoolhealth.kr/shnhome/glib/SHDataFileDownload.php?GbnCd=SHData&lstnum1=123&file_seq=1
+lang_ko__SEPARATOR__peasantry__SEPARATOR__None peasantry
+lang_ko__SEPARATOR__nobility__SEPARATOR__None nobility
+lang_ko__SEPARATOR__phoney__SEPARATOR__None phoney
+lang_ko__SEPARATOR__meridian__SEPARATOR__None meridian
+lang_ko__SEPARATOR__geography__SEPARATOR__http://kostat.go.kr/office/hnro/rohn_nw/3/index.board?bmode=download&bSeq=&aSeq=149665&ord=1
+lang_ko__SEPARATOR__geography__SEPARATOR__http://www.sungshin.ac.kr:8900/jsps/common/download.jsp?sSiteId=kigeo&file=kigeo_8_5_1391754063109.ppt&orifile=%B1%E8%C3%A2%C8%AF_%BC%BA%BD%C5%BF%A9%B4%EB%C7%D1%B1%B9%C1%F6%B8%AE%BF%AC%B1%B8%BC%D2[1].ppt&board_id=8&board_seq=5&file_seq=1
+lang_ko__SEPARATOR__geography__SEPARATOR__http://ieg.or.kr/ip/IP_data/IP_data03-04/ip03-04-02.ppt
+lang_ko__SEPARATOR__computer program__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/comp-arch/par-proc/ch01.ppt
+lang_ko__SEPARATOR__screenshot__SEPARATOR__None screenshot
+lang_ko__SEPARATOR__rocked__SEPARATOR__None rocked
+lang_ko__SEPARATOR__ideology__SEPARATOR__None ideology
+lang_ko__SEPARATOR__observe__SEPARATOR__http://cmcuro.net/symposium/pdf/2010dongmun/PDE5andLUTS_KimHW.ppt
+lang_ko__SEPARATOR__phase__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/team1hw6.ppt
+lang_ko__SEPARATOR__phase__SEPARATOR__http://chemipia.jbnu.ac.kr/_prof/cjkim/course/Pages/objectives/Ch08.ppt
+lang_ko__SEPARATOR__phase__SEPARATOR__http://mrl.snu.ac.kr/workshop/Osteology2011/SNU%20update-%20normal%20gait%20function%20of%20the%20foot.ppt
+lang_ko__SEPARATOR__southwest__SEPARATOR__None southwest
+lang_ko__SEPARATOR__froze__SEPARATOR__None froze
+lang_ko__SEPARATOR__southeast__SEPARATOR__None southeast
+lang_ko__SEPARATOR__option__SEPARATOR__http://gw.ktc.re.kr/down/install_guide.ppt
+lang_ko__SEPARATOR__option__SEPARATOR__https://yel.yjc.ac.kr/jsp/img/04_sub/n_ieoption_v.ppt
+lang_ko__SEPARATOR__multimedia__SEPARATOR__None multimedia
+lang_ko__SEPARATOR__net__SEPARATOR__http://iipti.kipo.go.kr/common/fileDown.do?fileSeq=5048&listSeq=7898&bulletinSeq=5&systemDiv=KR
+lang_ko__SEPARATOR__net__SEPARATOR__http://env.seoul.go.kr/files/2012/03/4f542026c14723.04796790.ppt
+lang_ko__SEPARATOR__consolidated__SEPARATOR__None consolidated
+lang_ko__SEPARATOR__byte__SEPARATOR__https://cms3.koreatech.ac.kr/bbs/mechatronics/240/5669/download.do
+lang_ko__SEPARATOR__key__SEPARATOR__http://cs.kangwon.ac.kr/~ysmoon/courses/2006_1/ds/Collision-LHW.ppt
+lang_ko__SEPARATOR__key__SEPARATOR__http://www.postech.ac.kr/wp-content/uploads/2017/03/3_%EC%A0%9C4%ED%9A%8C-POSTECH-%EA%B3%BC%EB%A7%A4%EA%B8%B0-%EC%B0%BD%EC%97%85%EC%9B%90%EC%A0%95%EB%8C%80-%EC%82%AC%EC%97%85%EC%86%8C%EA%B0%9C%EC%84%9C_%ED%8C%80%EB%AA%85_%ED%8C%80%EC%9E%A5%EB%AA%85.ppt
+lang_ko__SEPARATOR__fuelled__SEPARATOR__None fuelled
+lang_ko__SEPARATOR__wireless__SEPARATOR__http://www.kfubis.com/lib/down.asp?gubun=notice14&files=CATALOG-2013-09-10-ANT.ppt
+lang_ko__SEPARATOR__real-time__SEPARATOR__https://bi.snu.ac.kr/Research/MEC/2002/2002-04-12(jypark).ppt
+lang_ko__SEPARATOR__subdued__SEPARATOR__None subdued
+lang_ko__SEPARATOR__constitution__SEPARATOR__None constitution
+lang_ko__SEPARATOR__innovative__SEPARATOR__http://www.jsele.co.kr/upload_data/jsele_jmw_02.ppt
+lang_ko__SEPARATOR__define__SEPARATOR__None define
+lang_ko__SEPARATOR__unified__SEPARATOR__None unified
+lang_ko__SEPARATOR__frame__SEPARATOR__None frame
+lang_ko__SEPARATOR__cache__SEPARATOR__None cache
+lang_ko__SEPARATOR__debt__SEPARATOR__http://www.addictionacademy.org/func/download.php?path=L2hvbWUvdmlydHVhbC9hZGRpY3Rpb24vaHRkb2NzL3VwbG9hZC9hYnN0cmFjdC8xNDgwNDk1ODAxMl/D1rvvv+0ucHB0&filename=MTQ4MDQ5NTgwMTJfw9a777/tLnBwdA==
+lang_ko__SEPARATOR__debt__SEPARATOR__http://hompi.sogang.ac.kr/hahnlee/Lecture8_chap29.ppt
+lang_ko__SEPARATOR__debt__SEPARATOR__http://www.kpclaw.or.kr/_function/fileBoardDown.asp?DownInfo=TB_BOARD|board_idx|board_file|597
+lang_ko__SEPARATOR__boot__SEPARATOR__http://wj-changup.wanju.go.kr/board/download.wanju?boardId=BBS_0000001&menuCd=DOM_000000103004001000&startPage=5&dataSid=340&command=update&fileSid=328
+lang_ko__SEPARATOR__copy__SEPARATOR__https://www.yes24.com/company/guide_banner.pps
+lang_ko__SEPARATOR__dot__SEPARATOR__None dot
+lang_ko__SEPARATOR__timely__SEPARATOR__None timely
+lang_ko__SEPARATOR__street map__SEPARATOR__None street map
+lang_ko__SEPARATOR__password__SEPARATOR__http://ghgmbo.kemco.or.kr/Download/%EB%AA%A9%ED%91%9C%EA%B4%80%EB%A6%AC%EC%A7%80%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C_%EB%AA%85%EC%84%B8%EC%84%9C%EA%B4%80%EB%A6%AC.ppt
+lang_ko__SEPARATOR__password__SEPARATOR__http://www.mpss.go.kr/board/file/bbs_0000000000000041/8532/FILE_000000000000631/20160216133420792.ppt;jsessionid=5vEqoCzW3AMl5Qey271K3zsF.node20
+lang_ko__SEPARATOR__password__SEPARATOR__https://www.dge.go.kr/board/boardFile/download/176/1003163/239277.do
+lang_ko__SEPARATOR__environment__SEPARATOR__http://www.mafra.go.kr/bbs/people/35/36243/download.do
+lang_ko__SEPARATOR__environment__SEPARATOR__http://www.schoolhealth.kr/shnhome/glib/SHDataFileDownload.php?GbnCd=SHData&lstnum1=1217&file_seq=1
+lang_ko__SEPARATOR__environment__SEPARATOR__http://living.sehan.ac.kr/?module=file&act=procFileDownload&file_srl=574&sid=f99708829ba5f5eacd7101fc973bdfb7&module_srl=176
+lang_ko__SEPARATOR__environment__SEPARATOR__https://www.koem.or.kr/common/proc/mmokpo/bbs/351/fileDownLoad/6658.do
+lang_ko__SEPARATOR__environment__SEPARATOR__https://oshri.kosha.or.kr/cms/board/Download.jsp?fileId=10749
+lang_ko__SEPARATOR__Bunsen burner__SEPARATOR__None Bunsen burner
+lang_ko__SEPARATOR__magnetic pole__SEPARATOR__None magnetic pole
+lang_ko__SEPARATOR__wound back__SEPARATOR__None wound back
+lang_ko__SEPARATOR__protocol__SEPARATOR__None protocol
+lang_ko__SEPARATOR__CD-ROM__SEPARATOR__https://www.moe.go.kr/boardCnts/fileDown.do?m=030101&s=moe&fileSeq=11a796a79da47ae61e4e2d9d4f5e622a
+lang_ko__SEPARATOR__CD-ROM__SEPARATOR__http://www.hanatech.co.kr/site/file/hanatech_info.ppt
+lang_ko__SEPARATOR__dot matrix__SEPARATOR__None dot matrix
+lang_ko__SEPARATOR__FAQ (frequently asked questions)__SEPARATOR__None FAQ (frequently asked questions)
+lang_ko__SEPARATOR__reasonable__SEPARATOR__http://www.koreanlii.or.kr/w/images/0/0d/CISG_PT.ppt
+lang_ko__SEPARATOR__reasonable__SEPARATOR__https://oshri.kosha.or.kr/cms/board/Download.jsp?fileId=10725
+lang_ko__SEPARATOR__emboldened__SEPARATOR__None emboldened
+lang_ko__SEPARATOR__wiki__SEPARATOR__None wiki
+lang_ko__SEPARATOR__paste__SEPARATOR__None paste
+lang_ko__SEPARATOR__toolbar__SEPARATOR__http://cms3.minitab.co.kr/board/minitab_data/Minitab%2016%20%EB%B2%84%EC%A0%84%20%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5%EC%86%8C%EA%B0%9C.ppt
+lang_ko__SEPARATOR__open source__SEPARATOR__http://emlab.sogang.ac.kr/Download?pathStr=NDkjIzQ5IyM5NSMjNTYjIzk4IyM5NSMjMTE1IyMxMTYjIzExNSMjMTA1IyMxMDgjIzk1IyM0OSMjNDgjIzExNSMjOTUjIzU0IyM0OSMjNDgjIzUwIyMxMjEjIzk1IyMxMDEjIzExNCMjMTE3IyMxMTYjIzk5IyMxMDEjIzEwOCMjNDcjIzk4IyM5NyMjMTA4IyMxMDkjIzEwMSMjOTUjIzExNSMjMTAxIyMxMTYjIzEwNSMjMTE1IyMxMjQjIzEwNCMjMTE2IyM5NyMjODAjIzEwMSMjMTA4IyMxMDUjIzEwMiMjMzUjIzMzIyMzNSMjNDkjIzEyNCMjMTIwIyMxMDEjIzEwMCMjMTEwIyMxMDUjIzM1IyMzMyMjMzUjIzQ5IyMxMjQjIzEwMCMjMTA1IyMxMDcjIzExMg==&fileName=EMC_6%EC%9E%A5.ppt&gubun=oldbbs
+lang_ko__SEPARATOR__open source__SEPARATOR__http://web.khu.ac.kr/~bil/lecture/MedicalInstrumentation/Homework/Team2HW5.ppt
+lang_ko__SEPARATOR__variable__SEPARATOR__http://cs.sookmyung.ac.kr/~chang/lecture/c13/chap3.PPT
+lang_ko__SEPARATOR__variable__SEPARATOR__http://www1.suwon.ac.kr/~jinhkim/lecture/ma.ppt
+lang_ko__SEPARATOR__variable__SEPARATOR__http://ce.kiu.ac.kr/~kykim/WinApp2017/Chap5.ppt
+lang_ko__SEPARATOR__mineralogy__SEPARATOR__None mineralogy
+lang_ko__SEPARATOR__flash__SEPARATOR__http://www.vsun.co.kr/renewal/company/vsun.ppt
+lang_ko__SEPARATOR__flash__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=5495
+lang_ko__SEPARATOR__molecule__SEPARATOR__http://epps.unist.ac.kr/wp-content/uploads/sites/195/2015/08/Ch1_electronsANDatoms.ppt
+lang_ko__SEPARATOR__molecule__SEPARATOR__http://dmrc.snu.ac.kr/english/documents/kps2005oct/kps-2005oct-JHSo.ppt
+lang_ko__SEPARATOR__discuss__SEPARATOR__None discuss
+lang_ko__SEPARATOR__flaming__SEPARATOR__None flaming
+lang_ko__SEPARATOR__fatigued__SEPARATOR__None fatigued
+lang_ko__SEPARATOR__domain name__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2016_09_Internet_Protocol_and_Programming/Lecture_Note_4.ppt
+lang_ko__SEPARATOR__fossil__SEPARATOR__None fossil
+lang_ko__SEPARATOR__quantum mechanics__SEPARATOR__http://chemipia.jbnu.ac.kr/_prof/cjkim/course/GPages/objectives/chem07.ppt
+lang_ko__SEPARATOR__quantum mechanics__SEPARATOR__http://conf.kias.re.kr/~brane/wc2006/lec_note/KIAS-2006.ppt
+lang_ko__SEPARATOR__shell__SEPARATOR__https://oshri.kosha.or.kr/cms/board/Download.jsp?fileId=10754
+lang_ko__SEPARATOR__online__SEPARATOR__http://snurnd.snu.ac.kr/html/themes/www/data/OSOS%20%EC%B0%B8%EC%97%AC%EC%97%B0%EA%B5%AC%EC%9B%90%20%EB%93%B1%EB%A1%9D%EB%B3%80%EA%B2%BD%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%A7%A4%EB%89%B4%EC%96%BC(%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C2).ppt
+lang_ko__SEPARATOR__online__SEPARATOR__http://snurnd.snu.ac.kr/html/themes/www/data/%EC%97%B0%EA%B5%AC%EC%97%85%EC%A0%81%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%82%AC%EC%9A%A9%EB%A7%A4%EB%89%B4%EC%96%BC.ppt
+lang_ko__SEPARATOR__cuvette__SEPARATOR__None cuvette
+lang_ko__SEPARATOR__unreliable__SEPARATOR__None unreliable
+lang_ko__SEPARATOR__kindled__SEPARATOR__None kindled
+lang_ko__SEPARATOR__halted__SEPARATOR__None halted
+lang_ko__SEPARATOR__dubious__SEPARATOR__None dubious
+lang_ko__SEPARATOR__observatory__SEPARATOR__http://astro1.snu.ac.kr/home/kor/publicboard/downloadFile.asp?bulletin_file_id=1582&filename=20090916.ppt
+lang_ko__SEPARATOR__magnetism__SEPARATOR__http://hklee.konkuk.ac.kr/xe/?module=file&act=procFileDownload&file_srl=3934&sid=4b9c3e3bc0d1ead9f5c69b2bcd75a678
+lang_ko__SEPARATOR__upset__SEPARATOR__None upset
+lang_ko__SEPARATOR__revenue__SEPARATOR__https://www.kisdi.re.kr/kisdi/common/download?type=D&file=GPK_STS_ORIGIN%7C24789%7C1
+lang_ko__SEPARATOR__revenue__SEPARATOR__http://www.gntech.ac.kr/web/acc/17;jsessionid=Dc1mXpyfbJPFDy9Mmp3Jv2x77QfM2SjD1LZrC8yCMKvLgKVJKp0D!759537309!1465791103083?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_extFileId=27279
+lang_ko__SEPARATOR__revenue__SEPARATOR__http://cfile5.uf.tistory.com/attach/11712A3D4DDF6CEA2E470F
+lang_ko__SEPARATOR__revenue__SEPARATOR__http://hopia.net/kime/MJ-Islamic%20Economy.ppt
+lang_ko__SEPARATOR__hyperlink__SEPARATOR__None hyperlink
+lang_ko__SEPARATOR__bathymetric map__SEPARATOR__None bathymetric map
+lang_ko__SEPARATOR__shift key__SEPARATOR__http://cs.kangwon.ac.kr/~ysmoon/courses/2006_1/ds/Hash-SHK.ppt
+lang_ko__SEPARATOR__shift key__SEPARATOR__http://dasan.sejong.ac.kr/~sipark/class2011/mm/MP19.ppt
+lang_ko__SEPARATOR__shift key__SEPARATOR__http://hmtalk.com/download/%EA%B8%B0%ED%9A%8D%EC%9E%98%ED%95%98%EB%8A%94%EB%B2%95.ppt
+lang_ko__SEPARATOR__laissez-faire__SEPARATOR__None laissez-faire
+lang_ko__SEPARATOR__disk__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/comp-arch/par-proc/ch07.ppt
+lang_ko__SEPARATOR__west__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/digital-logic/logic-design-exp/01_%B3%ED%B8%AE%C8%B8%B7%CE%BD%C7%C7%E8%B0%B3%BF%E4.ppt
+lang_ko__SEPARATOR__west__SEPARATOR__http://www.mse.co.kr/attach/introduce.ppt?PHPSESSID=efade095ef8ccc2d95062ae068b74df5
+lang_ko__SEPARATOR__hack__SEPARATOR__None hack
+lang_ko__SEPARATOR__global Warming__SEPARATOR__http://cfile10.uf.tistory.com/attach/1859E03D51618398308FE6
+lang_ko__SEPARATOR__global Warming__SEPARATOR__http://www.schoolhealth.kr/shnhome/glib/SHDataFileDownload.php?GbnCd=SHData&lstnum1=1235&file_seq=2
+lang_ko__SEPARATOR__global Warming__SEPARATOR__http://www.kma.go.kr/servlet/NeoboardProcess;jsessionid=sAQ7OGyT1mf0FH9MzoOqtLK0ldEnJrNT2huwYtagbXQJJMeNMwAg0PhaRrGi2RfF?mode=download&bid=assreport&num=199&fno=1&callback=http%3A%2F%2Fwww.kma.go.kr%2Fnotify%2Finformation%2Fassembly_report_list.jsp&ses=USERSESSION&k=gamsa_20070413_03.ppt
+lang_ko__SEPARATOR__pole__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=EICE_STU53&fileName=5843520100607095214.ppt&part=1&seq=1623
+lang_ko__SEPARATOR__QWERTY__SEPARATOR__None QWERTY
+lang_ko__SEPARATOR__bus__SEPARATOR__http://ep.knou.ac.kr/comm/downloadFile.do?fileId=FLK00050100000814002
+lang_ko__SEPARATOR__bus__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/comp-arch/par-proc/ch05.ppt
+lang_ko__SEPARATOR__bus__SEPARATOR__http://www.toxmut.or.kr/05_board/board01.htm?Item=free&mode=download&s_t=1&Page=11+class%3D&File=134_%EA%B5%90%ED%86%B5_%EB%B0%8F_%EC%88%99%EB%B0%95_%EC%95%88%EB%82%B4.ppt
+lang_ko__SEPARATOR__bus__SEPARATOR__http://elearning.kocw.net/document/region/2010/12/02/12_02_01_auto.ppt
+lang_ko__SEPARATOR__colonialism__SEPARATOR__None colonialism
+lang_ko__SEPARATOR__skewed__SEPARATOR__None skewed
+lang_ko__SEPARATOR__icon__SEPARATOR__http://kornis21.kaeri.re.kr/webFile/ebookMlssCoKr_001.ppt
+lang_ko__SEPARATOR__volumetric flask__SEPARATOR__None volumetric flask
+lang_ko__SEPARATOR__Arctic Circle__SEPARATOR__None Arctic Circle
+lang_ko__SEPARATOR__autocracy__SEPARATOR__None autocracy
+lang_ko__SEPARATOR__outline__SEPARATOR__http://dpnm.postech.ac.kr/research/ppt/posco.ppt
+lang_ko__SEPARATOR__domain__SEPARATOR__None domain
+lang_ko__SEPARATOR__stretched__SEPARATOR__None stretched
+lang_ko__SEPARATOR__spreadsheet__SEPARATOR__None spreadsheet
+lang_ko__SEPARATOR__workstation__SEPARATOR__http://www.fki.or.kr/Common/Download.aspx?id=b0253995-38ba-4d89-abe6-958dcf147248
+lang_ko__SEPARATOR__azimuth__SEPARATOR__None azimuth
+lang_ko__SEPARATOR__longitude__SEPARATOR__None longitude
+lang_ko__SEPARATOR__measure__SEPARATOR__None measure
+lang_ko__SEPARATOR__improved__SEPARATOR__http://cmcuro.net/symposium/pdf/2010symposium/8_9_ISD_sling.ppt
+lang_ko__SEPARATOR__improved__SEPARATOR__http://kucg.korea.ac.kr/education/2005/cse529/notes/chapter12.ppt
+lang_ko__SEPARATOR__sea level__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/ic/vhdl/lecture-notes/VHDL%B0%FA%C5%EB%BD%C5%C4%A8%BC%B3%B0%E8.ppt
+lang_ko__SEPARATOR__unsettled__SEPARATOR__None unsettled
+lang_ko__SEPARATOR__unsettling__SEPARATOR__None unsettling
+lang_ko__SEPARATOR__status bar__SEPARATOR__None status bar
+lang_ko__SEPARATOR__nationalism__SEPARATOR__http://www.tiss.re.kr/_new_ver/bbs/bbs.htm?type=download&code=bbs25&filename=data/bbs25/1493872844_1.ppt
+lang_ko__SEPARATOR__nationalism__SEPARATOR__http://home.sogang.ac.kr/sites/olp/bbs/Lists/b7/Attachments/31/20131127OLP%EB%B6%80%EB%B6%80%ED%8A%B9%EA%B0%95(%EB%85%B8%ED%95%B4%EC%A0%95%EB%8B%98).ppt
+lang_ko__SEPARATOR__nationalism__SEPARATOR__http://cms6.cku.ac.kr/common/downLoad.do?siteId=physical&fileSeq=101021
+lang_ko__SEPARATOR__nationalism__SEPARATOR__http://imr.kangwon.ac.kr/board/dl.asp?fn=%B0%AD%BF%F8%B4%EB%B9%DF%C7%A5%C0%DA%B7%E1-%BA%A3%C6%AE%B3%B2-%B1%E8%B1%A4%BC%F6_0519[1].ppt
+lang_ko__SEPARATOR__addition__SEPARATOR__http://ce.kiu.ac.kr/~kykim/PL2016/Chapter-2.ppt
+lang_ko__SEPARATOR__east__SEPARATOR__http://cfile24.uf.tistory.com/attach/1610720E49BDB17360893C
+lang_ko__SEPARATOR__spear heading__SEPARATOR__None spear heading
+lang_ko__SEPARATOR__nautical chart__SEPARATOR__None nautical chart
+lang_ko__SEPARATOR__title__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=5085
+lang_ko__SEPARATOR__title__SEPARATOR__http://www.fki.or.kr/Common/Download.aspx?id=c9418d6c-3f5c-4649-ad67-76402da7c6dc
+lang_ko__SEPARATOR__title__SEPARATOR__http://www.pubmed.or.kr/community/board/download.php?path=L2hvbWUvdmlydHVhbC9wdWJtZWQvbmV3L3VwbG9hZC9iYnMvQlRMUyAzLnBwdA==&filename=QlRMUyAzLnBwdA==
+lang_ko__SEPARATOR__computer__SEPARATOR__None computer
+lang_ko__SEPARATOR__gender__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2013_09_Internet_Protocol_and_Programming/Lecture_Note_11.ppt
+lang_ko__SEPARATOR__node__SEPARATOR__None node
+lang_ko__SEPARATOR__shaking__SEPARATOR__None shaking
+lang_ko__SEPARATOR__temperature__SEPARATOR__None temperature
+lang_ko__SEPARATOR__capitalism__SEPARATOR__None capitalism
+lang_ko__SEPARATOR__hardware__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=EICE_STU134&fileName=6528320100928094329.ppt&part=2&seq=3663
+lang_ko__SEPARATOR__peak__SEPARATOR__https://oshri.kosha.or.kr/cms/board/Download.jsp?fileId=10751
+lang_ko__SEPARATOR__biology__SEPARATOR__https://bi.snu.ac.kr/SEMINAR/ML/Mitchell2008/Machine%20Learning%20in%20Bioinformatics.ppt
+lang_ko__SEPARATOR__devastating__SEPARATOR__None devastating
+lang_ko__SEPARATOR__bourgeoisie__SEPARATOR__None bourgeoisie
+lang_ko__SEPARATOR__mineral__SEPARATOR__http://mathsci.kaist.ac.kr/~schoi/symmetries.ppt
+lang_ko__SEPARATOR__deficit__SEPARATOR__None deficit
+lang_ko__SEPARATOR__astronomy__SEPARATOR__None astronomy
+lang_ko__SEPARATOR__analog__SEPARATOR__http://web.khu.ac.kr/~bil/lecture/MedicalInstrumentation/HowToTeachMI.ppt
+lang_ko__SEPARATOR__propagandised__SEPARATOR__None propagandised
+lang_ko__SEPARATOR__graduated cylinder__SEPARATOR__None graduated cylinder
+lang_ko__SEPARATOR__zip__SEPARATOR__http://www.schoolhealth.kr/shnhome/glib/SHDataFileDownload.php?GbnCd=SHData&lstnum1=1034&file_seq=1
+lang_ko__SEPARATOR__zip__SEPARATOR__http://www.hicte.or.kr/DownLoadFile/%EA%B8%B0%EC%88%A0%EC%82%AC%EA%B3%84%EC%86%8D%EA%B5%90%EC%9C%A1%EC%A0%9C%EB%8F%84%EC%86%8C%EA%B0%9C(%EC%B6%9C%EC%B2%98%20%ED%95%9C%EA%B5%AD%EA%B8%B0%EC%88%A0%EC%82%AC%ED%9A%8C).ppt
+lang_ko__SEPARATOR__zip__SEPARATOR__https://www.dge.go.kr/board/boardFile/download/39/934526/160886.do
+lang_ko__SEPARATOR__geology__SEPARATOR__None geology
+lang_ko__SEPARATOR__animals__SEPARATOR__http://hompi.sogang.ac.kr/hahnlee/Lecture7_chap27.ppt
+lang_ko__SEPARATOR__imbalanced__SEPARATOR__None imbalanced
+lang_ko__SEPARATOR__network__SEPARATOR__None network
+lang_ko__SEPARATOR__elections__SEPARATOR__None elections
+lang_ko__SEPARATOR__Europe__SEPARATOR__http://www.romanask.org/kor/about/sub_0/9.ppt
+lang_ko__SEPARATOR__militarism__SEPARATOR__None militarism
+lang_ko__SEPARATOR__cell__SEPARATOR__http://portal.changwon.ac.kr/homePost/download.do?postfileno=5430
+lang_ko__SEPARATOR__history__SEPARATOR__None history
+lang_ko__SEPARATOR__disoriented__SEPARATOR__None disoriented
+lang_ko__SEPARATOR__degree of longitude__SEPARATOR__None degree of longitude
+lang_ko__SEPARATOR__flask__SEPARATOR__http://chemipia.jbnu.ac.kr/_prof/cjkim/course/GPages/objectives/chem05.ppt
+lang_ko__SEPARATOR__broadband__SEPARATOR__https://kfcf.or.kr/down.jsp?filename=KT%20CP%C6%F7%B7%B3%20%B9%DF%C7%A5%C0%DA%B7%E1(%C3%D6%C1%BE%BE%C8).ppt
+lang_ko__SEPARATOR__broadband__SEPARATOR__http://www2.yonsei.ac.kr/gspa/Down/Board/Bbs-Cfile960.ppt
+lang_ko__SEPARATOR__broadband__SEPARATOR__http://echosf.net/lecture/com06spring/06.Communication.ppt
+lang_ko__SEPARATOR__broadband__SEPARATOR__http://ihong.cau.ac.kr/Lectures/1MIS_Lectures/chap1.ppt
+lang_ko__SEPARATOR__font__SEPARATOR__https://mpc.pusan.ac.kr/pds/%EC%9E%AC%EB%A3%8C%EA%B3%B5%ED%95%999%EC%9E%A5%ED%92%80%EC%9D%B4%EC%98%88.ppt
+lang_ko__SEPARATOR__font__SEPARATOR__https://www.nyj.go.kr/File/12fa15839b9f0c60027840e05ecfc7f9
+lang_ko__SEPARATOR__South Pole__SEPARATOR__None South Pole
+lang_ko__SEPARATOR__summarise__SEPARATOR__None summarise
+lang_ko__SEPARATOR__paleontology__SEPARATOR__None paleontology
+lang_ko__SEPARATOR__glassware__SEPARATOR__None glassware
+lang_ko__SEPARATOR__virologist__SEPARATOR__None virologist
+lang_ko__SEPARATOR__Mercator Projection__SEPARATOR__None Mercator Projection
+lang_ko__SEPARATOR__crippled__SEPARATOR__None crippled
+lang_ko__SEPARATOR__demoralised__SEPARATOR__None demoralised
+lang_ko__SEPARATOR__Tropic of Capricorn__SEPARATOR__None Tropic of Capricorn
+lang_ko__SEPARATOR__destabilising__SEPARATOR__None destabilising
+lang_ko__SEPARATOR__anarchism__SEPARATOR__None anarchism
+lang_ko__SEPARATOR__volcanology__SEPARATOR__None volcanology
+lang_ko__SEPARATOR__Western Hemisphere__SEPARATOR__None Western Hemisphere
+lang_ko__SEPARATOR__overwrought__SEPARATOR__None overwrought
+lang_ko__SEPARATOR__beaker__SEPARATOR__None beaker
+lang_ko__SEPARATOR__reactionary__SEPARATOR__None reactionary
+lang_ko__SEPARATOR__misleading__SEPARATOR__None misleading
+lang_ko__SEPARATOR__relief map__SEPARATOR__None relief map
+lang_ko__SEPARATOR__fateful__SEPARATOR__None fateful
+lang_ko__SEPARATOR__Tropic of Cancer__SEPARATOR__None Tropic of Cancer
+lang_ko__SEPARATOR__rose__SEPARATOR__None rose
+lang_ko__SEPARATOR__opportune__SEPARATOR__None opportune
+lang_ko__SEPARATOR__monarchy__SEPARATOR__None monarchy
+lang_ko__SEPARATOR__worsened__SEPARATOR__None worsened
+lang_ko__SEPARATOR__whipped up__SEPARATOR__None whipped up
+lang_ko__SEPARATOR__dire__SEPARATOR__None dire
+lang_ko__SEPARATOR__podcast__SEPARATOR__None podcast
+lang_ko__SEPARATOR__Gratuity__SEPARATOR__None Gratuity
+lang_ko__SEPARATOR__Planning__SEPARATOR__http://www.uniever.co.kr/ppt_uniever_2015.ppt
+lang_ko__SEPARATOR__Planning__SEPARATOR__http://www.nhi.go.kr/cmm/fms/asaproFileDown.do;jsessionid=vfCtw8xEqeYaVLBaSq8aqyjg.node02?atchFileId=FILE_000000000111097&fileSn=1&browser=Opera&gubum=
+lang_ko__SEPARATOR__Planning__SEPARATOR__http://www.kmfa.or.kr/paper/annual/2006/34.ppt
+lang_ko__SEPARATOR__Tax__SEPARATOR__https://www.smartbill.co.kr/Support/file_pds/%EA%B3%B5%EA%B8%89%EC%97%85%EC%B2%B4%EC%9A%A9%EA%B3%B5%EB%AC%B8.ppt
+lang_ko__SEPARATOR__Tax__SEPARATOR__https://www.pps.go.kr/bbs/boardAtchFileDownload.dom?boardId=GWANGJU002&boardSeqNo=52&seqNo=1
+lang_ko__SEPARATOR__Fiscal__SEPARATOR__None Fiscal
+lang_ko__SEPARATOR__Premature__SEPARATOR__http://www.nosmoke.or.kr/bbs/download.php?num=75&tmp=1302417814
+lang_ko__SEPARATOR__Process__SEPARATOR__None Process
+lang_ko__SEPARATOR__Strategy__SEPARATOR__https://www.k-startup.go.kr/common/fileDownload.do?attachSn=175048
+lang_ko__SEPARATOR__Money manager__SEPARATOR__None Money manager
+lang_ko__SEPARATOR__crash__SEPARATOR__http://catiajob.co.kr/company.ppt
+lang_ko__SEPARATOR__Collection__SEPARATOR__None Collection
+lang_ko__SEPARATOR__loss__SEPARATOR__https://www.keri.re.kr/_prog/_board/common/download.php?code=sub0501&ntt_no=5437&atch_no=1
+lang_ko__SEPARATOR__Inferior__SEPARATOR__None Inferior
+lang_ko__SEPARATOR__Advertisement__SEPARATOR__None Advertisement
+lang_ko__SEPARATOR__External__SEPARATOR__http://civil.jbnu.ac.kr/?module=file&act=procFileDownload&file_srl=310947&sid=3620c2971aa4cc9c5637598d7dc497c4&module_srl=138
+lang_ko__SEPARATOR__External__SEPARATOR__http://epharmakorea.or.kr/common/attachfile/FileDown.do?fileId=00000000000000328176
+lang_ko__SEPARATOR__Banking__SEPARATOR__http://site.hanyang.ac.kr/documents/135650/137298/%28%EB%B0%B0%EB%84%88%EC%9A%A92-1%29%EC%84%9C%EC%9A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4+2017%ED%95%99%EB%85%84%EB%8F%84+%ED%95%99%EB%B6%80+%EC%8B%A0%28%ED%8E%B8%29%EC%9E%85%EC%83%9D+%ED%95%99%EC%83%9D%EC%A6%9D+%EC%98%88%EC%95%BD%EB%93%B1%EB%A1%9D+%EA%B0%80%EC%9D%B4%EB%93%9C+%EB%B3%B4%EA%B8%B0.ppt/d7ce8af0-7415-4203-a07d-fbe5448cbad2
+lang_ko__SEPARATOR__Banking__SEPARATOR__http://www.kmfa.or.kr/paper/sympo/2006/2.ppt
+lang_ko__SEPARATOR__Banking__SEPARATOR__http://civil.ok.ac.kr/fileDownLoad.ptl?id=10949&bcode=B0186
+lang_ko__SEPARATOR__GNP__SEPARATOR__http://ehf.koreaexim.go.kr/File.down?file=/attach_file/bbs/BBS_2/150924_%BC%BC%B0%E8_%C5%C2%BE%E7%B1%A4%BD%C3%C0%E5_%B5%BF%C7%E2_%B9%D7_%C1%D6%BF%E4_%B1%DD%C0%B6%C1%F6%BF%F8_%B8%F0%B5%A8_%BE%CF%C8%A3%C8%AD%C7%D8%C1%A6.ppt
+lang_ko__SEPARATOR__GNP__SEPARATOR__https://edu.makeshop.co.kr/?con=board&act=download&id=179
+lang_ko__SEPARATOR__Funding__SEPARATOR__http://www.mss.go.kr/common/board/Download.do?bcIdx=1004806&cbIdx=146&streFileNm=188297e4-ac36-41b0-be5d-7915f165b5cc.ppt
+lang_ko__SEPARATOR__Funding__SEPARATOR__https://www.jeonju.go.kr/planweb/upload/munhwa/SharingEconomy3rd.ppt
+lang_ko__SEPARATOR__Reparation__SEPARATOR__None Reparation
+lang_ko__SEPARATOR__Intangible__SEPARATOR__None Intangible
+lang_ko__SEPARATOR__Zeal__SEPARATOR__None Zeal
+lang_ko__SEPARATOR__Consumer__SEPARATOR__http://kostat.go.kr/policy/quality/qt_dl/4/index.board?bmode=download&bSeq=&aSeq=151471&ord=1
+lang_ko__SEPARATOR__Perpetuity__SEPARATOR__None Perpetuity
+lang_ko__SEPARATOR__stock__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=351014
+lang_ko__SEPARATOR__stock__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=337424
+lang_ko__SEPARATOR__Income__SEPARATOR__http://www.yuhs.or.kr/2013_common/include/board/download.asp?con_no=80528&obj_no=79738
+lang_ko__SEPARATOR__Income__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=333279
+lang_ko__SEPARATOR__Income__SEPARATOR__https://klas.khu.ac.kr/common/downloadFile.do?fileId=FIL_140901075519211d3bec
+lang_ko__SEPARATOR__Income__SEPARATOR__http://www.renews.co.kr/banner/download_1.ppt
+lang_ko__SEPARATOR__Income__SEPARATOR__http://sociologyandsocialwelfare.ulsan.ac.kr/boardCnts/fileDown.do?m=0407&s=sociologyandsocialwelfare&fileSeq=67ed0f6ce7a10bc12dc47692ee5570f4
+lang_ko__SEPARATOR__Nepotism__SEPARATOR__None Nepotism
+lang_ko__SEPARATOR__Indemnity__SEPARATOR__None Indemnity
+lang_ko__SEPARATOR__Simplification__SEPARATOR__http://luris.molit.go.kr/web/FileDownload.do?file=/20101102/webcommon/pds/WcBdPdsForm.jsp/1.%C5%E4%C1%F6%C0%CC%BF%EB%B1%D4%C1%A6%B1%E2%BA%BB%B9%FD_101021.ppt
+lang_ko__SEPARATOR__Simplification__SEPARATOR__http://dept1.sau.ac.kr/download/23523
+lang_ko__SEPARATOR__Differentiation__SEPARATOR__http://www.fki.or.kr/Common/Download.aspx?id=c9dd5782-25c5-4315-a209-b1f7d4026262
+lang_ko__SEPARATOR__Investment__SEPARATOR__http://ehf.koreaexim.go.kr/File.down?file=/attach_file/bbs/BBS_2/200900/070913_Vietnam_Law.ppt
+lang_ko__SEPARATOR__Investment__SEPARATOR__http://www.gntech.ac.kr/web/acc/17;jsessionid=6FNnVGnS2QL8MdgDcTDXjWZJTbQwtpPX6G1jyYwHytTHT1RJTzxt!1926622369!1439049490694?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_extFileId=23694
+lang_ko__SEPARATOR__Investment__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=351010
+lang_ko__SEPARATOR__Selling__SEPARATOR__http://iiseb.knu.ac.kr/%ED%8C%8C%EC%9D%BC/samsung_crm.ppt
+lang_ko__SEPARATOR__Equilibrium__SEPARATOR__http://chemipia.jbnu.ac.kr/_prof/cjkim/course/Pages/objectives/Ch06.ppt
+lang_ko__SEPARATOR__Equilibrium__SEPARATOR__http://bioedu.snu.ac.kr/teachers/ppt/99_class/mbio/power.ppt
+lang_ko__SEPARATOR__Equilibrium__SEPARATOR__https://www.kunsan.ac.kr/nanochemeng/board/download.kunsan?boardId=BBS_0000364&menuCd=DOM_000008505003000000&startPage=1&dataSid=62553&command=update&fileSid=22218
+lang_ko__SEPARATOR__Subsidy__SEPARATOR__None Subsidy
+lang_ko__SEPARATOR__Retail__SEPARATOR__None Retail
+lang_ko__SEPARATOR__Economics__SEPARATOR__https://electric.kw.ac.kr/pptdata/Power%20Systems%20Economics%20Lab.ppt
+lang_ko__SEPARATOR__Restriction__SEPARATOR__http://www.kpic.or.kr/inc/FileDown_Chrome.asp?filename=%C4%A3%C8%AF%B0%E6%20%B5%B5%B7%E1%BF%A1%20%B4%EB%C7%D1%20%B1%E2%C3%CA%C1%F6%BD%C4(20090429).ppt&filepath=/sub6/sub65/pds/
+lang_ko__SEPARATOR__Restriction__SEPARATOR__http://www.chemwide.co.kr/jsp/prod/pdf/kor05_Toluene_MSDS.ppt
+lang_ko__SEPARATOR__Restriction__SEPARATOR__http://cecom.yust.edu/board/bbs/file_down/1/860/1
+lang_ko__SEPARATOR__Sustainability__SEPARATOR__http://www.kea.ne.kr/common/download?id=100&section=conf
+lang_ko__SEPARATOR__Sustainability__SEPARATOR__https://ethics.dongbuhitek.com/%EC%9C%A4%EB%A6%AC%EA%B2%BD%EC%98%81%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81%20%EC%9B%90%EA%B3%A0.ppt
+lang_ko__SEPARATOR__Sustainability__SEPARATOR__http://kpa1959.or.kr/file/17_05.ppt
+lang_ko__SEPARATOR__Sustainability__SEPARATOR__http://civil.ok.ac.kr/fileDownLoad.ptl?id=10948&bcode=B0186
+lang_ko__SEPARATOR__Sustainability__SEPARATOR__http://down.mofa.go.kr/be-ko/brd/m_7601/down.do?brd_id=10431&seq=729119&data_tp=A&file_seq=1
+lang_ko__SEPARATOR__Arbitrary__SEPARATOR__None Arbitrary
+lang_ko__SEPARATOR__Invoice__SEPARATOR__None Invoice
+lang_ko__SEPARATOR__Remuneration__SEPARATOR__None Remuneration
+lang_ko__SEPARATOR__Hawk__SEPARATOR__None Hawk
+lang_ko__SEPARATOR__Lend__SEPARATOR__None Lend
+lang_ko__SEPARATOR__Transaction__SEPARATOR__None Transaction
+lang_ko__SEPARATOR__Soybeans__SEPARATOR__None Soybeans
+lang_ko__SEPARATOR__Diversification__SEPARATOR__None Diversification
+lang_ko__SEPARATOR__Variable__SEPARATOR__None Variable
+lang_ko__SEPARATOR__Calculation__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE306/2007/10.lecture_lab.ppt
+lang_ko__SEPARATOR__Ultimate__SEPARATOR__None Ultimate
+lang_ko__SEPARATOR__Tax-deferred__SEPARATOR__None Tax-deferred
+lang_ko__SEPARATOR__Circulation__SEPARATOR__http://bioedu.snu.ac.kr/teachers/ppt/98_class/hbio/circulation_2.ppt
+lang_ko__SEPARATOR__Circulation__SEPARATOR__http://cast.postech.ac.kr/board_img/curriculum/7th-virtualreality.ppt
+lang_ko__SEPARATOR__Circulation__SEPARATOR__http://www.gntech.ac.kr/web/acc/17;jsessionid=Dc1mXpyfbJPFDy9Mmp3Jv2x77QfM2SjD1LZrC8yCMKvLgKVJKp0D!759537309!1465791103083?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_extFileId=27278
+lang_ko__SEPARATOR__Circulation__SEPARATOR__http://cast.postech.ac.kr/board_img/curriculum/24b8bab6510c25.ppt
+lang_ko__SEPARATOR__Incentive__SEPARATOR__http://partner.skec.co.kr/jsp/download.jsp?filename=%C7%F9%B7%C2%BE%F7%C3%BC%C7%B0%C1%FA%B0%FC%B8%AE%B0%AD%C8%AD(%BE%C8)REV.10.ppt&dir=fnotice
+lang_ko__SEPARATOR__Incentive__SEPARATOR__http://kostat.go.kr/inner/region/reg_03/6/index.board?bmode=download&bSeq=&aSeq=245549&ord=5
+lang_ko__SEPARATOR__Incentive__SEPARATOR__https://www.koreasmartcard.com/aeb/common/common/frontFileDownload.dev?fileNm=Application_KSCC_experience.ppt
+lang_ko__SEPARATOR__Incentive__SEPARATOR__http://www.mofa.go.kr/www/brd/m_4175/down.do?brd_id=285&seq=293900&data_tp=A&file_seq=1
+lang_ko__SEPARATOR__Maintain__SEPARATOR__None Maintain
+lang_ko__SEPARATOR__Solvent__SEPARATOR__None Solvent
+lang_ko__SEPARATOR__Wealth__SEPARATOR__None Wealth
+lang_ko__SEPARATOR__Wisdom__SEPARATOR__http://www.jj.ac.kr/_custom/jj/_common/board/download.jsp?attach_no=70562
+lang_ko__SEPARATOR__Wisdom__SEPARATOR__http://ocw.wsu.ac.kr/contents/2016/20160115153457/ppt20160115153457(1).ppt
+lang_ko__SEPARATOR__Allocate__SEPARATOR__None Allocate
+lang_ko__SEPARATOR__Ordinance__SEPARATOR__None Ordinance
+lang_ko__SEPARATOR__Coupons__SEPARATOR__None Coupons
+lang_ko__SEPARATOR__tax__SEPARATOR__None tax
+lang_ko__SEPARATOR__Graph__SEPARATOR__http://ksmpe.or.kr/data/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%B0%9C%ED%91%9C%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20%EC%96%91%EC%8B%9D(%EC%83%98%ED%94%8C).ppt
+lang_ko__SEPARATOR__Graph__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/team7hw2.ppt
+lang_ko__SEPARATOR__Merchandise__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=5642
+lang_ko__SEPARATOR__Growth__SEPARATOR__http://www.thinknet.or.kr/board/run/download.php?group_id=&board_id=seminar&pds_uid=73
+lang_ko__SEPARATOR__Growth__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2009_03_Advanced_Computer_Technology_1/week2.ppt
+lang_ko__SEPARATOR__Ration__SEPARATOR__None Ration
+lang_ko__SEPARATOR__Keogh Plan__SEPARATOR__None Keogh Plan
+lang_ko__SEPARATOR__Appropriate__SEPARATOR__http://ce.kiu.ac.kr/~kykim/Creat/Chapter02.ppt
+lang_ko__SEPARATOR__Socioeconomic__SEPARATOR__None Socioeconomic
+lang_ko__SEPARATOR__Fix__SEPARATOR__None Fix
+lang_ko__SEPARATOR__Discretionary income__SEPARATOR__None Discretionary income
+lang_ko__SEPARATOR__Convince__SEPARATOR__None Convince
+lang_ko__SEPARATOR__Free enterprise__SEPARATOR__None Free enterprise
+lang_ko__SEPARATOR__Portfolio__SEPARATOR__http://counseling.songwon.ac.kr/sb/SE_Board.asp?action=downLoad&boardID=H0501&SEQ=120&fileDownSEQ=4&pgKey=0
+lang_ko__SEPARATOR__Portfolio__SEPARATOR__http://cmcuro.net/symposium/pdf/2010dongmun/know_how_tax.ppt
+lang_ko__SEPARATOR__Stipend__SEPARATOR__None Stipend
+lang_ko__SEPARATOR__Advantage__SEPARATOR__http://www.seyangmechatronics.com/down/fujilatex.ppt
+lang_ko__SEPARATOR__Advantage__SEPARATOR__http://www.addictionacademy.org/func/download.php?path=L2hvbWUvdmlydHVhbC9hZGRpY3Rpb24vaHRkb2NzL3VwbG9hZC9wZHMvMTEyMzAzMzc5NLmwwfqzsr/rxKG34TMowfjFwr/4MTk5NykuUFBU&filename=MTEyMzAzMzc5NLmwwfqzsr/rxKG34TMowfjFwr/4MTk5NykuUFBU
+lang_ko__SEPARATOR__Indicator__SEPARATOR__http://dept1.sau.ac.kr/download/22616
+lang_ko__SEPARATOR__Reduce__SEPARATOR__None Reduce
+lang_ko__SEPARATOR__Buyers market__SEPARATOR__None Buyers market
+lang_ko__SEPARATOR__Split__SEPARATOR__https://oshri.kosha.or.kr/cms/board/Download.jsp?fileId=10753
+lang_ko__SEPARATOR__Split__SEPARATOR__https://cms3.koreatech.ac.kr/bbs/mechatronics/236/7256/download.do
+lang_ko__SEPARATOR__Legality__SEPARATOR__None Legality
+lang_ko__SEPARATOR__Accreditation__SEPARATOR__http://rmisys.kriss.re.kr/file_download.html?bf_mask=20081113000000900000301&club_idx=0
+lang_ko__SEPARATOR__Annuity__SEPARATOR__None Annuity
+lang_ko__SEPARATOR__Durable__SEPARATOR__None Durable
+lang_ko__SEPARATOR__Equity__SEPARATOR__http://ie.hanyang.ac.kr/board/filedown.php?strTableName=BD_UCRKSZ_0024BEA_0002CE&fileUid=17&fileNum=0
+lang_ko__SEPARATOR__Establishment__SEPARATOR__None Establishment
+lang_ko__SEPARATOR__Prosperity__SEPARATOR__None Prosperity
+lang_ko__SEPARATOR__Risk__SEPARATOR__None Risk
+lang_ko__SEPARATOR__Theory__SEPARATOR__None Theory
+lang_ko__SEPARATOR__Unanimous__SEPARATOR__None Unanimous
+lang_ko__SEPARATOR__Diversity__SEPARATOR__http://www.lionsclubs.org/resources/KO/ppt/teams_roles.ppt
+lang_ko__SEPARATOR__Diversity__SEPARATOR__http://cmcuro.net/symposium/pdf/2008dongmun/ParkWJ.ppt
+lang_ko__SEPARATOR__Consumption__SEPARATOR__http://www.sensor.co.kr/product/assets/uhf.ppt
+lang_ko__SEPARATOR__Dowry__SEPARATOR__None Dowry
+lang_ko__SEPARATOR__Segment__SEPARATOR__None Segment
+lang_ko__SEPARATOR__Niche__SEPARATOR__http://dblab.ewha.ac.kr/hsyong/document/slide/ORDB.ppt
+lang_ko__SEPARATOR__Removal__SEPARATOR__http://home.sogang.ac.kr/sites/memslab/%EC%9E%90%EB%A3%8C%EC%8B%A4/Lists/b48/Attachments/19/%EC%A0%9C8%EC%9E%A5_%EC%A0%88%EC%82%AD%EA%B0%80%EA%B3%B5_(2).ppt
+lang_ko__SEPARATOR__Removal__SEPARATOR__http://home.sogang.ac.kr/sites/memslab/%EC%9E%90%EB%A3%8C%EC%8B%A4/Lists/b48/Attachments/19/%EC%A0%9C8%EC%9E%A5_%EC%A0%88%EC%82%AD%EA%B0%80%EA%B3%B5_(1).ppt
+lang_ko__SEPARATOR__Removal__SEPARATOR__http://encoco.co.kr/images/%EC%9D%B4%EC%98%A8%EA%B5%90%ED%99%98%EC%8A%A4%ED%81%AC%EB%9F%AC%EB%B2%84%ED%86%B5%ED%95%A9.ppt
+lang_ko__SEPARATOR__Claim__SEPARATOR__http://biz.seohan.com/B2B/Resources/Attach/FileDownload.aspx?filepath=/APD_MST/2014/APD_MST%5E2014%5Ed0e35c1a-8b89-40c0-851d-14e1289bd346%5E%uD074%uB808%uC784_%uC804%uC0B0%uD654_%uBA54%uB274%uC5BC%28%uD611%uB825%uC0AC%uC6A9%29_Rev1.ppt&filename=%uD074%uB808%uC784_%uC804%uC0B0%uD654_%uBA54%uB274%uC5BC%28%uD611%uB825%uC0AC%uC6A9%29_Rev1.ppt&MENU_NO=L00
+lang_ko__SEPARATOR__Claim__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=5806
+lang_ko__SEPARATOR__Complexity__SEPARATOR__None Complexity
+lang_ko__SEPARATOR__Approval__SEPARATOR__http://www.knmh.go.kr/knmh/jsp/boardDownload.jsp?board_id=KNMH_BOARD_DATA&seq=2158&idx=1
+lang_ko__SEPARATOR__Barter__SEPARATOR__None Barter
+lang_ko__SEPARATOR__Levy__SEPARATOR__None Levy
+lang_ko__SEPARATOR__Margin__SEPARATOR__http://nuclear.kaist.ac.kr/?module=file&act=procFileDownload&file_srl=8300&sid=e46cf47fc99ebeec2e338d785214b455&module_srl=222
+lang_ko__SEPARATOR__Amortize__SEPARATOR__None Amortize
+lang_ko__SEPARATOR__Negotiate__SEPARATOR__None Negotiate
+lang_ko__SEPARATOR__Questionnaire__SEPARATOR__http://gstm.khu.ac.kr/download.php?tbl=in_bbs_lecture&fn=%EB%8C%80%ED%95%99%EC%9B%90-%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_11%EC%9E%A5.ppt&fn_view=%EB%8C%80%ED%95%99%EC%9B%90-%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_11%EC%9E%A5.ppt
+lang_ko__SEPARATOR__currency__SEPARATOR__https://kto.visitkorea.or.kr/file/download/bd/1330329673619.ppt.kto
+lang_ko__SEPARATOR__currency__SEPARATOR__http://www.schoolhealth.kr/shnhome/glib/SHDataFileDownload.php?GbnCd=SHData&lstnum1=149&file_seq=1
+lang_ko__SEPARATOR__currency__SEPARATOR__http://www.mpm.go.kr/board/file/bbs_0000000000000035/502/FILE_000000000000630/20150715112902479;jsessionid=QNUpZxfEV0YL1UXOjfx5XUAp.node05
+lang_ko__SEPARATOR__currency__SEPARATOR__http://www.chpa.or.kr/commonHTM/download.php?dir=pdsedu/attach1&fname=1_201504301389414673.ppt
+lang_ko__SEPARATOR__currency__SEPARATOR__https://ncc.re.kr/downloadByFileUrl.ncc?path=downloadFiles/ARS.ppt
+lang_ko__SEPARATOR__currency__SEPARATOR__https://www.lgsakers.com/doc/%EC%9C%A0%EC%86%8C%EB%85%84%ED%81%B4%EB%9F%BD%20%EA%B0%80%EC%9E%85%EC%8B%A0%EC%B2%AD%EC%84%9C_%EB%8B%B9%EC%A7%84%EC%A0%90.ppt
+lang_ko__SEPARATOR__Expansion__SEPARATOR__http://kucg.korea.ac.kr/new/seminar/2007/tr/PA-07-02.ppt
+lang_ko__SEPARATOR__Opinion__SEPARATOR__http://cms6.cku.ac.kr/common/downLoad.do?siteId=management&fileSeq=118608
+lang_ko__SEPARATOR__Opinion__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=11821
+lang_ko__SEPARATOR__Sending__SEPARATOR__None Sending
+lang_ko__SEPARATOR__Surplus__SEPARATOR__None Surplus
+lang_ko__SEPARATOR__Amend__SEPARATOR__None Amend
+lang_ko__SEPARATOR__Arithmetic__SEPARATOR__http://cs.sookmyung.ac.kr/~chang/lecture/c13/chap5.PPT
+lang_ko__SEPARATOR__Depreciation__SEPARATOR__https://klas.khu.ac.kr/common/downloadFile.do?fileId=FIL_1411100824063cfc4335
+lang_ko__SEPARATOR__Depreciation__SEPARATOR__http://www.cleaneye.go.kr/modules/download.asp?filename=%20%20%20%20%20%20%20%20%20%20_%C1%D6%BF%E4%20%B0%E1%BB%EA%C7%D7%B8%F1%20%B9%D7%20%C8%B8%B0%E8%C3%B3%B8%AE%20%BF%C0%B7%F9%BB%E7%C7%D7(%C1%F7%BF%B5%B1%E2%BE%F7).ppt&path=/upload/Board_Low
+lang_ko__SEPARATOR__Depreciation__SEPARATOR__http://www.ywca.or.kr/magicboard/Library/fileDown.asp?strBoardID=kui_544&intNum=14679&intSeq=38965
+lang_ko__SEPARATOR__Depreciation__SEPARATOR__http://www.cleaneye.go.kr/modules/download.asp?filename=%20%20%20%20%20%20%20%20%20%20_%C1%D6%BF%E4%20%B0%E1%BB%EA%C7%D7%B8%F1%20%B9%D7%20%C8%B8%B0%E8%C3%B3%B8%AE%20%BF%C0%B7%F9%BB%E7%C7%D7(%B0%F8%BB%E7%B0%F8%B4%DC).ppt&path=/upload/Board_Low
+lang_ko__SEPARATOR__Depreciation__SEPARATOR__http://www.gen.go.kr/community/department10/board.php?mode=downpost&tbnum=28&sCat=0&page=1&keyset=&searchword=&number=10148&file_num=11719
+lang_ko__SEPARATOR__Build__SEPARATOR__https://www.nhi.go.kr/cmm/fms/asaproFileDown.do;jsessionid=peAZDnP0E28suJNJct-QbGOH.node01?atchFileId=FILE_000000000123754&fileSn=0&browser=Opera&gubum=
+lang_ko__SEPARATOR__Owe__SEPARATOR__None Owe
+lang_ko__SEPARATOR__Quagmire__SEPARATOR__None Quagmire
+lang_ko__SEPARATOR__Information__SEPARATOR__http://ihong.cau.ac.kr/Lectures/MIS_Lectures/Chapter1.ppt
+lang_ko__SEPARATOR__Information__SEPARATOR__http://www2.yonsei.ac.kr/gspa/Down/Board/Bbs-Cfile959.ppt
+lang_ko__SEPARATOR__Commodities__SEPARATOR__None Commodities
+lang_ko__SEPARATOR__Financing__SEPARATOR__http://ehf.koreaexim.go.kr/File.down?file=/attach_file/bbs/BBS_2/%BC%BC%B0%E8_%C5%C2%BE%E7%B1%A4%BB%EA%BE%F7_%B5%BF%C7%E2_%B9%D7_%B1%B9%B3%BB_%C5%C2%BE%E7%B1%A4%BB%EA%BE%F7_%C7%F6%C8%B2_%BE%CF%C8%A3%C8%AD%C7%D8%C1%A6.ppt
+lang_ko__SEPARATOR__Cheap__SEPARATOR__None Cheap
+lang_ko__SEPARATOR__Facility__SEPARATOR__None Facility
+lang_ko__SEPARATOR__Underwriting__SEPARATOR__None Underwriting
+lang_ko__SEPARATOR__Requisition__SEPARATOR__None Requisition
+lang_ko__SEPARATOR__Clearance__SEPARATOR__https://www.pps.go.kr/bbs/boardAtchFileDownload.dom?boardId=GPASS003&boardSeqNo=16&seqNo=5
+lang_ko__SEPARATOR__Clearance__SEPARATOR__http://dx1.pptbz.com/201411/2014111567110657.ppt
+lang_ko__SEPARATOR__Receive__SEPARATOR__None Receive
+lang_ko__SEPARATOR__Glut__SEPARATOR__None Glut
+lang_ko__SEPARATOR__Memorandum__SEPARATOR__None Memorandum
+lang_ko__SEPARATOR__Hierarchy__SEPARATOR__None Hierarchy
+lang_ko__SEPARATOR__Reaction__SEPARATOR__http://ssal.kaist.ac.kr/~kyung/lecture/EE001/2006/Assertiveness%20Training(%EC%9E%90%EA%B8%B0%EC%A3%BC%EC%9E%A5%ED%9B%88%EB%A0%A8).ppt
+lang_ko__SEPARATOR__Vendor__SEPARATOR__http://ihong.cau.ac.kr/Lectures/MIS_Lectures/Chapter6.ppt
+lang_ko__SEPARATOR__interest__SEPARATOR__None interest
+lang_ko__SEPARATOR__Judgment__SEPARATOR__None Judgment
+lang_ko__SEPARATOR__Performance__SEPARATOR__None Performance
+lang_ko__SEPARATOR__Measure__SEPARATOR__None Measure
+lang_ko__SEPARATOR__Intense__SEPARATOR__None Intense
+lang_ko__SEPARATOR__appreciate__SEPARATOR__None appreciate
+lang_ko__SEPARATOR__Pension__SEPARATOR__None Pension
+lang_ko__SEPARATOR__Regulation__SEPARATOR__http://www.fki.or.kr/Common/Download.aspx?id=c73f3ff8-0c87-4067-8bfc-0323667d7f94
+lang_ko__SEPARATOR__Regulation__SEPARATOR__http://www.koreaheart.co.kr/data/koreaheart_ppt2.ppt
+lang_ko__SEPARATOR__Wage__SEPARATOR__http://hompi.sogang.ac.kr/hahnlee/Lecture12_chap33.ppt
+lang_ko__SEPARATOR__Spiral__SEPARATOR__None Spiral
+lang_ko__SEPARATOR__Expense__SEPARATOR__None Expense
+lang_ko__SEPARATOR__Industrial__SEPARATOR__None Industrial
+lang_ko__SEPARATOR__Complaint__SEPARATOR__http://sppm.korcham.net/File/upload_img/2004-1027-%EC%9E%A5%EC%84%B1%EC%A0%95%EB%B0%80-%EA%B5%AC%EB%AF%B8%EC%83%81%EC%9D%98.ppt
+lang_ko__SEPARATOR__Monetary__SEPARATOR__None Monetary
+lang_ko__SEPARATOR__Operation__SEPARATOR__None Operation
+lang_ko__SEPARATOR__Encouragement__SEPARATOR__http://www.pen.go.kr/board/download.pen?boardId=BBS_0000186&menuCd=DOM_000000511001002000&startPage=1&dataSid=66560&command=update&fileSid=5000714
+lang_ko__SEPARATOR__Allegation__SEPARATOR__None Allegation
+lang_ko__SEPARATOR__Resource__SEPARATOR__http://w1.sunchon.ac.kr/web/welfare/21;jsessionid=RA4j7IVdp4m51dAg5wnv07FaS6IOQyaMrkQNry1kMKRQpcro6OgYc2t5N3E2Yi4K.ncms2_servlet_engine4?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=740676&_EXT_BBS_extFileId=163042
+lang_ko__SEPARATOR__Resource__SEPARATOR__http://www.scnu.ac.kr/common/downLoad.mbs?fileSeq=150912&boardId=5482
+lang_ko__SEPARATOR__Competitor__SEPARATOR__https://www.ibitp.or.kr/common/COM_FILEDOWN.ASP?a=bbs&b=1803210925070081670105.ppt
+lang_ko__SEPARATOR__Competitor__SEPARATOR__https://www.ibitp.or.kr/common/COM_FILEDOWN.ASP?a=bbs&b=1707141327230363242745.ppt
+lang_ko__SEPARATOR__Organization__SEPARATOR__None Organization
+lang_ko__SEPARATOR__Depressed__SEPARATOR__None Depressed
+lang_ko__SEPARATOR__Basis points__SEPARATOR__None Basis points
+lang_ko__SEPARATOR__Participation__SEPARATOR__None Participation
+lang_ko__SEPARATOR__Revenue__SEPARATOR__None Revenue
+lang_ko__SEPARATOR__Reply__SEPARATOR__None Reply
+lang_ko__SEPARATOR__Index__SEPARATOR__None Index
+lang_ko__SEPARATOR__Generate__SEPARATOR__None Generate
+lang_ko__SEPARATOR__Consideration__SEPARATOR__None Consideration
+lang_ko__SEPARATOR__Monopoly__SEPARATOR__None Monopoly
+lang_ko__SEPARATOR__Research__SEPARATOR__None Research
+lang_ko__SEPARATOR__Subsist__SEPARATOR__None Subsist
+lang_ko__SEPARATOR__Trim__SEPARATOR__http://college.kangwon.ac.kr/include/jsp_h/download.jsp?filePath=/upload_files/board/unjang_pds/&fileName=3434620140609110350.ppt
+lang_ko__SEPARATOR__Trim__SEPARATOR__http://www.ut.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000016097&fileSn=0
+lang_ko__SEPARATOR__Trim__SEPARATOR__http://nuclear.kaist.ac.kr/?module=file&act=procFileDownload&file_srl=6435&sid=95ea67c172dbf4baa4cc203ee970e4cb&module_srl=278
+lang_ko__SEPARATOR__Trim__SEPARATOR__http://mediscience.gu.ac.kr/boardnew/lib/down.php?fname=14%EC%9E%A5%20%EC%86%8C%ED%99%94%EA%B8%B0%EA%B3%84%EC%A7%88%ED%99%98.ppt&db=board1&number=3313
+lang_ko__SEPARATOR__Trim__SEPARATOR__http://laborhealth.or.kr/?module=file&act=procFileDownload&file_srl=23986&sid=c9fadfe9a3d9cd12783286afe4627c49
+lang_ko__SEPARATOR__Covenant__SEPARATOR__None Covenant
+lang_ko__SEPARATOR__Unrecoverable__SEPARATOR__None Unrecoverable
+lang_ko__SEPARATOR__recession__SEPARATOR__None recession
+lang_ko__SEPARATOR__Demand__SEPARATOR__http://www.riss.kr/foreign/guide/DDOD.ppt
+lang_ko__SEPARATOR__Exchange__SEPARATOR__None Exchange
+lang_ko__SEPARATOR__Cancellation__SEPARATOR__None Cancellation
+lang_ko__SEPARATOR__Negligence__SEPARATOR__None Negligence
+lang_ko__SEPARATOR__Trade__SEPARATOR__None Trade
+lang_ko__SEPARATOR__Unregulated__SEPARATOR__None Unregulated
+lang_ko__SEPARATOR__Adviser__SEPARATOR__None Adviser
+lang_ko__SEPARATOR__Autonomy__SEPARATOR__https://www.syu.ac.kr/web/doba/community_d;jsessionid=4D926517065B8734354C71BA48FBE95F?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=40724&_EXT_BBS_extFileId=27851
+lang_ko__SEPARATOR__Autonomy__SEPARATOR__http://www.moe.go.kr/boardCnts/fileDown.do?m=030201&s=moe&fileSeq=5731ca2bce44edc32224d774547a2d82
+lang_ko__SEPARATOR__Autonomy__SEPARATOR__http://social.gch.ac.kr/bbs/bbs_config/file_down.jsp?file_name=%C1%A61-3.%20%BF%A1%B8%AF%BD%BC%C0%C7%20%BD%C9%B8%AE%BB%E7%C8%B8%C0%CC%B7%D0.ppt&board_id=24_06
+lang_ko__SEPARATOR__Autonomy__SEPARATOR__http://www.jj.ac.kr/_custom/jj/_common/board/download.jsp?attach_no=70538
+lang_ko__SEPARATOR__Autonomy__SEPARATOR__https://www.dge.go.kr/board/boardFile/download/176/892091/154120.do
+lang_ko__SEPARATOR__Capitalism__SEPARATOR__None Capitalism
+lang_ko__SEPARATOR__Market__SEPARATOR__None Market
+lang_ko__SEPARATOR__Curve__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/team6hw2.ppt
+lang_ko__SEPARATOR__Curve__SEPARATOR__http://www.ikhook.com/down/IKC-company_profile_korean.ppt
+lang_ko__SEPARATOR__Annex__SEPARATOR__None Annex
+lang_ko__SEPARATOR__Accept__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/dsp/lec-mat/%BB%FD%C3%BC%C0%CE%BD%C4%20%B1%E2%BC%FA%20%C7%F6%C8%B2%B9%D7%20%B9%DF%C0%FC%B9%E6%C7%E2(%B9%E8%BF%B5%B7%A1).PPT
+lang_ko__SEPARATOR__Accept__SEPARATOR__http://infosec.pusan.ac.kr/wp-content/uploads/2017/10/Automata2.ppt
+lang_ko__SEPARATOR__Forecast__SEPARATOR__None Forecast
+lang_ko__SEPARATOR__Resignation__SEPARATOR__None Resignation
+lang_ko__SEPARATOR__Shortage__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=266338
+lang_ko__SEPARATOR__Superior__SEPARATOR__http://www.apluskorea.co.kr/bbs_shop/file_download.php?board_code=sub5_1&board_idx=7941&sel_no=0
+lang_ko__SEPARATOR__Refund__SEPARATOR__None Refund
+lang_ko__SEPARATOR__Tycoon__SEPARATOR__None Tycoon
+lang_ko__SEPARATOR__Balanced budget__SEPARATOR__None Balanced budget
+lang_ko__SEPARATOR__Reduction__SEPARATOR__None Reduction
+lang_ko__SEPARATOR__Results__SEPARATOR__http://www.samil-sp.co.kr/UploadFiles/board/ds0001/1.26871052679E+13001.ppt
+lang_ko__SEPARATOR__Results__SEPARATOR__http://medlib.yu.ac.kr/journal/board/SCOPUS.ppt
+lang_ko__SEPARATOR__Galloping__SEPARATOR__None Galloping
+lang_ko__SEPARATOR__Austerity__SEPARATOR__None Austerity
+lang_ko__SEPARATOR__Decline__SEPARATOR__None Decline
+lang_ko__SEPARATOR__Destitute__SEPARATOR__None Destitute
+lang_ko__SEPARATOR__Unique__SEPARATOR__None Unique
+lang_ko__SEPARATOR__Preempt__SEPARATOR__None Preempt
+lang_ko__SEPARATOR__Transfer__SEPARATOR__None Transfer
+lang_ko__SEPARATOR__Improvements__SEPARATOR__http://www.kins.re.kr/nsic_info/nsic/2013/ppt/7_2.ppt
+lang_ko__SEPARATOR__Broker__SEPARATOR__http://www.snjc.ac.kr/public_2017/process/file_download.jsp?fileName=%EC%A0%9C2%EA%B0%95%20%EC%9E%90%EB%A3%8C.ppt&type=bbs
+lang_ko__SEPARATOR__Bankrupt__SEPARATOR__None Bankrupt
+lang_ko__SEPARATOR__Boilerplate__SEPARATOR__None Boilerplate
+lang_ko__SEPARATOR__Explanation__SEPARATOR__None Explanation
+lang_ko__SEPARATOR__Unit__SEPARATOR__None Unit
+lang_ko__SEPARATOR__Graft__SEPARATOR__http://cmcuro.net/symposium/pdf/2008dongmun/JungCE.ppt
+lang_ko__SEPARATOR__Restitution__SEPARATOR__None Restitution
+lang_ko__SEPARATOR__Accrual__SEPARATOR__None Accrual
+lang_ko__SEPARATOR__Notion__SEPARATOR__http://college.kangwon.ac.kr/include/jsp_h/download.jsp?filePath=/upload_files/board/SP_STU006_2/&fileName=6421920110905194723.ppt
+lang_ko__SEPARATOR__Defer__SEPARATOR__None Defer
+lang_ko__SEPARATOR__Entrepreneur__SEPARATOR__None Entrepreneur
+lang_ko__SEPARATOR__Level__SEPARATOR__http://kucg.korea.ac.kr/seminar/2008/tr/PA_08_21.ppt
+lang_ko__SEPARATOR__Fiduciary__SEPARATOR__None Fiduciary
+lang_ko__SEPARATOR__Penury__SEPARATOR__None Penury
+lang_ko__SEPARATOR__Sanction__SEPARATOR__https://www.syu.ac.kr/web/doba/community_d;jsessionid=B38B01600A5511708D5C3F0B882119DA?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=40811&_EXT_BBS_extFileId=27934
+lang_ko__SEPARATOR__Warranty__SEPARATOR__None Warranty
+lang_ko__SEPARATOR__Deficit__SEPARATOR__None Deficit
+lang_ko__SEPARATOR__Hazard__SEPARATOR__http://www.transplant.or.kr/db/board/include/download.php3?table=notice&l=35&inc=local&f=filelink
+lang_ko__SEPARATOR__Hazard__SEPARATOR__http://web.joongbu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000061540&fileSn=0
+lang_ko__SEPARATOR__Hazard__SEPARATOR__http://www.kmfa.or.kr/paper/sympo/2005/sympo2005-1-2.ppt
+lang_ko__SEPARATOR__Hazard__SEPARATOR__http://www.mainbiz.co.kr/INC/ASP/Downdata.asp?sFile=%EC%8B%A0%EC%9A%A9%EA%B4%80%EB%A6%AC%EC%B5%9C%EC%A2%85%2Eppt&sBoard=dataroom2
+lang_ko__SEPARATOR__Uncontrollable__SEPARATOR__None Uncontrollable
+lang_ko__SEPARATOR__Avoid__SEPARATOR__http://metal.donga.ac.kr/bbs/metal/480/15037/download.do
+lang_ko__SEPARATOR__Avoid__SEPARATOR__http://metal.donga.ac.kr/bbs/metal/480/15028/download.do
+lang_ko__SEPARATOR__Elimination__SEPARATOR__None Elimination
+lang_ko__SEPARATOR__Balloon payment__SEPARATOR__None Balloon payment
+lang_ko__SEPARATOR__Reach__SEPARATOR__http://www.kaa.or.kr/k/upload/data/%EB%AF%B8%EB%94%94%EC%96%B4%EB%A0%99_%EB%B0%95%ED%98%84%EC%88%98%EC%B4%9D%ED%9A%8C%EB%B0%9C%ED%91%9C.ppt
+lang_ko__SEPARATOR__Reach__SEPARATOR__http://www.brandano.co.kr/sub/ad2010.ppt
+lang_ko__SEPARATOR__Version__SEPARATOR__None Version
+lang_ko__SEPARATOR__Wary__SEPARATOR__None Wary
+lang_ko__SEPARATOR__Amenity__SEPARATOR__http://www.provin.gangwon.kr/upload/fileattach/sub05/%EA%B0%95%EC%9B%90%EA%B4%91%EC%97%AD%EA%B2%BD%EC%A0%9C%EA%B6%8C_%EC%9A%94%EC%95%BD%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt
+lang_ko__SEPARATOR__Accumulation__SEPARATOR__http://quanta.hanyang.ac.kr/Lecture/2016_2/Chapter%206.ppt
+lang_ko__SEPARATOR__Hoard__SEPARATOR__None Hoard
+lang_ko__SEPARATOR__value__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=351012
+lang_ko__SEPARATOR__value__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=351016
+lang_ko__SEPARATOR__value__SEPARATOR__http://gstm.khu.ac.kr/download.php?tbl=in_bbs_lecture&fn=%EA%B2%BD%EC%98%81%EB%B6%84%EC%84%9D_5%EC%9E%A5-%EC%8B%9C%EC%9E%A5%EA%B0%80%EC%B9%98%EB%B6%84%EC%84%9D-2.ppt&fn_view=%EA%B2%BD%EC%98%81%EB%B6%84%EC%84%9D_5%EC%9E%A5-%EC%8B%9C%EC%9E%A5%EA%B0%80%EC%B9%98%EB%B6%84%EC%84%9D-2.ppt
+lang_ko__SEPARATOR__Paycheck__SEPARATOR__None Paycheck
+lang_ko__SEPARATOR__Statutory__SEPARATOR__None Statutory
+lang_ko__SEPARATOR__Tariff__SEPARATOR__None Tariff
+lang_ko__SEPARATOR__economics__SEPARATOR__http://lib.mmu.ac.kr/G1/file/B-4-c.ppt
+lang_ko__SEPARATOR__Increase__SEPARATOR__None Increase
+lang_ko__SEPARATOR__Activity__SEPARATOR__http://www.schoolhealth.kr/shnhome/glib/SHDataFileDownload.php?GbnCd=SHData&lstnum1=525&file_seq=2
+lang_ko__SEPARATOR__Activity__SEPARATOR__http://unit.mokwon.ac.kr/board/loadFile.ht?fileNm=2012%2F201205081057148679938744725949.ppt
+lang_ko__SEPARATOR__Consortium__SEPARATOR__http://cfile28.uf.tistory.com/attach/03338F3C51A22C281C3110
+lang_ko__SEPARATOR__Negotiable__SEPARATOR__None Negotiable
+lang_ko__SEPARATOR__Develop__SEPARATOR__None Develop
+lang_ko__SEPARATOR__Bargain__SEPARATOR__None Bargain
+lang_ko__SEPARATOR__Order__SEPARATOR__http://oxygen.korea.ac.kr/index.files/edu-research/matchem/IntrochemMatNLO.ppt
+lang_ko__SEPARATOR__Order__SEPARATOR__http://www.mentalnews.kr/banner/down/ppt-down.ppt
+lang_ko__SEPARATOR__Labor__SEPARATOR__http://www.ylabor.com/down_01.ppt
+lang_ko__SEPARATOR__Rebate__SEPARATOR__None Rebate
+lang_ko__SEPARATOR__Bet__SEPARATOR__None Bet
+lang_ko__SEPARATOR__Debut__SEPARATOR__None Debut
+lang_ko__SEPARATOR__Ratio__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=337429
+lang_ko__SEPARATOR__Extravagance__SEPARATOR__None Extravagance
+lang_ko__SEPARATOR__Response__SEPARATOR__http://www.gntech.ac.kr/web/ele/28;jsessionid=hnlqZjHQBylW4zX6TMQdC4KXk8vL8DWgVTT5TJCV21m2vzQM8GB0!1145900602!1508067072521?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_extFileId=34045
+lang_ko__SEPARATOR__Response__SEPARATOR__http://sdvc.kaist.ac.kr/course/ce514/ch20_Earthquake/art_earth.ppt
+lang_ko__SEPARATOR__Response__SEPARATOR__http://cms6.cku.ac.kr/common/downLoad.do?siteId=bme&fileSeq=100159
+lang_ko__SEPARATOR__Schedule__SEPARATOR__http://icrf.inha.ac.kr/schedule/download.do?id=44
+lang_ko__SEPARATOR__Schedule__SEPARATOR__http://cmcuro.net/symposium/pdf/2010dongmun/2010_reports.ppt
+lang_ko__SEPARATOR__Structure__SEPARATOR__None Structure
+lang_ko__SEPARATOR__Various__SEPARATOR__None Various
+lang_ko__SEPARATOR__Rejection__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=332
+lang_ko__SEPARATOR__Present__SEPARATOR__http://www.esdc.go.kr/bbs/dataFile/fileDown.do;jsessionid=BD-cqFEjlhE1LfyJlIhpaVPZ.node10?bbs_mst_idx=BM0000000252&data_idx=BD0000000007&attach_idx=BF0000000031
+lang_ko__SEPARATOR__Account__SEPARATOR__https://klas.khu.ac.kr/common/downloadFile.do?fileId=FIL_141028182211b9733739
+lang_ko__SEPARATOR__Censure__SEPARATOR__None Censure
+lang_ko__SEPARATOR__Deregulate__SEPARATOR__None Deregulate
+lang_ko__SEPARATOR__Inform__SEPARATOR__None Inform
+lang_ko__SEPARATOR__Model__SEPARATOR__http://sar.kangwon.ac.kr/gis05/gis05_model.ppt
+lang_ko__SEPARATOR__Model__SEPARATOR__http://gwmoon.knu.ac.kr/Project_Library_Upload/%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0,_%EC%82%B0%EC%97%85%EB%B6%84%EC%84%9D,_SWOT,Value_Chain,_BCG.ppt
+lang_ko__SEPARATOR__Creditor__SEPARATOR__None Creditor
+lang_ko__SEPARATOR__Statistic__SEPARATOR__None Statistic
+lang_ko__SEPARATOR__Decrease__SEPARATOR__None Decrease
+lang_ko__SEPARATOR__Personal__SEPARATOR__None Personal
+lang_ko__SEPARATOR__Budget__SEPARATOR__https://www.dge.go.kr/board/boardFile/download/176/981112/212357.do
+lang_ko__SEPARATOR__Budget__SEPARATOR__https://www.uljusiseol.or.kr/rehab/BBS/down.jsp?apath=BBS&code=pds_15&fname=%BF%B9%BB%EA%C8%B8%B0%E8%C0%CC%C7%D8.ppt
+lang_ko__SEPARATOR__Budget__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=333282
+lang_ko__SEPARATOR__Budget__SEPARATOR__http://www.gen.go.kr/community/department9/board.php?mode=downpost&number=3249&tbnum=25&sCat=0&page=6&keyset=&searchword=
+lang_ko__SEPARATOR__Budget__SEPARATOR__http://www.cleaneye.go.kr/modules/download.asp?filename=%20%20%20%20%20%20%20%20%20%20__%C1%F6%B9%E6%B0%F8%B1%E2%BE%F7%20%BF%B9%BB%EA%B0%AD%C0%C7(ppt).ppt&path=/upload/Board_Low
+lang_ko__SEPARATOR__Budget__SEPARATOR__http://www.kbmge.go.kr/file.aspx/board/download/23862/1/2016%20%EB%B3%B8%EC%98%88%EC%82%B0%20%ED%8E%B8%EC%84%B1%20%EB%A9%94%EB%89%B4%EC%96%BC.ppt
+lang_ko__SEPARATOR__Aggregate__SEPARATOR__http://www.af.ac.kr/planweb/board/download.9is?fileUid=0000000052e385d90152edf7cb893cc7&boardUid=816ac6da51a3db470151b3ea473e01d9
+lang_ko__SEPARATOR__Obsolescence__SEPARATOR__None Obsolescence
+lang_ko__SEPARATOR__Private__SEPARATOR__http://dasan.sejong.ac.kr/~sipark/class2008/cp/CP22.ppt
+lang_ko__SEPARATOR__Choices__SEPARATOR__None Choices
+lang_ko__SEPARATOR__Recovery__SEPARATOR__http://www.tnudata.com/service01/EMC%20NetWorker_060316131222.ppt
+lang_ko__SEPARATOR__Recovery__SEPARATOR__http://hjbang.seoultech.ac.kr/data/%EB%B0%A9%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/Ch01.ppt
+lang_ko__SEPARATOR__Designation__SEPARATOR__None Designation
+lang_ko__SEPARATOR__Goods__SEPARATOR__None Goods
+lang_ko__SEPARATOR__Resurgence__SEPARATOR__None Resurgence
+lang_ko__SEPARATOR__Charges__SEPARATOR__None Charges
+lang_ko__SEPARATOR__Assets__SEPARATOR__http://www.xn--289a86s2ob16mg4i3nt.com/assets/download/file/?i=3021|4|%ED%96%89%EB%B3%B5%ED%95%9C%20%EB%82%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ppt
+lang_ko__SEPARATOR__savings__SEPARATOR__http://hompi.sogang.ac.kr/hahnlee/Lecture11_chap32.ppt
+lang_ko__SEPARATOR__Shrinkage__SEPARATOR__http://metal.donga.ac.kr/bbs/metal/480/15032/download.do
+lang_ko__SEPARATOR__Bonanza__SEPARATOR__None Bonanza
+lang_ko__SEPARATOR__Stock__SEPARATOR__None Stock
+lang_ko__SEPARATOR__invest__SEPARATOR__http://www.pspa.co.kr/2013-Direct-Course0703.ppt
+lang_ko__SEPARATOR__invest__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=333278
+lang_ko__SEPARATOR__invest__SEPARATOR__http://www.cmak.or.kr/cmak_popup/consma/CONSMA1/data/4.%B1%E8%C2%F9%C1%DF.ppt
+lang_ko__SEPARATOR__Debenture__SEPARATOR__None Debenture
+lang_ko__SEPARATOR__Preset__SEPARATOR__None Preset
+lang_ko__SEPARATOR__Marketing__SEPARATOR__http://gstm.khu.ac.kr/download.php?tbl=in_bbs_lecture&fn=%EB%8C%80%ED%95%99%EC%9B%90-%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_10%EC%9E%A5.ppt&fn_view=%EB%8C%80%ED%95%99%EC%9B%90-%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_10%EC%9E%A5.ppt
+lang_ko__SEPARATOR__Marketing__SEPARATOR__http://www.kmma.re.kr/UserFiles/File/2017_process.ppt
+lang_ko__SEPARATOR__Embargo__SEPARATOR__None Embargo
+lang_ko__SEPARATOR__Proprietary__SEPARATOR__None Proprietary
+lang_ko__SEPARATOR__Return__SEPARATOR__http://cs.sookmyung.ac.kr/~chang/lecture/c13/chap8.PPT
+lang_ko__SEPARATOR__Endowment__SEPARATOR__None Endowment
+lang_ko__SEPARATOR__Breach__SEPARATOR__None Breach
+lang_ko__SEPARATOR__Confirmation__SEPARATOR__https://icjournal.org/src/How_to_ORCID.ppt
+lang_ko__SEPARATOR__Macroeconomics__SEPARATOR__None Macroeconomics
+lang_ko__SEPARATOR__Supply__SEPARATOR__https://cms3.koreatech.ac.kr/bbs/mechatronics/242/7299/download.do
+lang_ko__SEPARATOR__depression__SEPARATOR__None depression
+lang_ko__SEPARATOR__Hedge fund__SEPARATOR__None Hedge fund
+lang_ko__SEPARATOR__Promotion__SEPARATOR__http://www.carma.co.kr/_inc/download.php?files=1_1370565174.ppt&fileN=20130520_%B8%F0%B5%CE%B7%BB%C5%BB_V1_0_%BC%D2%B0%B3%BC%AD.ppt&dir=/_Board/upload/b_beauty&PHPSESSID=36591f1e703c63226296dfd0793bfaa9
+lang_ko__SEPARATOR__Promotion__SEPARATOR__http://cfile8.uf.tistory.com/attach/03486A495197B929154DF1
+lang_ko__SEPARATOR__fiscal__SEPARATOR__None fiscal
+lang_ko__SEPARATOR__Run-up__SEPARATOR__https://www.kunsan.ac.kr/kunsanwheel/board/download.kunsan?boardId=BBS_0000458&menuCd=DOM_000009905003000000&startPage=4&dataSid=63684&command=update&fileSid=24187
+lang_ko__SEPARATOR__Represent__SEPARATOR__None Represent
+lang_ko__SEPARATOR__Elasticity__SEPARATOR__http://portal.changwon.ac.kr/homePost/download.do?postfileno=91123
+lang_ko__SEPARATOR__Elasticity__SEPARATOR__http://elearning.kocw.net/document/region/2010/12/02/12_02_14_auto.ppt
+lang_ko__SEPARATOR__Elasticity__SEPARATOR__http://civil.donga.ac.kr/bbs/civil/324/15619/download.do
+lang_ko__SEPARATOR__Elasticity__SEPARATOR__http://welfare.songwon.ac.kr/sb/SE_Board.asp?action=downLoad&boardID=H0501&SEQ=770&fileDownSEQ=1&pgKey=0
+lang_ko__SEPARATOR__credit__SEPARATOR__http://www.kmfa.or.kr/paper/sympo/2006/3.ppt
+lang_ko__SEPARATOR__credit__SEPARATOR__http://acllibrary.tistory.com/attachment/cfile5.uf@227FAC405833DB8B055CF9.ppt
+lang_ko__SEPARATOR__Comparison__SEPARATOR__http://www.koreapr.org/common_new/down.php?down_file=326.ppt&file_name=%EA%B8%B0%EC%97%85%EC%9D%98%EC%82%AC%ED%9A%8C%EC%A0%81%EC%B1%85%EC%9E%84.ppt&no=326&table=PDS
+lang_ko__SEPARATOR__Termination__SEPARATOR__None Termination
+lang_ko__SEPARATOR__Fluctuation__SEPARATOR__None Fluctuation
+lang_ko__SEPARATOR__Lottery__SEPARATOR__None Lottery
+lang_ko__SEPARATOR__Hassle__SEPARATOR__None Hassle
+lang_ko__SEPARATOR__Panic__SEPARATOR__http://www.bgnmh.go.kr/bgnmh/jsp/boardDownload.jsp?board_id=BGNMH_BOARD_DATA&seq=10&idx=1
+lang_ko__SEPARATOR__Panic__SEPARATOR__http://field.incheon.go.kr/program/fileDownload.do?fileNo=510845
+lang_ko__SEPARATOR__spending__SEPARATOR__None spending
+lang_ko__SEPARATOR__Maximum__SEPARATOR__None Maximum
+lang_ko__SEPARATOR__Count on__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/system_level_design/embedded-system/myto/12%C0%E5%20%B3%D7%C6%AE%BF%F6%C5%A9%20%B5%F0%B9%D9%C0%CC%BD%BA%20%B5%E5%B6%F3%C0%CC%B9%F6.ppt
+lang_ko__SEPARATOR__Distribution__SEPARATOR__None Distribution
+lang_ko__SEPARATOR__Standard__SEPARATOR__None Standard
+lang_ko__SEPARATOR__stock market__SEPARATOR__None stock market
+lang_ko__SEPARATOR__Schematic__SEPARATOR__http://chemipia.jbnu.ac.kr/_prof/cjkim/course/GPages/objectives/chem10.ppt
+lang_ko__SEPARATOR__Finance__SEPARATOR__None Finance
+lang_ko__SEPARATOR__Frugal__SEPARATOR__None Frugal
+lang_ko__SEPARATOR__investment__SEPARATOR__http://www.awm.or.kr/bbs/download.php?board=document&id=1506&idx=1
+lang_ko__SEPARATOR__Collateral__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=OT_DATE001&fileName=7648820130605160420.ppt&part=1&seq=19411
+lang_ko__SEPARATOR__Currency__SEPARATOR__None Currency
+lang_ko__SEPARATOR__Delivery__SEPARATOR__http://networking.khu.ac.kr/html/lecture_data/2007_spring/Network_Security/Etherial.ppt
+lang_ko__SEPARATOR__Delivery__SEPARATOR__http://www.ksie.or.kr/bbs/Act/download.php?fr_dir=./Data/board/linsix&fn=1%C2%F7%B8%F0%C0%D3_%B8%B0%C3%DF%C1%F8%C0%FC%B7%AB%BF%E4%BE%E0(%B1%E8%C1%BE%BC%AE).ppt
+lang_ko__SEPARATOR__Financial__SEPARATOR__https://www.fsc.go.kr/downManager?bbsid=BBS1130&no=86165
+lang_ko__SEPARATOR__Incorporate__SEPARATOR__None Incorporate
+lang_ko__SEPARATOR__Collapse__SEPARATOR__http://sports.uc.ac.kr/Common/NFUpload/FILELOAD.jsp?Docid=170614014452044&pdn=&Num=57810
+lang_ko__SEPARATOR__Discount__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=333281
+lang_ko__SEPARATOR__Discount__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=351009
+lang_ko__SEPARATOR__Acquisition__SEPARATOR__None Acquisition
+lang_ko__SEPARATOR__Comptroller__SEPARATOR__None Comptroller
+lang_ko__SEPARATOR__consumer__SEPARATOR__None consumer
+lang_ko__SEPARATOR__Patronage__SEPARATOR__None Patronage
+lang_ko__SEPARATOR__Trough__SEPARATOR__None Trough
+lang_ko__SEPARATOR__Sense__SEPARATOR__None Sense
+lang_ko__SEPARATOR__Option__SEPARATOR__None Option
+lang_ko__SEPARATOR__Refusal__SEPARATOR__None Refusal
+lang_ko__SEPARATOR__Trust__SEPARATOR__http://119.gg.go.kr/gimpo/wp-content/plugins/uploadingdownloading-non-latin-filename/download.php?id=637
+lang_ko__SEPARATOR__Injunction__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=5210
+lang_ko__SEPARATOR__Nominal__SEPARATOR__None Nominal
+lang_ko__SEPARATOR__Alienate__SEPARATOR__None Alienate
+lang_ko__SEPARATOR__Share__SEPARATOR__None Share
+lang_ko__SEPARATOR__Minimal__SEPARATOR__None Minimal
+lang_ko__SEPARATOR__Permit__SEPARATOR__None Permit
+lang_ko__SEPARATOR__Stimulation__SEPARATOR__http://ctc.bri.snuh.org/noticeinfo/formdownload/_/notice/1691/download.do?resId=420
+lang_ko__SEPARATOR__Once-burned__SEPARATOR__None Once-burned
+lang_ko__SEPARATOR__Vest__SEPARATOR__None Vest
+lang_ko__SEPARATOR__bankruptcy__SEPARATOR__None bankruptcy
+lang_ko__SEPARATOR__Competition__SEPARATOR__None Competition
+lang_ko__SEPARATOR__Compliant__SEPARATOR__None Compliant
+lang_ko__SEPARATOR__Sector__SEPARATOR__None Sector
+lang_ko__SEPARATOR__Iteration__SEPARATOR__None Iteration
+lang_ko__SEPARATOR__Guarantee__SEPARATOR__None Guarantee
+lang_ko__SEPARATOR__Relative__SEPARATOR__None Relative
+lang_ko__SEPARATOR__Addition__SEPARATOR__None Addition
+lang_ko__SEPARATOR__Imbalance__SEPARATOR__None Imbalance
+lang_ko__SEPARATOR__Production__SEPARATOR__http://gstm.khu.ac.kr/download.php?tbl=in_bbs_lecture&fn=%EB%8C%80%ED%95%99%EC%9B%90-%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_9%EC%9E%A5.ppt&fn_view=%EB%8C%80%ED%95%99%EC%9B%90-%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_9%EC%9E%A5.ppt
+lang_ko__SEPARATOR__Till__SEPARATOR__http://chanyi.tistory.com/attachment/cfile9.uf@2021FA2F4CF37FA6414F80.ppt
+lang_ko__SEPARATOR__Lengthen__SEPARATOR__None Lengthen
+lang_ko__SEPARATOR__Professional__SEPARATOR__None Professional
+lang_ko__SEPARATOR__Insurance__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=KJ_FREE001&fileName=589720110414112356.ppt&part=1&seq=7035
+lang_ko__SEPARATOR__Insurance__SEPARATOR__http://down.mofa.go.kr/nz-ko/brd/m_1771/down.do?brd_id=11354&seq=1335595&data_tp=A&file_seq=1
+lang_ko__SEPARATOR__Conglomerate__SEPARATOR__None Conglomerate
+lang_ko__SEPARATOR__Affidavit__SEPARATOR__None Affidavit
+lang_ko__SEPARATOR__Entitlement__SEPARATOR__None Entitlement
+lang_ko__SEPARATOR__Quitclaim__SEPARATOR__None Quitclaim
+lang_ko__SEPARATOR__Amount__SEPARATOR__None Amount
+lang_ko__SEPARATOR__Potential__SEPARATOR__http://web.khu.ac.kr/~bil/lecture/MedicalInstrumentation/HW2011/W07/W07T5.ppt
+lang_ko__SEPARATOR__consumer goods__SEPARATOR__None consumer goods
+lang_ko__SEPARATOR__Mutual fund__SEPARATOR__None Mutual fund
+lang_ko__SEPARATOR__Cycle__SEPARATOR__http://ep.knou.ac.kr/comm/downloadFile.do?fileId=FLK00050100000814003
+lang_ko__SEPARATOR__Cycle__SEPARATOR__http://freeuse.or.kr/info/archive.ppt
+lang_ko__SEPARATOR__Cycle__SEPARATOR__http://www.ht21c.net/index_page/img/%EC%95%88%EC%A0%84%EA%B2%BD%EC%98%81.ppt
+lang_ko__SEPARATOR__High tech__SEPARATOR__http://www.woorimold.co.kr/datafile3/%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C%EC%84%9C((%EC%A3%BC)%EC%9A%B0%EB%A6%AC%EC%97%A0%ED%85%8D)%20-%2020120201.ppt
+lang_ko__SEPARATOR__High tech__SEPARATOR__http://college.kangwon.ac.kr/include/jsp_h/download.jsp?filePath=/upload_files/board/MS_STU006_1/&fileName=619520170321112454.ppt
+lang_ko__SEPARATOR__Waste__SEPARATOR__None Waste
+lang_ko__SEPARATOR__Disposable income__SEPARATOR__None Disposable income
+lang_ko__SEPARATOR__Beneficiary__SEPARATOR__None Beneficiary
+lang_ko__SEPARATOR__Wholesale__SEPARATOR__None Wholesale
+lang_ko__SEPARATOR__Authorization__SEPARATOR__http://www.dreamtourusa.com/download.asp?filename=usavisa.ppt
+lang_ko__SEPARATOR__Downsize__SEPARATOR__None Downsize
+lang_ko__SEPARATOR__Leverage__SEPARATOR__None Leverage
+lang_ko__SEPARATOR__Subsidiary__SEPARATOR__None Subsidiary
+lang_ko__SEPARATOR__Afford__SEPARATOR__None Afford
+lang_ko__SEPARATOR__Apprentice__SEPARATOR__None Apprentice
+lang_ko__SEPARATOR__Query__SEPARATOR__None Query
+lang_ko__SEPARATOR__Dissemination__SEPARATOR__None Dissemination
+lang_ko__SEPARATOR__Oil__SEPARATOR__http://www.mfds.go.kr/jsp/common/download.jsp?fileinfo=S*2*PLS_%BC%B3%B8%ED%C8%B8_2017.12..ppt*71670452278142d7a597944b7618d45b*ppt*/files/upload/1/TB_F_INFODATA/30645/71670452278142d7a597944b7618d45b*3380224*2017:12:15%2014:25:39
+lang_ko__SEPARATOR__Oil__SEPARATOR__http://www.dksinter.com/date/company_introduction.ppt
+lang_ko__SEPARATOR__Queue__SEPARATOR__None Queue
+lang_ko__SEPARATOR__Increment__SEPARATOR__None Increment
+lang_ko__SEPARATOR__Insolvent__SEPARATOR__None Insolvent
+lang_ko__SEPARATOR__Deductible__SEPARATOR__None Deductible
+lang_ko__SEPARATOR__Decision__SEPARATOR__http://dblab.ewha.ac.kr/hsyong/teach/datamining/chap4-2.ppt
+lang_ko__SEPARATOR__Decision__SEPARATOR__http://jinhwakim.sogang.ac.kr/Download?pathStr=NTEjIzUzIyM0OSMjMTI0IyMxMDQjIzExNiMjOTcjIzgwIyMxMDEjIzEwOCMjMTA1IyMxMDIjIzM1IyMzMyMjMzUjIzQ5IyMxMjQjIzEyMCMjMTAxIyMxMDAjIzExMCMjMTA1IyMzNSMjMzMjIzM1IyM1MiMjNTAjIzU1IyMxMjQjIzEwMCMjMTA1IyMxMDcjIzExMg==&fileName=%EA%B8%B0%EB%A7%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%82%AC%EB%A1%80.ppt&gubun=board
+lang_ko__SEPARATOR__Extreme__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=unjang_pds&fileName=5221220140609110026.ppt&part=2&seq=24368
+lang_ko__SEPARATOR__Objective__SEPARATOR__http://www.koreapr.org/common_new/down.php?down_file=311.ppt&file_name=%EB%85%BC%EB%AC%B8.ppt&no=311&table=PDS
+lang_ko__SEPARATOR__Policy__SEPARATOR__None Policy
+lang_ko__SEPARATOR__Inheritance__SEPARATOR__http://dasan.sejong.ac.kr/~sipark/class2007/cp/CP11.ppt
+lang_ko__SEPARATOR__Inheritance__SEPARATOR__http://www.ssu.ac.kr/web/dblab/23?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=14688747&_EXT_BBS_extFileId=14679971
+lang_ko__SEPARATOR__Custodial__SEPARATOR__None Custodial
+lang_ko__SEPARATOR__Promise__SEPARATOR__None Promise
+lang_ko__SEPARATOR__competition__SEPARATOR__None competition
+lang_ko__SEPARATOR__deposit__SEPARATOR__None deposit
+lang_ko__SEPARATOR__Usury__SEPARATOR__None Usury
+lang_ko__SEPARATOR__Product__SEPARATOR__http://amo.kma.go.kr/servlet/kamaboard;jsessionid=0CB44C373B51DFFE3775DB2462E6A730?mode=download&bid=data&num=28&fno=1&callback=http%3A%2F%2Famo.kma.go.kr%2Fnew%2Fhtml%2Fnews%2Fnews08.jsp&ses=USERSESSION&k=ATC201404101825131_XyEbFuZCVhRSJOycF8YQ.ppt
+lang_ko__SEPARATOR__Product__SEPARATOR__http://www.kemc.co.kr/Library/fileDown.asp?strBoardID=data&intNum=1347&intSeq=1755
+lang_ko__SEPARATOR__Product__SEPARATOR__https://www.dge.go.kr/board/boardFile/download/36/937899/163955.do
+lang_ko__SEPARATOR__Penalty__SEPARATOR__None Penalty
+lang_ko__SEPARATOR__Indigent__SEPARATOR__None Indigent
+lang_ko__SEPARATOR__Percent__SEPARATOR__None Percent
+lang_ko__SEPARATOR__Success__SEPARATOR__http://www.ybmbiz.co.kr/common/download.php?fileIdx=64&boardtype=board
+lang_ko__SEPARATOR__Success__SEPARATOR__http://ne.khu.ac.kr/smclass/download.php?fno=42
+lang_ko__SEPARATOR__Divide__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=CP_STU12&fileName=4548720170925093456.ppt&part=1&seq=205598
+lang_ko__SEPARATOR__Opportunity__SEPARATOR__None Opportunity
+lang_ko__SEPARATOR__Peak__SEPARATOR__None Peak
+lang_ko__SEPARATOR__Gold__SEPARATOR__None Gold
+lang_ko__SEPARATOR__Dismissal__SEPARATOR__None Dismissal
+lang_ko__SEPARATOR__Responsibility__SEPARATOR__None Responsibility
+lang_ko__SEPARATOR__cash__SEPARATOR__http://www.gntech.ac.kr/web/acc/17;jsessionid=yJhJXnTJJ5tnJvX6XQTXbspHT12pnLQphztvbnLfJvGgM8JB2Wb2!759537309!1466371700793?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_extFileId=27281
+lang_ko__SEPARATOR__cash__SEPARATOR__http://baro.sen.go.kr/common/file/schbltnFileDown.do?sch_tap=40&mc=R040010140&data_bltn_seq=449&notice_bltn_seq=&file_id=1389947110021KI8EOZO4YZ4QSJ84DHJHCBVVT&d_type=I&prev_and_sch_word=&prev_or_sch_word=&prev_not_sch_word=&search_nav=&hit_order=&sch_all=&detail_flag=Y&sch_start_ymd=&sch_end_ymd=&sch_work=210&sch_type=t_c&sch_type2=and&sch_text=&sch_work2=R040010140&currentPage=1
+lang_ko__SEPARATOR__cash__SEPARATOR__https://www.khidi.or.kr/fileDownload?titleId=165257&fileId=3&fileDownType=C&paramMenuId=MENU00871
+lang_ko__SEPARATOR__cash__SEPARATOR__http://krgosiwon.org/partner/emore_info.ppt
+lang_ko__SEPARATOR__cash__SEPARATOR__http://www.mcst.go.kr/servlets/eduport/front/upload/UplDownloadFile?pFileName=%EB%B3%B4%EC%A1%B0%EC%82%AC%EC%97%85%EB%B9%84+%EA%B4%80%EB%A6%AC%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B4%80%EB%A6%AC%EC%9E%90+%EB%A9%94%EB%89%B4%EC%96%BC.ppt&pRealName=1263863791644.ppt&pPath=0413000000
+lang_ko__SEPARATOR__Freeze__SEPARATOR__None Freeze
+lang_ko__SEPARATOR__Ownership__SEPARATOR__None Ownership
+lang_ko__SEPARATOR__Zero-coupon__SEPARATOR__None Zero-coupon
+lang_ko__SEPARATOR__Oligopoly__SEPARATOR__None Oligopoly
+lang_ko__SEPARATOR__international__SEPARATOR__None international
+lang_ko__SEPARATOR__Buying__SEPARATOR__https://kto.visitkorea.or.kr/file/download/bd/1328867550853.ppt.kto
+lang_ko__SEPARATOR__market__SEPARATOR__None market
+lang_ko__SEPARATOR__Entity__SEPARATOR__None Entity
+lang_ko__SEPARATOR__Demographics__SEPARATOR__None Demographics
+lang_ko__SEPARATOR__Mention__SEPARATOR__None Mention
+lang_ko__SEPARATOR__Appraise__SEPARATOR__None Appraise
+lang_ko__SEPARATOR__Compensation__SEPARATOR__None Compensation
+lang_ko__SEPARATOR__Quid pro quo__SEPARATOR__None Quid pro quo
+lang_ko__SEPARATOR__Installment__SEPARATOR__None Installment
+lang_ko__SEPARATOR__cost__SEPARATOR__None cost
+lang_ko__SEPARATOR__Bills__SEPARATOR__https://www.billgate.net/download/download.jsp?file=onestop.ppt
+lang_ko__SEPARATOR__Sales__SEPARATOR__None Sales
+lang_ko__SEPARATOR__Surge__SEPARATOR__http://web.skhu.ac.kr/~mckim1/Lecture/IR/info1.ppt
+lang_ko__SEPARATOR__Consultation__SEPARATOR__None Consultation
+lang_ko__SEPARATOR__Default__SEPARATOR__http://library.snu.ac.kr/sites/default/files/intra_file_upload/domestic-bookcube.ppt
+lang_ko__SEPARATOR__Inflation__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=351006
+lang_ko__SEPARATOR__Dividend__SEPARATOR__None Dividend
+lang_ko__SEPARATOR__Disclaimer__SEPARATOR__http://www.poscochemtech.com/common/file/download.do?upload_file_name=20140515_608de760fc3dcbef0bdbe5b7ae826d10.ppt
+lang_ko__SEPARATOR__Disclaimer__SEPARATOR__http://www.poscochemtech.com/common/file/download.do?upload_file_name=20140515_00b6cf657af3bbef0bdbe5b7ae826d10.ppt
+lang_ko__SEPARATOR__Subpoena__SEPARATOR__None Subpoena
+lang_ko__SEPARATOR__Target__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/system_level_design/embedded-system/myto/8%C0%E5%20Porting.ppt
+lang_ko__SEPARATOR__Ombudsman__SEPARATOR__http://www.ftc.go.kr/www/cmm/fms/FileWorkDown.do?atchFileUrl=/firinfo/deptbbs/2014&atchFileNm=%25EC%2582%25AC%25EA%25B1%25B4%25EC%25B2%2598%25EB%25A6%25AC%25EC%25A0%2588%25EC%25B0%25A8%25EB%258F%2584.ppt
+lang_ko__SEPARATOR__System__SEPARATOR__http://ihong.cau.ac.kr/Lectures/MIS_Lectures/Chapter2.ppt
+lang_ko__SEPARATOR__Tighten__SEPARATOR__None Tighten
+lang_ko__SEPARATOR__Instruct__SEPARATOR__None Instruct
+lang_ko__SEPARATOR__Enterprise__SEPARATOR__http://www.thecircle.or.kr/wp-content/plugins/download-attachments/includes/download.php?id=2820
+lang_ko__SEPARATOR__Enterprise__SEPARATOR__https://www.kangwon.ac.kr/www/downloadBbsFile.do?atchmnflNo=17003&bbsNo=40&nttNo=23005&&pageUnit=10&searchCtgry=%EC%B6%98%EC%B2%9C&key=282&pageIndex=2
+lang_ko__SEPARATOR__Break even__SEPARATOR__None Break even
+lang_ko__SEPARATOR__High__SEPARATOR__None High
+lang_ko__SEPARATOR__Consign__SEPARATOR__None Consign
+lang_ko__SEPARATOR__Free trade__SEPARATOR__None Free trade
+lang_ko__SEPARATOR__Welfare__SEPARATOR__http://w1.sunchon.ac.kr/web/welfare/21;jsessionid=rMVD5wG1ufDzOQQfOaE09wATQFln9uoGO669gFGky5669Ff29WPsSNbdeb5wf618.ncms1_servlet_engine4?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=740674&_EXT_BBS_extFileId=163039
+lang_ko__SEPARATOR__Commerce__SEPARATOR__None Commerce
+lang_ko__SEPARATOR__Withdraw__SEPARATOR__None Withdraw
+lang_ko__SEPARATOR__Quotation__SEPARATOR__None Quotation
+lang_ko__SEPARATOR__Quasi__SEPARATOR__http://kucg.korea.ac.kr/new/seminar/2009/tr/PA-09-02-12.ppt
+lang_ko__SEPARATOR__Available__SEPARATOR__None Available
+lang_ko__SEPARATOR__Assistance__SEPARATOR__http://murecims.mokwon.ac.kr/attach/filedownloads/do_down/no/40
+lang_ko__SEPARATOR__Purchasing power__SEPARATOR__None Purchasing power
+lang_ko__SEPARATOR__Periodic__SEPARATOR__None Periodic
+lang_ko__SEPARATOR__Worthless__SEPARATOR__None Worthless
+lang_ko__SEPARATOR__Assessment__SEPARATOR__None Assessment
+lang_ko__SEPARATOR__Justification__SEPARATOR__None Justification
+lang_ko__SEPARATOR__Supplemental__SEPARATOR__None Supplemental
+lang_ko__SEPARATOR__Diminish__SEPARATOR__None Diminish
+lang_ko__SEPARATOR__Quota__SEPARATOR__http://www.ekapepia.com/common/attachfile/attachfileDownload.do?attachNo=00038267
+lang_ko__SEPARATOR__Factor__SEPARATOR__None Factor
+lang_ko__SEPARATOR__economy__SEPARATOR__http://social.gch.ac.kr/bbs/bbs_config/file_down.jsp?file_name=%C1%A63-2.%20%B9%DD%B5%CE%B6%F3%C0%C7%20%BB%E7%C8%B8%C7%D0%BD%C0%C0%CC%B7%D0.ppt&board_id=24_06
+lang_ko__SEPARATOR__Bellwether__SEPARATOR__None Bellwether
+lang_ko__SEPARATOR__Commission__SEPARATOR__None Commission
+lang_ko__SEPARATOR__Packaging__SEPARATOR__http://www.sen.go.kr/girok/community/download_notice.jsp?mask=1232684404544
+lang_ko__SEPARATOR__Franchise__SEPARATOR__http://csr.fki.or.kr/Common/Download.aspx?id=0d5068e4-9c5c-4cd5-a011-5d5f8a0248cf
+lang_ko__SEPARATOR__Franchise__SEPARATOR__http://www.ftc.go.kr/www/cmm/fms/FileDown.do?atchFileId=FILE_000000000075545&fileSn=0
+lang_ko__SEPARATOR__Franchise__SEPARATOR__http://www.ftc.go.kr/www/cmm/fms/FileDown.do?atchFileId=FILE_000000000075544&fileSn=0
+lang_ko__SEPARATOR__Obtain__SEPARATOR__None Obtain
+lang_ko__SEPARATOR__Curb__SEPARATOR__None Curb
+lang_ko__SEPARATOR__Expenditure__SEPARATOR__None Expenditure
+lang_ko__SEPARATOR__Borrowing__SEPARATOR__None Borrowing
+lang_ko__SEPARATOR__Protection__SEPARATOR__None Protection
+lang_ko__SEPARATOR__Easement__SEPARATOR__None Easement
+lang_ko__SEPARATOR__Worth__SEPARATOR__None Worth
+lang_ko__SEPARATOR__Outsource__SEPARATOR__None Outsource
+lang_ko__SEPARATOR__Material goods__SEPARATOR__None Material goods
+lang_ko__SEPARATOR__Pork bellies__SEPARATOR__None Pork bellies
+lang_ko__SEPARATOR__Affiliate__SEPARATOR__None Affiliate
+lang_ko__SEPARATOR__Prevention__SEPARATOR__http://suicideprevention.or.kr/new2/jboard/down.php?uid=491&seq=1&PHPSESSID=23e6d65cb441228517ac9410f0b557aa
+lang_ko__SEPARATOR__Annual__SEPARATOR__http://www.kmfa.or.kr/paper/annual/2006/1.ppt
+lang_ko__SEPARATOR__Basis__SEPARATOR__None Basis
+lang_ko__SEPARATOR__Revocable__SEPARATOR__None Revocable
+lang_ko__SEPARATOR__Extend__SEPARATOR__None Extend
+lang_ko__SEPARATOR__Laissez-faire__SEPARATOR__None Laissez-faire
+lang_ko__SEPARATOR__Gain__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/team9hw10.ppt
+lang_ko__SEPARATOR__Gain__SEPARATOR__http://iirc.khu.ac.kr/uploads/6/3/4/3/63434825/team2hw10.ppt
+lang_ko__SEPARATOR__Indenture__SEPARATOR__None Indenture
+lang_ko__SEPARATOR__Mercantile__SEPARATOR__None Mercantile
+lang_ko__SEPARATOR__Compulsory__SEPARATOR__None Compulsory
+lang_ko__SEPARATOR__Pyramiding__SEPARATOR__None Pyramiding
+lang_ko__SEPARATOR__Obligation__SEPARATOR__None Obligation
+lang_ko__SEPARATOR__Divestiture__SEPARATOR__None Divestiture
+lang_ko__SEPARATOR__Balance__SEPARATOR__http://rmisys.kriss.re.kr/file_download.html?bf_mask=20081113000000900000305&club_idx=0
+lang_ko__SEPARATOR__Balance__SEPARATOR__https://www.moe.go.kr/boardCnts/fileDown.do?m=030101&s=moe&fileSeq=cc1d8e572a9553041b0e53426da0cbc9
+lang_ko__SEPARATOR__Analysis__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=266340
+lang_ko__SEPARATOR__budget__SEPARATOR__None budget
+lang_ko__SEPARATOR__Consolidation__SEPARATOR__http://www.ssu.ac.kr/web/dblab/23?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=14688772&_EXT_BBS_extFileId=14680065
+lang_ko__SEPARATOR__Contingency__SEPARATOR__http://social.gch.ac.kr/bbs/bbs_config/file_down.jsp?file_name=%C1%A63-1.%20%BD%BA%C5%B0%B3%CA%C0%C7%20%C7%E0%B5%BF%C1%D6%C0%C7%C7%D0%BD%C0%C0%CC%B7%D0.ppt&board_id=24_06
+lang_ko__SEPARATOR__Itemization__SEPARATOR__None Itemization
+lang_ko__SEPARATOR__Services__SEPARATOR__None Services
+lang_ko__SEPARATOR__Estimation__SEPARATOR__None Estimation
+lang_ko__SEPARATOR__Suggestion__SEPARATOR__None Suggestion
+lang_ko__SEPARATOR__Training__SEPARATOR__http://www.addictionacademy.org/func/download.php?path=L2hvbWUvdmlydHVhbC9hZGRpY3Rpb24vaHRkb2NzL3VwbG9hZC9wZHMvMTEyMzAzMzc5NLmwwfqzsr/rxKG34TQowfjFwr/4MTk5NykuUFBU&filename=MTEyMzAzMzc5NLmwwfqzsr/rxKG34TQowfjFwr/4MTk5NykuUFBU
+lang_ko__SEPARATOR__Training__SEPARATOR__http://www.bjwb.co.kr/bbs/dn_index2.php?table=edu_data&file_id=18&no=1
+lang_ko__SEPARATOR__Training__SEPARATOR__http://www.koreanbiblestudy.org/kbsmain/about/intro/welcomeKBS.pps
+lang_ko__SEPARATOR__Lower__SEPARATOR__http://web.joongbu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000052685&fileSn=0
+lang_ko__SEPARATOR__Averaging__SEPARATOR__http://busan2.thecube.kr/bbs/table/board/upload/Chapter2_.ppt
+lang_ko__SEPARATOR__Specialize__SEPARATOR__None Specialize
+lang_ko__SEPARATOR__Successful__SEPARATOR__None Successful
+lang_ko__SEPARATOR__Proprietorship__SEPARATOR__None Proprietorship
+lang_ko__SEPARATOR__Arrears__SEPARATOR__None Arrears
+lang_ko__SEPARATOR__Advice__SEPARATOR__http://www.databaser.net/moniwiki/pds/MachineLearning/chap9_ai.ppt
+lang_ko__SEPARATOR__Edge__SEPARATOR__None Edge
+lang_ko__SEPARATOR__Syndicate__SEPARATOR__None Syndicate
+lang_ko__SEPARATOR__Journeyman__SEPARATOR__None Journeyman
+lang_ko__SEPARATOR__Advise__SEPARATOR__None Advise
+lang_ko__SEPARATOR__Deadline__SEPARATOR__None Deadline
+lang_ko__SEPARATOR__Barrier__SEPARATOR__http://college.kangwon.ac.kr/include/board/download.jsp?section=OT_DATE001&fileName=9797520130526111828.ppt&part=2&seq=19211
+lang_ko__SEPARATOR__Dependence__SEPARATOR__http://www.addictionacademy.org/func/download.php?path=L2hvbWUvdmlydHVhbC9hZGRpY3Rpb24vaHRkb2NzL3VwbG9hZC9wZHMvMTEyMjk2NTA3NMC9wda/7sD8sPogvsvE2r/Dwd+1tiix6MfRv8ApLnBwdA==&filename=MTEyMjk2NTA3NMC9wda/7sD8sPogvsvE2r/Dwd+1tiix6MfRv8ApLnBwdA==
+lang_ko__SEPARATOR__Straddle__SEPARATOR__None Straddle
+lang_ko__SEPARATOR__Stagflation__SEPARATOR__None Stagflation
+lang_ko__SEPARATOR__Company__SEPARATOR__https://www.syu.ac.kr/web/doba/community_d;jsessionid=6565699C99700CA40BE4CDE5E4BD9923?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_bbsMessageId=40638&_EXT_BBS_extFileId=27733
+lang_ko__SEPARATOR__Company__SEPARATOR__http://env.khu.ac.kr/html/2016_track.ppt
+lang_ko__SEPARATOR__Concession__SEPARATOR__None Concession
+lang_ko__SEPARATOR__Debt__SEPARATOR__None Debt
+lang_ko__SEPARATOR__Retirement__SEPARATOR__None Retirement
+lang_ko__SEPARATOR__Zoning__SEPARATOR__None Zoning
+lang_ko__SEPARATOR__Inventory__SEPARATOR__None Inventory
+lang_ko__SEPARATOR__Swing__SEPARATOR__http://pension.kcomwel.or.kr/file/downByPath?fileName=proposal_woori.ppt
+lang_ko__SEPARATOR__Inquiry__SEPARATOR__None Inquiry
+lang_ko__SEPARATOR__Rise__SEPARATOR__http://college.kangwon.ac.kr/include/jsp_h/download.jsp?filePath=/upload_files/board/GC_STU004_3/&fileName=3102020100930203600.ppt
+lang_ko__SEPARATOR__Slump__SEPARATOR__https://tbs.seoul.kr/common/imagesTv/Daehakgaja2/upfile/20160503_ipsi_2.ppt
+lang_ko__SEPARATOR__Bequest__SEPARATOR__None Bequest
+lang_ko__SEPARATOR__Dot-com__SEPARATOR__http://sazoo.com/ss/doc/sazooinfo.ppt
+lang_ko__SEPARATOR__Dot-com__SEPARATOR__http://www.lgchem.com.tr/products/13122012-130330-ipa-ghs-korean_04.ppt
+lang_ko__SEPARATOR__Arbitrator__SEPARATOR__None Arbitrator
+lang_ko__SEPARATOR__Remittance__SEPARATOR__None Remittance
+lang_ko__SEPARATOR__Abundant__SEPARATOR__None Abundant
+lang_ko__SEPARATOR__Salary__SEPARATOR__None Salary
+lang_ko__SEPARATOR__Principle__SEPARATOR__None Principle
+lang_ko__SEPARATOR__Employment__SEPARATOR__http://cfile212.uf.daum.net/attach/2469C840520F62F1224D7A
+lang_ko__SEPARATOR__Dispatch__SEPARATOR__None Dispatch
+lang_ko__SEPARATOR__Benefit__SEPARATOR__None Benefit
+lang_ko__SEPARATOR__Equitable__SEPARATOR__None Equitable
+lang_ko__SEPARATOR__Extension__SEPARATOR__None Extension
+lang_ko__SEPARATOR__Management__SEPARATOR__http://living.sehan.ac.kr/?module=file&act=procFileDownload&file_srl=577&sid=a1d1033f79355f9318f208d2ad2fe119&module_srl=176
+lang_ko__SEPARATOR__Management__SEPARATOR__http://living.sehan.ac.kr/?module=file&act=procFileDownload&file_srl=571&sid=d4cbf8303ed47de0039cd54aaed66525&module_srl=176
+lang_ko__SEPARATOR__Interest__SEPARATOR__None Interest
+lang_ko__SEPARATOR__Value__SEPARATOR__http://hjbang.seoultech.ac.kr/data/pl2013/PL10.ppt
+lang_ko__SEPARATOR__Cipher__SEPARATOR__None Cipher
+lang_ko__SEPARATOR__Controls__SEPARATOR__http://vada.skku.ac.kr/ClassInfo/system_level_design/embedded-system/myto/13%C0%E5%20TFT%20LCD%20%B5%F0%B9%D9%C0%CC%BD%BA%20%B5%E5%B6%F3%C0%CC%B9%F6.ppt
+lang_ko__SEPARATOR__Proxy__SEPARATOR__http://www.riss.kr/foreign/guide/ForeignGuide.ppt
+lang_ko__SEPARATOR__Proxy__SEPARATOR__https://kldp.org/files/Tproxy%EC%84%A4%EC%B9%98%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95_0.ppt
+lang_ko__SEPARATOR__Proxy__SEPARATOR__http://www.cmak.or.kr/cmak_popup/consma/COMSMA3/data/Kim%20Min%20Hyung.ppt
+lang_ko__SEPARATOR__Joint__SEPARATOR__https://cms3.koreatech.ac.kr/bbs/mechatronics/242/8517/download.do
+lang_ko__SEPARATOR__Joint__SEPARATOR__http://civil.donga.ac.kr/bbs/civil/324/15620/download.do
+lang_ko__SEPARATOR__Joint__SEPARATOR__http://www.sobang.kr/board/download.sko?boardId=sobang_adminData&boardSid=252&menuCd=AA06007000000&contentsSid=196&orderBy=&startPage=1&searchType=&keyword=&searchStartDt=&searchEndDt=&dataSid=1793&command=update&fileSid=982
+lang_ko__SEPARATOR__Joint__SEPARATOR__http://web.joongbu.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000052684&fileSn=0
+lang_ko__SEPARATOR__Redemption__SEPARATOR__None Redemption
+lang_ko__SEPARATOR__Premium__SEPARATOR__http://www.epartshub.com/inform/inform_download.jsp?mdl_type=inform&file_name=%C0%CC%C6%C4%C3%F7%20%C7%E3%BA%EA%20%C0%AF%C1%F6%BA%B8%BC%F6%2041.ppt
+lang_ko__SEPARATOR__Premium__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=351005
+lang_ko__SEPARATOR__Premium__SEPARATOR__http://korean.visitkorea.or.kr/cms/download_goodstay.jsp?ofile=%EA%B5%BF%EC%8A%A4%ED%85%8C%EC%9D%B4_%EC%A7%80%EC%A0%95%EA%B8%B0%EC%A4%80%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD(%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C).ppt&nfile=/kor/goodstay3/content/notice/1792339_attach_1.ppt
+lang_ko__SEPARATOR__Premium__SEPARATOR__https://www.e-pass.co.kr/adcenter/doc/Epass_Media_Proposal_201301.ppt
+lang_ko__SEPARATOR__Accounting__SEPARATOR__http://www.gntech.ac.kr/web/acc/17;jsessionid=PvvhXkhTBQCp9pLkJ1mpS2Qh1RkGhp3ny5snQmKJ6X27FddGCW7h!759537309!1466229134454?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_extFileId=27275
+lang_ko__SEPARATOR__Knowledge__SEPARATOR__https://www.kaist.ac.kr/_prog/_board/common/download.php?code=kaist_event&ntt_no=13157
+lang_ko__SEPARATOR__Restrictive__SEPARATOR__None Restrictive
+lang_ko__SEPARATOR__Program__SEPARATOR__https://kfcf.or.kr/down.jsp?filename=CP%C0%DB%BC%BA-PROPOSAL.ppt
+lang_ko__SEPARATOR__Program__SEPARATOR__http://borame.cs.pusan.ac.kr/ai_home/lecture/PL2014/PL2014_week3_01_%ED%91%9C%EC%A4%80%ED%99%94.ppt
+lang_ko__SEPARATOR__Severance__SEPARATOR__http://yi.iseverance.com/2013_common/include/board/download.asp?con_no=17342&obj_no=18515
+lang_ko__SEPARATOR__Compound__SEPARATOR__http://cs.sookmyung.ac.kr/~chang/lecture/c13/chap7.PPT
+lang_ko__SEPARATOR__Lien__SEPARATOR__None Lien
+lang_ko__SEPARATOR__Output__SEPARATOR__None Output
+lang_ko__SEPARATOR__Replacement__SEPARATOR__http://hjbang.seoultech.ac.kr/data/%EB%B0%A9%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/Ch02.ppt
+lang_ko__SEPARATOR__Futures__SEPARATOR__http://www.kipo.go.kr/club/file.do?attachmentId=6477
+lang_ko__SEPARATOR__Mortgage__SEPARATOR__https://www.hf.go.kr/hf/sub06/sub04_05.do?mode=download&articleNo=25080&attachNo=18892
+lang_ko__SEPARATOR__Solidity__SEPARATOR__None Solidity
+lang_ko__SEPARATOR__Low cost__SEPARATOR__None Low cost
+lang_ko__SEPARATOR__Join__SEPARATOR__None Join
+lang_ko__SEPARATOR__Prediction__SEPARATOR__None Prediction
+lang_ko__SEPARATOR__Earning power__SEPARATOR__None Earning power
+lang_ko__SEPARATOR__Contractual__SEPARATOR__None Contractual
+lang_ko__SEPARATOR__Essential__SEPARATOR__None Essential
+lang_ko__SEPARATOR__Variation__SEPARATOR__http://www.mededu.or.kr/datadata/%ED%9D%AC%EB%B0%9C%EC%9B%94%EA%B2%BD%ED%99%98%EC%9E%90%EC%9D%98%EC%9E%84%EC%8B%A0_1.pps
+lang_ko__SEPARATOR__loan__SEPARATOR__None loan
+lang_ko__SEPARATOR__Ban__SEPARATOR__None Ban
+lang_ko__SEPARATOR__Shelter__SEPARATOR__http://www.pitt.edu/~super7/6011-7001/6691.ppt
+lang_ko__SEPARATOR__Voucher__SEPARATOR__http://indcoop.mju.ac.kr/down/equipment_down1.ppt
+lang_ko__SEPARATOR__Voucher__SEPARATOR__http://ccic.sd.go.kr/nurture/nurture_6_f_download.asp?filename=111027_5%BC%BC%B4%A9%B8%AE%B0%FA%C1%A4%20%BF%EE%BF%B5%B1%E2%C1%D8.ppt&seqid=98&filenum=1
+lang_ko__SEPARATOR__Voucher__SEPARATOR__http://jejubokji.net/board/bbs/download.php?bo_table=edu_data&wr_id=13&no=0
+lang_ko__SEPARATOR__Completion__SEPARATOR__None Completion
+lang_ko__SEPARATOR__Equality__SEPARATOR__None Equality
+lang_ko__SEPARATOR__Leading__SEPARATOR__None Leading
+lang_ko__SEPARATOR__Vocation__SEPARATOR__None Vocation
+lang_ko__SEPARATOR__Arbitrage__SEPARATOR__http://www.inu.ac.kr/common/downLoad.do?siteId=management&fileSeq=351008
+lang_ko__SEPARATOR__Arbitrage__SEPARATOR__http://cfile25.uf.tistory.com/attach/204D8B374CFE2042342039
+lang_ko__SEPARATOR__Harassment__SEPARATOR__None Harassment
+lang_ko__SEPARATOR__Liability__SEPARATOR__None Liability
+lang_ko__SEPARATOR__Amalgamation__SEPARATOR__None Amalgamation
+lang_ko__SEPARATOR__Raise__SEPARATOR__None Raise
+lang_ko__SEPARATOR__Speculation__SEPARATOR__None Speculation
+lang_ko__SEPARATOR__Trend__SEPARATOR__None Trend
+lang_ko__SEPARATOR__Turnover__SEPARATOR__None Turnover
+lang_ko__SEPARATOR__Save__SEPARATOR__None Save
+lang_ko__SEPARATOR__Agenda__SEPARATOR__http://keri.koreaexim.go.kr/site/inc/file/fileDownload?dirname=/attach_file/bbs/BBS_2&filename=%EC%84%B8%EA%B3%84_%ED%83%9C%EC%96%91%EA%B4%91%EC%82%B0%EC%97%85_%EB%8F%99%ED%96%A5_%EB%B0%8F_%EA%B5%AD%EB%82%B4_%ED%83%9C%EC%96%91%EA%B4%91%EC%82%B0%EC%97%85_%ED%98%84%ED%99%A9_%EC%95%94%ED%98%B8%ED%99%94%ED%95%B4%EC%A0%9C.ppt&orinalname=%EC%84%B8%EA%B3%84_%ED%83%9C%EC%96%91%EA%B4%91%EC%82%B0%EC%97%85_%EB%8F%99%ED%96%A5_%EB%B0%8F_%EA%B5%AD%EB%82%B4_%ED%83%9C%EC%96%91%EA%B4%91%EC%82%B0%EC%97%85_%ED%98%84%ED%99%A9_%EC%95%94%ED%98%B8%ED%99%94%ED%95%B4%EC%A0%9C.ppt
+lang_ko__SEPARATOR__Junk bond__SEPARATOR__None Junk bond
+lang_ko__SEPARATOR__Spending__SEPARATOR__None Spending
+lang_ko__SEPARATOR__Internal__SEPARATOR__https://biomed.konyang.ac.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000103021&fileSn=0
+lang_ko__SEPARATOR__Venture__SEPARATOR__http://www.ibchelaser.com/data/company2.ppt
+lang_ko__SEPARATOR__bankrupt__SEPARATOR__None bankrupt
+lang_ko__SEPARATOR__Reminder__SEPARATOR__None Reminder
+lang_ko__SEPARATOR__Orientation__SEPARATOR__None Orientation
+lang_ko__SEPARATOR__Abolish__SEPARATOR__None Abolish
+lang_ko__SEPARATOR__Expert__SEPARATOR__http://m.materic.or.kr/common/down.asp?dpath=board&board_idx=1017&fname=toyota%20%EC%B5%9C%EA%B0%95%20%EC%9D%B8%EC%9E%AC%EA%B2%BD%EC%98%81%EC%9D%98%20%EB%B9%84%EA%B2%B0.ppt
+lang_ko__SEPARATOR__Up-swing__SEPARATOR__None Up-swing
+lang_ko__SEPARATOR__Price__SEPARATOR__None Price
+lang_ko__SEPARATOR__Magnate__SEPARATOR__None Magnate
+lang_ko__SEPARATOR__Profit__SEPARATOR__None Profit
+lang_ko__SEPARATOR__Recruit__SEPARATOR__None Recruit
+lang_ko__SEPARATOR__Charge__SEPARATOR__None Charge
+lang_ko__SEPARATOR__Per capita__SEPARATOR__None Per capita
+lang_ko__SEPARATOR__Quality control__SEPARATOR__None Quality control
+lang_ko__SEPARATOR__Yield__SEPARATOR__None Yield
+lang_ko__SEPARATOR__Innovate__SEPARATOR__None Innovate
+lang_ko__SEPARATOR__Sum__SEPARATOR__None Sum
+lang_ko__SEPARATOR__Capital__SEPARATOR__None Capital
+lang_ko__SEPARATOR__Signature__SEPARATOR__http://cecom.yust.edu/board/bbs/file_down/1/859/1
+lang_ko__SEPARATOR__Affluent__SEPARATOR__None Affluent
+lang_ko__SEPARATOR__Auction__SEPARATOR__http://ihong.cau.ac.kr/Lectures/1MIS_Lectures/chap4.ppt
+lang_ko__SEPARATOR__Provide__SEPARATOR__None Provide
+lang_ko__SEPARATOR__Input__SEPARATOR__None Input
+lang_ko__SEPARATOR__Semi-conductor__SEPARATOR__None Semi-conductor
+lang_ko__SEPARATOR__Cost of living__SEPARATOR__None Cost of living
+lang_ko__SEPARATOR__Change__SEPARATOR__None Change
+lang_ko__SEPARATOR__Actual__SEPARATOR__http://www.neoenbiz.com/html/down/company_info.ppt
+lang_ko__SEPARATOR__Actual__SEPARATOR__https://www.digitalculture.or.kr/nara/cmm/fms/FileDown.do?atchFileId=FILE_000000000006035&fileSn=1
+lang_ko__SEPARATOR__Check__SEPARATOR__http://www.kaist.edu/_prog/_board/common/download.php?code=kaist_student&ntt_no=2025
+lang_ko__SEPARATOR__Corporate__SEPARATOR__None Corporate
+lang_ko__SEPARATOR__Investigation__SEPARATOR__None Investigation
+lang_ko__SEPARATOR__Separate__SEPARATOR__http://cs.kangwon.ac.kr/~ysmoon/courses/2006_1/ds/Collision-CHK.ppt
+lang_ko__SEPARATOR__Squander__SEPARATOR__None Squander
