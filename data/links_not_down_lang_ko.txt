@@ -2438,3 +2438,7 @@ None Consultation__SEPARATOR__unknown url type: 'None Consultation'
 None Dividend__SEPARATOR__unknown url type: 'None Dividend'
 https://www.dtaq.re.kr/_custom/dtaq/_common/board/download.jsp?attach_no=175186__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
 https://kldp.org/files/autotools.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.ut.ac.kr/cmm/fms/FileDown.do;jsessionid=g93lnxz9Prvx2vrQvUksxT23MGGSsavemKCKbllxL4z7egwoggBi4DAZHAfkK22T.homepage_servlet_engine1?atchFileId=FILE_000000000015944&fileSn=0__SEPARATOR__[Errno 104] Connection reset by peer
+http://civil.jbnu.ac.kr/?module=file&act=procFileDownload&file_srl=310905&sid=8ef42fc64446af976a336b1f23f837af&module_srl=138__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://sepri.snu.ac.kr/sites/default/files/14-1%20%ED%9A%8C%EB%A1%9C%EC%8B%9C%EC%8A%A4%ED%85%9C%20-%20%EC%A7%91%EC%A0%81%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%A0%95%EB%8D%95%EA%B7%A0%20%EA%B5%90%EC%88%98%EB%8B%98_0.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://chemipia.jbnu.ac.kr/_prof/cjkim/course/HPages/objectives/high02.ppt__SEPARATOR__HTTP Error 403: Forbidden

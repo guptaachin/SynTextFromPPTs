@@ -1535,3 +1535,11 @@ https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=66-pres
 http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32345-0/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Found
+http://www.albertomayol.cl/wp-content/uploads/2015/04/UGM-Metodolog%C3%ADa-cualitativa-II-Grounded-theory.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+None trail blazing__SEPARATOR__unknown url type: 'None trail blazing'
+http://www.gruposincom.es/EGEA17/Salvador_Gutierrez_Hiatos.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None baseless__SEPARATOR__unknown url type: 'None baseless'
+None herpetology__SEPARATOR__unknown url type: 'None herpetology'
+None aristocracy__SEPARATOR__unknown url type: 'None aristocracy'
+http://www.loc.gov/catdir/cpso/RDA/temas_especiales_elementos_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_arte_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
