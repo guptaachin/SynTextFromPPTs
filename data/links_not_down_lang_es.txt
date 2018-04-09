@@ -1,0 +1,1545 @@
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.latindex.org/lat/documentos/Taller_Bolivia/La%20Paz-Carmen%20Vilches-distribucion.ppt__SEPARATOR__[Errno 104] Connection reset by peer
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+http://www-2.dc.uba.ar/materias/tbd/Oracle.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/18.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://autismodiario.org/wp-content/uploads/2012/02/biologicalexplanationsofaggression.ppt__SEPARATOR__HTTP Error 404: Not Found
+None deterred__SEPARATOR__unknown url type: 'None deterred'
+None agrarian__SEPARATOR__unknown url type: 'None agrarian'
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/ebsco2012usam.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None contour line__SEPARATOR__unknown url type: 'None contour line'
+None disastrous__SEPARATOR__unknown url type: 'None disastrous'
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=291-bvs-metodologia-de-trabajo&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Hilos-en-Windows.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/03-Programming-with-POSIX-Threads1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase3/Distri-Clase1-2004.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://3unnkf3k3h3c2czmge371uwp-wpengine.netdna-ssl.com/wp-content/uploads/desistas.pps__SEPARATOR__HTTP Error 403: Forbidden
+None fallacious__SEPARATOR__unknown url type: 'None fallacious'
+None botany__SEPARATOR__unknown url type: 'None botany'
+None South Magnetic Pole__SEPARATOR__unknown url type: 'None South Magnetic Pole'
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-33-Sintaxis2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/17.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None popularised__SEPARATOR__unknown url type: 'None popularised'
+None strengthened__SEPARATOR__unknown url type: 'None strengthened'
+http://www.olade.org/wp-content/uploads/2017/06/NDC-Invest-En-espa%C3%B1ol.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None cartographer__SEPARATOR__unknown url type: 'None cartographer'
+http://mood.itdurango.edu.mx/mod/resource/view.php?id=8008__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.loc.gov/catdir/cpso/RDA/RDAbeyondMARC_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None disbanded__SEPARATOR__unknown url type: 'None disbanded'
+http://organica1.org/curso1/informatica.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Petro%20Andina%20Resources/Entrega%20de%20Crudo.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None imperialism__SEPARATOR__unknown url type: 'None imperialism'
+http://matap.dmae.upm.es/cienciaficcion/cartelera2002/ppt/gattaca.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+http://rlcu.org.ar/red_biblioteca/Dspace-linux.ppt__SEPARATOR__<urlopen error [Errno 101] Network is unreachable>
+http://www.dmae.upm.es/WebpersonalBartolo/TeoriaNumeros/2_Perfect_Numbers.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+None heartened__SEPARATOR__unknown url type: 'None heartened'
+http://www.gastrojournal.org/article/S0016-5085(16)00043-3/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30575-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70134-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://bjanaesthesia.org/article/S0007-0912(17)54207-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(17)30211-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None persuasive__SEPARATOR__unknown url type: 'None persuasive'
+http://www.usgbc.org/Docs/Archive/General/Docs743.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.poderjudicial.gob.ni/oficialia/broshure_pagina02.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.minsa.gob.pe/portada/Especiales/2008/adulto_mayor/archivos/FERIA-AM.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None inflated__SEPARATOR__unknown url type: 'None inflated'
+http://www.mountaingoatsoftware.com/uploads/presentations/Spanish-Redistributable-Intro-Scrum.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Northern Hemisphere__SEPARATOR__unknown url type: 'None Northern Hemisphere'
+None deteriorated__SEPARATOR__unknown url type: 'None deteriorated'
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30446-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.isa.cie.uva.es/~maria/redes_neuronales.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_ediciones_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None climatologist__SEPARATOR__unknown url type: 'None climatologist'
+None exabyte__SEPARATOR__unknown url type: 'None exabyte'
+None inflamed__SEPARATOR__unknown url type: 'None inflamed'
+None concealed__SEPARATOR__unknown url type: 'None concealed'
+None DVD (digital versatile disc)__SEPARATOR__unknown url type: 'None DVD (digital versatile disc)'
+None weigh__SEPARATOR__unknown url type: 'None weigh'
+http://www.alua.org.ar/Dra.%20Karin%20KOPITOWSKY%20.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/nic/index.php?option=com_docman&view=download&alias=373-uso-racional-de-antibioticos&category_slug=presentaciones&Itemid=235__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.claseshistoria.com/general/powerpoint/industrializacion.pps__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/12.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None distorted__SEPARATOR__unknown url type: 'None distorted'
+https://www.sanandres.gov.co/documentos/rendicion_cuentas_2014/10_INFRAESTRUCTURA.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None analemma__SEPARATOR__unknown url type: 'None analemma'
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70045-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.disciplenations.org/media/04-Jes%C3%BAs-Modelo-para-el-Crecimiento-y-Servicio-MASTER.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None pacified__SEPARATOR__unknown url type: 'None pacified'
+None laser printer__SEPARATOR__unknown url type: 'None laser printer'
+None awakened__SEPARATOR__unknown url type: 'None awakened'
+http://www.saber.ula.ve/dspace/bitstream/123456789/32941/7/conduct_responscdcht_feb28_11.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_conferencias_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None modernising__SEPARATOR__unknown url type: 'None modernising'
+https://www.energia.gob.ar/contenidos/archivos/NOVEDADES/jornadas_de_medicion/Medici_n%20de%20Gas%20y%20Petr_leo%20en%20Puntos%20de%20Transferencia.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/02-Arquitectura-y-Herramientas-de-Software-ver3.0.011.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+None protested__SEPARATOR__unknown url type: 'None protested'
+None stabilised__SEPARATOR__unknown url type: 'None stabilised'
+None ornithology__SEPARATOR__unknown url type: 'None ornithology'
+http://cmc.ihmc.us/cmc2010papers/Marco%20Moreira%20-%20Aprendizaje%20Significativo%20y%20Mapas%20Conceptuales.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None untenable__SEPARATOR__unknown url type: 'None untenable'
+None transformed__SEPARATOR__unknown url type: 'None transformed'
+http://www.cambridge.org/elt/resources/appliedlinguistics/intercultural/PowerpointWoodin.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.fing.edu.uy/inco/cursos/inpercom/Clases/2014/07-ingenieria-cognitiva.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+https://www.uned.ac.cr/ejecutiva/images/Servicio_medico/documentos/Osteoporosis.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://mic.gob.do/images/despacho/discursos_ministro/Presentacion-Ministro-III-Congreso-Mundial-de-Zonas-Francas.ppt__SEPARATOR__hostname 'mic.gob.do' doesn't match either of '*.bluehost.com', 'bluehost.com'
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase12y13/RMI.pps__SEPARATOR__HTTP Error 404: Not Found
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/18.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://autismodiario.org/wp-content/uploads/2012/02/biologicalexplanationsofaggression.ppt__SEPARATOR__HTTP Error 404: Not Found
+None deterred__SEPARATOR__unknown url type: 'None deterred'
+None agrarian__SEPARATOR__unknown url type: 'None agrarian'
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/ebsco2012usam.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None contour line__SEPARATOR__unknown url type: 'None contour line'
+None disastrous__SEPARATOR__unknown url type: 'None disastrous'
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=291-bvs-metodologia-de-trabajo&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Hilos-en-Windows.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/03-Programming-with-POSIX-Threads1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase3/Distri-Clase1-2004.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://3unnkf3k3h3c2czmge371uwp-wpengine.netdna-ssl.com/wp-content/uploads/desistas.pps__SEPARATOR__HTTP Error 403: Forbidden
+None fallacious__SEPARATOR__unknown url type: 'None fallacious'
+None botany__SEPARATOR__unknown url type: 'None botany'
+None South Magnetic Pole__SEPARATOR__unknown url type: 'None South Magnetic Pole'
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-33-Sintaxis2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/17.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None popularised__SEPARATOR__unknown url type: 'None popularised'
+None strengthened__SEPARATOR__unknown url type: 'None strengthened'
+http://www.olade.org/wp-content/uploads/2017/06/NDC-Invest-En-espa%C3%B1ol.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None cartographer__SEPARATOR__unknown url type: 'None cartographer'
+http://mood.itdurango.edu.mx/mod/resource/view.php?id=8008__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.loc.gov/catdir/cpso/RDA/RDAbeyondMARC_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None disbanded__SEPARATOR__unknown url type: 'None disbanded'
+http://organica1.org/curso1/informatica.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Petro%20Andina%20Resources/Entrega%20de%20Crudo.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None imperialism__SEPARATOR__unknown url type: 'None imperialism'
+http://matap.dmae.upm.es/cienciaficcion/cartelera2002/ppt/gattaca.ppt__SEPARATOR__<urlopen error [Errno 113] No route to host>
+http://www.dmae.upm.es/WebpersonalBartolo/TeoriaNumeros/2_Perfect_Numbers.ppt__SEPARATOR__<urlopen error [Errno 113] No route to host>
+None heartened__SEPARATOR__unknown url type: 'None heartened'
+http://www.gastrojournal.org/article/S0016-5085(16)00043-3/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30575-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70134-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://bjanaesthesia.org/article/S0007-0912(17)54207-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(17)30211-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None persuasive__SEPARATOR__unknown url type: 'None persuasive'
+http://www.usgbc.org/Docs/Archive/General/Docs743.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.poderjudicial.gob.ni/oficialia/broshure_pagina02.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.minsa.gob.pe/portada/Especiales/2008/adulto_mayor/archivos/FERIA-AM.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None inflated__SEPARATOR__unknown url type: 'None inflated'
+http://www.mountaingoatsoftware.com/uploads/presentations/Spanish-Redistributable-Intro-Scrum.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Northern Hemisphere__SEPARATOR__unknown url type: 'None Northern Hemisphere'
+None deteriorated__SEPARATOR__unknown url type: 'None deteriorated'
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30446-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/18.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://autismodiario.org/wp-content/uploads/2012/02/biologicalexplanationsofaggression.ppt__SEPARATOR__HTTP Error 404: Not Found
+None deterred__SEPARATOR__unknown url type: 'None deterred'
+None agrarian__SEPARATOR__unknown url type: 'None agrarian'
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/ebsco2012usam.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None contour line__SEPARATOR__unknown url type: 'None contour line'
+None disastrous__SEPARATOR__unknown url type: 'None disastrous'
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=291-bvs-metodologia-de-trabajo&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Hilos-en-Windows.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/03-Programming-with-POSIX-Threads1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase3/Distri-Clase1-2004.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://3unnkf3k3h3c2czmge371uwp-wpengine.netdna-ssl.com/wp-content/uploads/desistas.pps__SEPARATOR__HTTP Error 403: Forbidden
+None fallacious__SEPARATOR__unknown url type: 'None fallacious'
+None botany__SEPARATOR__unknown url type: 'None botany'
+None South Magnetic Pole__SEPARATOR__unknown url type: 'None South Magnetic Pole'
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-33-Sintaxis2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/17.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None popularised__SEPARATOR__unknown url type: 'None popularised'
+None strengthened__SEPARATOR__unknown url type: 'None strengthened'
+http://www.olade.org/wp-content/uploads/2017/06/NDC-Invest-En-espa%C3%B1ol.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None cartographer__SEPARATOR__unknown url type: 'None cartographer'
+http://mood.itdurango.edu.mx/mod/resource/view.php?id=8008__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.loc.gov/catdir/cpso/RDA/RDAbeyondMARC_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None disbanded__SEPARATOR__unknown url type: 'None disbanded'
+http://organica1.org/curso1/informatica.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Petro%20Andina%20Resources/Entrega%20de%20Crudo.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None imperialism__SEPARATOR__unknown url type: 'None imperialism'
+http://matap.dmae.upm.es/cienciaficcion/cartelera2002/ppt/gattaca.ppt__SEPARATOR__<urlopen error [Errno 113] No route to host>
+http://www.dmae.upm.es/WebpersonalBartolo/TeoriaNumeros/2_Perfect_Numbers.ppt__SEPARATOR__<urlopen error [Errno 113] No route to host>
+None heartened__SEPARATOR__unknown url type: 'None heartened'
+http://www.gastrojournal.org/article/S0016-5085(16)00043-3/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30575-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70134-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://bjanaesthesia.org/article/S0007-0912(17)54207-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(17)30211-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None persuasive__SEPARATOR__unknown url type: 'None persuasive'
+http://www.usgbc.org/Docs/Archive/General/Docs743.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.poderjudicial.gob.ni/oficialia/broshure_pagina02.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.minsa.gob.pe/portada/Especiales/2008/adulto_mayor/archivos/FERIA-AM.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None inflated__SEPARATOR__unknown url type: 'None inflated'
+http://www.mountaingoatsoftware.com/uploads/presentations/Spanish-Redistributable-Intro-Scrum.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Northern Hemisphere__SEPARATOR__unknown url type: 'None Northern Hemisphere'
+None deteriorated__SEPARATOR__unknown url type: 'None deteriorated'
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30446-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.isa.cie.uva.es/~maria/redes_neuronales.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_ediciones_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None climatologist__SEPARATOR__unknown url type: 'None climatologist'
+None exabyte__SEPARATOR__unknown url type: 'None exabyte'
+None inflamed__SEPARATOR__unknown url type: 'None inflamed'
+None concealed__SEPARATOR__unknown url type: 'None concealed'
+None DVD (digital versatile disc)__SEPARATOR__unknown url type: 'None DVD (digital versatile disc)'
+None weigh__SEPARATOR__unknown url type: 'None weigh'
+http://www.alua.org.ar/Dra.%20Karin%20KOPITOWSKY%20.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/nic/index.php?option=com_docman&view=download&alias=373-uso-racional-de-antibioticos&category_slug=presentaciones&Itemid=235__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.claseshistoria.com/general/powerpoint/industrializacion.pps__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/12.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None distorted__SEPARATOR__unknown url type: 'None distorted'
+https://www.sanandres.gov.co/documentos/rendicion_cuentas_2014/10_INFRAESTRUCTURA.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None analemma__SEPARATOR__unknown url type: 'None analemma'
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70045-8/ppt__SEPARATOR__[Errno 104] Connection reset by peer
+http://www.disciplenations.org/media/04-Jes%C3%BAs-Modelo-para-el-Crecimiento-y-Servicio-MASTER.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None pacified__SEPARATOR__unknown url type: 'None pacified'
+None laser printer__SEPARATOR__unknown url type: 'None laser printer'
+None awakened__SEPARATOR__unknown url type: 'None awakened'
+http://www.saber.ula.ve/dspace/bitstream/123456789/32941/7/conduct_responscdcht_feb28_11.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_conferencias_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None modernising__SEPARATOR__unknown url type: 'None modernising'
+https://www.energia.gob.ar/contenidos/archivos/NOVEDADES/jornadas_de_medicion/Medici_n%20de%20Gas%20y%20Petr_leo%20en%20Puntos%20de%20Transferencia.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/02-Arquitectura-y-Herramientas-de-Software-ver3.0.011.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+None protested__SEPARATOR__unknown url type: 'None protested'
+None stabilised__SEPARATOR__unknown url type: 'None stabilised'
+None ornithology__SEPARATOR__unknown url type: 'None ornithology'
+http://cmc.ihmc.us/cmc2010papers/Marco%20Moreira%20-%20Aprendizaje%20Significativo%20y%20Mapas%20Conceptuales.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None untenable__SEPARATOR__unknown url type: 'None untenable'
+None transformed__SEPARATOR__unknown url type: 'None transformed'
+http://www.cambridge.org/elt/resources/appliedlinguistics/intercultural/PowerpointWoodin.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.fing.edu.uy/inco/cursos/inpercom/Clases/2014/07-ingenieria-cognitiva.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.uned.ac.cr/ejecutiva/images/Servicio_medico/documentos/Osteoporosis.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://mic.gob.do/images/despacho/discursos_ministro/Presentacion-Ministro-III-Congreso-Mundial-de-Zonas-Francas.ppt__SEPARATOR__hostname 'mic.gob.do' doesn't match either of '*.bluehost.com', 'bluehost.com'
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase12y13/RMI.pps__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=66-presentacion-06-pruebas-de-laboratorio&category_slug=influenza-a-h1n1&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32345-0/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.albertomayol.cl/wp-content/uploads/2015/04/UGM-Metodolog%C3%ADa-cualitativa-II-Grounded-theory.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None trail blazing__SEPARATOR__unknown url type: 'None trail blazing'
+http://www.gruposincom.es/EGEA17/Salvador_Gutierrez_Hiatos.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None baseless__SEPARATOR__unknown url type: 'None baseless'
+None herpetology__SEPARATOR__unknown url type: 'None herpetology'
+None aristocracy__SEPARATOR__unknown url type: 'None aristocracy'
+http://www.loc.gov/catdir/cpso/RDA/temas_especiales_elementos_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_arte_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/18.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://autismodiario.org/wp-content/uploads/2012/02/biologicalexplanationsofaggression.ppt__SEPARATOR__HTTP Error 404: Not Found
+None deterred__SEPARATOR__unknown url type: 'None deterred'
+None agrarian__SEPARATOR__unknown url type: 'None agrarian'
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/ebsco2012usam.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None contour line__SEPARATOR__unknown url type: 'None contour line'
+None disastrous__SEPARATOR__unknown url type: 'None disastrous'
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=291-bvs-metodologia-de-trabajo&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Hilos-en-Windows.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/03-Programming-with-POSIX-Threads1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase3/Distri-Clase1-2004.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://3unnkf3k3h3c2czmge371uwp-wpengine.netdna-ssl.com/wp-content/uploads/desistas.pps__SEPARATOR__HTTP Error 403: Forbidden
+None fallacious__SEPARATOR__unknown url type: 'None fallacious'
+None botany__SEPARATOR__unknown url type: 'None botany'
+None South Magnetic Pole__SEPARATOR__unknown url type: 'None South Magnetic Pole'
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-33-Sintaxis2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/17.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None popularised__SEPARATOR__unknown url type: 'None popularised'
+None strengthened__SEPARATOR__unknown url type: 'None strengthened'
+http://www.olade.org/wp-content/uploads/2017/06/NDC-Invest-En-espa%C3%B1ol.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None cartographer__SEPARATOR__unknown url type: 'None cartographer'
+http://mood.itdurango.edu.mx/mod/resource/view.php?id=8008__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.loc.gov/catdir/cpso/RDA/RDAbeyondMARC_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None disbanded__SEPARATOR__unknown url type: 'None disbanded'
+http://organica1.org/curso1/informatica.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Petro%20Andina%20Resources/Entrega%20de%20Crudo.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None imperialism__SEPARATOR__unknown url type: 'None imperialism'
+None heartened__SEPARATOR__unknown url type: 'None heartened'
+http://www.gastrojournal.org/article/S0016-5085(16)00043-3/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30575-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70134-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://bjanaesthesia.org/article/S0007-0912(17)54207-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(17)30211-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None persuasive__SEPARATOR__unknown url type: 'None persuasive'
+http://www.usgbc.org/Docs/Archive/General/Docs743.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.poderjudicial.gob.ni/oficialia/broshure_pagina02.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.minsa.gob.pe/portada/Especiales/2008/adulto_mayor/archivos/FERIA-AM.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None inflated__SEPARATOR__unknown url type: 'None inflated'
+http://www.mountaingoatsoftware.com/uploads/presentations/Spanish-Redistributable-Intro-Scrum.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Northern Hemisphere__SEPARATOR__unknown url type: 'None Northern Hemisphere'
+None deteriorated__SEPARATOR__unknown url type: 'None deteriorated'
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30446-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.isa.cie.uva.es/~maria/redes_neuronales.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_ediciones_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None climatologist__SEPARATOR__unknown url type: 'None climatologist'
+None exabyte__SEPARATOR__unknown url type: 'None exabyte'
+None inflamed__SEPARATOR__unknown url type: 'None inflamed'
+None concealed__SEPARATOR__unknown url type: 'None concealed'
+None DVD (digital versatile disc)__SEPARATOR__unknown url type: 'None DVD (digital versatile disc)'
+None weigh__SEPARATOR__unknown url type: 'None weigh'
+http://www.alua.org.ar/Dra.%20Karin%20KOPITOWSKY%20.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/nic/index.php?option=com_docman&view=download&alias=373-uso-racional-de-antibioticos&category_slug=presentaciones&Itemid=235__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.claseshistoria.com/general/powerpoint/industrializacion.pps__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/12.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None distorted__SEPARATOR__unknown url type: 'None distorted'
+https://www.sanandres.gov.co/documentos/rendicion_cuentas_2014/10_INFRAESTRUCTURA.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None analemma__SEPARATOR__unknown url type: 'None analemma'
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70045-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.disciplenations.org/media/04-Jes%C3%BAs-Modelo-para-el-Crecimiento-y-Servicio-MASTER.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None pacified__SEPARATOR__unknown url type: 'None pacified'
+None laser printer__SEPARATOR__unknown url type: 'None laser printer'
+None awakened__SEPARATOR__unknown url type: 'None awakened'
+http://www.saber.ula.ve/dspace/bitstream/123456789/32941/7/conduct_responscdcht_feb28_11.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_conferencias_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None modernising__SEPARATOR__unknown url type: 'None modernising'
+https://www.energia.gob.ar/contenidos/archivos/NOVEDADES/jornadas_de_medicion/Medici_n%20de%20Gas%20y%20Petr_leo%20en%20Puntos%20de%20Transferencia.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/02-Arquitectura-y-Herramientas-de-Software-ver3.0.011.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+None protested__SEPARATOR__unknown url type: 'None protested'
+None stabilised__SEPARATOR__unknown url type: 'None stabilised'
+None ornithology__SEPARATOR__unknown url type: 'None ornithology'
+http://cmc.ihmc.us/cmc2010papers/Marco%20Moreira%20-%20Aprendizaje%20Significativo%20y%20Mapas%20Conceptuales.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None untenable__SEPARATOR__unknown url type: 'None untenable'
+None transformed__SEPARATOR__unknown url type: 'None transformed'
+http://www.cambridge.org/elt/resources/appliedlinguistics/intercultural/PowerpointWoodin.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.fing.edu.uy/inco/cursos/inpercom/Clases/2014/07-ingenieria-cognitiva.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.uned.ac.cr/ejecutiva/images/Servicio_medico/documentos/Osteoporosis.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://mic.gob.do/images/despacho/discursos_ministro/Presentacion-Ministro-III-Congreso-Mundial-de-Zonas-Francas.ppt__SEPARATOR__hostname 'mic.gob.do' doesn't match either of '*.bluehost.com', 'bluehost.com'
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase12y13/RMI.pps__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=66-presentacion-06-pruebas-de-laboratorio&category_slug=influenza-a-h1n1&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32345-0/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.albertomayol.cl/wp-content/uploads/2015/04/UGM-Metodolog%C3%ADa-cualitativa-II-Grounded-theory.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None trail blazing__SEPARATOR__unknown url type: 'None trail blazing'
+http://www.gruposincom.es/EGEA17/Salvador_Gutierrez_Hiatos.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None baseless__SEPARATOR__unknown url type: 'None baseless'
+None herpetology__SEPARATOR__unknown url type: 'None herpetology'
+None aristocracy__SEPARATOR__unknown url type: 'None aristocracy'
+http://www.loc.gov/catdir/cpso/RDA/temas_especiales_elementos_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_arte_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/18.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://autismodiario.org/wp-content/uploads/2012/02/biologicalexplanationsofaggression.ppt__SEPARATOR__HTTP Error 404: Not Found
+None deterred__SEPARATOR__unknown url type: 'None deterred'
+None agrarian__SEPARATOR__unknown url type: 'None agrarian'
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/ebsco2012usam.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None contour line__SEPARATOR__unknown url type: 'None contour line'
+None disastrous__SEPARATOR__unknown url type: 'None disastrous'
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=291-bvs-metodologia-de-trabajo&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Hilos-en-Windows.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/03-Programming-with-POSIX-Threads1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase3/Distri-Clase1-2004.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://3unnkf3k3h3c2czmge371uwp-wpengine.netdna-ssl.com/wp-content/uploads/desistas.pps__SEPARATOR__HTTP Error 403: Forbidden
+None fallacious__SEPARATOR__unknown url type: 'None fallacious'
+None botany__SEPARATOR__unknown url type: 'None botany'
+None South Magnetic Pole__SEPARATOR__unknown url type: 'None South Magnetic Pole'
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-33-Sintaxis2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/17.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None popularised__SEPARATOR__unknown url type: 'None popularised'
+None strengthened__SEPARATOR__unknown url type: 'None strengthened'
+http://www.olade.org/wp-content/uploads/2017/06/NDC-Invest-En-espa%C3%B1ol.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None cartographer__SEPARATOR__unknown url type: 'None cartographer'
+http://mood.itdurango.edu.mx/mod/resource/view.php?id=8008__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.loc.gov/catdir/cpso/RDA/RDAbeyondMARC_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None disbanded__SEPARATOR__unknown url type: 'None disbanded'
+http://organica1.org/curso1/informatica.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Petro%20Andina%20Resources/Entrega%20de%20Crudo.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None imperialism__SEPARATOR__unknown url type: 'None imperialism'
+None heartened__SEPARATOR__unknown url type: 'None heartened'
+http://www.gastrojournal.org/article/S0016-5085(16)00043-3/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30575-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70134-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://bjanaesthesia.org/article/S0007-0912(17)54207-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(17)30211-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None persuasive__SEPARATOR__unknown url type: 'None persuasive'
+http://www.usgbc.org/Docs/Archive/General/Docs743.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.poderjudicial.gob.ni/oficialia/broshure_pagina02.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.minsa.gob.pe/portada/Especiales/2008/adulto_mayor/archivos/FERIA-AM.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None inflated__SEPARATOR__unknown url type: 'None inflated'
+http://www.mountaingoatsoftware.com/uploads/presentations/Spanish-Redistributable-Intro-Scrum.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Northern Hemisphere__SEPARATOR__unknown url type: 'None Northern Hemisphere'
+None deteriorated__SEPARATOR__unknown url type: 'None deteriorated'
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30446-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/18.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://autismodiario.org/wp-content/uploads/2012/02/biologicalexplanationsofaggression.ppt__SEPARATOR__HTTP Error 404: Not Found
+None deterred__SEPARATOR__unknown url type: 'None deterred'
+None agrarian__SEPARATOR__unknown url type: 'None agrarian'
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/ebsco2012usam.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None contour line__SEPARATOR__unknown url type: 'None contour line'
+None disastrous__SEPARATOR__unknown url type: 'None disastrous'
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=291-bvs-metodologia-de-trabajo&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Hilos-en-Windows.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/03-Programming-with-POSIX-Threads1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase3/Distri-Clase1-2004.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://3unnkf3k3h3c2czmge371uwp-wpengine.netdna-ssl.com/wp-content/uploads/desistas.pps__SEPARATOR__HTTP Error 403: Forbidden
+None fallacious__SEPARATOR__unknown url type: 'None fallacious'
+None botany__SEPARATOR__unknown url type: 'None botany'
+None South Magnetic Pole__SEPARATOR__unknown url type: 'None South Magnetic Pole'
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-33-Sintaxis2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/17.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None popularised__SEPARATOR__unknown url type: 'None popularised'
+None strengthened__SEPARATOR__unknown url type: 'None strengthened'
+http://www.olade.org/wp-content/uploads/2017/06/NDC-Invest-En-espa%C3%B1ol.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None cartographer__SEPARATOR__unknown url type: 'None cartographer'
+http://mood.itdurango.edu.mx/mod/resource/view.php?id=8008__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.loc.gov/catdir/cpso/RDA/RDAbeyondMARC_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None disbanded__SEPARATOR__unknown url type: 'None disbanded'
+http://organica1.org/curso1/informatica.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Petro%20Andina%20Resources/Entrega%20de%20Crudo.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None imperialism__SEPARATOR__unknown url type: 'None imperialism'
+None heartened__SEPARATOR__unknown url type: 'None heartened'
+http://www.gastrojournal.org/article/S0016-5085(16)00043-3/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30575-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70134-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://bjanaesthesia.org/article/S0007-0912(17)54207-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(17)30211-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None persuasive__SEPARATOR__unknown url type: 'None persuasive'
+http://www.usgbc.org/Docs/Archive/General/Docs743.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.poderjudicial.gob.ni/oficialia/broshure_pagina02.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.minsa.gob.pe/portada/Especiales/2008/adulto_mayor/archivos/FERIA-AM.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None inflated__SEPARATOR__unknown url type: 'None inflated'
+http://www.mountaingoatsoftware.com/uploads/presentations/Spanish-Redistributable-Intro-Scrum.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Northern Hemisphere__SEPARATOR__unknown url type: 'None Northern Hemisphere'
+None deteriorated__SEPARATOR__unknown url type: 'None deteriorated'
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30446-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/18.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://autismodiario.org/wp-content/uploads/2012/02/biologicalexplanationsofaggression.ppt__SEPARATOR__HTTP Error 404: Not Found
+None deterred__SEPARATOR__unknown url type: 'None deterred'
+None agrarian__SEPARATOR__unknown url type: 'None agrarian'
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/ebsco2012usam.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None contour line__SEPARATOR__unknown url type: 'None contour line'
+None disastrous__SEPARATOR__unknown url type: 'None disastrous'
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=291-bvs-metodologia-de-trabajo&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Hilos-en-Windows.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/03-Programming-with-POSIX-Threads1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase3/Distri-Clase1-2004.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://3unnkf3k3h3c2czmge371uwp-wpengine.netdna-ssl.com/wp-content/uploads/desistas.pps__SEPARATOR__HTTP Error 403: Forbidden
+None fallacious__SEPARATOR__unknown url type: 'None fallacious'
+None botany__SEPARATOR__unknown url type: 'None botany'
+None South Magnetic Pole__SEPARATOR__unknown url type: 'None South Magnetic Pole'
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-33-Sintaxis2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/17.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None popularised__SEPARATOR__unknown url type: 'None popularised'
+None strengthened__SEPARATOR__unknown url type: 'None strengthened'
+http://www.olade.org/wp-content/uploads/2017/06/NDC-Invest-En-espa%C3%B1ol.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None cartographer__SEPARATOR__unknown url type: 'None cartographer'
+http://mood.itdurango.edu.mx/mod/resource/view.php?id=8008__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.loc.gov/catdir/cpso/RDA/RDAbeyondMARC_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None disbanded__SEPARATOR__unknown url type: 'None disbanded'
+http://organica1.org/curso1/informatica.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Petro%20Andina%20Resources/Entrega%20de%20Crudo.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None imperialism__SEPARATOR__unknown url type: 'None imperialism'
+None heartened__SEPARATOR__unknown url type: 'None heartened'
+http://www.gastrojournal.org/article/S0016-5085(16)00043-3/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30575-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70134-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://bjanaesthesia.org/article/S0007-0912(17)54207-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(17)30211-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None persuasive__SEPARATOR__unknown url type: 'None persuasive'
+http://www.usgbc.org/Docs/Archive/General/Docs743.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.poderjudicial.gob.ni/oficialia/broshure_pagina02.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.minsa.gob.pe/portada/Especiales/2008/adulto_mayor/archivos/FERIA-AM.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None inflated__SEPARATOR__unknown url type: 'None inflated'
+http://www.mountaingoatsoftware.com/uploads/presentations/Spanish-Redistributable-Intro-Scrum.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Northern Hemisphere__SEPARATOR__unknown url type: 'None Northern Hemisphere'
+None deteriorated__SEPARATOR__unknown url type: 'None deteriorated'
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30446-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/18.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://autismodiario.org/wp-content/uploads/2012/02/biologicalexplanationsofaggression.ppt__SEPARATOR__HTTP Error 404: Not Found
+None deterred__SEPARATOR__unknown url type: 'None deterred'
+None agrarian__SEPARATOR__unknown url type: 'None agrarian'
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/ebsco2012usam.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None contour line__SEPARATOR__unknown url type: 'None contour line'
+None disastrous__SEPARATOR__unknown url type: 'None disastrous'
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=291-bvs-metodologia-de-trabajo&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Hilos-en-Windows.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/03-Programming-with-POSIX-Threads1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase3/Distri-Clase1-2004.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://3unnkf3k3h3c2czmge371uwp-wpengine.netdna-ssl.com/wp-content/uploads/desistas.pps__SEPARATOR__HTTP Error 403: Forbidden
+None fallacious__SEPARATOR__unknown url type: 'None fallacious'
+None botany__SEPARATOR__unknown url type: 'None botany'
+None South Magnetic Pole__SEPARATOR__unknown url type: 'None South Magnetic Pole'
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-33-Sintaxis2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/17.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None popularised__SEPARATOR__unknown url type: 'None popularised'
+None strengthened__SEPARATOR__unknown url type: 'None strengthened'
+http://www.olade.org/wp-content/uploads/2017/06/NDC-Invest-En-espa%C3%B1ol.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None cartographer__SEPARATOR__unknown url type: 'None cartographer'
+http://mood.itdurango.edu.mx/mod/resource/view.php?id=8008__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.loc.gov/catdir/cpso/RDA/RDAbeyondMARC_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None disbanded__SEPARATOR__unknown url type: 'None disbanded'
+http://organica1.org/curso1/informatica.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Petro%20Andina%20Resources/Entrega%20de%20Crudo.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None imperialism__SEPARATOR__unknown url type: 'None imperialism'
+None heartened__SEPARATOR__unknown url type: 'None heartened'
+http://www.gastrojournal.org/article/S0016-5085(16)00043-3/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30575-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70134-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://bjanaesthesia.org/article/S0007-0912(17)54207-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(17)30211-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None persuasive__SEPARATOR__unknown url type: 'None persuasive'
+http://www.usgbc.org/Docs/Archive/General/Docs743.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.poderjudicial.gob.ni/oficialia/broshure_pagina02.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.minsa.gob.pe/portada/Especiales/2008/adulto_mayor/archivos/FERIA-AM.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None inflated__SEPARATOR__unknown url type: 'None inflated'
+http://www.mountaingoatsoftware.com/uploads/presentations/Spanish-Redistributable-Intro-Scrum.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Northern Hemisphere__SEPARATOR__unknown url type: 'None Northern Hemisphere'
+None deteriorated__SEPARATOR__unknown url type: 'None deteriorated'
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30446-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.isa.cie.uva.es/~maria/redes_neuronales.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_ediciones_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None climatologist__SEPARATOR__unknown url type: 'None climatologist'
+None exabyte__SEPARATOR__unknown url type: 'None exabyte'
+None inflamed__SEPARATOR__unknown url type: 'None inflamed'
+None concealed__SEPARATOR__unknown url type: 'None concealed'
+None DVD (digital versatile disc)__SEPARATOR__unknown url type: 'None DVD (digital versatile disc)'
+None weigh__SEPARATOR__unknown url type: 'None weigh'
+http://www.alua.org.ar/Dra.%20Karin%20KOPITOWSKY%20.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/nic/index.php?option=com_docman&view=download&alias=373-uso-racional-de-antibioticos&category_slug=presentaciones&Itemid=235__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.claseshistoria.com/general/powerpoint/industrializacion.pps__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/12.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None distorted__SEPARATOR__unknown url type: 'None distorted'
+https://www.sanandres.gov.co/documentos/rendicion_cuentas_2014/10_INFRAESTRUCTURA.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None analemma__SEPARATOR__unknown url type: 'None analemma'
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70045-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.disciplenations.org/media/04-Jes%C3%BAs-Modelo-para-el-Crecimiento-y-Servicio-MASTER.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None pacified__SEPARATOR__unknown url type: 'None pacified'
+None laser printer__SEPARATOR__unknown url type: 'None laser printer'
+None awakened__SEPARATOR__unknown url type: 'None awakened'
+http://www.saber.ula.ve/dspace/bitstream/123456789/32941/7/conduct_responscdcht_feb28_11.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_conferencias_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None modernising__SEPARATOR__unknown url type: 'None modernising'
+https://www.energia.gob.ar/contenidos/archivos/NOVEDADES/jornadas_de_medicion/Medici_n%20de%20Gas%20y%20Petr_leo%20en%20Puntos%20de%20Transferencia.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/02-Arquitectura-y-Herramientas-de-Software-ver3.0.011.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+None protested__SEPARATOR__unknown url type: 'None protested'
+None stabilised__SEPARATOR__unknown url type: 'None stabilised'
+None ornithology__SEPARATOR__unknown url type: 'None ornithology'
+http://cmc.ihmc.us/cmc2010papers/Marco%20Moreira%20-%20Aprendizaje%20Significativo%20y%20Mapas%20Conceptuales.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None untenable__SEPARATOR__unknown url type: 'None untenable'
+None transformed__SEPARATOR__unknown url type: 'None transformed'
+http://www.cambridge.org/elt/resources/appliedlinguistics/intercultural/PowerpointWoodin.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.fing.edu.uy/inco/cursos/inpercom/Clases/2014/07-ingenieria-cognitiva.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.uned.ac.cr/ejecutiva/images/Servicio_medico/documentos/Osteoporosis.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://mic.gob.do/images/despacho/discursos_ministro/Presentacion-Ministro-III-Congreso-Mundial-de-Zonas-Francas.ppt__SEPARATOR__hostname 'mic.gob.do' doesn't match either of '*.bluehost.com', 'bluehost.com'
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase12y13/RMI.pps__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=66-presentacion-06-pruebas-de-laboratorio&category_slug=influenza-a-h1n1&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32345-0/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.albertomayol.cl/wp-content/uploads/2015/04/UGM-Metodolog%C3%ADa-cualitativa-II-Grounded-theory.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None trail blazing__SEPARATOR__unknown url type: 'None trail blazing'
+http://www.gruposincom.es/EGEA17/Salvador_Gutierrez_Hiatos.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None baseless__SEPARATOR__unknown url type: 'None baseless'
+None herpetology__SEPARATOR__unknown url type: 'None herpetology'
+None aristocracy__SEPARATOR__unknown url type: 'None aristocracy'
+http://www.loc.gov/catdir/cpso/RDA/temas_especiales_elementos_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_arte_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/18.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://autismodiario.org/wp-content/uploads/2012/02/biologicalexplanationsofaggression.ppt__SEPARATOR__HTTP Error 404: Not Found
+None deterred__SEPARATOR__unknown url type: 'None deterred'
+None agrarian__SEPARATOR__unknown url type: 'None agrarian'
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/ebsco2012usam.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None contour line__SEPARATOR__unknown url type: 'None contour line'
+None disastrous__SEPARATOR__unknown url type: 'None disastrous'
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=291-bvs-metodologia-de-trabajo&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Hilos-en-Windows.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/03-Programming-with-POSIX-Threads1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase3/Distri-Clase1-2004.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://3unnkf3k3h3c2czmge371uwp-wpengine.netdna-ssl.com/wp-content/uploads/desistas.pps__SEPARATOR__HTTP Error 403: Forbidden
+None fallacious__SEPARATOR__unknown url type: 'None fallacious'
+None botany__SEPARATOR__unknown url type: 'None botany'
+None South Magnetic Pole__SEPARATOR__unknown url type: 'None South Magnetic Pole'
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-33-Sintaxis2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/17.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None popularised__SEPARATOR__unknown url type: 'None popularised'
+None strengthened__SEPARATOR__unknown url type: 'None strengthened'
+http://www.olade.org/wp-content/uploads/2017/06/NDC-Invest-En-espa%C3%B1ol.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None cartographer__SEPARATOR__unknown url type: 'None cartographer'
+http://mood.itdurango.edu.mx/mod/resource/view.php?id=8008__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.loc.gov/catdir/cpso/RDA/RDAbeyondMARC_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None disbanded__SEPARATOR__unknown url type: 'None disbanded'
+http://organica1.org/curso1/informatica.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Petro%20Andina%20Resources/Entrega%20de%20Crudo.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None imperialism__SEPARATOR__unknown url type: 'None imperialism'
+None heartened__SEPARATOR__unknown url type: 'None heartened'
+http://www.gastrojournal.org/article/S0016-5085(16)00043-3/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30575-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70134-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://bjanaesthesia.org/article/S0007-0912(17)54207-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(17)30211-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None persuasive__SEPARATOR__unknown url type: 'None persuasive'
+http://www.usgbc.org/Docs/Archive/General/Docs743.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.poderjudicial.gob.ni/oficialia/broshure_pagina02.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.minsa.gob.pe/portada/Especiales/2008/adulto_mayor/archivos/FERIA-AM.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None inflated__SEPARATOR__unknown url type: 'None inflated'
+http://www.mountaingoatsoftware.com/uploads/presentations/Spanish-Redistributable-Intro-Scrum.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Northern Hemisphere__SEPARATOR__unknown url type: 'None Northern Hemisphere'
+None deteriorated__SEPARATOR__unknown url type: 'None deteriorated'
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30446-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.isa.cie.uva.es/~maria/redes_neuronales.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_ediciones_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None climatologist__SEPARATOR__unknown url type: 'None climatologist'
+None exabyte__SEPARATOR__unknown url type: 'None exabyte'
+None inflamed__SEPARATOR__unknown url type: 'None inflamed'
+None concealed__SEPARATOR__unknown url type: 'None concealed'
+None DVD (digital versatile disc)__SEPARATOR__unknown url type: 'None DVD (digital versatile disc)'
+None weigh__SEPARATOR__unknown url type: 'None weigh'
+http://www.alua.org.ar/Dra.%20Karin%20KOPITOWSKY%20.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/nic/index.php?option=com_docman&view=download&alias=373-uso-racional-de-antibioticos&category_slug=presentaciones&Itemid=235__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.claseshistoria.com/general/powerpoint/industrializacion.pps__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/12.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None distorted__SEPARATOR__unknown url type: 'None distorted'
+https://www.sanandres.gov.co/documentos/rendicion_cuentas_2014/10_INFRAESTRUCTURA.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None analemma__SEPARATOR__unknown url type: 'None analemma'
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70045-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.disciplenations.org/media/04-Jes%C3%BAs-Modelo-para-el-Crecimiento-y-Servicio-MASTER.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None pacified__SEPARATOR__unknown url type: 'None pacified'
+None laser printer__SEPARATOR__unknown url type: 'None laser printer'
+None awakened__SEPARATOR__unknown url type: 'None awakened'
+http://www.saber.ula.ve/dspace/bitstream/123456789/32941/7/conduct_responscdcht_feb28_11.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_conferencias_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None modernising__SEPARATOR__unknown url type: 'None modernising'
+https://www.energia.gob.ar/contenidos/archivos/NOVEDADES/jornadas_de_medicion/Medici_n%20de%20Gas%20y%20Petr_leo%20en%20Puntos%20de%20Transferencia.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/02-Arquitectura-y-Herramientas-de-Software-ver3.0.011.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+None protested__SEPARATOR__unknown url type: 'None protested'
+None stabilised__SEPARATOR__unknown url type: 'None stabilised'
+None ornithology__SEPARATOR__unknown url type: 'None ornithology'
+http://cmc.ihmc.us/cmc2010papers/Marco%20Moreira%20-%20Aprendizaje%20Significativo%20y%20Mapas%20Conceptuales.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None untenable__SEPARATOR__unknown url type: 'None untenable'
+None transformed__SEPARATOR__unknown url type: 'None transformed'
+http://www.cambridge.org/elt/resources/appliedlinguistics/intercultural/PowerpointWoodin.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.fing.edu.uy/inco/cursos/inpercom/Clases/2014/07-ingenieria-cognitiva.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.uned.ac.cr/ejecutiva/images/Servicio_medico/documentos/Osteoporosis.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://mic.gob.do/images/despacho/discursos_ministro/Presentacion-Ministro-III-Congreso-Mundial-de-Zonas-Francas.ppt__SEPARATOR__hostname 'mic.gob.do' doesn't match either of '*.bluehost.com', 'bluehost.com'
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase12y13/RMI.pps__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=66-presentacion-06-pruebas-de-laboratorio&category_slug=influenza-a-h1n1&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32345-0/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.albertomayol.cl/wp-content/uploads/2015/04/UGM-Metodolog%C3%ADa-cualitativa-II-Grounded-theory.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+None trail blazing__SEPARATOR__unknown url type: 'None trail blazing'
+http://www.gruposincom.es/EGEA17/Salvador_Gutierrez_Hiatos.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None baseless__SEPARATOR__unknown url type: 'None baseless'
+None herpetology__SEPARATOR__unknown url type: 'None herpetology'
+None aristocracy__SEPARATOR__unknown url type: 'None aristocracy'
+http://www.loc.gov/catdir/cpso/RDA/temas_especiales_elementos_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_arte_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.das.uchile.cl/~simon/docencia/as735_2004B/zeeman.ppt__SEPARATOR__<urlopen error retrieval incomplete: got only 506503 out of 2686976 bytes>
+http://www.smartcampaign.org/storage/documents/Compartamos_Ethics_Course_w_Translation_in_Notes.ppt__SEPARATOR__Remote end closed connection without response
+http://www.ilc.com.co/storage/files/ZTFYPAKHXC_20170118211333.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/11-MPI.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://www.edafologia.net/erosion/tema1_intro/1_intro2010.ppt__SEPARATOR__HTTP Error 503: Service Temporarily Unavailable
+http://www.precolombino.cl/wp/wp-content/uploads/2011/10/el-poblamiento-de-america.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.msssi.gob.es/ssi/familiasInfancia/parentalidadPos2010/docs/itziarFernandez.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+None clamped down__SEPARATOR__unknown url type: 'None clamped down'
+https://www.aesnet.org/sites/default/files/file_attach/ProfessionalEducation/Spanish/SurgerySectioninSpanishnewtemplate.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.flacsi.net/wp-content/uploads/2014/09/2014-ESP-Belen-FLACSI-Presentation.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None exacerbated__SEPARATOR__unknown url type: 'None exacerbated'
+http://caribana.co.ve/wp-content/uploads/2012/11/8_La-red-de-turismo-responsable-AITR-Maurizio-Davolio.ppt__SEPARATOR__HTTP Error 404: Not Found
+None popular sovereignty__SEPARATOR__unknown url type: 'None popular sovereignty'
+None signpost__SEPARATOR__unknown url type: 'None signpost'
+http://www.avempace.com/files/ILUSTRACION-sandra%20y%20diego.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.avempace.com/file_download/3580/Concepto+8.+LA+ILUSTRACI%C3%93N.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.graduadoscolombia.edu.co/html/1732/articles-153104_presentacion_ppt.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+None dishonest__SEPARATOR__unknown url type: 'None dishonest'
+ftp://ftp.uady.mx/pub/bibliotecas/Recursos%20de%20Informacion%20CS/Comunicaci%C3%B3n%20informal_redes%20sociales.ppt__SEPARATOR__<urlopen error ftp error: URLError("ftp error: error_perm('550 Failed to change directory.',)",)>
+http://www.antoniopulido.es/documentos/con061120.pps__SEPARATOR__HTTP Error 404: Not Found
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/YPF-UN%20Argentina%20Oeste/Present_SEN1.ppt?PHPSESSID=a01af4e1fc0b67399972d270a724af84__SEPARATOR__HTTP Error 403: Forbidden
+None ruinous__SEPARATOR__unknown url type: 'None ruinous'
+https://www.mineducacion.gov.co/1621/articles-100588_archivo_ppt.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+None great circle__SEPARATOR__unknown url type: 'None great circle'
+https://www.udc.es/export/sites/udc/33jornadasgerencia/_galeria_down/ponencias/fglaxe.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+None paraphrase__SEPARATOR__unknown url type: 'None paraphrase'
+http://www.servir.net/workshops/DR/servir_dr_aster_mar08.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.loc.gov/catdir/cpso/frbryfrad/frbr-modulo_oct09.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.isaca.org/Knowledge-Center/cobit/Documents/COBIT5-and-InfoSec-Spanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.loc.gov/catdir/cpso/RDA/RDAmodulo2_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None convincing__SEPARATOR__unknown url type: 'None convincing'
+None teminal__SEPARATOR__unknown url type: 'None teminal'
+http://www.inventandopolvora.org/textos/1-biografia-Butler.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None North Magnetic Pole__SEPARATOR__unknown url type: 'None North Magnetic Pole'
+None compass rose__SEPARATOR__unknown url type: 'None compass rose'
+None retort__SEPARATOR__unknown url type: 'None retort'
+None lepidoptery__SEPARATOR__unknown url type: 'None lepidoptery'
+None totalitarianism__SEPARATOR__unknown url type: 'None totalitarianism'
+https://www.isaca.org/COBIT/Documents/COBIT5-and-InfoSec-Spanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://eventos.donweb.com/presentaciones-ba/ornela-perretta.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None far fetched__SEPARATOR__unknown url type: 'None far fetched'
+None Antarctic Circle__SEPARATOR__unknown url type: 'None Antarctic Circle'
+https://www.uned.ac.cr/ecsh/images/documentos/catpsico/ComoHacerUnEnsayo.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None held back__SEPARATOR__unknown url type: 'None held back'
+None electrochemist__SEPARATOR__unknown url type: 'None electrochemist'
+None uplifted__SEPARATOR__unknown url type: 'None uplifted'
+None annotated bibliography__SEPARATOR__unknown url type: 'None annotated bibliography'
+None regressed__SEPARATOR__unknown url type: 'None regressed'
+https://www.mineducacion.gov.co/1621/articles-190204_archivo_pps_modelo.pps__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/08.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None typeface__SEPARATOR__unknown url type: 'None typeface'
+None communism__SEPARATOR__unknown url type: 'None communism'
+None cyberspace__SEPARATOR__unknown url type: 'None cyberspace'
+https://uvirtual.unet.edu.ve/mod/resource/view.php?id=78243__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None spurred__SEPARATOR__unknown url type: 'None spurred'
+https://www.energia.gob.ar/contenidos/archivos/NOVEDADES/jornadas_de_medicion/Jornadas%20Sec%20Energia.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None subtraction__SEPARATOR__unknown url type: 'None subtraction'
+None spurious__SEPARATOR__unknown url type: 'None spurious'
+None prospered__SEPARATOR__unknown url type: 'None prospered'
+None junk mail__SEPARATOR__unknown url type: 'None junk mail'
+None mollified__SEPARATOR__unknown url type: 'None mollified'
+None sapped__SEPARATOR__unknown url type: 'None sapped'
+None developed__SEPARATOR__unknown url type: 'None developed'
+None tumultuous__SEPARATOR__unknown url type: 'None tumultuous'
+None historiographical activity__SEPARATOR__unknown url type: 'None historiographical activity'
+None uprooting__SEPARATOR__unknown url type: 'None uprooting'
+None mobilised__SEPARATOR__unknown url type: 'None mobilised'
+http://www.curriculumnacional.cl/wp-content/uploads/recursos_digitales/articles-25245_recurso_ppt.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.curriculumnacional.cl/wp-content/uploads/recursos_digitales/articles-31420_recurso_ppt.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.curriculumnacional.cl/wp-content/uploads/recursos_digitales/articles-25250_recurso_ppt.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.cba.gov.ar/wp-content/4p96humuzp/2017/03/PEPB-21-abril.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None antipodes__SEPARATOR__unknown url type: 'None antipodes'
+None calamitous__SEPARATOR__unknown url type: 'None calamitous'
+None dispersed__SEPARATOR__unknown url type: 'None dispersed'
+ftp://ftp.unicauca.edu.co/Facultades/FIET/DEIC/Materias/Sistemas%20de%20Control%20Embebido/9.%20M%E1quinas%20de%20Estado%20Finitas/Maquinas%20de%20estados.ppt__SEPARATOR__'latin-1' codec can't encode character '\ufffd' in position 67: ordinal not in range(256)
+None lurking__SEPARATOR__unknown url type: 'None lurking'
+https://www.mineducacion.gov.co/1621/articles-190270_archivo_pps_5eses.pps__SEPARATOR__HTTP Error 500: Internal Server Error
+None propagandist__SEPARATOR__unknown url type: 'None propagandist'
+None absolutism__SEPARATOR__unknown url type: 'None absolutism'
+None syndicalism__SEPARATOR__unknown url type: 'None syndicalism'
+None server__SEPARATOR__unknown url type: 'None server'
+None critically analyse__SEPARATOR__unknown url type: 'None critically analyse'
+None microbiologist__SEPARATOR__unknown url type: 'None microbiologist'
+https://www.mineducacion.gov.co/1759/articles-266598_archivo_ppt_9_yaneth2.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.senado.gov.ar/upload/3198.ppt__SEPARATOR__[Errno 104] Connection reset by peer
+None quelled__SEPARATOR__unknown url type: 'None quelled'
+http://www.banrep.gov.co/docum/Lectura_finanzas/pdf/Revaluacion4.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.saber.ula.ve/bitstream/123456789/39827/5/NDII_disfuncion_mito.ppt__SEPARATOR__HTTP Error 503: Service Temporarily Unavailable
+https://biblioteca.ugr.es/pages/biblioteca_electronica/bases_datos/portalrevistasproview/%21__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None RAM (random access memory)__SEPARATOR__unknown url type: 'None RAM (random access memory)'
+None flash drive__SEPARATOR__unknown url type: 'None flash drive'
+None ground breaking__SEPARATOR__unknown url type: 'None ground breaking'
+http://webdelprofesor.ula.ve/ingenieria/dhh/Introduccion_a_los_punteros.ppt__SEPARATOR__HTTP Error 404: Not Found
+None instigated__SEPARATOR__unknown url type: 'None instigated'
+None supercomputer__SEPARATOR__unknown url type: 'None supercomputer'
+None revolutionary__SEPARATOR__unknown url type: 'None revolutionary'
+None clergy__SEPARATOR__unknown url type: 'None clergy'
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/10.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://servicios.educarm.es/templates/portal/images/ficheros/etapasEducativas/secundaria/16/secciones/320/contenidos/7827/macroeconomia.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None ominous__SEPARATOR__unknown url type: 'None ominous'
+None drained__SEPARATOR__unknown url type: 'None drained'
+None map projection__SEPARATOR__unknown url type: 'None map projection'
+None theocracy__SEPARATOR__unknown url type: 'None theocracy'
+https://drupalperu.org/sites/default/files/materiales/Drupal%20-%20%20Intro%20Mi%20primer%20sitio.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.iphu.org/sites/www.iphu.org/files/PERSPECTIVA%20DE%20GENERO%20Y%20SALUD.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.mecd.gob.es/dctm/ministerio/educacion/actividad-internacional/consejerias/reino-unido/presentaciones-aux-conversacion/2011/fugatalentos.ppt?documentId=0901e72b80d96424__SEPARATOR__HTTP Error 503: Servicio no Disponible
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/Module_1_1_Basic_Information_on_HINARI_AGORA_and_OARE_and_the_Internet_Spanish_2011_11-1.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None geographic coordinates__SEPARATOR__unknown url type: 'None geographic coordinates'
+https://www.avempace.com/file_download/2787/FEUDALISMO.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.ucongreso.edu.ar/wp-content/uploads/2015/09/Comercio-Internacional-UC.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None ichthyology__SEPARATOR__unknown url type: 'None ichthyology'
+None inspired__SEPARATOR__unknown url type: 'None inspired'
+http://www.cadtm.org/IMG/ppt/Actualite_de_la_dette_publique_dans_les_pays.ppt__SEPARATOR__HTTP Error 404: Not Found
+None piracy__SEPARATOR__unknown url type: 'None piracy'
+None smothered__SEPARATOR__unknown url type: 'None smothered'
+http://www.colombiaaprende.edu.co/html/home/1592/articles-99244_archivo_1.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.randonneurs.es/mgm/mgm2005.ppt__SEPARATOR__Remote end closed connection without response
+http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Pluspetrol%20Energy/Pluspetrol%20Energy%20-%20Ramos.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+https://paradigma-psicologia.es/wordpress/wp-content/uploads/2012/09/Efecto-Pigmalion.x89239.pps__SEPARATOR__HTTP Error 404: Not Found
+None map-maker__SEPARATOR__unknown url type: 'None map-maker'
+None oppressed__SEPARATOR__unknown url type: 'None oppressed'
+None forerunner__SEPARATOR__unknown url type: 'None forerunner'
+https://www.paho.org/ecu/index.php?option=com_docman&view=download&alias=92-vacuna-contra-la-pandemia-de-influenza-a-h1n1-en-paises-en-desarrollo&category_slug=presentations&Itemid=599__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None repressed__SEPARATOR__unknown url type: 'None repressed'
+None shattering__SEPARATOR__unknown url type: 'None shattering'
+None topographic map__SEPARATOR__unknown url type: 'None topographic map'
+None urged__SEPARATOR__unknown url type: 'None urged'
+None aroused__SEPARATOR__unknown url type: 'None aroused'
+None capitalist__SEPARATOR__unknown url type: 'None capitalist'
+None constitutional monarchy__SEPARATOR__unknown url type: 'None constitutional monarchy'
+None curbed__SEPARATOR__unknown url type: 'None curbed'
+None degree of latitude__SEPARATOR__unknown url type: 'None degree of latitude'
+None decimated__SEPARATOR__unknown url type: 'None decimated'
+None wearied__SEPARATOR__unknown url type: 'None wearied'
+None International Date Line__SEPARATOR__unknown url type: 'None International Date Line'
+https://frenchteacher.net/Spanish/Que%20se%20puede%20hacer%20en%20tu%20ciudad.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None resisted__SEPARATOR__unknown url type: 'None resisted'
+None restrained__SEPARATOR__unknown url type: 'None restrained'
+None far sighted__SEPARATOR__unknown url type: 'None far sighted'
+None burette__SEPARATOR__unknown url type: 'None burette'
+http://gshpv.ibmcp.csic.es/Home.html/Downloads_files/Estructural.pps__SEPARATOR__HTTP Error 500: Internal Server Error
+None radicalised__SEPARATOR__unknown url type: 'None radicalised'
+None incited__SEPARATOR__unknown url type: 'None incited'
+None overpowered__SEPARATOR__unknown url type: 'None overpowered'
+http://www.mflresources.org.uk/sp_pp/cine1.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None scale bar__SEPARATOR__unknown url type: 'None scale bar'
+None notebook computer__SEPARATOR__unknown url type: 'None notebook computer'
+None proletariat__SEPARATOR__unknown url type: 'None proletariat'
+None brought about__SEPARATOR__unknown url type: 'None brought about'
+None sensationalist__SEPARATOR__unknown url type: 'None sensationalist'
+None Internet__SEPARATOR__unknown url type: 'None Internet'
+http://sac.csic.es/unawe/Animaciones/Sol%20de%20medianoche-Soleil%20de%20Minuit.pps__SEPARATOR__HTTP Error 500: Internal Server Error
+None doubtful__SEPARATOR__unknown url type: 'None doubtful'
+https://www.sugef.fi.cr/manuales/manual_de_informacion_sicveca/pasivos/documentos/Presentacion%20Envio%20Informacion%20SICVECA.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None web host__SEPARATOR__unknown url type: 'None web host'
+http://www.unav.edu/congreso/workshopweb/files/file/comunicar-en-la-red.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+None strained__SEPARATOR__unknown url type: 'None strained'
+http://www.eduni.uni.edu.pe/PPT%20Plan%20de%20Innovacion%20VF%20Enero%202012.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+https://cites.org/sites/default/files/esp/prog/sharks/9-Colombia.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://sac.csic.es/unawe/Animaciones/NASA.pps__SEPARATOR__HTTP Error 500: Internal Server Error
+None tributary__SEPARATOR__unknown url type: 'None tributary'
+https://www.irya.unam.mx/verano/download/astroquimica_1.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.mineducacion.gov.co/1621/articles-351988_recurso_12.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.elmundodelsuperdotado.com/Juegos/Pruebas_de_logica.pps__SEPARATOR__HTTP Error 404: Not Found
+http://www.magma-store.com/consejo/ficheros/documentos/1293613643.91_2_EXPOSICION_OCIO_2007_97_03.ppt__SEPARATOR__[Errno 104] Connection reset by peer
+https://publications.iadb.org/bitstream/handle/11319/4566/Presentaci%C3%B3n%20del%20InfraScope.ppt?sequence=1__SEPARATOR__HTTP Error 500: Internal Server Error
+None peasantry__SEPARATOR__unknown url type: 'None peasantry'
+None phoney__SEPARATOR__unknown url type: 'None phoney'
+None rocked__SEPARATOR__unknown url type: 'None rocked'
+None fuelled__SEPARATOR__unknown url type: 'None fuelled'
+None subdued__SEPARATOR__unknown url type: 'None subdued'
+http://www.inventandopolvora.org/textos/performatividad_abyeccion.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.es/gep/SeminarioMariluzRestrepo2017.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://biblioteca.uca.es/geuin2005/presentaciones/CBUA/CatalogoColectivoCBUA.ppt__SEPARATOR__HTTP Error 404: Not Found
+None Bunsen burner__SEPARATOR__unknown url type: 'None Bunsen burner'
+None wound back__SEPARATOR__unknown url type: 'None wound back'
+None dot matrix__SEPARATOR__unknown url type: 'None dot matrix'
+http://www.otcasea.gob.do/wp-content/uploads/2009/10/normativas-privadas-comercio-de-frutas-d-satragni1.pps__SEPARATOR__HTTP Error 403: Forbidden
+None emboldened__SEPARATOR__unknown url type: 'None emboldened'
+https://uvirtual.unet.edu.ve/mod/resource/view.php?id=26495__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None toolbar__SEPARATOR__unknown url type: 'None toolbar'
+None mineralogy__SEPARATOR__unknown url type: 'None mineralogy'
+None fatigued__SEPARATOR__unknown url type: 'None fatigued'
+None cuvette__SEPARATOR__unknown url type: 'None cuvette'
+None kindled__SEPARATOR__unknown url type: 'None kindled'
+None halted__SEPARATOR__unknown url type: 'None halted'
+None dubious__SEPARATOR__unknown url type: 'None dubious'
+None magnetism__SEPARATOR__unknown url type: 'None magnetism'
+None upset__SEPARATOR__unknown url type: 'None upset'
+https://www.ilunion.com/sites/default/files/organigrama_2017_ilunion_hotels.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.captac-dr.org/c/document_library/get_file?folderId=114155&name=DLFE-5010.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+None bathymetric map__SEPARATOR__unknown url type: 'None bathymetric map'
+http://repositorio.sineace.gob.pe/repositorio/bitstream/handle/123456789/596/CAPITAL%20HUMANO%20Y%20COMPETITIVIDAD%283%29.ppt?sequence=1&isAllowed=y__SEPARATOR__HTTP Error 404: 
+http://www.curriculumnacional.cl/wp-content/uploads/recursos_digitales/articles-29878_recurso_ppt.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None volumetric flask__SEPARATOR__unknown url type: 'None volumetric flask'
+None Arctic Circle__SEPARATOR__unknown url type: 'None Arctic Circle'
+None autocracy__SEPARATOR__unknown url type: 'None autocracy'
+https://aulavirtual.fio.unam.edu.ar/mod/resource/view.php?id=326__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None unsettled__SEPARATOR__unknown url type: 'None unsettled'
+None unsettling__SEPARATOR__unknown url type: 'None unsettling'
+http://www.minsa.gob.pe/portada/aseguramiento/Archivos/Ponencias/2010/11Noviembre/03FinancCoberturaUniversaLima.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None nationalism__SEPARATOR__unknown url type: 'None nationalism'
+None spear heading__SEPARATOR__unknown url type: 'None spear heading'
+None nautical chart__SEPARATOR__unknown url type: 'None nautical chart'
+https://sede.aemps.gob.es/docs/ManualUsuarioeRoom_rev3.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+None devastating__SEPARATOR__unknown url type: 'None devastating'
+None bourgeoisie__SEPARATOR__unknown url type: 'None bourgeoisie'
+https://uvirtual.unet.edu.ve/mod/resource/view.php?id=52390__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None propagandised__SEPARATOR__unknown url type: 'None propagandised'
+None graduated cylinder__SEPARATOR__unknown url type: 'None graduated cylinder'
+https://www.inac.uy/innovaportal/v/6233/2/innova.front/conceptos-de-bienestar-animal-y-comportamiento-animal__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None imbalanced__SEPARATOR__unknown url type: 'None imbalanced'
+None militarism__SEPARATOR__unknown url type: 'None militarism'
+None disoriented__SEPARATOR__unknown url type: 'None disoriented'
+None degree of longitude__SEPARATOR__unknown url type: 'None degree of longitude'
+https://www.euroamerica.org/europa13/presentaciones/Bello,%20Pablo.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None South Pole__SEPARATOR__unknown url type: 'None South Pole'
+https://frenchteacher.net/Spanish/Describe%20tu%20pais.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.loc.gov/catdir/cpso/frbryfrad/frbr_examen-oct09.pps__SEPARATOR__HTTP Error 403: Forbidden
+https://frenchteacher.net/Spanish/Describe%20a%20un%20miembro%20de%20tu%20familia.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None summarise__SEPARATOR__unknown url type: 'None summarise'
+None glassware__SEPARATOR__unknown url type: 'None glassware'
+http://www.iberradio.es/downloads/presentaciones2017/Presentaci%C3%B3n%20IberRadio%202017-3.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None virologist__SEPARATOR__unknown url type: 'None virologist'
+None deceptive__SEPARATOR__unknown url type: 'None deceptive'
+None Mercator Projection__SEPARATOR__unknown url type: 'None Mercator Projection'
+None crippled__SEPARATOR__unknown url type: 'None crippled'
+None demoralised__SEPARATOR__unknown url type: 'None demoralised'
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-109766_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+None stirred up__SEPARATOR__unknown url type: 'None stirred up'
+None destabilising__SEPARATOR__unknown url type: 'None destabilising'
+None hardened__SEPARATOR__unknown url type: 'None hardened'
+None anarchism__SEPARATOR__unknown url type: 'None anarchism'
+None volcanology__SEPARATOR__unknown url type: 'None volcanology'
+None overwrought__SEPARATOR__unknown url type: 'None overwrought'
+None reactionary__SEPARATOR__unknown url type: 'None reactionary'
+None fateful__SEPARATOR__unknown url type: 'None fateful'
+None Tropic of Cancer__SEPARATOR__unknown url type: 'None Tropic of Cancer'
+None opportune__SEPARATOR__unknown url type: 'None opportune'
+None thermometer__SEPARATOR__unknown url type: 'None thermometer'
+None watch glass__SEPARATOR__unknown url type: 'None watch glass'
+None decompress__SEPARATOR__unknown url type: 'None decompress'
+None worsened__SEPARATOR__unknown url type: 'None worsened'
+None whipped up__SEPARATOR__unknown url type: 'None whipped up'
+https://www.mineducacion.gov.co/cvn/1665/articles-174385_archivo_ppt8.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Programaci%C3%B3n-con-OpenMP1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.crcom.gov.co/recursos_user/Actividades%20Regulatiorias/Revision%20integral%20de%20los%20cargos%20de%20acceso%20de%20redes%20fijas%20y%20moviles/Consultoria%20para%20el%20diseno%20de%20una%20metodologia/PresentacionForoSector.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.mineducacion.gov.co/cvn/1665/articles-175404_archivo_ppt4.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.portalbec.com/portalbec/comercial/worldmaritimeweek/2017/PONENCIAS/FUTUREPORT/MINISTERIO_DE_FOMENTO_MARIA_CORRAL.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.isaca.org/COBIT/Documents/COBIT5-Introduction-Spanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Gratuity__SEPARATOR__unknown url type: 'None Gratuity'
+None Process__SEPARATOR__unknown url type: 'None Process'
+http://www.edafologia.net/erosion/tema9_eolica/9_eolica.ppt__SEPARATOR__HTTP Error 503: Service Temporarily Unavailable
+http://www.mflresources.org.uk/sp_pp/cwk_school.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.aduana.cl/aduana/site/artic/20070227/asocfile/20070227173330/presentacion_sistema_almacenes_septiembre_2009_v_3.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Perpetuity__SEPARATOR__unknown url type: 'None Perpetuity'
+None Nepotism__SEPARATOR__unknown url type: 'None Nepotism'
+None Subsidy__SEPARATOR__unknown url type: 'None Subsidy'
+https://www.mineducacion.gov.co/cvn/1665/articles-175961_archivo_ppt2.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+None Arbitrary__SEPARATOR__unknown url type: 'None Arbitrary'
+https://www.aduanas.gub.uy/innovaportal/file/4513/1/presentacion-jovanovich.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.cultura.gob.cl/wp-content/uploads/2017/03/capacitacion_-rendicion_-financiera_-personas_naturales_2017.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www2.infor.uva.es/~diego/tpccuva/docs/tpccuva-BSc-spanish.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Diversification__SEPARATOR__unknown url type: 'None Diversification'
+None Tax-deferred__SEPARATOR__unknown url type: 'None Tax-deferred'
+https://www.graduadoscolombia.edu.co/html/1732/articles-156927_archivo_ppt.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/11.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/10-Threading-Building-Blocks.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+None Coupons__SEPARATOR__unknown url type: 'None Coupons'
+None tax__SEPARATOR__unknown url type: 'None tax'
+http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(17)30228-1/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None Discretionary income__SEPARATOR__unknown url type: 'None Discretionary income'
+None Convince__SEPARATOR__unknown url type: 'None Convince'
+http://dr1.com/news/2003/052103_Baninter.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.fiapinternacional.org/wp-content/uploads/2016/01/asocfile120030513190348.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Stipend__SEPARATOR__unknown url type: 'None Stipend'
+None Buyers market__SEPARATOR__unknown url type: 'None Buyers market'
+None Legality__SEPARATOR__unknown url type: 'None Legality'
+http://www.bibliotecavirtual.info/wp-content/uploads/2011/12/vallaeys_presentacion_bogota_oct_2007.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.cnv.gob.ar/publicaciones/helman/cr-cnv-helman.190907.ppt__SEPARATOR__HTTP Error 502: Bad Gateway
+None Establishment__SEPARATOR__unknown url type: 'None Establishment'
+http://www.cpcardiology.com/article/S0146-2806(17)30043-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None Theory__SEPARATOR__unknown url type: 'None Theory'
+None Unanimous__SEPARATOR__unknown url type: 'None Unanimous'
+None Dowry__SEPARATOR__unknown url type: 'None Dowry'
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/07-Metodolog%C3%ADa-de-Programaci%C3%B3n-Paralela.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://www.unav.es/users/CompetenciasZamudio.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://biblioteca.uca.es/geuin2005/presentaciones/DiazDeSantos/DiazDeSantos.ppt__SEPARATOR__HTTP Error 404: Not Found
+http://www.maternoinfantil.org/archivos/smi_M16.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+None Amortize__SEPARATOR__unknown url type: 'None Amortize'
+None Negotiate__SEPARATOR__unknown url type: 'None Negotiate'
+https://www.mineducacion.gov.co/1621/articles-90843_archivo_ppt4.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+None Sending__SEPARATOR__unknown url type: 'None Sending'
+None Surplus__SEPARATOR__unknown url type: 'None Surplus'
+None Amend__SEPARATOR__unknown url type: 'None Amend'
+http://cmc.ihmc.us/cmc2010papers/cmc2010-a12-Chrobak-Prieto.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://servicios.educarm.es/templates/portal/images/ficheros/etapasEducativas/secundaria/16/secciones/318/contenidos/5646/introd_analisis_fundamental.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Quagmire__SEPARATOR__unknown url type: 'None Quagmire'
+http://www.maternoinfantil.org/archivos/smi_D31.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.gestiopolis.com/wp-content/uploads/2014/10/mercado-de-futuros.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Requisition__SEPARATOR__unknown url type: 'None Requisition'
+None Receive__SEPARATOR__unknown url type: 'None Receive'
+http://aprendeenlinea.udea.edu.co/lms/moodle/mod/resource/view.php?id=20280&redirect=1__SEPARATOR__HTTP Error 503: Service Unavailable
+https://www.stiport.com/quienes_somos/medios/manuales/procedimientosag2013.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Measure__SEPARATOR__unknown url type: 'None Measure'
+None Intense__SEPARATOR__unknown url type: 'None Intense'
+None appreciate__SEPARATOR__unknown url type: 'None appreciate'
+None Expense__SEPARATOR__unknown url type: 'None Expense'
+None Industrial__SEPARATOR__unknown url type: 'None Industrial'
+None Complaint__SEPARATOR__unknown url type: 'None Complaint'
+None Allegation__SEPARATOR__unknown url type: 'None Allegation'
+None Competitor__SEPARATOR__unknown url type: 'None Competitor'
+None Revenue__SEPARATOR__unknown url type: 'None Revenue'
+http://www.index-f.com/night-pres.pps__SEPARATOR__HTTP Error 403: Forbidden
+http://scalab.uc3m.es/~clinares/download/jaragon/jaragon.talk.ppt.gz__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+None Research__SEPARATOR__unknown url type: 'None Research'
+None Subsist__SEPARATOR__unknown url type: 'None Subsist'
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108112_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+None Unrecoverable__SEPARATOR__unknown url type: 'None Unrecoverable'
+None Trade__SEPARATOR__unknown url type: 'None Trade'
+None Unregulated__SEPARATOR__unknown url type: 'None Unregulated'
+None Capitalism__SEPARATOR__unknown url type: 'None Capitalism'
+http://www.antoniopulido.es/documentos/con060524.pps__SEPARATOR__HTTP Error 404: Not Found
+http://www.antoniopulido.es/documentos/con081203.pps__SEPARATOR__HTTP Error 404: Not Found
+None Resignation__SEPARATOR__unknown url type: 'None Resignation'
+None Shortage__SEPARATOR__unknown url type: 'None Shortage'
+None Refund__SEPARATOR__unknown url type: 'None Refund'
+None Tycoon__SEPARATOR__unknown url type: 'None Tycoon'
+None Balanced budget__SEPARATOR__unknown url type: 'None Balanced budget'
+None Galloping__SEPARATOR__unknown url type: 'None Galloping'
+http://www.antoniopulido.es/documentos/con120525.ppt__SEPARATOR__HTTP Error 404: Not Found
+None Destitute__SEPARATOR__unknown url type: 'None Destitute'
+None Preempt__SEPARATOR__unknown url type: 'None Preempt'
+http://www.maternoinfantil.org/archivos/smi_D63.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.rainforest-alliance.org/business/sites/default/files/site-documents/forestry/smartwood/clients/documents/TR-CoC-05%20FSC_CoC_40-004_Transfer_19Sep08%20ESP.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Bankrupt__SEPARATOR__unknown url type: 'None Bankrupt'
+None Boilerplate__SEPARATOR__unknown url type: 'None Boilerplate'
+None Restitution__SEPARATOR__unknown url type: 'None Restitution'
+None Fiduciary__SEPARATOR__unknown url type: 'None Fiduciary'
+None Penury__SEPARATOR__unknown url type: 'None Penury'
+None Sanction__SEPARATOR__unknown url type: 'None Sanction'
+None Warranty__SEPARATOR__unknown url type: 'None Warranty'
+http://www.supervalores.gob.pa/files/Gobierno_Corporativo/PresentacionGobCorp2003.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Balloon payment__SEPARATOR__unknown url type: 'None Balloon payment'
+https://www.euroamerica.org/rse05/download/Greenpeace.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Version__SEPARATOR__unknown url type: 'None Version'
+None Wary__SEPARATOR__unknown url type: 'None Wary'
+None Amenity__SEPARATOR__unknown url type: 'None Amenity'
+None Hoard__SEPARATOR__unknown url type: 'None Hoard'
+None Paycheck__SEPARATOR__unknown url type: 'None Paycheck'
+https://www.saber.ula.ve/bitstream/123456789/39737/4/declaracion-helsinki-2014.pps__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.competitividad.org.do/wp-content/uploads/2009/01/PresWkDraft.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None economics__SEPARATOR__unknown url type: 'None economics'
+None Increase__SEPARATOR__unknown url type: 'None Increase'
+None Bargain__SEPARATOR__unknown url type: 'None Bargain'
+None Ratio__SEPARATOR__unknown url type: 'None Ratio'
+None Extravagance__SEPARATOR__unknown url type: 'None Extravagance'
+http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Apache%20petrol/presentacion_secretaria_de_energia.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None Various__SEPARATOR__unknown url type: 'None Various'
+None Deregulate__SEPARATOR__unknown url type: 'None Deregulate'
+http://www.cultura.gob.cl/wp-content/uploads/2013/04/Powerpoint_Fondos_personas-naturales_2013.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Model__SEPARATOR__unknown url type: 'None Model'
+None Creditor__SEPARATOR__unknown url type: 'None Creditor'
+https://digitum.um.es/xmlui/bitstream/10201/21361/1/Pol%C3%ADticas%20p%C3%BAblicas%202011.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Obsolescence__SEPARATOR__unknown url type: 'None Obsolescence'
+None Resurgence__SEPARATOR__unknown url type: 'None Resurgence'
+None Stock__SEPARATOR__unknown url type: 'None Stock'
+https://www.fiic.la/documentos/pronacom.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://eva.udelar.edu.uy/mod/resource/view.php?id=343351__SEPARATOR__<urlopen error [Errno 104] Connection reset by peer>
+https://www.minsa.gob.pe/presupuestales2017/doc2017/tele/4_Metaxenicas/PP017-2017.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.fiic.la/Presentaci%F3n_GRios%20FIIC.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Breach__SEPARATOR__unknown url type: 'None Breach'
+https://www.fing.edu.uy/inco/cursos/inpercom/Clases/2014/06-sistema-cognitivo-ii.ppt__SEPARATOR__HTTP Error 404: Not Found
+http://www.banrep.gov.co/docum/Lectura_finanzas/pdf/regiones-descentralizacion.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Promotion__SEPARATOR__unknown url type: 'None Promotion'
+None Represent__SEPARATOR__unknown url type: 'None Represent'
+https://cursos.aiu.edu/Derecho%20Mercantil/Leccion%204/UNIDAD%20CUARTA.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Lottery__SEPARATOR__unknown url type: 'None Lottery'
+None Hassle__SEPARATOR__unknown url type: 'None Hassle'
+http://www.mflresources.org.uk/sp_pp/dinero.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.colombiaaprende.edu.co/html/directivos/1598/articles-177759_archivo4.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.nueva-acropolis.com/Powerpoint/Confucio-Hacia_las_fuentes_de_una_etica_universal.pps__SEPARATOR__HTTP Error 403: Forbidden
+None investment__SEPARATOR__unknown url type: 'None investment'
+None Collateral__SEPARATOR__unknown url type: 'None Collateral'
+None Currency__SEPARATOR__unknown url type: 'None Currency'
+https://canal.uned.es/uploads/material/Video/15328/Plataformas_Prestamo-3.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.camara.cl/pdf.aspx?prmID=37793&prmTIPO=DOCUMENTOCOMISION__SEPARATOR__<urlopen error [Errno -2] Name or service not known>
+None Comptroller__SEPARATOR__unknown url type: 'None Comptroller'
+None consumer__SEPARATOR__unknown url type: 'None consumer'
+None Patronage__SEPARATOR__unknown url type: 'None Patronage'
+None Option__SEPARATOR__unknown url type: 'None Option'
+None Refusal__SEPARATOR__unknown url type: 'None Refusal'
+None Injunction__SEPARATOR__unknown url type: 'None Injunction'
+https://aulavirtual.fio.unam.edu.ar/mod/resource/view.php?id=328__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Alienate__SEPARATOR__unknown url type: 'None Alienate'
+None Permit__SEPARATOR__unknown url type: 'None Permit'
+None Once-burned__SEPARATOR__unknown url type: 'None Once-burned'
+None bankruptcy__SEPARATOR__unknown url type: 'None bankruptcy'
+None Compliant__SEPARATOR__unknown url type: 'None Compliant'
+None Iteration__SEPARATOR__unknown url type: 'None Iteration'
+None Relative__SEPARATOR__unknown url type: 'None Relative'
+None Addition__SEPARATOR__unknown url type: 'None Addition'
+https://movilicemos.org/sites/default/files/recursos/Porque%20misiones/La%20situacion%20del%20mundo.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.curriculumnacional.cl/wp-content/uploads/recursos_digitales/articles-25251_recurso_ppt.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Lengthen__SEPARATOR__unknown url type: 'None Lengthen'
+http://servicios.aragon.es/redo_docs/guias_ol/docs/metodologia_proceso_orientacion.pps__SEPARATOR__<urlopen error [Errno -2] Name or service not known>
+None Conglomerate__SEPARATOR__unknown url type: 'None Conglomerate'
+None Quitclaim__SEPARATOR__unknown url type: 'None Quitclaim'
+None Mutual fund__SEPARATOR__unknown url type: 'None Mutual fund'
+None Cycle__SEPARATOR__unknown url type: 'None Cycle'
+None Disposable income__SEPARATOR__unknown url type: 'None Disposable income'
+None Beneficiary__SEPARATOR__unknown url type: 'None Beneficiary'
+None Downsize__SEPARATOR__unknown url type: 'None Downsize'
+None Subsidiary__SEPARATOR__unknown url type: 'None Subsidiary'
+None Afford__SEPARATOR__unknown url type: 'None Afford'
+None Apprentice__SEPARATOR__unknown url type: 'None Apprentice'
+None Queue__SEPARATOR__unknown url type: 'None Queue'
+None Insolvent__SEPARATOR__unknown url type: 'None Insolvent'
+http://www.unav.edu/documents/58292/e74a6ded-d913-48e5-9314-3dc6c2b89b6d__SEPARATOR__HTTP Error 500: Internal Server Error
+http://organica1.org/1311/1311pp11.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.loc.gov/catdir/cpso/RDA/RDAmodulo4_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None competition__SEPARATOR__unknown url type: 'None competition'
+None Usury__SEPARATOR__unknown url type: 'None Usury'
+https://www.paris21.org/sites/default/files/760.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Success__SEPARATOR__unknown url type: 'None Success'
+None Peak__SEPARATOR__unknown url type: 'None Peak'
+http://www.euskadi.eus/contenidos/informacion/cevime_infac_2012/es_def/adjuntos/Presentaci%C3%B3n_v_20_n_7_bis.ppt__SEPARATOR__HTTP Error 404: Not Found
+None Dismissal__SEPARATOR__unknown url type: 'None Dismissal'
+http://www.colombiaaprende.edu.co/html/directivos/1598/articles-198627_archivo_pdf4.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+None Freeze__SEPARATOR__unknown url type: 'None Freeze'
+http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Tecnicagua/PR-0.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None Zero-coupon__SEPARATOR__unknown url type: 'None Zero-coupon'
+None Oligopoly__SEPARATOR__unknown url type: 'None Oligopoly'
+None market__SEPARATOR__unknown url type: 'None market'
+None Appraise__SEPARATOR__unknown url type: 'None Appraise'
+https://ojp.gov/ovc/pubs/existeayuda/presentations/ppt/ForPromotoras_Part1.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Installment__SEPARATOR__unknown url type: 'None Installment'
+https://www.aesnet.org/sites/default/files/file_attach/ProfessionalEducation/Spanish/ClinicalCasesinSpanish.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Inflation__SEPARATOR__unknown url type: 'None Inflation'
+None Subpoena__SEPARATOR__unknown url type: 'None Subpoena'
+https://www.unav.edu/documents/5522204/5717247/motivacion.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.unav.edu/documents/4889803/4c83b7e5-63fd-43f9-8c3c-e383b3074da2__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.prodecon.gob.mx/conferencias_prensa/2013/12_02_13/docs/Informe_2012-2013.pps__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+None Break even__SEPARATOR__unknown url type: 'None Break even'
+None Consign__SEPARATOR__unknown url type: 'None Consign'
+None Commerce__SEPARATOR__unknown url type: 'None Commerce'
+None Worthless__SEPARATOR__unknown url type: 'None Worthless'
+None Assessment__SEPARATOR__unknown url type: 'None Assessment'
+None Supplemental__SEPARATOR__unknown url type: 'None Supplemental'
+None Diminish__SEPARATOR__unknown url type: 'None Diminish'
+None Bellwether__SEPARATOR__unknown url type: 'None Bellwether'
+http://www.doh.gov.cl/APR/documentos/Documents/PREVENCION_DE_RIESGOS_EN_APR_VII_REGION.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.wpsa-aeca.com/aeca_imgs_docs/wpsa1205509338a.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Obtain__SEPARATOR__unknown url type: 'None Obtain'
+None Curb__SEPARATOR__unknown url type: 'None Curb'
+https://www.biol.unlp.edu.ar/almacenamiento.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Easement__SEPARATOR__unknown url type: 'None Easement'
+None Pork bellies__SEPARATOR__unknown url type: 'None Pork bellies'
+None Affiliate__SEPARATOR__unknown url type: 'None Affiliate'
+http://www.claseshistoria.com/general/powerpoint/alumguerramarruecos.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.cba.gov.ar/wp-content/4p96humuzp/2015/06/Disertacion-Esc.-de-Ab.-del-Estado-Dra.-Solavagione1.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Laissez-faire__SEPARATOR__unknown url type: 'None Laissez-faire'
+None Indenture__SEPARATOR__unknown url type: 'None Indenture'
+https://cursos.aiu.edu/Derecho%20Mercantil/Leccion%203/TERCERA%20UNIDAD.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Compulsory__SEPARATOR__unknown url type: 'None Compulsory'
+None Pyramiding__SEPARATOR__unknown url type: 'None Pyramiding'
+None Divestiture__SEPARATOR__unknown url type: 'None Divestiture'
+None budget__SEPARATOR__unknown url type: 'None budget'
+None Contingency__SEPARATOR__unknown url type: 'None Contingency'
+None Itemization__SEPARATOR__unknown url type: 'None Itemization'
+http://centros.edu.xunta.es/iesoteropedrayo.ourense/dptos/bio/Archivos/Multimedia/CCMC/descubriendo_la_estructura_de_las_proteinas.pps__SEPARATOR__HTTP Error 500: Internal Server Error
+None Averaging__SEPARATOR__unknown url type: 'None Averaging'
+None Successful__SEPARATOR__unknown url type: 'None Successful'
+None Proprietorship__SEPARATOR__unknown url type: 'None Proprietorship'
+None Arrears__SEPARATOR__unknown url type: 'None Arrears'
+http://www.ott.csic.es/ferias/Presentacion2.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+None Syndicate__SEPARATOR__unknown url type: 'None Syndicate'
+None Journeyman__SEPARATOR__unknown url type: 'None Journeyman'
+None Advise__SEPARATOR__unknown url type: 'None Advise'
+None Stagflation__SEPARATOR__unknown url type: 'None Stagflation'
+None Concession__SEPARATOR__unknown url type: 'None Concession'
+None Debt__SEPARATOR__unknown url type: 'None Debt'
+None Zoning__SEPARATOR__unknown url type: 'None Zoning'
+None Slump__SEPARATOR__unknown url type: 'None Slump'
+None Arbitrator__SEPARATOR__unknown url type: 'None Arbitrator'
+None Remittance__SEPARATOR__unknown url type: 'None Remittance'
+None Salary__SEPARATOR__unknown url type: 'None Salary'
+https://www.biol.unlp.edu.ar/extension/upm.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None Interest__SEPARATOR__unknown url type: 'None Interest'
+None Value__SEPARATOR__unknown url type: 'None Value'
+http://www.iisgm.com/wp-content/uploads/2011/09/CoRISpe_SeminarioIiSGM_Marzo2015.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Redemption__SEPARATOR__unknown url type: 'None Redemption'
+None Restrictive__SEPARATOR__unknown url type: 'None Restrictive'
+None Program__SEPARATOR__unknown url type: 'None Program'
+None Severance__SEPARATOR__unknown url type: 'None Severance'
+None Solidity__SEPARATOR__unknown url type: 'None Solidity'
+https://www.procuraduria.gov.co/portal/media/file/controlalacontratacionestatal2012.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.fiic.la/9%20-Cci-Presentaci%F3n_FIIC_final.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Essential__SEPARATOR__unknown url type: 'None Essential'
+https://ruc.udc.es/dspace/bitstream/handle/2183/7105/PLAN%20DE%20CUIDADOS%20DE%20LA%20PMD-diapo.ppt?sequence=1&isAllowed=y__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-27-Morfo3.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-34-Sintaxis3.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.unav.edu/documents/5028199/5116884/tribunal-arbitral-deporte.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+None Harassment__SEPARATOR__unknown url type: 'None Harassment'
+None Liability__SEPARATOR__unknown url type: 'None Liability'
+None Amalgamation__SEPARATOR__unknown url type: 'None Amalgamation'
+None Save__SEPARATOR__unknown url type: 'None Save'
+None Junk bond__SEPARATOR__unknown url type: 'None Junk bond'
+None Spending__SEPARATOR__unknown url type: 'None Spending'
+None bankrupt__SEPARATOR__unknown url type: 'None bankrupt'
+None Reminder__SEPARATOR__unknown url type: 'None Reminder'
+None Abolish__SEPARATOR__unknown url type: 'None Abolish'
+None Up-swing__SEPARATOR__unknown url type: 'None Up-swing'
+None Recruit__SEPARATOR__unknown url type: 'None Recruit'
+None Charge__SEPARATOR__unknown url type: 'None Charge'
+None Capital__SEPARATOR__unknown url type: 'None Capital'
+None Affluent__SEPARATOR__unknown url type: 'None Affluent'
+None Provide__SEPARATOR__unknown url type: 'None Provide'
+None Cost of living__SEPARATOR__unknown url type: 'None Cost of living'
+http://www.asu.edu/lib/foro/presentations/MattesSpan.ppt__SEPARATOR__HTTP Error 502: Bad Gateway
+None Squander__SEPARATOR__unknown url type: 'None Squander'
+https://cchp.ucsf.edu/sites/cchp.ucsf.edu/files/IPMPresentationinSpanish.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.euroamerica.org/Panama2012/presentaciones/Marotta_Ilya.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.mineducacion.gov.co/cvn/1665/articles-157811_archivo_ppt18.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.dane.gov.co/files/noticias/eventos/1.big%20data_retos_y_preguntas.ppt__SEPARATOR__<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:719)>
+http://www.unav.edu/congreso/workshopweb/files/file/guia-seo-comunicar-contenidos-y-servicios-a-traves-de-buscadores.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.lluiscodina.com/wp-content/uploads/2012/10/BuscadoresAcademicos_2009.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/31000/FA31493/es_ES/Uso%20del%20Tesys%20T%20en%20modo%20Custom%20Logic.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.utdallas.edu/apsi/curriculum/Marisa%20Perez-Bernardo%20-Spanish%20Literature%20.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://murcia.kingscollegeschools.org/wp-content/uploads/2015/02/Y10.11-Transition-Evening-2016.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://www.unav.edu/congreso/workshopweb/files/file/de-la-medicion-al-conocimiento.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://www.colombiaaprende.edu.co/html/mediateca/1607/articles-108156_archivo.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+https://www.unav.edu/departamento/preventiva/files/file/efectos%20adversos.ppt__SEPARATOR__HTTP Error 500: Internal Server Error
+http://terraba2.fing.ucr.ac.cr/moodle/mod/resource/view.php?inpopup=true&id=2722__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/18.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://autismodiario.org/wp-content/uploads/2012/02/biologicalexplanationsofaggression.ppt__SEPARATOR__HTTP Error 404: Not Found
+None deterred__SEPARATOR__unknown url type: 'None deterred'
+None agrarian__SEPARATOR__unknown url type: 'None agrarian'
+https://www.usam.edu.sv/usam/images/stories/biblioteca/2014/ebsco2012usam.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+None contour line__SEPARATOR__unknown url type: 'None contour line'
+None disastrous__SEPARATOR__unknown url type: 'None disastrous'
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=291-bvs-metodologia-de-trabajo&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/04-Hilos-en-Windows.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/03-Programming-with-POSIX-Threads1.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase3/Distri-Clase1-2004.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://3unnkf3k3h3c2czmge371uwp-wpengine.netdna-ssl.com/wp-content/uploads/desistas.pps__SEPARATOR__HTTP Error 403: Forbidden
+None fallacious__SEPARATOR__unknown url type: 'None fallacious'
+None botany__SEPARATOR__unknown url type: 'None botany'
+None South Magnetic Pole__SEPARATOR__unknown url type: 'None South Magnetic Pole'
+http://www.tulane.edu/~howard/SPAN4130-Neurospan/ppt/SPAN4130-33-Sintaxis2.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/17.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None popularised__SEPARATOR__unknown url type: 'None popularised'
+None strengthened__SEPARATOR__unknown url type: 'None strengthened'
+http://www.olade.org/wp-content/uploads/2017/06/NDC-Invest-En-espa%C3%B1ol.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None cartographer__SEPARATOR__unknown url type: 'None cartographer'
+http://mood.itdurango.edu.mx/mod/resource/view.php?id=8008__SEPARATOR__HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other
+https://www.loc.gov/catdir/cpso/RDA/RDAbeyondMARC_es.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None disbanded__SEPARATOR__unknown url type: 'None disbanded'
+http://organica1.org/curso1/informatica.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+https://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_sectores/direccion_exploracion/jornadas/Petro%20Andina%20Resources/Entrega%20de%20Crudo.ppt?PHPSESSID=c01c5d67d9889334e4d2b02f8ac4ccb5__SEPARATOR__HTTP Error 403: Forbidden
+None imperialism__SEPARATOR__unknown url type: 'None imperialism'
+None heartened__SEPARATOR__unknown url type: 'None heartened'
+http://www.gastrojournal.org/article/S0016-5085(16)00043-3/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30575-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70134-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://bjanaesthesia.org/article/S0007-0912(17)54207-5/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(17)30211-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+None persuasive__SEPARATOR__unknown url type: 'None persuasive'
+http://www.usgbc.org/Docs/Archive/General/Docs743.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.poderjudicial.gob.ni/oficialia/broshure_pagina02.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://www.minsa.gob.pe/portada/Especiales/2008/adulto_mayor/archivos/FERIA-AM.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None inflated__SEPARATOR__unknown url type: 'None inflated'
+http://www.mountaingoatsoftware.com/uploads/presentations/Spanish-Redistributable-Intro-Scrum.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None Northern Hemisphere__SEPARATOR__unknown url type: 'None Northern Hemisphere'
+None deteriorated__SEPARATOR__unknown url type: 'None deteriorated'
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30446-9/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.isa.cie.uva.es/~maria/redes_neuronales.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_ediciones_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None climatologist__SEPARATOR__unknown url type: 'None climatologist'
+None exabyte__SEPARATOR__unknown url type: 'None exabyte'
+None inflamed__SEPARATOR__unknown url type: 'None inflamed'
+None concealed__SEPARATOR__unknown url type: 'None concealed'
+None DVD (digital versatile disc)__SEPARATOR__unknown url type: 'None DVD (digital versatile disc)'
+None weigh__SEPARATOR__unknown url type: 'None weigh'
+http://www.alua.org.ar/Dra.%20Karin%20KOPITOWSKY%20.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/nic/index.php?option=com_docman&view=download&alias=373-uso-racional-de-antibioticos&category_slug=presentaciones&Itemid=235__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.claseshistoria.com/general/powerpoint/industrializacion.pps__SEPARATOR__HTTP Error 403: Forbidden
+https://www.seguridadpublica.es/Cursos/Cursoinformatica/12.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None distorted__SEPARATOR__unknown url type: 'None distorted'
+https://www.sanandres.gov.co/documentos/rendicion_cuentas_2014/10_INFRAESTRUCTURA.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None analemma__SEPARATOR__unknown url type: 'None analemma'
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)70045-8/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.disciplenations.org/media/04-Jes%C3%BAs-Modelo-para-el-Crecimiento-y-Servicio-MASTER.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None pacified__SEPARATOR__unknown url type: 'None pacified'
+None laser printer__SEPARATOR__unknown url type: 'None laser printer'
+None awakened__SEPARATOR__unknown url type: 'None awakened'
+http://www.saber.ula.ve/dspace/bitstream/123456789/32941/7/conduct_responscdcht_feb28_11.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_conferencias_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None modernising__SEPARATOR__unknown url type: 'None modernising'
+https://www.energia.gob.ar/contenidos/archivos/NOVEDADES/jornadas_de_medicion/Medici_n%20de%20Gas%20y%20Petr_leo%20en%20Puntos%20de%20Transferencia.ppt__SEPARATOR__HTTP Error 403: Forbidden
+http://academiamulticore.org/blog/wp-content/uploads/2013/12/02-Arquitectura-y-Herramientas-de-Software-ver3.0.011.ppt__SEPARATOR__HTTP Error 412: Precondition Failed
+None protested__SEPARATOR__unknown url type: 'None protested'
+None stabilised__SEPARATOR__unknown url type: 'None stabilised'
+None ornithology__SEPARATOR__unknown url type: 'None ornithology'
+http://cmc.ihmc.us/cmc2010papers/Marco%20Moreira%20-%20Aprendizaje%20Significativo%20y%20Mapas%20Conceptuales.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None untenable__SEPARATOR__unknown url type: 'None untenable'
+None transformed__SEPARATOR__unknown url type: 'None transformed'
+http://www.cambridge.org/elt/resources/appliedlinguistics/intercultural/PowerpointWoodin.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.fing.edu.uy/inco/cursos/inpercom/Clases/2014/07-ingenieria-cognitiva.ppt__SEPARATOR__HTTP Error 404: Not Found
+https://www.uned.ac.cr/ejecutiva/images/Servicio_medico/documentos/Osteoporosis.ppt__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+https://mic.gob.do/images/despacho/discursos_ministro/Presentacion-Ministro-III-Congreso-Mundial-de-Zonas-Francas.ppt__SEPARATOR__hostname 'mic.gob.do' doesn't match either of '*.bluehost.com', 'bluehost.com'
+https://lidi.info.unlp.edu.ar/~fernando/clases/distr/2004/distr-clase12y13/RMI.pps__SEPARATOR__HTTP Error 404: Not Found
+https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=66-presentacion-06-pruebas-de-laboratorio&category_slug=influenza-a-h1n1&Itemid=211__SEPARATOR__<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:719)>
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32345-0/ppt__SEPARATOR__HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+http://www.albertomayol.cl/wp-content/uploads/2015/04/UGM-Metodolog%C3%ADa-cualitativa-II-Grounded-theory.ppt__SEPARATOR__<urlopen error [Errno 110] Connection timed out>
+None trail blazing__SEPARATOR__unknown url type: 'None trail blazing'
+http://www.gruposincom.es/EGEA17/Salvador_Gutierrez_Hiatos.ppt__SEPARATOR__HTTP Error 403: Forbidden
+None baseless__SEPARATOR__unknown url type: 'None baseless'
+None herpetology__SEPARATOR__unknown url type: 'None herpetology'
+None aristocracy__SEPARATOR__unknown url type: 'None aristocracy'
+http://www.loc.gov/catdir/cpso/RDA/temas_especiales_elementos_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
+https://www.loc.gov/catdir/cpso/RDA/temas_especiales_arte_spa.ppt__SEPARATOR__HTTP Error 403: Forbidden
