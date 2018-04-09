@@ -18,29 +18,7 @@ import csv # write in csv format
 import os
 import hashlib
 from PIL import Image, ImageDraw
-
-
-annotated_folder = os.path.join(os.getcwd(), 'annotated_folder')
-data_folder = os.path.join(os.getcwd(), 'data')
-images_annotated_folder = os.path.join(os.getcwd(), 'images_annotated_folder')
-images_folder = os.path.join(os.getcwd(), 'images')
-transcription = os.path.join(data_folder, 'transcription.txt')
-outfile = open(os.path.join(data_folder, 'annotation.csv'), 'w')
-
-
-fields = ['file', 'x0','y0', 'width', 'height', 'trans', 'md5hash']
-writer = csv.DictWriter(outfile, delimiter=',', lineterminator='\n', fieldnames=fields)
-writer.writeheader()   
-annotation = {} # contains all the annotation md5hash
-
-if annotated_folder:
-  for files in os.listdir(annotated_folder):
-      if files.endswith('csv'):
-          with open(os.path.join(annotated_folder, files)) as f:
-              reader = csv.DictReader(f)
-              for row in reader:
-                  if 'md5hash' in row:
-                    annotation[row['md5hash']] = row['file']
+import argparse
 
 def crop_image(image, rectangle):
     cropped = image.crop([rectangle[0], rectangle[1], rectangle[0] + rectangle[2], rectangle[1] + rectangle[3]])
@@ -83,70 +61,107 @@ def crop_image(image, rectangle):
     new_rect[2] = rectangle[2]
     
     return new_rect
-    
 
-first = True
-first_below = True
-ppt = ''
-name = image = ''
 
-def pause_n_print(log):
-    print(log)
-    input('paused')
 
-with open(transcription) as fi:
-    for lines in fi:
-        # pause_n_print('lines = '+lines)
-        lines = lines.strip()
-        if 'SlideName' in lines:
-            elements = lines.split()
-            ppt_name = elements[2]
-            #outfile.write(lines + '\n')
-            # if first == False:
-            #     pause_n_print('ouiouiouiouiouiouiouiouiouiouiouioui')
-            #     image.save(os.path.join(images_annotated_folder, name))
-            first = False
-            first_below = True
-        elif 'Slide' in lines:
-            elements = lines.split()
-            slide_num = elements[1]
-            #outfile.write(lines + '\n')
-            if first_below == False:
-                image.save(os.path.join(images_annotated_folder, name))
-            first_below = False
-            name = ppt_name + slide_num + '.jpg'
-            image_file = os.path.join(images_folder, name)
-            image = Image.open(image_file)
-            dig = hashlib.md5(image.tobytes()).hexdigest()
-            drawable = ImageDraw.Draw(image)
-        else:
-            elements = lines.split()
-            rectangle = elements[:4]
-            orig = rectangle[:]
-            rectangle = list(map(int, rectangle))
 
-            # Now we have to do the processing to make the bounding box
-            # tight
-            new_rect = crop_image(image, rectangle)
-            new_rect[2] = new_rect[0] + new_rect[2]
-            new_rect[3] = new_rect[1] + new_rect[3]
-            new_rect[1], new_rect[3] = new_rect[3], new_rect[1]
-            drawable.rectangle(new_rect, outline=(255, 0, 0, 255))
-            trans = ' '.join(elements[4:])
-            if dig not in annotation or name == annotation[dig]:
-                annotation[dig] = name
-                dic = {}
-                dic['file'] = name
-                dic['x0'] = new_rect[0]
-                dic['y0'] = new_rect[1]
-                dic['width'] = new_rect[2] - new_rect[0] # width
-                dic['height'] = new_rect[3] - new_rect[1] # height
-                dic['trans'] = trans
-                dic['md5hash'] = dig
-                writer.writerow(dic)
-                
-outfile.close()
-           
-            
-                
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
+    args = parser.parse_args()
+    CURR_LANG = args.language
+
+    data_folder = os.path.join(os.path.join(os.getcwd(), 'data'), CURR_LANG)
+    annotated_folder = os.path.join(data_folder, 'annotated_folder')
+    images_annotated_folder = os.path.join(data_folder, 'images_annotated_folder')
+    images_folder = os.path.join(data_folder, "images")
+
+    create_directory(images_annotated_folder)
+    create_directory(annotated_folder)
+
+    transcription = os.path.join(data_folder, 'transcription.txt')
+    outfile = open(os.path.join(data_folder, 'annotation.csv'), 'w')
+
+    fields = ['file', 'x0', 'y0', 'width', 'height', 'trans', 'md5hash']
+    writer = csv.DictWriter(outfile, delimiter=',', lineterminator='\n', fieldnames=fields)
+    writer.writeheader()
+    annotation = {}  # contains all the annotation md5hash
+
+
+    if annotated_folder:
+        for files in os.listdir(annotated_folder):
+            if files.endswith('csv'):
+                with open(os.path.join(annotated_folder, files)) as f:
+                    reader = csv.DictReader(f)
+                    for row in reader:
+                        if 'md5hash' in row:
+                            annotation[row['md5hash']] = row['file']
+
+
+    first = True
+    first_below = True
+    ppt = ''
+    name = image = ''
+
+    with open(transcription) as fi:
+        for lines in fi:
+            # pause_n_print('lines = '+lines)
+            lines = lines.strip()
+            if 'SlideName' in lines:
+                elements = lines.split()
+                ppt_name = elements[2]
+                # outfile.write(lines + '\n')
+                # if first == False:
+                #     pause_n_print('ouiouiouiouiouiouiouiouiouiouiouioui')
+                #     image.save(os.path.join(images_annotated_folder, name))
+                first = False
+                first_below = True
+            elif 'Slide' in lines:
+                elements = lines.split()
+                slide_num = elements[1]
+                # outfile.write(lines + '\n')
+                if first_below == False:
+                    image.save(os.path.join(images_annotated_folder, name))
+                first_below = False
+                name = ppt_name + slide_num + '.jpg'
+                image_file = os.path.join(images_folder, name)
+                image = Image.open(image_file)
+                dig = hashlib.md5(image.tobytes()).hexdigest()
+                drawable = ImageDraw.Draw(image)
+            else:
+                elements = lines.split()
+                rectangle = elements[:4]
+                orig = rectangle[:]
+                rectangle = list(map(int, rectangle))
+
+                # Now we have to do the processing to make the bounding box
+                # tight
+                new_rect = crop_image(image, rectangle)
+                new_rect[2] = new_rect[0] + new_rect[2]
+                new_rect[3] = new_rect[1] + new_rect[3]
+                new_rect[1], new_rect[3] = new_rect[3], new_rect[1]
+                drawable.rectangle(new_rect, outline=(255, 0, 0, 255))
+                trans = ' '.join(elements[4:])
+                if dig not in annotation or name == annotation[dig]:
+                    annotation[dig] = name
+                    dic = {}
+                    dic['file'] = name
+                    dic['x0'] = new_rect[0]
+                    dic['y0'] = new_rect[1]
+                    dic['width'] = new_rect[2] - new_rect[0]  # width
+                    dic['height'] = new_rect[3] - new_rect[1]  # height
+                    dic['trans'] = trans
+                    dic['md5hash'] = dig
+                    writer.writerow(dic)
+
+    outfile.close()
+
+
+def create_directory(directory):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
+if __name__=='__main__':
+    main()
 
