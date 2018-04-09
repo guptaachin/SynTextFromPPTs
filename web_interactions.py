@@ -3,6 +3,9 @@ import googleapiclient.discovery
 from urllib.request import urlopen
 import os
 import urllib
+import socket
+socket.setdefaulttimeout(30)
+
 # imports
 SEPARATOR = '__SEPARATOR__'
 # guptaachin01
