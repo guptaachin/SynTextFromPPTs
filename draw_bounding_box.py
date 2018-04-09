@@ -124,21 +124,14 @@ with open(transcription) as fi:
             rectangle = elements[:4]
             orig = rectangle[:]
             rectangle = list(map(int, rectangle))
-            
+
             # Now we have to do the processing to make the bounding box
             # tight
-            # new_rect = crop_image(image, rectangle)
-            # new_rect[2] = new_rect[0] + new_rect[2]
-            # new_rect[3] = new_rect[1] + new_rect[3]
-            # new_rect[1], new_rect[3] = new_rect[3], new_rect[1]
-
-            # new_rect = crop_image(image, rectangle)
-            new_rect = rectangle
+            new_rect = crop_image(image, rectangle)
             new_rect[2] = new_rect[0] + new_rect[2]
             new_rect[3] = new_rect[1] + new_rect[3]
             new_rect[1], new_rect[3] = new_rect[3], new_rect[1]
-
-            drawable.rectangle(new_rect, outline=(255, 0, 0, 255)) # red box
+            drawable.rectangle(new_rect, outline=(255, 0, 0, 255))
             trans = ' '.join(elements[4:])
             if dig not in annotation or name == annotation[dig]:
                 annotation[dig] = name
