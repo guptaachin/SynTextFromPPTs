@@ -20,6 +20,9 @@ import hashlib
 from PIL import Image, ImageDraw
 import argparse
 
+
+data_folder = os.path.join(os.getcwd(), 'data')
+
 def crop_image(image, rectangle):
     cropped = image.crop([rectangle[0], rectangle[1], rectangle[0] + rectangle[2], rectangle[1] + rectangle[3]])
     bw = cropped.convert('1')
@@ -62,26 +65,20 @@ def crop_image(image, rectangle):
     
     return new_rect
 
+def main(lang):
+    CURR_LANG = lang
 
+    lang_folder = os.path.join(data_folder, CURR_LANG)
 
-
-
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
-    args = parser.parse_args()
-    CURR_LANG = args.language
-
-    data_folder = os.path.join(os.path.join(os.getcwd(), 'data'), CURR_LANG)
-    annotated_folder = os.path.join(data_folder, 'annotated_folder')
-    images_annotated_folder = os.path.join(data_folder, 'images_annotated_folder')
-    images_folder = os.path.join(data_folder, "images")
+    images_annotated_folder = os.path.join(lang_folder, 'images_annotated_folder')
+    annotated_folder =  images_annotated_folder
+    images_folder = os.path.join(lang_folder, "images")
 
     create_directory(images_annotated_folder)
     create_directory(annotated_folder)
 
-    transcription = os.path.join(data_folder, 'transcription.txt')
-    outfile = open(os.path.join(data_folder, 'annotation.csv'), 'w')
+    transcription = os.path.join(lang_folder, 'transcription.txt')
+    outfile = open(os.path.join(lang_folder, 'annotation.csv'), 'w')
 
     fields = ['file', 'x0', 'y0', 'width', 'height', 'trans', 'md5hash']
     writer = csv.DictWriter(outfile, delimiter=',', lineterminator='\n', fieldnames=fields)
@@ -162,6 +159,6 @@ def create_directory(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-if __name__=='__main__':
-    main()
+# if __name__=='__main__':
+#     main()
 
