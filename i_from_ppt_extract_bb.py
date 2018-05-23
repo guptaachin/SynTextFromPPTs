@@ -9,9 +9,11 @@ import os
 import argparse
 import shutil
 import i_draw_bb
+from PIL import Image
+import numpy as np
+import i_draw_bb
 
-# slides folder contains all the slides
-# images folder is the place where all the images will be written down
+BATCH = 250
 images_folder = ""
 data_folder = os.path.join(os.getcwd(), 'data')
 
@@ -35,29 +37,31 @@ def charwise_hex_string(item):
 
     return split_final
 
+
+# def create_the_h5_py(path, lang, count):
+#     OUT_FILE = path + '/SynthText_'+ lang+'_'+str(count) + '.h5'
+#     out_db = h5py.File(OUT_FILE,'w')
+#     out_db.create_group('/data')
+
+#     return out_db
+
+
 CURR_LANG = ""
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
     args = parser.parse_args()
-    
+
     global CURR_LANG
     CURR_LANG = args.language
-    
 
     lang_folder = os.path.join(data_folder, CURR_LANG)
-
 
     con_slides_file_path = os.path.join(lang_folder, 'considered.txt')
     con_set = populate_links_have(con_slides_file_path)
     con_slide_file = open(con_slides_file_path, 'a')
 
-    
-
     images_folder = os.path.join(lang_folder, 'images') # data/lang_ja/images
-    
-    # remove only for texting
-    # [os.remove(images_folder+'/'+r) for r in os.listdir(images_folder)]   
     
     ppt_folder = os.path.join(lang_folder, 'ppts')
     
@@ -66,19 +70,37 @@ def main():
     Application = win32com.client.Dispatch("PowerPoint.Application")
     Application.Visible = True
 
+    BATCH_COUNTER = -1
     # open the transcription in the writable mode
-    try:
-        transcription = open(os.path.join(lang_folder, 'transcription.txt'), 'a')
-    except IOError:
-        transcription = open(os.path.join(lang_folder, 'transcription.txt'), 'w')
-
-    folder_for_ppt = lang_folder
-
-
     
+    transcription = None
+
+    folder_for_ppt = ppt_folder
+    ppt_count = 0
+    # current_out_db = None
+
     for each_ppt in os.listdir(folder_for_ppt):
         # each_ppt not in con_set and
-        if  (each_ppt.endswith('ppt') or each_ppt.endswith('pptx')):
+            
+        if  ( each_ppt.endswith('ppt') or each_ppt.endswith('pptx')):
+
+            print('PPTS processed = ', ppt_count)
+            if ppt_count % BATCH == 0:
+                if transcription:
+                    transcription.close()
+                    i_draw_bb.main(BATCH_COUNTER, CURR_LANG)
+                    input('done with first batch')
+                BATCH_COUNTER += 1
+                try:
+                    transcription = open(os.path.join(lang_folder, 'transcription_'+str(BATCH_COUNTER)+'.txt'), 'a')
+                except IOError:
+                    transcription = open(os.path.join(lang_folder, 'transcription_'+str(BATCH_COUNTER)+'.txt'), 'w')
+                
+            ppt_count += 1
+
+            if(each_ppt in con_set):
+                continue
+                
 
             con_slide_file.write(each_ppt+ '\n')
             print("working for = ",each_ppt)
@@ -88,25 +110,18 @@ def main():
             except Exception as e:
                 # corrupt slide
                 print(each_ppt, 'could not open ',e)
-                # input('waiting')
-                # os.remove(os.path.join(slides_folder, each_ppt))
                 continue
 
-            # provide the heading for each slide
             trans = ["SlideName - " + each_ppt]
             transcription.write(trans[0] + '\n')
-            # print("Working on " + trans[0])
 
-            # keeps a count for the images
             count = 1
+            for each_slide_object in presentation_object.Slides:
 
-            # for each opened slide in the ppt
-            # print('working for = ', each_ppt)
+                # coord_matrix = [[[],[],[],[]],[[],[],[],[]]]
 
-            for i_slide, each_slide_object in enumerate(presentation_object.Slides):
+                # lines_list = []
                 trans = []
-                # bound = []
-                # bound.append("Slide " + str(count))
 
                 print('============================ slide no =========================== '+str(count))
                 trans.append("Slide " + str(count))
@@ -121,7 +136,7 @@ def main():
 
                 for i in range(len(each_slide_object.Shapes)):
                     each_shape = each_slide_object.Shapes[i]
-                    if each_shape.HasTextFrame and each_shape.TextFrame.HasText:
+                    if each_shape.HasTextFrame and each_shape.TextFrame.HasText and not each_shape.HasSmartArt:
                         elems = each_shape.TextFrame.TextRange.Lines()
                         for elem in elems:
                             # elem.Text is the complete string
@@ -129,83 +144,44 @@ def main():
                                 was_anything_found = True
                                 print(elem.Text)
                                 result = charwise_hex_string(elem.Text)
+                                top_left = 0
+                                top_right = 1
+                                bottom_right = 2
+                                bottom_left = 3
+                                x = 0
+                                y = 1
+
+                                # lines_list.append(result)
+
+                                # print(lines_list)
+
+                                # coord_matrix[x][top_left].append(int(elem.BoundLeft))
+                                # coord_matrix[y][top_left].append(int(elem.BoundTop))
+
+                                # coord_matrix[x][top_right].append(int(elem.BoundLeft) + int(elem.BoundWidth))
+                                # coord_matrix[y][top_right].append(int(elem.BoundTop))
+
+                                # coord_matrix[x][bottom_right].append(int(elem.BoundLeft)+ int(elem.BoundWidth))
+                                # coord_matrix[y][bottom_right].append(int(elem.BoundTop) + int(elem.BoundHeight))
+
+                                # coord_matrix[x][bottom_left].append(int(elem.BoundLeft))
+                                # coord_matrix[y][bottom_left].append(int(elem.BoundTop) + int(elem.BoundHeight))
+
+                                # point_top_left = (int(elem.BoundLeft), int(elem.BoundTop))
+                                # point_top_right = (int(elem.BoundLeft) + int(elem.BoundWidth) , int(elem.BoundTop))
+                                # point_bot_left = (int(elem.BoundLeft) , int(elem.BoundTop) + int(elem.BoundHeight))
+                                # point_bot_right = (int(elem.BoundLeft)+ int(elem.BoundWidth) , int(elem.BoundTop) + int(elem.BoundHeight))
+                                # box = [point_top_left, point_top_right, point_bot_left, point_bot_right]
+                                # list_boxes.append(box)
+            
                                 trans.append(str(int(elem.BoundLeft)) + ' ' + str(int(elem.BoundTop)) + ' ' + str(
                                         int(elem.BoundWidth)) + ' ' + str(int(elem.BoundHeight)) + ' ' + result)
                     else:
                         # print('adding for delete a single image')
                         to_be_deleted_shape.append(each_shape)
-                    # input('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxjust processed an independent')
-                # find out the place where that image is getting the call.
-                    # if each_shape.TextFrame.HasText:
-                    #     print(i_shape,' = ', 'HAS TEXT CALL')
-                    #     try:
-                    #         elems = each_shape.TextFrame.TextRange.Lines()
-                    #         # wasTextAdded = False
-
-                    #         print('length of elements = ',len(elems))
-                    #         for elem in elems:
-                    #             # elem.Text is the complete string
-                    #             if elem.Text not in ("\r", "\n", " ", u"\u000D", u"\u000A"):
-                    #                 print(elem.Text)
-                    #                 was_anything_found = True
-                    #                 # wasTextAdded = True
-                    #                 result = charwise_hex_string(elem.Text)
-                    #                 trans.append(str(int(elem.BoundLeft)) + ' ' + str(int(elem.BoundTop)) + ' ' + str(
-                    #                     int(elem.BoundWidth)) + ' ' + str(int(elem.BoundHeight)) + ' ' + result)
-                    #             # if not wasTextAdded:
-                    #             #     each_slide_object.Shapes[i_shape].Delete()
-                    #     except:
-                    #         print(i_shape,' = ', 'exception')
-                    #         try:
-                    #             smart = each_shape.GroupItems
-
-                    #             for i in range(smart.Count):
-                    #                 elem = smart[i].TextFrame.TextRange.Lines()
-                    #                 for s in elem:
-                    #                     was_anything_found = True
-                    #                     result = charwise_hex_string(elem.Text)
-                    #                     trans.append(
-                    #                         str(int(elem.BoundLeft)) + ' ' + str(int(elem.BoundTop)) + ' ' + str(
-                    #                             int(elem.BoundWidth)) + ' ' + str(int(elem.BoundHeight)) + ' ' + result)
-                    #         except:
-                    #             print(i_shape,'has text excep excep')
-                    #             # try:
-                    #             #     each_shape.Delete()
-                    #             # except:
-                    #             #     print()
-                    # else:
-                    #     print(i_shape,' = ', 'NOT HAVE TEXT CALL')
-                    #     try:
-                    #         each_shape.Delete()
-                    #     except:
-                    #         print()
-
-                        # add some other image here please.
-
-                        # try:
-                        #     smart = each_shape.GroupItems
-
-                        #     # if smart.Count == 0:
-                        #     #         each_slide_object.Shapes[i_shape].Delete()
-                                    
-                        #     for i in range(smart.Count):
-                        #         elem = smart[i].TextFrame.TextRange.Lines()
-                        #         for s in elem:
-                        #             was_anything_found = True
-                        #             result = charwise_hex_string(elem.Text)
-                        #             trans.append(str(int(elem.BoundLeft)) + ' ' + str(int(elem.BoundTop)) + ' ' + str(
-                        #                 int(elem.BoundWidth)) + ' ' + str(int(elem.BoundHeight)) + ' ' + result)
-                        # except Exception as e:
-                        #     print(i_shape,' = no text excep')
-                            # try:
-                            #     each_shape.Delete()
-                            # except:
-                            #     print()
-                
-                # else for the shapes for loop.
                 else:
                     # Everything good store the slide as image
-                    name = each_ppt + str(count - 1) + '.jpg'
+                    name = each_ppt +"_"+ str(count - 1) + "_" + str(BATCH_COUNTER) + '.jpg'
                     
                     if was_anything_found:
 
@@ -217,8 +193,10 @@ def main():
                         print('saving ======= ', name)
                         each_slide_object.export(os.path.join(images_folder, name), 'JPG')
                         transcription.write('\n'.join(trans) + '\n')
-
-            presentation_object.Close()
+            try:
+                presentation_object.Close()
+            except Exception as e:
+                print(e)
 
     Application.Quit()
     transcription.close()
@@ -236,7 +214,6 @@ def ungroup_all_shapes(shapes):
         except:
             # print('Sorry could not do that ungrouping')
             pass
-
 
 def populate_links_have(links_path):
     s = set()
@@ -256,5 +233,4 @@ def populate_links_have(links_path):
 
 if __name__=='__main__':
     main()
-    i_draw_bb.main(CURR_LANG)
     

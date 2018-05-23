@@ -1,14 +1,11 @@
 # -*- coding: utf-8 -*-
-import web_interactions
-from web_interactions import *
-from get_only_links import SEPARATOR
+import w_web_interactions
+from d_get_only_links import SEPARATOR
 import os
 import argparse
 base_data_folder = os.path.join(os.getcwd(), 'data')
 
-
 def main():
-
     parser = argparse.ArgumentParser()
     parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
     args = parser.parse_args()
@@ -44,7 +41,7 @@ def main():
             continue
 
         # download the file from this link
-        url = web_interactions.Google_Api.download(link, file_path)
+        url = w_web_interactions.Google_Api.download(link, file_path)
 
         if url is not None:
             if(url is not 'None'):
@@ -91,6 +88,4 @@ def populate_links_have(links_path):
 
 
 if __name__ == '__main__':
-    # passing the values since i do not want to download
-    # pass
     main()

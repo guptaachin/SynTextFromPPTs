@@ -65,8 +65,12 @@ def crop_image(image, rectangle):
     
     return new_rect
 
-def main(lang):
-    CURR_LANG = lang
+def main(counter, LANG):
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
+    # args = parser.parse_args()
+
+    CURR_LANG = LANG
 
     lang_folder = os.path.join(data_folder, CURR_LANG)
 
@@ -77,8 +81,8 @@ def main(lang):
     create_directory(images_annotated_folder)
     create_directory(annotated_folder)
 
-    transcription = os.path.join(lang_folder, 'transcription.txt')
-    outfile = open(os.path.join(lang_folder, 'annotation.csv'), 'w')
+    transcription = os.path.join(lang_folder, 'transcription_'+str(counter)+'.txt')
+    outfile = open(os.path.join(lang_folder, 'annotation_'+str(counter)+'.csv'), 'w')
 
     fields = ['file', 'x0', 'y0', 'width', 'height', 'trans', 'md5hash']
     writer = csv.DictWriter(outfile, delimiter=',', lineterminator='\n', fieldnames=fields)
@@ -121,7 +125,7 @@ def main(lang):
                 if first_below == False:
                     image.save(os.path.join(images_annotated_folder, name))
                 first_below = False
-                name = ppt_name + slide_num + '.jpg'
+                name = ppt_name + "_"+slide_num+"_"+str(counter) + '.jpg'
                 image_file = os.path.join(images_folder, name)
                 image = Image.open(image_file)
                 dig = hashlib.md5(image.tobytes()).hexdigest()
@@ -153,7 +157,6 @@ def main(lang):
                     writer.writerow(dic)
 
     outfile.close()
-
 
 def create_directory(directory):
     if not os.path.exists(directory):

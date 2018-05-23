@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-import web_interactions
-from web_interactions import *
+import w_web_interactions
 import os
 import argparse
 
@@ -18,7 +17,7 @@ def main():
     links_path = os.path.join(base_data_folder, 'links_'+CURR_LANG+'.txt')
     links_have, words_have = populate_links_have(links_path)
 
-    gac = web_interactions.Google_Api()
+    gac = w_web_interactions.Google_Api()
 
     # lang_file = open(lang_file_path, 'r')
     words_file = open(keywords_file_path, 'r')
@@ -61,8 +60,6 @@ def main():
                 print('results with repetition - ',word)
                 string_to_store = lang + SEPARATOR + word + SEPARATOR + 'None '+word
                 write_n_flush(links_d_store, string_to_store)
-
-            # input('wrote')
 
     words_file.close()
     links_d_store.close()
