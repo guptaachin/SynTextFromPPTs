@@ -166,6 +166,7 @@ def main():
             except Exception as e:
                 print(e)
 
+
     Application.Quit()
     transcription.close()
     i_draw_bb.main(BATCH_COUNTER, CURR_LANG)
