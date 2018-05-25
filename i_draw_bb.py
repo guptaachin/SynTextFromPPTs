@@ -69,7 +69,7 @@ def main(counter, LANG):
     # parser = argparse.ArgumentParser()
     # parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
     # args = parser.parse_args()
-
+    print('Annotation running for batch =', counter, " and  lang = ",LANG)
     CURR_LANG = LANG
 
     lang_folder = os.path.join(data_folder, CURR_LANG)
@@ -106,22 +106,21 @@ def main(counter, LANG):
     name = image = ''
 
     with open(transcription) as fi:
-        for lines in fi:
-            # pause_n_print('lines = '+lines)
-            lines = lines.strip()
-            if 'SlideName' in lines:
-                elements = lines.split()
+        for line in fi:
+            # pause_n_print('line = '+line)
+            line = line.strip()
+            if 'SlideName' in line:
+                elements = line.split()
                 ppt_name = elements[2]
-                # outfile.write(lines + '\n')
-                # if first == False:
-                #     pause_n_print('ouiouiouiouiouiouiouiouiouiouiouioui')
-                #     image.save(os.path.join(images_annotated_folder, name))
+                # outfile.write(line + '\n')
+                if first == False:
+                    image.save(os.path.join(images_annotated_folder, name))
                 first = False
                 first_below = True
-            elif 'Slide' in lines:
-                elements = lines.split()
+            elif 'Slide' in line:
+                elements = line.split()
                 slide_num = elements[1]
-                # outfile.write(lines + '\n')
+                # outfile.write(line + '\n')
                 if first_below == False:
                     image.save(os.path.join(images_annotated_folder, name))
                 first_below = False
@@ -131,9 +130,8 @@ def main(counter, LANG):
                 dig = hashlib.md5(image.tobytes()).hexdigest()
                 drawable = ImageDraw.Draw(image)
             else:
-                elements = lines.split()
+                elements = line.split()
                 rectangle = elements[:4]
-                orig = rectangle[:]
                 rectangle = list(map(int, rectangle))
 
                 # Now we have to do the processing to make the bounding box
@@ -156,7 +154,12 @@ def main(counter, LANG):
                     dic['md5hash'] = dig
                     writer.writerow(dic)
 
+        image.save(os.path.join(images_annotated_folder, name))
+
     outfile.close()
+
+
+    print('Annotation COMPLETE for batch =', counter, " and  lang = ",LANG)
 
 def create_directory(directory):
     if not os.path.exists(directory):
