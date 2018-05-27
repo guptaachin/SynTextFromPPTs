@@ -7,14 +7,11 @@
 import win32com.client, sys
 import os
 import argparse
-import shutil
-import i_draw_bb
-from PIL import Image
-import numpy as np
 import random
 
-BATCH = 5
-THRESH_HOLD_GP = 10
+CURR_LANG = ""
+BATCH = 100
+THRESH_HOLD_GP = 50
 images_folder = ""
 data_folder = os.path.join(os.getcwd(), 'data')
 
@@ -38,64 +35,61 @@ def charwise_hex_string(item):
 
     return split_final
 
-CURR_LANG = ""
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
     args = parser.parse_args()
-
     global CURR_LANG
     CURR_LANG = args.language
-
-    lang_folder = os.path.join(data_folder, CURR_LANG)
-
-    con_slides_file_path = os.path.join(lang_folder, 'considered.txt')
-    con_set = populate_links_have(con_slides_file_path)
-    con_slide_file = open(con_slides_file_path, 'a')
-
-    images_folder = os.path.join(lang_folder, 'images') # data/lang_ja/images
-    image_pool_folder = os.path.join(data_folder, 'image_pool_2')
-    ppt_folder = os.path.join(lang_folder, 'ppts')
-    
-    create_directory(images_folder)
-
-    Application = win32com.client.Dispatch("PowerPoint.Application")
-    Application.Visible = True
+    lang_folder, images_folder, image_pool_folder, ppt_folder = init_folder_hierarchy(data_folder, CURR_LANG)
 
     BATCH_COUNTER = -1
-    # open the transcription in the writable mode
-    
-    transcription = None
 
+    transcription = None
     folder_for_ppt = ppt_folder
-    ppt_count = 0
-    # current_out_db = None
+    con_set = populate_links_have(lang_folder)
+
+    # takes care of the condition when the process and stopped. Essential since MS-PPT crashes sometimes.
+    is_first_call = True
 
     for each_ppt in os.listdir(folder_for_ppt):
-        # each_ppt not in con_set and
             
         if  (each_ppt.endswith('ppt') or each_ppt.endswith('pptx')):
 
-            print('PPTS processed = ', ppt_count)
-            if ppt_count % BATCH == 0:
-                if transcription:
-                    transcription.close()
-                    i_draw_bb.main(BATCH_COUNTER, CURR_LANG)
-                    input('done with first batch')
-                    return
-                BATCH_COUNTER += 1
-                try:
-                    transcription = open(os.path.join(lang_folder, 'transcription_'+str(BATCH_COUNTER)+'.txt'), 'a')
-                except IOError:
-                    transcription = open(os.path.join(lang_folder, 'transcription_'+str(BATCH_COUNTER)+'.txt'), 'w')
+            # launching the Microsift powerpoint
+            Application = win32com.client.Dispatch("PowerPoint.Application")
+            Application.Visible = True
+            # ------------------------------------
+            print('PPTS processed = ', len(con_set))
+
+            if(each_ppt in con_set):
+                print('continuing - ',each_ppt)
+                continue  
 
             
-            ppt_count += 1
+            # implement the batching to save intermediate results
+            
+            
+            if len(con_set) % BATCH == 0 or is_first_call:
+                is_first_call = False
+                if transcription:
+                    transcription.close()
 
-            # if(each_ppt in con_set):
-            #     continue
-            con_slide_file.write(each_ppt+ '\n')
-            print("working for = ",each_ppt)
+                BATCH_COUNTER  = int(len(con_set) / BATCH)
+
+                filename = os.path.join(lang_folder, 'transcription_'+str(BATCH_COUNTER)+'.txt')
+                try:
+                    transcription = open(filename, 'a')
+                except IOError:
+                    transcription = open(filename, 'w')
+
+                
+                print('con set length = ',len(con_set), 'batch counter = ',BATCH_COUNTER)
+                print("file to be used = ",filename)
+            
+            # ---------------------------------------------------------------
+           
             # create an object for the powerpoint file
             try:
                 presentation_object = Application.Presentations.Open(os.path.join(folder_for_ppt, each_ppt))
@@ -104,73 +98,85 @@ def main():
                 print(each_ppt, 'could not open ',e)
                 continue
 
+            print("working for = ",each_ppt)
+            # ppt_count += 1
+            con_set.add(each_ppt)
+            # open up a section in transcription for the current slide
             trans = ["SlideName - " + each_ppt]
             transcription.write(trans[0] + '\n')
+            #----------------------------------------------------------
 
-            # count = 1
             for sl_index, each_slide_object in enumerate(presentation_object.Slides):
 
-                print('============================ slide no =========================== '+str(sl_index))
+                print('============================ slide no ================================ ppt - ',len(con_set),'slide = ',str(sl_index+1),'/', len(presentation_object.Slides))
+                
                 # Divide the groups of all the slides.
-                previous_shapes = len(each_slide_object.Shapes)
-                print('BEFORE number of shapes in the current slide = ', previous_shapes)
-                in_group_limit = ungroup_all_shapes(each_slide_object , each_slide_object.Shapes, (previous_shapes * THRESH_HOLD_GP))
-                after_shapes = len(each_slide_object.Shapes)
-                print('REVISED number of shapes in the current slide = ', after_shapes)
-
-                if(not in_group_limit):
+                print('BEFORE number of shapes in the current slide = ', len(each_slide_object.Shapes))
+                in_group_limit_satisfied = ungroup_all_shapes(each_slide_object , each_slide_object.Shapes, (THRESH_HOLD_GP))
+                print('REVISED number of shapes in the current slide = ', len(each_slide_object.Shapes))
+                
+                if(not in_group_limit_satisfied):
                     print("skipping this slide.")
                     continue
-
+                # -----------------------------------------
+                
                 # initilizaions for the slide processing.
                 trans = []
                 trans.append("Slide " + str(sl_index))
                 was_anything_found = False
                 to_be_processed_shapes = []
 
+                print('starting to work on the shapes')
                 # finally process the slide. Extract the text that is in the slides.
                 for i in range(len(each_slide_object.Shapes)):
                     each_shape = each_slide_object.Shapes[i]
                     if each_shape.HasTextFrame and each_shape.TextFrame.HasText and not each_shape.HasSmartArt:
                         elems = each_shape.TextFrame.TextRange.Lines()
-
-                        # print('color = ', (each_shape.TextFrame.TextRange.Font.Color))
-                        # input('read the color')
-                        
-                        for elem in elems:
-                            # elem.Text is the complete string
-                            if elem.Text not in ("\r", "\n", " ", u"\u000D", u"\u000A"): # , u"\u000B", u"\u0009"
-                                was_anything_found = True
-                                print(elem.Text)
-                                result = charwise_hex_string(elem.Text)
-                                # See the code in the end if you are trying to extract.
-                                trans.append(str(int(elem.BoundLeft)) + ' ' + str(int(elem.BoundTop)) + ' ' + str(
-                                        int(elem.BoundWidth)) + ' ' + str(int(elem.BoundHeight)) + ' ' + result)
-                    else:
+                        was_anything_found = save_results_for(elems, trans)
+                    else: # if has text loop
                         to_be_processed_shapes.append(each_shape)
-                else:
+                else: # for loop else.
                     # Everything good store the slide as image
                     name = each_ppt +"_"+ str(sl_index) + "_" + str(BATCH_COUNTER) + '.jpg'
-                    
                     if was_anything_found:
                         try:
                             process_these_shapes(to_be_processed_shapes, each_slide_object, image_pool_folder)
                         except:
                             print('exception during delete shape')
-
                         print('saving ======= ', name)
                         each_slide_object.export(os.path.join(images_folder, name), 'JPG')
                         transcription.write('\n'.join(trans) + '\n')
             try:
                 presentation_object.Close()
             except Exception as e:
-                print(e)
-
+                print('problem with closing the file',e)
 
     Application.Quit()
     transcription.close()
-    i_draw_bb.main(BATCH_COUNTER, CURR_LANG)
-    con_slide_file.close()
+
+def save_results_for(elems, trans):
+    was_anything_found = False
+    for elem in elems:
+        if elem.Text not in ("\r", "\n", " ", u"\u000D", u"\u000A"): # , u"\u000B", u"\u0009"
+            # skip if only spaces are there
+            if(elem.Text.isspace()):
+                continue
+            # makes it eligible for the slide to be recorded as a sample
+            was_anything_found = True
+            text_in_unicode = charwise_hex_string(elem.Text)
+            # See the code in the end if you are trying to extract.
+            trans.append(str(int(elem.BoundLeft)) + ' ' + str(int(elem.BoundTop)) + ' ' 
+            + str(int(elem.BoundWidth)) + ' ' + str(int(elem.BoundHeight)) + ' ' + text_in_unicode)
+    return was_anything_found
+
+def init_folder_hierarchy(data_folder, CURR_LANG):
+    lang_folder = os.path.join(data_folder, CURR_LANG)
+    images_folder = os.path.join(lang_folder, 'images') # data/lang_ja/images
+    image_pool_folder = os.path.join(data_folder, 'image_pool_2')
+    ppt_folder = os.path.join(lang_folder, 'ppts') # ppts change
+    create_directory(images_folder)
+    return lang_folder, images_folder, image_pool_folder, ppt_folder
+
 
 def create_directory(directory):
     if not os.path.exists(directory):
@@ -178,34 +184,43 @@ def create_directory(directory):
 
 
 def ungroup_all_shapes(each_slide_object, shapes, cut_off):
+    print('ungrouping now')
+    previous_shapes = len(each_slide_object.Shapes)
+    if previous_shapes > 50:
+        print('ungrouping prev cutt off')
+        return False
     for each_shape in shapes:
         try:
             each_shape.Ungroup()
         except:
-            # print('Sorry could not do that ungrouping')
             # already one single and not a group.
             pass
         current_len = len(each_slide_object.Shapes)
         if current_len > cut_off:
+            print('ungrouping cut- off')
             return False
+    print('ungrouping complete')
     return True
 
-def populate_links_have(links_path):
-    s = set()
-    try:
-        lnk_file = open(links_path, 'r')
-    except IOError:
-        lnk_file = open(links_path, 'w')
-        return s
+def populate_links_have(lang_folder):
+    _set = set()
+    for each_file in os.listdir(lang_folder):
+        if'transcription_' in each_file:
+            filename = os.path.join(lang_folder, each_file)
+            lnk_file = open(filename, 'r')
+            present_lines = lnk_file.readlines()
+            for each_line in present_lines:
+                curr_entry = each_line.rstrip()
+                if "SlideName" in curr_entry :
+                    split_data = curr_entry.split(" ")[2]
+                    _set.add(split_data)
+            lnk_file.close()
+    return _set
 
-    present_lines = lnk_file.readlines()
-    for each_line in present_lines:
-        curr_entry = each_line.rstrip()
-        s.add(curr_entry)
-    lnk_file.close()
-    return s
-
+import time
 def process_these_shapes(to_be_processed_shapes, each_slide_object, image_pool_folder):
+    print('processing shapes, replacing images and deleting the rest')
+    st_time = time.time()
     images_placed_set = set()
     for each_shape in to_be_processed_shapes:
 
@@ -213,21 +228,19 @@ def process_these_shapes(to_be_processed_shapes, each_slide_object, image_pool_f
             delete_this_shape(each_shape)
             continue
             
-        if(each_shape.Width < 20 and each_shape.Height < 20):
-            delete_this_shape(each_shape)
-            continue
-        
         if((each_shape.Left, each_shape.Top, each_shape.Width, each_shape.Height) not in images_placed_set):
             ran_image = random.choice(os.listdir(image_pool_folder))
-            sh_obj = each_slide_object.Shapes.AddPicture(os.path.join(image_pool_folder, ran_image), True, False, 
+            sh_obj = each_slide_object.Shapes.AddPicture(os.path.join(image_pool_folder, ran_image), True, False, # change 
                                             each_shape.Left, each_shape.Top, each_shape.Width, each_shape.Height)
             while sh_obj.ZOrderPosition > 1:
                 sh_obj.ZOrder(3)
 
             images_placed_set.add((each_shape.Left, each_shape.Top, each_shape.Width, each_shape.Height))
-        else:
-            print("duplicate_detected")
+        
+        # the shape itself is delected after the images has already been added to the to their positions.
         delete_this_shape(each_shape)
+    
+    print('Done processing shapes = ', time.time() - st_time)
 
 
 def delete_this_shape(temp):
@@ -238,32 +251,3 @@ def delete_this_shape(temp):
 
 if __name__=='__main__':
     main()
-# top_left = 0
-#                                 top_right = 1
-#                                 bottom_right = 2
-#                                 bottom_left = 3
-#                                 x = 0
-#                                 y = 1
-    
-# lines_list.append(result)
-
-                                # print(lines_list)
-
-                                # coord_matrix[x][top_left].append(int(elem.BoundLeft))
-                                # coord_matrix[y][top_left].append(int(elem.BoundTop))
-
-                                # coord_matrix[x][top_right].append(int(elem.BoundLeft) + int(elem.BoundWidth))
-                                # coord_matrix[y][top_right].append(int(elem.BoundTop))
-
-                                # coord_matrix[x][bottom_right].append(int(elem.BoundLeft)+ int(elem.BoundWidth))
-                                # coord_matrix[y][bottom_right].append(int(elem.BoundTop) + int(elem.BoundHeight))
-
-                                # coord_matrix[x][bottom_left].append(int(elem.BoundLeft))
-                                # coord_matrix[y][bottom_left].append(int(elem.BoundTop) + int(elem.BoundHeight))
-
-                                # point_top_left = (int(elem.BoundLeft), int(elem.BoundTop))
-                                # point_top_right = (int(elem.BoundLeft) + int(elem.BoundWidth) , int(elem.BoundTop))
-                                # point_bot_left = (int(elem.BoundLeft) , int(elem.BoundTop) + int(elem.BoundHeight))
-                                # point_bot_right = (int(elem.BoundLeft)+ int(elem.BoundWidth) , int(elem.BoundTop) + int(elem.BoundHeight))
-                                # box = [point_top_left, point_top_right, point_bot_left, point_bot_right]
-                                # list_boxes.append(box)

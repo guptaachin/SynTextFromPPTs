@@ -1,6 +1,7 @@
 import cv2 
 import os
 import numpy as np
+import threading
 
 data_folder = os.path.join(os.getcwd(), 'data')
 image_pool_folder = os.path.join(data_folder, 'image_pool')
@@ -8,7 +9,6 @@ parallel_folder = os.path.join(data_folder, 'image_pool_2')
 
 def main(list_files, thread_no):
     count = 0
-
     for each_img in list_files:
         image_path_processed = os.path.join(parallel_folder, each_img)
         if(os.path.exists(image_path_processed)):
@@ -32,7 +32,6 @@ def create_directory(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-import threading
 if __name__ == "__main__":
     create_directory(parallel_folder)
     list_files = os.listdir(image_pool_folder)

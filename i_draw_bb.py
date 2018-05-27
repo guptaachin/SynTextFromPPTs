@@ -1,25 +1,12 @@
 # -*- coding: utf-8 -*-
-
-######################### Arguments ##########################################
-# the transcription file, which is the output from extract_bounding_box.py
-# transcription = r'C:\Users\ismailej\Desktop\slides\slide\manual_part9\unique\transcription_sample.txt'
-# the final transcriptions in csv format
-# outfile = open(r'C:\Users\ismailej\Desktop\OCR\annotatation.csv', 'w')
-# the images extracted by extract_bounding_box.py
-# images_folder = r'C:\Users\ismailej\Desktop\OCR\images'
-# the annotated images will be stored in the following location
-# images_annotated_folder = r'C:\Users\ismailej\Desktop\OCR\images_annotated'
-# the below is used for removing the duplicates, so before adding the image
-# annotated_folder = os.path.join(os.getcwd(), 'annotated_folder')
-# we will check if the image is already contained in the existing annotation list
-###############################################################################
+# Credits - Ismail.
+# modified by achin a little bit
 
 import csv # write in csv format
 import os
 import hashlib
 from PIL import Image, ImageDraw
 import argparse
-
 
 data_folder = os.path.join(os.getcwd(), 'data')
 
@@ -65,24 +52,29 @@ def crop_image(image, rectangle):
     
     return new_rect
 
-def main(counter, LANG):
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
-    # args = parser.parse_args()
-    print('Annotation running for batch =', counter, " and  lang = ",LANG)
-    CURR_LANG = LANG
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
+    parser.add_argument("batch_no", help="enter batch number")
+    args = parser.parse_args()
+    CURR_LANG = args.language
+    counter = int(args.batch_no)
 
     lang_folder = os.path.join(data_folder, CURR_LANG)
 
     images_annotated_folder = os.path.join(lang_folder, 'images_annotated_folder')
-    annotated_folder =  images_annotated_folder
     images_folder = os.path.join(lang_folder, "images")
 
     create_directory(images_annotated_folder)
-    create_directory(annotated_folder)
+    
+    for each_file in os.listdir(lang_folder):
+        if 'transcription_' in each_file:
+            process_transcription_file(lang_folder, images_annotated_folder, images_folder, counter)
 
-    transcription = os.path.join(lang_folder, 'transcription_'+str(counter)+'.txt')
-    outfile = open(os.path.join(lang_folder, 'annotation_'+str(counter)+'.csv'), 'w')
+def process_transcription_file(lang_folder, images_annotated_folder, images_folder, counter):
+    transcription = os.path.join(lang_folder, 'transcription_'+counter+'.txt')
+
+    outfile = open(os.path.join(lang_folder, 'annotation_'+counter+'.csv'), 'w')
 
     fields = ['file', 'x0', 'y0', 'width', 'height', 'trans', 'md5hash']
     writer = csv.DictWriter(outfile, delimiter=',', lineterminator='\n', fieldnames=fields)
@@ -90,10 +82,10 @@ def main(counter, LANG):
     annotation = {}  # contains all the annotation md5hash
 
 
-    if annotated_folder:
-        for files in os.listdir(annotated_folder):
+    if images_annotated_folder:
+        for files in os.listdir(images_annotated_folder):
             if files.endswith('csv'):
-                with open(os.path.join(annotated_folder, files)) as f:
+                with open(os.path.join(images_annotated_folder, files)) as f:
                     reader = csv.DictReader(f)
                     for row in reader:
                         if 'md5hash' in row:
@@ -158,13 +150,9 @@ def main(counter, LANG):
 
     outfile.close()
 
-
-    print('Annotation COMPLETE for batch =', counter, " and  lang = ",LANG)
-
 def create_directory(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-# if __name__=='__main__':
-#     main()
-
+if __name__=='__main__':
+    main()

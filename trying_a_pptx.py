@@ -1,7 +1,7 @@
+# this library can only open pptx file i.e > 2007 pptx files
+
 from pptx import Presentation
 import os
-
-
 
 def main():
 
