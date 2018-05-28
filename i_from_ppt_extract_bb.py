@@ -11,7 +11,7 @@ import random
 
 CURR_LANG = ""
 BATCH = 100
-THRESH_HOLD_GP = 50
+THRESH_HOLD_GP = 35
 images_folder = ""
 data_folder = os.path.join(os.getcwd(), 'data')
 
@@ -34,7 +34,6 @@ def charwise_hex_string(item):
     split_final = ' u0020 '.join(split_final)
 
     return split_final
-
 
 def main():
     parser = argparse.ArgumentParser()
@@ -116,7 +115,7 @@ def main():
                 print('REVISED number of shapes in the current slide = ', len(each_slide_object.Shapes))
                 
                 if(not in_group_limit_satisfied):
-                    print("skipping this slide.")
+                    print("SKIPPING this slide.")
                     continue
                 # -----------------------------------------
                 
@@ -126,7 +125,9 @@ def main():
                 was_anything_found = False
                 to_be_processed_shapes = []
 
-                print('starting to work on the shapes')
+                import time
+                st_time = time.time()
+                print('Starting to loop through ungrouped shapes on the shapes')
                 # finally process the slide. Extract the text that is in the slides.
                 for i in range(len(each_slide_object.Shapes)):
                     each_shape = each_slide_object.Shapes[i]
@@ -143,10 +144,12 @@ def main():
                             process_these_shapes(to_be_processed_shapes, each_slide_object, image_pool_folder)
                         except:
                             print('exception during delete shape')
-                        print('saving ======= ', name)
+                        print('    SAVING ======= ', name)
                         each_slide_object.export(os.path.join(images_folder, name), 'JPG')
                         transcription.write('\n'.join(trans) + '\n')
+                print('Done looping through the shapes.', time.time() - st_time)
             try:
+
                 presentation_object.Close()
             except Exception as e:
                 print('problem with closing the file',e)
@@ -177,24 +180,22 @@ def init_folder_hierarchy(data_folder, CURR_LANG):
     create_directory(images_folder)
     return lang_folder, images_folder, image_pool_folder, ppt_folder
 
-
 def create_directory(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-
 def ungroup_all_shapes(each_slide_object, shapes, cut_off):
-    print('ungrouping now')
+    print('ungrouping now.')
+    print('if the terminal holds up. Please check the MS PPT Window.')
     previous_shapes = len(each_slide_object.Shapes)
-    if previous_shapes > 50:
+    if previous_shapes > THRESH_HOLD_GP:
         print('ungrouping prev cutt off')
         return False
     for each_shape in shapes:
         try:
             each_shape.Ungroup()
         except:
-            # already one single and not a group.
-            pass
+            continue
         current_len = len(each_slide_object.Shapes)
         if current_len > cut_off:
             print('ungrouping cut- off')
@@ -217,10 +218,9 @@ def populate_links_have(lang_folder):
             lnk_file.close()
     return _set
 
-import time
+
 def process_these_shapes(to_be_processed_shapes, each_slide_object, image_pool_folder):
-    print('processing shapes, replacing images and deleting the rest')
-    st_time = time.time()
+    print('    processing shapes, replacing images and deleting the rest')
     images_placed_set = set()
     for each_shape in to_be_processed_shapes:
 
@@ -240,8 +240,7 @@ def process_these_shapes(to_be_processed_shapes, each_slide_object, image_pool_f
         # the shape itself is delected after the images has already been added to the to their positions.
         delete_this_shape(each_shape)
     
-    print('Done processing shapes = ', time.time() - st_time)
-
+    print('    Done processing shapes.')
 
 def delete_this_shape(temp):
     try:

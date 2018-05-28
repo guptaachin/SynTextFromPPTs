@@ -25,9 +25,6 @@ def main():
             # for each_slide in prs.slides:
             #     print(each_slide)
 
-
-
-
 def preprocessing():
     import argparse
     parser = argparse.ArgumentParser()
