@@ -25,11 +25,15 @@ Here are the tasks this code carries out:
 ## Steps to run this code.
 
 1. Getting the powerpoint slides from the web using custom search.
-    1. open up w_web_interactions.py and paste the key in api_key and the search_engine_id. Please follow [follow me to get the key](https://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search)
+
+Open up w_web_interactions.py and paste the key in api_key and the search_engine_id. Please follow [follow me to get the key](https://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search)
 
 I separated the downloading links and downloading the actual powerpoints into two scripts named with prefixed 'd_' just to modularize the code and make the management of the files more easy. Please the d_ prefixed files to get the powerpoints from the web. Just one last thing, the w_web_interactions.py script is where the calls to the web are made and the calls for the downloads are performed. That is where you might want to see if you are interested in looking at the web specific code.
 
-2. Once you have the powerpoint slides in hand you wanna work with them to extract the images and then draw bounding boxes followed by recording the text and the posiition of these bouding boxes. The prefixed i_ scripts do these.
+2. Processing the powerpoints to extract the image, annotation labeled data.
+Once you have the powerpoint slides in hand you wanna work with them to extract the images and then draw bounding boxes followed by recording the text and the posiition of these bouding boxes. The prefixed i_ scripts do this.
+ run: python i_from_ppt_extract_bb.py lang_ja. Here lang_ja is the language you are running the code for. This file gives you transcirption files for batches of powerpoints. I choose to work with batches to save intermediate results since the Python-PPT API I am using sometimes behaves different from expected.
+Then you can run the python i_draw_bb.py 0, where the number is the batch count. to generate images with bounding boxes and the labels in annotation_0.csv.
 
 Please forgive for any non clean code you find. I intend to make efforts to further make the code more clean and easier to work with. 
 Thank you for reading. Hope you find what you were looking for in here. 
