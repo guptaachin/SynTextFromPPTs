@@ -111,8 +111,12 @@ def main():
                         except:
                             print('exception during delete shape')
                         print('    SAVING ======= ', name)
-                        each_slide_object.export(os.path.join(images_folder, name), 'JPG')
-                        transcription.write('\n'.join(trans) + '\n')
+                        try:
+                            each_slide_object.export(os.path.join(images_folder, name), 'JPG')
+                            transcription.write('\n'.join(trans) + '\n')
+                        except Exception as e:
+                            print('error during export')
+                            
                 print('Done looping through the shapes.', time.time() - st_time)
             try:
 

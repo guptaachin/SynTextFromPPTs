@@ -58,7 +58,7 @@ def main():
     parser.add_argument("batch_no", help="enter batch number")
     args = parser.parse_args()
     CURR_LANG = args.language
-    counter = int(args.batch_no)
+    counter = str(args.batch_no)
 
     lang_folder = os.path.join(data_folder, CURR_LANG)
 
@@ -67,9 +67,9 @@ def main():
 
     create_directory(images_annotated_folder)
     
-    for each_file in os.listdir(lang_folder):
-        if 'transcription_' in each_file:
-            process_transcription_file(lang_folder, images_annotated_folder, images_folder, counter)
+    # for each_file in os.listdir(lang_folder):
+    #     if 'transcription_' in each_file:
+    process_transcription_file(lang_folder, images_annotated_folder, images_folder, counter)
 
 def process_transcription_file(lang_folder, images_annotated_folder, images_folder, counter):
     transcription = os.path.join(lang_folder, 'transcription_'+counter+'.txt')
@@ -106,6 +106,7 @@ def process_transcription_file(lang_folder, images_annotated_folder, images_fold
                 ppt_name = elements[2]
                 # outfile.write(line + '\n')
                 if first == False:
+                    print('saving = ', name)
                     image.save(os.path.join(images_annotated_folder, name))
                 first = False
                 first_below = True
@@ -114,6 +115,7 @@ def process_transcription_file(lang_folder, images_annotated_folder, images_fold
                 slide_num = elements[1]
                 # outfile.write(line + '\n')
                 if first_below == False:
+                    print('saving = ', name)
                     image.save(os.path.join(images_annotated_folder, name))
                 first_below = False
                 name = ppt_name + "_"+slide_num+"_"+str(counter) + '.jpg'
@@ -145,7 +147,7 @@ def process_transcription_file(lang_folder, images_annotated_folder, images_fold
                     dic['trans'] = trans
                     dic['md5hash'] = dig
                     writer.writerow(dic)
-
+        print('saving last image = ' , name)
         image.save(os.path.join(images_annotated_folder, name))
 
     outfile.close()

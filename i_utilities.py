@@ -80,7 +80,7 @@ def populate_links_have(lang_folder):
             for each_line in present_lines:
                 curr_entry = each_line.rstrip()
                 if "SlideName" in curr_entry :
-                    split_data = curr_entry.split(" ")[2]
+                    split_data = curr_entry.split(" - ")[1].strip()
                     _set.add(split_data)
             lnk_file.close()
     return _set
