@@ -94,7 +94,6 @@ def process_transcription_file(lang_folder, images_annotated_folder, images_fold
 
     first = True
     first_below = True
-    ppt = ''
     name = image = ''
 
     with open(transcription) as fi:

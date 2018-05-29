@@ -2,6 +2,11 @@
 
 This is a part of the data collection/generation work I did at Information Sciences Institute, Marina del Ray.
 
+Check out the following samples
+![Samples generated from powerpoints](sl_lang_ja_Activity_4723_.ppt_10_0.jpg "PPT Samples 1")
+![Samples generated from powerpoints](sl_lang_ja_Advantage_4427_.ppt_38_0.jpg "PPT Samples 2")
+
+
 ## Components of the code:
 1. Google custom Search.
 2. Win32com package to work with the powerpoint slides using python

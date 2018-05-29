@@ -7,7 +7,7 @@
 import win32com.client, sys
 import os
 import argparse
-import i_utilities
+import i_utilities_ifpeb
 
 
 def main():
@@ -17,12 +17,12 @@ def main():
     CURR_LANG = args.language
 
     data_folder = os.path.join(os.getcwd(), 'data')
-    lang_folder, images_folder, image_pool_folder, ppt_folder = i_utilities.init_folder_hierarchy(data_folder, CURR_LANG)
+    lang_folder, images_folder, image_pool_folder, ppt_folder = i_utilities_ifpeb.init_folder_hierarchy(data_folder, CURR_LANG)
 
     BATCH_COUNTER = -1
     transcription = None
     folder_for_ppt = ppt_folder
-    con_set = i_utilities.populate_links_have(lang_folder)
+    con_set = i_utilities_ifpeb.populate_links_have(lang_folder)
 
     # takes care of the condition when the process and stopped. Essential since MS-PPT crashes sometimes.
     is_first_call = True
@@ -41,11 +41,11 @@ def main():
                 print('continuing - ',each_ppt)
                 continue  
             # implement the batching to save intermediate results
-            if len(con_set) % i_utilities.BATCH == 0 or is_first_call:
+            if len(con_set) % i_utilities_ifpeb.BATCH == 0 or is_first_call:
                 is_first_call = False
                 if transcription:
                     transcription.close()
-                BATCH_COUNTER  = int(len(con_set) / i_utilities.BATCH)
+                BATCH_COUNTER  = int(len(con_set) / i_utilities_ifpeb.BATCH)
                 filename = os.path.join(lang_folder, 'transcription_'+str(BATCH_COUNTER)+'.txt')
                 try:
                     transcription = open(filename, 'a')
@@ -77,7 +77,7 @@ def main():
                 
                 # Divide the groups of all the slides.
                 print('BEFORE number of shapes in the current slide = ', len(each_slide_object.Shapes))
-                in_group_limit_satisfied = i_utilities.ungroup_all_shapes(each_slide_object , each_slide_object.Shapes, (i_utilities.THRESH_HOLD_GP))
+                in_group_limit_satisfied = i_utilities_ifpeb.ungroup_all_shapes(each_slide_object , each_slide_object.Shapes, (i_utilities_ifpeb.THRESH_HOLD_GP))
                 print('REVISED number of shapes in the current slide = ', len(each_slide_object.Shapes))
                 
                 if(not in_group_limit_satisfied):
@@ -99,7 +99,7 @@ def main():
                     each_shape = each_slide_object.Shapes[i]
                     if each_shape.HasTextFrame and each_shape.TextFrame.HasText and not each_shape.HasSmartArt:
                         elems = each_shape.TextFrame.TextRange.Lines()
-                        was_anything_found = i_utilities.save_results_for(elems, trans)
+                        was_anything_found = i_utilities_ifpeb.save_results_for(elems, trans)
                     else: # if has text loop
                         to_be_processed_shapes.append(each_shape)
                 else: # for loop else.
@@ -107,7 +107,7 @@ def main():
                     name = each_ppt +"_"+ str(sl_index) + "_" + str(BATCH_COUNTER) + '.jpg'
                     if was_anything_found:
                         try:
-                            i_utilities.process_these_shapes(to_be_processed_shapes, each_slide_object, image_pool_folder)
+                            i_utilities_ifpeb.process_these_shapes(to_be_processed_shapes, each_slide_object, image_pool_folder)
                         except:
                             print('exception during delete shape')
                         print('    SAVING ======= ', name)
@@ -116,7 +116,7 @@ def main():
                             transcription.write('\n'.join(trans) + '\n')
                         except Exception as e:
                             print('error during export')
-                            
+
                 print('Done looping through the shapes.', time.time() - st_time)
             try:
 
