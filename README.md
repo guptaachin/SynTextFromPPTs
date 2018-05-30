@@ -1,4 +1,4 @@
-# Generating the data for a language recognition model(based on CNNs).
+# Generating the data for a language recognition model.
 
 This is a part of the data collection/generation work I did at Information Sciences Institute, Marina del Ray.
 
