@@ -8,8 +8,8 @@ socket.setdefaulttimeout(30)
 
 # imports
 SEPARATOR = '__SEPARATOR__'
-#apikey = ""
-#search_eng_id = ''
+apikey = ""
+search_eng_id = ''
 
 class Google_Api:
 
