@@ -1,2 +1,7 @@
-
 *.ppt
+*.txt
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+Untitled.ipynb
+data/*

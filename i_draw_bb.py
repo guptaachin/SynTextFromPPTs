@@ -7,6 +7,7 @@ import os
 import hashlib
 from PIL import Image, ImageDraw
 import argparse
+import shutil
 
 data_folder = os.path.join(os.getcwd(), 'data')
 
@@ -63,15 +64,17 @@ def main():
     lang_folder = os.path.join(data_folder, CURR_LANG)
 
     images_annotated_folder = os.path.join(lang_folder, 'images_annotated_folder')
+    images_raw_folder = os.path.join(lang_folder, 'images_raw_folder')
     images_folder = os.path.join(lang_folder, "images")
 
     create_directory(images_annotated_folder)
+    create_directory(images_raw_folder)
     
     # for each_file in os.listdir(lang_folder):
     #     if 'transcription_' in each_file:
-    process_transcription_file(lang_folder, images_annotated_folder, images_folder, counter)
+    process_transcription_file(lang_folder, images_annotated_folder, images_raw_folder, images_folder, counter)
 
-def process_transcription_file(lang_folder, images_annotated_folder, images_folder, counter):
+def process_transcription_file(lang_folder, images_annotated_folder, images_raw_folder, images_folder, counter):
     transcription = os.path.join(lang_folder, 'transcription_'+counter+'.txt')
 
     outfile = open(os.path.join(lang_folder, 'annotation_'+counter+'.csv'), 'w')
@@ -101,8 +104,8 @@ def process_transcription_file(lang_folder, images_annotated_folder, images_fold
             # pause_n_print('line = '+line)
             line = line.strip()
             if 'SlideName' in line:
-                elements = line.split()
-                ppt_name = elements[2]
+                elements = line.split(" - ")
+                ppt_name = elements[1]
                 # outfile.write(line + '\n')
                 if first == False:
                     print('saving = ', name)
@@ -119,7 +122,14 @@ def process_transcription_file(lang_folder, images_annotated_folder, images_fold
                 first_below = False
                 name = ppt_name + "_"+slide_num+"_"+str(counter) + '.jpg'
                 image_file = os.path.join(images_folder, name)
-                image = Image.open(image_file)
+                try:
+                    # save the image to another folder
+                    shutil.copyfile(image_file, os.path.join(images_raw_folder, name))
+                    image = Image.open(os.path.join(images_raw_folder, name))
+                    os.remove(image_file)
+                except:
+                    print('xxxxxxxxxxxxxxxxxxxxxxxxException opening file xxxxxxxxxxxxxxxxxxxxxx')
+                    continue
                 dig = hashlib.md5(image.tobytes()).hexdigest()
                 drawable = ImageDraw.Draw(image)
             else:
@@ -129,7 +139,12 @@ def process_transcription_file(lang_folder, images_annotated_folder, images_fold
 
                 # Now we have to do the processing to make the bounding box
                 # tight
-                new_rect = crop_image(image, rectangle)
+                try:
+                    new_rect = crop_image(image, rectangle)
+                except :
+                    # decompression bomb exception handle. reject the sample.
+                    print('exception in cropping')
+                    continue
                 new_rect[2] = new_rect[0] + new_rect[2]
                 new_rect[3] = new_rect[1] + new_rect[3]
                 new_rect[1], new_rect[3] = new_rect[3], new_rect[1]

@@ -44,6 +44,10 @@ def init_folder_hierarchy(data_folder, CURR_LANG):
     images_folder = os.path.join(lang_folder, 'images') # data/lang_ja/images
     image_pool_folder = os.path.join(data_folder, 'image_pool_2')
     ppt_folder = os.path.join(lang_folder, 'ppts') # ppts change
+
+    if CURR_LANG == 'lang_ko' or CURR_LANG == 'lang_es':
+        ppt_folder = 'D:/'+CURR_LANG
+
     create_directory(images_folder)
     return lang_folder, images_folder, image_pool_folder, ppt_folder
 
@@ -51,20 +55,20 @@ def create_directory(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-def ungroup_all_shapes(each_slide_object, shapes, cut_off):
+def ungroup_all_shapes(each_slide_object):
     print('ungrouping now.')
     print('if the terminal holds up. Please check the MS PPT Window.')
     previous_shapes = len(each_slide_object.Shapes)
     if previous_shapes > THRESH_HOLD_GP:
         print('ungrouping prev cutt off')
         return False
-    for each_shape in shapes:
+    for each_shape in each_slide_object.Shapes:
         try:
             each_shape.Ungroup()
         except:
             continue
         current_len = len(each_slide_object.Shapes)
-        if current_len > cut_off:
+        if current_len > THRESH_HOLD_GP:
             print('ungrouping cut- off')
             return False
     print('ungrouping complete')

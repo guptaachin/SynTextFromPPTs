@@ -31,15 +31,15 @@ def main():
             
         if  (each_ppt.endswith('ppt') or each_ppt.endswith('pptx')):
 
+            if(each_ppt in con_set):
+                print('continuing - ',each_ppt)
+                continue  
             # launching the Microsift powerpoint
             Application = win32com.client.Dispatch("PowerPoint.Application")
             Application.Visible = True
             # ------------------------------------
             print('PPTS processed = ', len(con_set))
 
-            if(each_ppt in con_set):
-                print('continuing - ',each_ppt)
-                continue  
             # implement the batching to save intermediate results
             if len(con_set) % i_utilities_ifpeb.BATCH == 0 or is_first_call:
                 is_first_call = False
@@ -53,7 +53,6 @@ def main():
                     transcription = open(filename, 'w')
                 print("file to be used = ",filename)
             # ---------------------------------------------------------------
-           
             # create an object for the powerpoint file
             try:
                 presentation_object = Application.Presentations.Open(os.path.join(folder_for_ppt, each_ppt))
@@ -65,67 +64,79 @@ def main():
             print("working for = ",each_ppt)
             con_set.add(each_ppt)
 
-
             # open up a section in transcription for the current slide
             trans = ["SlideName - " + each_ppt]
             transcription.write(trans[0] + '\n')
             #----------------------------------------------------------
+            try :
+                for sl_index, each_slide_object in enumerate(presentation_object.Slides):
+                    process_this_slide(sl_index, each_slide_object, con_set, trans, transcription, presentation_object, 
+                    BATCH_COUNTER, image_pool_folder, each_ppt, images_folder)
+                # call this method with multiple threads.
 
-            for sl_index, each_slide_object in enumerate(presentation_object.Slides):
-
-                print('============================ slide no ================================ ppt - ',len(con_set),'slide = ',str(sl_index+1),'/', len(presentation_object.Slides))
-                
-                # Divide the groups of all the slides.
-                print('BEFORE number of shapes in the current slide = ', len(each_slide_object.Shapes))
-                in_group_limit_satisfied = i_utilities_ifpeb.ungroup_all_shapes(each_slide_object , each_slide_object.Shapes, (i_utilities_ifpeb.THRESH_HOLD_GP))
-                print('REVISED number of shapes in the current slide = ', len(each_slide_object.Shapes))
-                
-                if(not in_group_limit_satisfied):
-                    print("SKIPPING this slide.")
-                    continue
-                # -----------------------------------------
-                
-                # initilizaions for the slide processing.
-                trans = []
-                trans.append("Slide " + str(sl_index))
-                was_anything_found = False
-                to_be_processed_shapes = []
-
-                import time
-                st_time = time.time()
-                print('Starting to loop through ungrouped shapes on the shapes')
-                # finally process the slide. Extract the text that is in the slides.
-                for i in range(len(each_slide_object.Shapes)):
-                    each_shape = each_slide_object.Shapes[i]
-                    if each_shape.HasTextFrame and each_shape.TextFrame.HasText and not each_shape.HasSmartArt:
-                        elems = each_shape.TextFrame.TextRange.Lines()
-                        was_anything_found = i_utilities_ifpeb.save_results_for(elems, trans)
-                    else: # if has text loop
-                        to_be_processed_shapes.append(each_shape)
-                else: # for loop else.
-                    # Everything good store the slide as image
-                    name = each_ppt +"_"+ str(sl_index) + "_" + str(BATCH_COUNTER) + '.jpg'
-                    if was_anything_found:
-                        try:
-                            i_utilities_ifpeb.process_these_shapes(to_be_processed_shapes, each_slide_object, image_pool_folder)
-                        except:
-                            print('exception during delete shape')
-                        print('    SAVING ======= ', name)
-                        try:
-                            each_slide_object.export(os.path.join(images_folder, name), 'JPG')
-                            transcription.write('\n'.join(trans) + '\n')
-                        except Exception as e:
-                            print('error during export')
-
-                print('Done looping through the shapes.', time.time() - st_time)
-            try:
-
-                presentation_object.Close()
-            except Exception as e:
-                print('problem with closing the file',e)
+                try:
+                    presentation_object.Close()
+                except Exception as e:
+                    print('problem with closing the file',e)
+            except:
+                continue
 
     Application.Quit()
     transcription.close()
+
+
+def process_this_slide(sl_index, each_slide_object, con_set, trans, transcription, presentation_object, BATCH_COUNTER, image_pool_folder, each_ppt, images_folder):
+    print('============================ slide no ================================ ppt - ',len(con_set),'slide = ',str(sl_index+1),'/', len(presentation_object.Slides))
+    
+    # Divide the groups of all the slides.
+    print('BEFORE number of shapes in the current slide = ', len(each_slide_object.Shapes))
+    in_group_limit_satisfied = i_utilities_ifpeb.ungroup_all_shapes(each_slide_object)
+    print('REVISED number of shapes in the current slide = ', len(each_slide_object.Shapes))
+    
+    if(not in_group_limit_satisfied):
+        print("SKIPPING this slide.")
+        return
+    # -----------------------------------------
+    
+    # initilizaions for the slide processing.
+    trans = []
+    trans.append("Slide " + str(sl_index))
+    was_anything_found = False
+    to_be_processed_shapes = []
+
+    import time
+    st_time = time.time()
+    print('Starting to loop through ungrouped shapes on the shapes')
+    # finally process the slide. Extract the text that is in the slides.
+    for i in range(len(each_slide_object.Shapes)):
+        try:
+            each_shape = each_slide_object.Shapes[i]
+            if each_shape.HasTextFrame and each_shape.TextFrame.HasText and not each_shape.HasSmartArt:
+                elems = each_shape.TextFrame.TextRange.Lines()
+                was_anything_found = i_utilities_ifpeb.save_results_for(elems, trans)
+            else: # if has text loop
+                to_be_processed_shapes.append(each_shape)
+        except :
+            continue
+            # for other shapes. keep on singing.
+    else: # for loop else.
+        # Everything good store the slide as image
+        name = each_ppt +"_"+ str(sl_index) + "_" + str(BATCH_COUNTER) + '.jpg'
+        if was_anything_found:
+            try:
+                i_utilities_ifpeb.process_these_shapes(to_be_processed_shapes, each_slide_object, image_pool_folder)
+            except:
+                print('exception during delete shape')
+            print('    SAVING ======= ', name)
+            try:
+                each_slide_object.export(os.path.join(images_folder, name), 'JPG')
+                transcription.write('\n'.join(trans) + '\n')
+            except:
+                print('error during export')
+
+    print('Done looping through the shapes.', time.time() - st_time)
+
+
 
 if __name__=='__main__':
     main()
