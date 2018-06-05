@@ -3,7 +3,7 @@ import os
 import numpy as np
 import threading
 
-data_folder = os.path.join(os.getcwd(), 'data')
+data_folder = os.path.join(os.getcwd(), '../data')
 image_pool_folder = os.path.join(data_folder, 'image_pool')
 parallel_folder = os.path.join(data_folder, 'image_pool_2')
 
