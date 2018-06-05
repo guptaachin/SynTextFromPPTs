@@ -8,29 +8,8 @@ socket.setdefaulttimeout(30)
 
 # imports
 SEPARATOR = '__SEPARATOR__'
-# guptaachin01
-#apikey = "AIzaSyCmyluZAx9OEqjwi2zKmBfvGnu4KrTEstQ"
-#search_eng_id = '009893106914731719450:so9uldhqkus'
-
-# achingupta3000
-#apikey = "AIzaSyCcX5bGHUDcfus-VBu0x0TnUDaXB1SbEa8"
-#search_eng_id = "016135740530810151881:rfvtqvhszgm"
-
-# achingupta1756
-#apikey = "AIzaSyAqK5IMRg8lM33laLR_8i2wtf9ooe-ivTU"
-#search_eng_id = "000402284428032715281:9tf38txb44o"
-#
-# achingupta1757
-#apikey = "AIzaSyAB06oSYNb212mEvauGHkieqkXV_wxR3i0"
-#search_eng_id = "013024238142372970011:tcdycx5c9gy"
-#
-# achingupta1758
-apikey = "AIzaSyBmQ4govoQdiAdYFepvsLOgI8RQK7Df5zI"
-search_eng_id = "003684733956413315411:4-am4d9jjty"
-#
-# achingupta1759
-#apikey = "AIzaSyDmR8JqGz2MzU-9XOqIdOzIU-ig6ScEELg"
-#search_eng_id = "013649291752998755986:nluep9yq7ks"
+apikey = ""
+search_eng_id = ''
 
 class Google_Api:
 
