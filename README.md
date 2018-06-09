@@ -1,6 +1,6 @@
 # Generating the data for a language recognition model.
 
-This is a part of the data collection/generation work I am at Information Sciences Institute, Marina del Ray.
+This is a part of the data collection/generation work I am doing at Information Sciences Institute, Marina del Ray.
 ## What is this repository about?
 <br> This mini engine is dedicated to generating data set for a text detection model. So the data generated from this code is in form of images extracted from the powerpoint slides and labels which are composed of the utf-8 unicoded characters in uxxxx format. The annotations of the corresponding to the image file is written down to a parallely created *annotation.csv* file. Here are some samples generated for Spanish, Korean and Japanese. 
 <br> Having introduced the basic functionality of the code. Now I want to divert the reader attention to a problem. i.e Since this data is to be used to train the text detection model, the embedded images in the power point tend to sneak in text which is impossible to detect with a good text detector. But is that we are trying to build in the first place. Chicken and Egg.
