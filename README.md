@@ -45,13 +45,14 @@ I separated the downloading links and downloading the actual powerpoints into tw
 
 2. Processing the powerpoints to extract the image, annotation labeled data.
 Once you have the powerpoint slides in hand you wanna work with them to extract the images and then draw bounding boxes followed by recording the text and the posiition of these bouding boxes. The prefixed i_ scripts do this.
- run: python i_from_ppt_extract_bb.py lang_ja. Here lang_ja is the language you are running the code for. This file gives you transcirption files for batches of powerpoints. I choose to work with batches to save intermediate results since the Python-PPT API I am using sometimes behaves different from expected.
-Then you can run the python i_draw_bb.py 0, where the number is the batch count. to generate images with bounding boxes and the labels in annotation_0.csv.
+run: python i_from_ppt_extract_bb.py lang_ja. Here lang_ja is the language you are running the code for. This file gives you transcirption files for batches of powerpoints. I choose to work with batches to save intermediate results since the Python-PPT API I am using sometimes behaves different from expected.
+<br>Then you can run the python i_draw_bb.py 0, where the number is the batch count. to generate images with bounding boxes and the labels in annotation_0.csv.
 
 Please forgive for any non clean code you find. I intend to make efforts to further make the code more clean and easier to work with. 
 Thank you for reading. Hope you find what you were looking for in here. <br>
 Cheers
 
 # Known issues
-1. The extraction of the data from the powerpoints is not entirely automated in the sense this box seldomly appears. Pressing okay resumes the execution process without problems.
+1. The extraction of the data from the powerpoints is not entirely automated in the sense this box seldomly appears. 
+<br>Pressing okay resumes the execution process without problems.
 ![Annoying box](ann.png "abox")
