@@ -11,12 +11,10 @@ This is a part of the data collection/generation work I am at Information Scienc
 
 Check out the following samples
 ![Samples generated from powerpoints](sl_lang_es_Abundant_7351_.ppt_30_0.jpg "PPT Samples spanish")
-<br>Spanish
-![Samples generated from powerpoints](sl_lang_ja_undo_3473_.ppt_42_15.jpg "PPT Samples japanese")
-<br>Japanese
-![Samples generated from powerpoints](sl_lang_ko_global_3244_.ppt_5_5.jpg "PPT Samples korean")
-<br>Korean
 
+![Samples generated from powerpoints](sl_lang_ja_undo_3473_.ppt_42_15.jpg "PPT Samples japanese")
+
+![Samples generated from powerpoints](sl_lang_ko_global_3244_.ppt_5_5.jpg "PPT Samples korean")
 
 ## The complete pipeline of the code looks like:
 1. Google custom Search.
