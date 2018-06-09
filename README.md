@@ -1,6 +1,13 @@
 # Generating the data for a language recognition model.
 
-This is a part of the data collection/generation work I did at Information Sciences Institute, Marina del Ray.
+This is a part of the data collection/generation work I am at Information Sciences Institute, Marina del Ray.
+## What is this repository about?
+<br> This mini engine is dedicated to generating data set for a text detection model. So the data generated from this code is in form of images extracted from the powerpoint slides and labels which are composed of the utf-8 unicoded characters in uxxxx format. The annotations of the corresponding to the image file is written down to a parallely created *annotation.csv* file. Here are some samples generated for Spanish, Korean and Japanese. 
+<br> Having introduced the basic functionality of the code. Now I want to divert the reader attention to a problem. i.e Since this data is to be used to train the text detection model, the embedded images in the power point tend to sneak in text which is impossible to detect with a good text detector. But is that we are trying to build in the first place. Chicken and Egg.
+<br> Chicken and egg break:
+<br>I solved this problem by ungrouping the components in the powerpoint slide and then replacing the image with safe images.
+<br> Safe images?
+<br> The images which were carefully filtered out from a pool of 12.59 million images to NOT contain any text. All images in the power points' slides' were replaced with these 'safe' images. Filtered them using a basic text detection model with a high intolerance for error. 
 
 Check out the following samples
 ![Samples generated from powerpoints](sl_lang_es_Abundant_7351_.ppt_30_0.jpg "PPT Samples spanish")
@@ -8,8 +15,7 @@ Check out the following samples
 ![Samples generated from powerpoints](sl_lang_ko_global_3244_.ppt_5_5.jpg "PPT Samples korean")
 
 
-
-## Components of the code:
+## The complete pipeline of the code looks like:
 1. Google custom Search.
 2. Win32com package to work with the powerpoint slides using python
 3. PIL (pillow) to save the exported image.
