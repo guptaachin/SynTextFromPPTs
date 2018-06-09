@@ -3,8 +3,9 @@
 This is a part of the data collection/generation work I did at Information Sciences Institute, Marina del Ray.
 
 Check out the following samples
-![Samples generated from powerpoints](sl_lang_ja_Acquisition_4894_.ppt_19_0.jpg "PPT Samples 1")
-![Samples generated from powerpoints](sl_lang_ja_Activity_4721_.ppt_8_0.jpg "PPT Samples 2")
+![Samples generated from powerpoints](sl_lang_es_Abundant_7351_.ppt_30_0.jpg "PPT Samples spanish")
+![Samples generated from powerpoints](sl_lang_ja_undo_3473_.ppt_42_15.jpg "PPT Samples 2")
+
 
 
 ## Components of the code:
@@ -41,5 +42,7 @@ Once you have the powerpoint slides in hand you wanna work with them to extract 
 Then you can run the python i_draw_bb.py 0, where the number is the batch count. to generate images with bounding boxes and the labels in annotation_0.csv.
 
 Please forgive for any non clean code you find. I intend to make efforts to further make the code more clean and easier to work with. 
-Thank you for reading. Hope you find what you were looking for in here. 
+Thank you for reading. Hope you find what you were looking for in here. <br>
 Cheers
+
+# Known issues

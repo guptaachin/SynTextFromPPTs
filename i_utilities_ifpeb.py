@@ -64,6 +64,7 @@ def ungroup_all_shapes(each_slide_object):
         return False
     for each_shape in each_slide_object.Shapes:
         try:
+            print('attempting to ungroup now')
             each_shape.Ungroup()
         except:
             continue

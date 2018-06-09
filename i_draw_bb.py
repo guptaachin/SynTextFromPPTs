@@ -70,9 +70,15 @@ def main():
     create_directory(images_annotated_folder)
     create_directory(images_raw_folder)
     
+    if '-' in counter:
+        spl_array = counter.strip().split('-')
+        for i in range(int(spl_array[0]), int(spl_array[1])+1):
+            process_transcription_file(lang_folder, images_annotated_folder, images_raw_folder, images_folder, str(i))
+    else:
+        process_transcription_file(lang_folder, images_annotated_folder, images_raw_folder, images_folder, counter)
     # for each_file in os.listdir(lang_folder):
     #     if 'transcription_' in each_file:
-    process_transcription_file(lang_folder, images_annotated_folder, images_raw_folder, images_folder, counter)
+    
 
 def process_transcription_file(lang_folder, images_annotated_folder, images_raw_folder, images_folder, counter):
     transcription = os.path.join(lang_folder, 'transcription_'+counter+'.txt')
