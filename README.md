@@ -53,3 +53,5 @@ Thank you for reading. Hope you find what you were looking for in here. <br>
 Cheers
 
 # Known issues
+1. The extraction of the data from the powerpoints is not entirely automated in the sense this box seldomly appears. Pressing okay resumes the execution process without problems.
+![Annoying box](ann.png "abox")
