@@ -50,7 +50,8 @@ run: python i_from_ppt_extract_bb.py lang_ja. Here lang_ja is the language you a
 
 Please forgive for any non clean code you find. I intend to make efforts to further make the code more clean and easier to work with. 
 Thank you for reading. Hope you find what you were looking for in here. <br>
-Cheers
+Please feel free to fork and contribute to this repository. There are not many repos battling with win32 client. :P.
+<br><br>Cheers!!!
 
 # Known issues
 1. The extraction of the data from the powerpoints is not entirely automated in the sense this box seldomly appears. 
