@@ -4,7 +4,8 @@ This is a part of the data collection/generation work I did at Information Scien
 
 Check out the following samples
 ![Samples generated from powerpoints](sl_lang_es_Abundant_7351_.ppt_30_0.jpg "PPT Samples spanish")
-![Samples generated from powerpoints](sl_lang_ja_undo_3473_.ppt_42_15.jpg "PPT Samples 2")
+![Samples generated from powerpoints](sl_lang_ja_undo_3473_.ppt_42_15.jpg "PPT Samples japanese")
+![Samples generated from powerpoints](sl_lang_ko_global_3244_.ppt_5_5.jpg "PPT Samples korean")
 
 
 
