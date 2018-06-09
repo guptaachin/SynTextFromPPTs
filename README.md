@@ -56,4 +56,4 @@ Please feel free to fork and contribute to this repository. There are not many r
 # Known issues
 1. The extraction of the data from the powerpoints is not entirely automated in the sense this box seldomly appears. 
 <br>Pressing okay resumes the execution process without problems.
-![Annoying box](ann.png "abox")
+<br>![Annoying box](ann.png "abox")
