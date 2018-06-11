@@ -57,7 +57,6 @@ def create_directory(directory):
 
 def ungroup_all_shapes(each_slide_object):
     print('ungrouping now.')
-    print('if the terminal holds up. Please check the MS PPT Window.')
     previous_shapes = len(each_slide_object.Shapes)
     if previous_shapes > THRESH_HOLD_GP:
         print('ungrouping prev cutt off')
