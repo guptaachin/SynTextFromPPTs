@@ -9,9 +9,8 @@ import os
 import argparse
 import i_utilities_ifpeb
 
-
 def main():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser() 
     parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
     args = parser.parse_args()
     CURR_LANG = args.language

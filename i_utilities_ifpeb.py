@@ -43,10 +43,9 @@ def init_folder_hierarchy(data_folder, CURR_LANG):
     lang_folder = os.path.join(data_folder, CURR_LANG)
     images_folder = os.path.join(lang_folder, 'images') # data/lang_ja/images
     image_pool_folder = os.path.join(data_folder, 'image_pool_2')
-    ppt_folder = os.path.join(lang_folder, 'ppts') # ppts change
-
-    if CURR_LANG == 'lang_ko' or CURR_LANG == 'lang_es':
-        ppt_folder = 'D:/'+CURR_LANG
+    
+    # ppt_folder = os.path.join(lang_folder, 'ppts') # ppts change
+    ppt_folder = 'D:/'+CURR_LANG
 
     create_directory(images_folder)
     return lang_folder, images_folder, image_pool_folder, ppt_folder
