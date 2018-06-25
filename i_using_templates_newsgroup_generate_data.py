@@ -166,7 +166,7 @@ def replace_text(each_shape, list_sample):
     to_be_substituted = ""
     while (len(to_be_substituted) < target_len):
         to_be_substituted += random.choice(list_sample).rstrip()+" "
-    each_shape.TextFrame.TextRange.Text = to_be_substituted[0:target_len]
+    each_shape.TextFrame.TextRange.Text = to_be_substituted[0:target_len]+'\n'
 
 
 if __name__=='__main__':

@@ -19,9 +19,16 @@ def main():
 
     gac = w_web_interactions.Google_Api()
 
-    # lang_file = open(lang_file_path, 'r')
-    words_file = open(keywords_file_path, 'r')
-    links_d_store = open(links_path, 'a')
+    try:
+        words_file = open(keywords_file_path, 'r')
+    except IOError:
+        print('print create a new_words.txt file in the data folder and fill it up with keywords')
+
+    try:
+        links_d_store = open(links_path, 'a')
+    except IOError:
+        print('I just created a file = ', links_path, ' for you to store your links')
+        links_d_store = open(links_path, 'w')
 
     l_lines = [CURR_LANG]
     w_lines = words_file.readlines()
