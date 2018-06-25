@@ -37,7 +37,7 @@ Here are the tasks this code carries out:
 4. It also generates an annotated file with the coordinates if the text found on the slide.
 
 ## Steps to run this code.
-
+Please follow [me](https://keepingsteady.wordpress.com/tdasetup/) for detailed instructions.
 1. Getting the powerpoint slides from the web using custom search.
 
 Open up w_web_interactions.py and paste the key in api_key and the search_engine_id. Please follow [follow me to get the key](https://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search)
