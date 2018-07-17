@@ -19,7 +19,7 @@ def main():
     lang_folder, images_folder, image_pool_folder, ppt_folder = i_utilities_ifpeb.init_folder_hierarchy(data_folder, CURR_LANG)
 
     BATCH_COUNTER = -1
-    transcription = None
+    transcription_cl, transcription_wl, transcription_ll = None, None, None
     folder_for_ppt = ppt_folder
     con_set = i_utilities_ifpeb.populate_links_have(lang_folder)
 
@@ -42,15 +42,26 @@ def main():
             # implement the batching to save intermediate results
             if len(con_set) % i_utilities_ifpeb.BATCH == 0 or is_first_call:
                 is_first_call = False
-                if transcription:
-                    transcription.close()
+                if transcription_cl:
+                    transcription_cl.close()
+                if transcription_wl:
+                    transcription_wl.close()
+                if transcription_ll:
+                    transcription_ll.close()
                 BATCH_COUNTER  = int(len(con_set) / i_utilities_ifpeb.BATCH)
-                filename = os.path.join(lang_folder, 'transcription_'+str(BATCH_COUNTER)+'.txt')
+                filename_cl = os.path.join(lang_folder, 'transcription_cl_'+str(BATCH_COUNTER)+'.txt')
+                filename_ll = os.path.join(lang_folder, 'transcription_ll_' + str(BATCH_COUNTER) + '.txt')
+                filename_wl = os.path.join(lang_folder, 'transcription_wl_' + str(BATCH_COUNTER) + '.txt')
                 try:
-                    transcription = open(filename, 'a')
+                    transcription_cl = open(filename_cl, 'a')
+                    transcription_wl = open(filename_wl, 'a')
+                    transcription_ll = open(filename_ll, 'a')
                 except IOError:
-                    transcription = open(filename, 'w')
-                print("file to be used = ",filename)
+                    transcription_cl = open(filename_cl, 'w')
+                    transcription_wl = open(filename_wl, 'w')
+                    transcription_ll = open(filename_ll, 'w')
+
+                # print("file to be used = ",filename)
             # ---------------------------------------------------------------
             # create an object for the powerpoint file
             try:
@@ -64,13 +75,21 @@ def main():
             con_set.add(each_ppt)
 
             # open up a section in transcription for the current slide
-            trans = ["SlideName - " + each_ppt]
-            transcription.write(trans[0] + '\n')
+            trans_cl = ["SlideName - " + each_ppt]
+            trans_wl = ["SlideName - " + each_ppt]
+            trans_ll = ["SlideName - " + each_ppt]
+            transcription_cl.write(trans_cl[0] + '\n')
+            transcription_wl.write(trans_wl[0] + '\n')
+            transcription_ll.write(trans_ll[0] + '\n')
             #----------------------------------------------------------
             try :
                 for sl_index, each_slide_object in enumerate(presentation_object.Slides):
-                    process_this_slide(sl_index, each_slide_object, con_set, trans, transcription, presentation_object, 
-                    BATCH_COUNTER, image_pool_folder, each_ppt, images_folder)
+                    process_this_slide(0, sl_index, each_slide_object, con_set, trans_cl, transcription_cl, presentation_object,
+                                       BATCH_COUNTER, image_pool_folder, each_ppt, images_folder)
+                    process_this_slide(1, sl_index, each_slide_object, con_set, trans_wl, transcription_wl, presentation_object,
+                                       BATCH_COUNTER, image_pool_folder, each_ppt, images_folder)
+                    process_this_slide(2, sl_index, each_slide_object, con_set, trans_ll, transcription_ll, presentation_object,
+                                       BATCH_COUNTER, image_pool_folder, each_ppt, images_folder)
                 # call this method with multiple threads.
 
                 try:
@@ -81,10 +100,13 @@ def main():
                 continue
 
     Application.Quit()
-    transcription.close()
+    transcription_cl.close()
+    transcription_wl.close()
+    transcription_ll.close()
 
 
-def process_this_slide(sl_index, each_slide_object, con_set, trans, transcription, presentation_object, BATCH_COUNTER, image_pool_folder, each_ppt, images_folder):
+
+def process_this_slide(level, sl_index, each_slide_object, con_set, trans, transcription, presentation_object, BATCH_COUNTER, image_pool_folder, each_ppt, images_folder):
     print('============================ slide no ================================ ppt - ',len(con_set),'slide = ',str(sl_index+1),'/', len(presentation_object.Slides))
     
     # Divide the groups of all the slides.
@@ -111,7 +133,14 @@ def process_this_slide(sl_index, each_slide_object, con_set, trans, transcriptio
         try:
             each_shape = each_slide_object.Shapes[i]
             if each_shape.HasTextFrame and each_shape.TextFrame.HasText and not each_shape.HasSmartArt:
-                elems = each_shape.TextFrame.TextRange.Lines()
+
+                if level == 0:
+                    elems = each_shape.TextFrame.TextRange.Characters() #Words, Lines
+                elif level == 1:
+                    elems = each_shape.TextFrame.TextRange.Words()
+                elif level == 2:
+                    elems = each_shape.TextFrame.TextRange.Lines()
+
                 was_anything_found = i_utilities_ifpeb.save_results_for(elems, trans)
             else: # if has text loop
                 to_be_processed_shapes.append(each_shape)
@@ -134,8 +163,6 @@ def process_this_slide(sl_index, each_slide_object, con_set, trans, transcriptio
                 print('error during export')
 
     print('Done looping through the shapes.', time.time() - st_time)
-
-
 
 if __name__=='__main__':
     main()

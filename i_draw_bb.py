@@ -57,33 +57,59 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("language", help="lang_ja,lang_ko,lang_es")
     parser.add_argument("batch_no", help="enter batch number")
+    parser.add_argument("level", help="enter level number 0 - ch, 1 - word, 2 - line")
     args = parser.parse_args()
     CURR_LANG = args.language
     counter = str(args.batch_no)
+    level = int(args.level)
 
     lang_folder = os.path.join(data_folder, CURR_LANG)
 
-    images_annotated_folder = os.path.join(lang_folder, 'images_annotated_folder')
-    images_raw_folder = os.path.join(lang_folder, 'images_raw_folder')
+    ann_img_name = "images_annotated_folder_"
+    if level == 0:
+        ann_img_name += "cl"
+    elif level == 1:
+        ann_img_name += "wl"
+    elif level == 2:
+        ann_img_name += "ll"
+
+
+    images_annotated_folder = os.path.join(lang_folder, ann_img_name)
+    # images_raw_folder = os.path.join(lang_folder, 'images_raw_folder')
     images_folder = os.path.join(lang_folder, "images")
 
     create_directory(images_annotated_folder)
-    create_directory(images_raw_folder)
+    # create_directory(images_raw_folder)
     
     if '-' in counter:
         spl_array = counter.strip().split('-')
         for i in range(int(spl_array[0]), int(spl_array[1])+1):
-            process_transcription_file(lang_folder, images_annotated_folder, images_raw_folder, images_folder, str(i))
+            process_transcription_file(level, lang_folder, images_annotated_folder, images_folder, str(i))
     else:
-        process_transcription_file(lang_folder, images_annotated_folder, images_raw_folder, images_folder, counter)
+        process_transcription_file(level, lang_folder, images_annotated_folder,  images_folder, counter)
     # for each_file in os.listdir(lang_folder):
     #     if 'transcription_' in each_file:
     
 
-def process_transcription_file(lang_folder, images_annotated_folder, images_raw_folder, images_folder, counter):
-    transcription = os.path.join(lang_folder, 'transcription_'+counter+'.txt')
+def process_transcription_file(level, lang_folder, images_annotated_folder,  images_folder, counter):
 
-    outfile = open(os.path.join(lang_folder, 'annotation_'+counter+'.csv'), 'w')
+    name_trans = None
+    name_ann = None
+
+    if level == 0:
+        name_trans = "transcription_cl_"
+        name_ann = "annotation_cl_"
+    elif level == 1:
+        name_trans = "transcription_wl_"
+        name_ann = "annotation_wl_"
+    elif level == 2:
+        name_trans = "transcription_ll_"
+        name_ann = "annotation_ll_"
+
+
+    transcription = os.path.join(lang_folder, name_trans+counter+'.txt')
+
+    outfile = open(os.path.join(lang_folder, name_ann+counter+'.csv'), 'w')
 
     fields = ['file', 'x0', 'y0', 'width', 'height', 'trans', 'md5hash']
     writer = csv.DictWriter(outfile, delimiter=',', lineterminator='\n', fieldnames=fields)
@@ -130,14 +156,15 @@ def process_transcription_file(lang_folder, images_annotated_folder, images_raw_
                 image_file = os.path.join(images_folder, name)
                 try:
                     # save the image to another folder
-                    shutil.copyfile(image_file, os.path.join(images_raw_folder, name))
-                    image = Image.open(os.path.join(images_raw_folder, name))
-                    os.remove(image_file)
+                    # shutil.copyfile(image_file, os.path.join(images_raw_folder, name))
+                    image = Image.open(os.path.join(images_folder, name))
+                    # os.remove(image_file)
                 except:
-                    print('xxxxxxxxxxxxxxxxxxxxxxxxException opening file xxxxxxxxxxxxxxxxxxxxxx')
+                    print('xxxxxxxxxxxxxxxxxxxxx Exception opening file xxxxxxxxxxxxxxxxxxxxxx')
                     continue
                 dig = hashlib.md5(image.tobytes()).hexdigest()
                 drawable = ImageDraw.Draw(image)
+
             else:
                 elements = line.split()
                 rectangle = elements[:4]
